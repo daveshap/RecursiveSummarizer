@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+Alice has a series of adventures in Wonderland after falling down a rabbit hole. She meets strange creatures like the Mad Hatter and the Cheshire Cat, and is eventually put on trial by the Queen of Hearts. Alice escapes and wakes up, finding that it was all a dream.
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Alice has a series of adventures in Wonderland after falling down a rabbit hole. She meets strange creatures like the Mad Hatter and the Cheshire Cat, and is eventually put on trial by the Queen of Hearts. Alice escapes and wakes up, finding that it was all a dream.

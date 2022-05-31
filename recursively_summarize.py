@@ -18,7 +18,7 @@ def save_file(content, filepath):
         outfile.write(content)
 
 
-def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=1000, freq_pen=0.0, pres_pen=0.0, stop=['<<END>>']):
+def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=1500, freq_pen=0.0, pres_pen=0.0, stop=['<<END>>']):
     max_retry = 5
     retry = 0
     while True:
@@ -48,11 +48,11 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, toke
 
 if __name__ == '__main__':
     alltext = open_file('input.txt')
-    chunks = textwrap.wrap(alltext, 4000)
+    chunks = textwrap.wrap(alltext, 5000)
     result = list()
     for chunk in chunks:
         prompt = open_file('prompt.txt').replace('<<SUMMARY>>', chunk)
         summary = gpt3_completion(prompt)
-        print(summary)
+        print('\n\n\n', summary)
         result.append(summary)
     save_file('\n\n'.join(result), 'output.txt')

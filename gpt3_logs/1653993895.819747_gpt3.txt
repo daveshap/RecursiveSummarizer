@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+to our email newsletter to hear about new eBooks as they are released.
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Subscribe to our email newsletter to receive notifications about new eBooks as they become available.

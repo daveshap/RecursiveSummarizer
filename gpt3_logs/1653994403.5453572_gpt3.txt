@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize the following as concisely as possible. Sacrifice detail if necessary:
+
+Alice falls down a rabbit hole, has adventures with strange creatures, is put on trial by the Queen of Hearts, and then escapes and wakes up, finding that it was all a dream.
+
+Extremely concise summary:
+
+==========
+
+RESPONSE:
+
+Alice falls down a rabbit hole and has a series of adventures before waking up and realizing it was all a dream.

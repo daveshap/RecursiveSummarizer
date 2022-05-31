@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize the following as concisely as possible. Sacrifice detail if necessary:
+
+Alice falls down a rabbit hole, has some adventures, and wakes up.
+
+Extremely concise summary:
+
+==========
+
+RESPONSE:
+
+Alice falls down a rabbit hole and has some adventures.

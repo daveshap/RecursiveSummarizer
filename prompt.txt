@@ -1,5 +1,5 @@
-Write a detailed summary of the following:
+Summarize the following as concisely as possible. Sacrifice detail if necessary:
 
 <<SUMMARY>>
 
-DETAILED SUMMARY:
+Extremely concise summary:
