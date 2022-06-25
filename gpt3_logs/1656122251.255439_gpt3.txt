@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+notification and banning certain types of abortion procedures. These laws may cause conflict between states, as some states will have more restrictive laws than others.  The Court has ruled that two previous cases were decided erroneously, and that the Roe decision was based on changed circumstances and public understanding of the issue at the time. The dissenting opinion argues that nothing has changed since Roe was decided that would justify overturning it. The majority opinion in the case of Dobbs v. Jackson Women's Health Organization lacks any discussion of how its ruling will affect women.  The Supreme Court has overturned Roe v. Wade, which means that states are now able to ban abortion. This will have a particularly hard impact on low-income women, who will not be able to afford to travel to states where abortion is still legal. Many will be forced to turn to illegal and unsafe abortions, which could lead to their death.  The Supreme Court has overruled prior precedent in a number of cases, finding that the rule of law has been betrayed by the Court in each instance. In each of these cases, the Court relied on traditional stare decisis factors in overruling. The majority opinion in Dobbs v. Jackson Women's Health Organization cites several cases where the Supreme Court has overruled prior precedent. In each of these cases, the Court found that either the doctrinal foundations of the prior decision had been undermined, or that changed facts or understandings had made the prior decision no longer viable. The majority opinion in the present case cites several prior cases which it claims are analogous to the present case, where the court is overruling two longstanding constitutional precedents. However, none of the cases cited by the majority are actually analogous, as they all involve relatively minor modifications to existing precedent, rather than the wholesale overturning of two major constitutional principles.
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court has overturned Roe v. Wade, which means that states are now able to ban abortion. This will have a particularly hard impact on low-income women, who will not be able to afford to travel to states where abortion is still legal. Many will be forced to turn to illegal and unsafe abortions, which could lead to their death.

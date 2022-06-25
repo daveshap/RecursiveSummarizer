@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+Union Gas Co., 491 U. S. 1 (1989), seven years later; the decision in Union Gas never garnered a majority); Garcia v. San Antonio Metropolitan Transit Authority, 469 U. S. 528, 531 (1985) (holding that local governments are not constitutionally immune from federal employment laws, and overruling National League of Cities v. Usery, 426 U. S. 833 (1976), after eight years of experience under that regime showed Userys standard was unworkable and, in practice, undermined the federalism principles the decision sought  BREYER, SOTOMAYOR, and KAGAN, JJ., dissenting 66 DOBBS v. JACKSON WOMENS HEALTH ORGANIZATION Appendix to opinion of BREYER, SOTOMAYOR, and KAGAN, JJ. to protect). The rest of the cited cases were relatively minor in their effect, modifying part or an application of a prior precedents test or analysis. See Montejo v. Louisiana, 556 U. S. 778 (2009) (citing workability and practical concerns with additional layers of prophylactic procedural safeguards for defendants right to counsel, as had been enshrined in Michigan v. Jackson, 475 U. S. 625 (1986)); Illinois v. Gates, 462 U. S. 213, 227228 (1983) (replacing a two-pronged test under Aguilar v. Texas, 378 U. S. 108 (1964), and Spinelli v. United States, 393 U. S. 410 (1969), in favor of a traditional totality-of-the-circumstances approach to evaluate probable cause for issuance of a warrant); Wesberry v. Sanders, 376 U. S. 1, 4 (1964), and Baker v. Carr, 369 U. S. 186, 202 (1962) (clarifying that the political question passage of the minority opinion in Colegrove v. Green, 328 U. S. 549 (1946), was not controlling law). In sum, none of the cases the majority cites is analogous to todays decision to overrule 50- and 30-year-old watershed constitutional precedents that remain unweakened by any changes of law or fact.
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The majority opinion in the present case cites several prior cases which it claims are analogous to the present case, where the court is overruling two longstanding constitutional precedents. However, none of the cases cited by the majority are actually analogous, as they all involve relatively minor modifications to existing precedent, rather than the wholesale overturning of two major constitutional principles.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+The Supreme Court has ruled that there is no constitutional right to abortion, but that it is a unique act that destroys potential life. The Court found that abortion is different from other issues because it involves the destruction of human life, and that precedent does not support the right to abortion. The Court also ruled that the doctrine of stare decisis does not require the continued acceptance of Roe and Casey, and that there are strong reasons to overturn those decisions.  The Supreme Court has ruled that abortion is not a constitutional right, overturning Roe v. Wade and Casey v. Planned Parenthood. This does not end debate on the issue, but simply returns it to the people and their elected representatives. The Court has also ruled that there is no constitutional right to abortion after the point at which all reasonable women will have decided whether to seek one. These decisions have been controversial for many years, with many Americans and 26 states calling for Roe to be overturned. In light of this continued opposition, it is possible that the Supreme Court will overturn Roe in the future.  The U.S. Supreme Court has ruled that states may now ban abortion outright or place severe restrictions on the procedure. This overturns the previous rule from Roe v. Wade, which had anchored a woman's right to abortion to viability. The new ruling is based on the principle of judicial restraint, and the Court has acknowledged that it erred in Roe in adopting viability as the earliest point at which a State may legislate to advance its interests in the area of abortion.  The Supreme Court has overturned Roe v. Wade, which means that states are now able to ban abortion. This will have a particularly hard impact on low-income women, who will not be able to afford to travel to states where abortion is still legal. Many will be forced to turn to illegal and unsafe abortions, which could lead to their death.
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court has overturned Roe v. Wade, which means that states are now able to ban abortion. This will have a particularly hard impact on low-income women, who will not be able to afford to travel to states where abortion is still legal. Many will be forced to turn to illegal and unsafe abortions, which could lead to their death.
