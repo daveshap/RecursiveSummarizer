@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+given $21 million to support the oversight of the distribution and use of funds appropriated under this Act, and to track labor, equity, and environmental standards and performance. Additionally, $25 million is appropriated to the Director of the Office of Management and Budget to oversee the implementation of this Act and track labor, equity, and environmental standards and performance. Finally, $350 million is appropriated to the Federal Permitting Improvement Steering Council Environmental Review Improvement Fund to support climate resilience and adaptation efforts.  This section appropriated $220 million for Indian Tribe climate resilience and adaptation programs, $10 million for fish hatchery operations and maintenance programs of the Bureau of Indian Affairs, and $5 million for the administrative costs of carrying out this section. These funds are to be available until September 30, 2031 and are not subject to cost-sharing or matching requirements.  The Indian Self-Determination and Education Assistance Act provides for the appropriation of funds to carry out climate resilience and adaptation activities for the Native Hawaiian community. The Tribal Electrification Program provides for the appropriation of funds to electrify unelectrified Tribal homes and to transition electrified Tribal homes to zero-emissions energy systems.  This section authorizes the appropriation of $4,500,000 to the Director of the Bureau of Indian Affairs for fiscal year 2022, to be used for the administrative costs of carrying out zero-emissions energy projects on Indian reservations. The funds are to be distributed on a one-time basis and may only be used for the specified purpose.  This amendment appropriates $12,500,000 for near-term drought relief actions to mitigate drought impacts for Indian Tribes that are impacted by the operation of a Bureau of Reclamation water project. The funds are to be used for drinking water shortages and to mitigate the loss of Tribal trust resources.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $220 million for Indian Tribe climate resilience and adaptation programs, $10 million for fish hatchery operations and maintenance programs of the Bureau of Indian Affairs, and $5 million for the administrative costs of carrying out this section. These funds are to be available until September 30, 2031 and are not subject to cost-sharing or matching requirements.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+CREDIT. 13 (a) IN GENERAL.Subpart D of part IV of subchapter 14 A of chapter 1, as amended by the preceding provisions of 15 this Act, is amended by adding at the end the following 16 new section: 17 SEC. 45Y. CLEAN ELECTRICITY PRODUCTION CREDIT. 18 (a) AMOUNT OF CREDIT. 19 (1) IN GENERAL.For purposes of section 38, 20 the clean electricity production credit for any taxable 21 year is an amount equal to the product of 22 (A) the kilowatt hours of electricity 23 (i) produced by the taxpayer at a 24 qualified facility, and 449  HR 5376 EAS 1 (ii)(I) sold by the taxpayer to an un2 related person during the taxable year, or 3 (II) in the case of a qualified facility 4 which is equipped with a metering device 5 which is owned and operated by an unre6 lated person, sold, consumed, or stored by 7 the taxpayer during the taxable year, multi8 plied by 9 (B) the applicable amount with respect to 10 such qualified facility. 11 (2) APPLICABLE AMOUNT. 12 (A) BASE AMOUNT.Subject to subsection 13 (g)(7), in the case of any qualified facility which 14 is not described in clause (i) or (ii) of subpara15 graph (B) and does not satisfy the requirements 16 described in clause (iii) of such subparagraph, 17 the applicable amount shall be 0.3 cents. 18 (B) ALTERNATIVE AMOUNT.Subject to 19 subsection (g)(7), in the case of any qualified fa20 cility 21 (i) with a maximum net output of 22 less than 1 megawatt (as measured in alter23 nating current), 24 (ii) the construction of which begins 25 prior to the date that is 60 days after the 450  HR 5376 EAS 1 Secretary publishes guidance with respect to 2 the requirements of paragraphs (9) and (10) 3 of subsection (g), or 4 (iii) which 5 (I) satisfies the requirements 6 under paragraph (9) of subsection (g), 7 and 8 (II) with respect to the construc9 tion of such facility, satisfies the re10 quirements under paragraph (10) of 11 subsection (g), 12 the applicable amount shall be 1.5 cents. 13 (b)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The clean electricity production credit is a tax credit for any taxable year equal to the product of the kilowatt hours of electricity produced by the taxpayer at a qualified facility and sold by the taxpayer to an unrelated person during the taxable year, multiplied by the applicable amount with respect to such qualified facility. The applicable amount is 0.3 cents per kilowatt hour for qualified facilities that are not described in clause (i) or (ii) of subparagraph (B) and do not satisfy the requirements described in clause (iii) of such subparagraph, and 1.5 cents per kilowatt hour for qualified facilities described in clause (i), (ii), or (iii) of subparagraph (B).

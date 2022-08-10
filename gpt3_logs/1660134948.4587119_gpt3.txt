@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subparagraph 10 (A)(i) and is modified in a manner that 11 such property (after such modification) has 12 an increase in nameplate capacity of not 13 less than 5 kilowatt hours, 14 such property shall be treated as described in 15 subparagraph (A)(i) except that the basis of any 16 existing property prior to such modification 17 shall not be taken into account for purposes of 18 this section. In the case of any property to which 19 this subparagraph applies, subparagraph (D) 20 shall be applied by substituting modification 21 for construction. 22 (C) THERMAL ENERGY STORAGE PROP23 ERTY. 24 (i) IN GENERAL.Subject to clause 25 (ii), for purposes of this paragraph, the 268  HR 5376 EAS 1 term thermal energy storage property 2 means property comprising a system 3 which 4 (I) is directly connected to a 5 heating, ventilation, or air condi6 tioning system, 7 (II) removes heat from, or adds 8 heat to, a storage medium for subse9 quent use, and 10 (III) provides energy for the 11 heating or cooling of the interior of a 12 residential or commercial building. 13 (ii) EXCLUSION.The term thermal 14 energy storage property shall not include 15 (I) a swimming pool, 16 (II) combined heat and power 17 system property, or 18 (III) a building or its structural 19 components. 20 (D) TERMINATION.The term energy stor21 age technology shall not include any property 22 the construction of which begins after December 23 31, 2024. 24 (7) QUALIFIED BIOGAS PROPERTY. 269  HR 5376 EAS 1 (A) IN GENERAL.The term qualified 2 biogas property means property comprising a 3 system which 4 (i) converts biomass (as defined in 5 section 45K(c)(3), as in effect on the date of 6 enactment of this paragraph) into a gas 7 which 8 (I) consists of not less than 52 9 percent methane by volume, or 10 (II) is concentrated by such sys11 tem into a gas which consists of not 12 less than 52 percent methane, and 13 (ii) captures such gas for sale or pro14 ductive
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The term "qualified biogas property" means property comprising a system which converts biomass into a gas which consists of not less than 52 percent methane by volume, or is concentrated by such system into a gas which consists of not less than 52 percent methane, and captures such gas for sale or productive use.

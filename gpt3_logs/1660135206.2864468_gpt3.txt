@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ HR 5376 EAS 1 SEC. 13404. ALTERNATIVE FUEL REFUELING PROPERTY 2 CREDIT. 3 (a) IN GENERAL.Section 30C(g) is amended by 4 striking December 31, 2021 and inserting December 31, 5 2032. 6 (b) CREDIT FOR PROPERTY OF A CHARACTER SUB7 JECT TO DEPRECIATION. 8 (1) IN GENERAL.Section 30C(a) is amended by 9 inserting (6 percent in the case of property of a 10 character subject to depreciation) after 30 percent. 11 (2) MODIFICATION OF CREDIT LIMITATION. 12 Subsection (b) of section 30C is amended 13 (A) in the matter preceding paragraph 14 (1) 15 (i) by striking with respect to all 16 and inserting with respect to any single 17 item of, and 18 (ii) by striking at a location, and 19 (B) in paragraph (1), by striking $30,000 20 in the case of a property and inserting 21 $100,000 in the case of any such item of prop22 erty. 23 (3) BIDIRECTIONAL CHARGING EQUIPMENT IN24 CLUDED AS QUALIFIED ALTERNATIVE FUEL VEHICLE 25 REFUELING PROPERTY.Section 30C(c) is amended 26 to read as follows: 406  HR 5376 EAS 1 (c) QUALIFIED ALTERNATIVE FUEL VEHICLE RE2 FUELING PROPERTY.For purposes of this section 3 (1) IN GENERAL.The term qualified alter4 native fuel vehicle refueling property has the same 5 meaning as the term qualified clean-fuel vehicle re6 fueling property would have under section 179A if 7 (A) paragraph (1) of section 179A(d) did 8 not apply to property installed on property 9 which is used as the principal residence (within 10 the meaning of section 121) of the taxpayer, and 11 (B) only the following were treated as 12 clean-burning fuels for purposes of section 13 179A(d): 14 (i) Any fuel at least 85 percent of the 15 volume of which consists of one or more of 16 the following: ethanol, natural gas, com17 pressed natural gas, liquified natural gas, 18 liquefied petroleum gas, or hydrogen. 19 (ii) Any mixture 20 (I) which consists of two or more 21 of the following: biodiesel (as defined in 22 section 40A(d)(1)),
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Alternative Fuel Tax Credit by extending the credit through 2032 and increasing the credit limit from $30,000 to $100,000. It also includes bidirectional charging equipment as qualified alternative fuel vehicle refueling property.

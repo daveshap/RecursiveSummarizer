@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+270th day described in sub22 section (b) with respect to such drug, 85 percent, and 23 (4) in the case of sales of such drug during any 24 subsequent day, 95 percent. 25 (e) DEFINITIONS.For purposes of this section 126  HR 5376 EAS 1 (1) DESIGNATED DRUG.The term designated 2 drug means any negotiation-eligible drug (as defined 3 in section 1192(d) of the Social Security Act) in4 cluded on the list published under section 1192(a) of 5 such Act which is manufactured or produced in the 6 United States or entered into the United States for 7 consumption, use, or warehousing. 8 (2) UNITED STATES.The term United States 9 has the meaning given such term by section 10 4612(a)(4). 11 (3) OTHER TERMS.The terms initial price 12 applicability year, price applicability period, and 13 maximum fair price have the meaning given such 14 terms in section 1191 of the Social Security Act. 15 (f) SPECIAL RULES. 16 (1) COORDINATION WITH RULES FOR POSSES17 SIONS OF THE UNITED STATES.Rules similar to the 18 rules of paragraphs (2) and (4) of section 4132(c) 19 shall apply for purposes of this section. 20 (2) ANTI-ABUSE RULE.In the case of a sale 21 which was timed for the purpose of avoiding the tax 22 imposed by this section, the Secretary may treat such 23 sale as occurring during a day described in subsection 24 (b). 127  HR 5376 EAS 1 (g) EXPORTS.Rules similar to the rules of section 2 4662(e) (other than section 4662(e)(2)(A)(ii)(II)) shall 3 apply for purposes of this chapter. 4 (h) REGULATIONS.The Secretary shall prescribe 5 such regulations and other guidance as may be necessary 6 to carry out this section.. 7 (b) NO DEDUCTION FOR EXCISE TAX PAYMENTS. 8 Section 275(a)(6) of the Internal Revenue Code of 1986 is 9 amended by inserting 50A, after 46,. 10 (c) CLERICAL AMENDMENT.The table of chapters for 11 subtitle D of the Internal Revenue Code of 1986 is amended 12 by adding at the end the following new item: CHAPTER
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The excise tax on designated drugs manufactured or produced in the United States or entered into the United States for consumption, use, or warehousing is increased from 85 percent to 95 percent.

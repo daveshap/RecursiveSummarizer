@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a quali6 fying single source drug described in subpara7 graph (A) or (B) of paragraph (1) that is the 8 listed drug (as such term is used in section 9 505(j) of the Federal Food, Drug, and Cosmetic 10 Act) or a product described in clause (ii) of sub11 paragraph (B), with respect to an authorized ge12 neric drug, in applying the provisions of this 13 part, such authorized generic drug and such list14 ed drug or such product shall be treated as the 15 same qualifying single source drug. 16 (B) AUTHORIZED GENERIC DRUG DE17 FINED.For purposes of this paragraph, the 18 term authorized generic drug means 19 (i) in the case of a drug, an author20 ized generic drug (as such term is defined 21 in section 505(t)(3) of the Federal Food, 22 Drug, and Cosmetic Act); and 23 (ii) in the case of a biological prod24 uct, a product that 60  HR 5376 EAS 1 (I) has been licensed under sec2 tion 351(a) of such Act; and 3 (II) is marketed, sold, or distrib4 uted directly or indirectly to retail 5 class of trade under a different label6 ing, packaging (other than repackaging 7 as the reference product in blister 8 packs, unit doses, or similar packaging 9 for use in institutions), product code, 10 labeler code, trade name, or trade mark 11 than the reference product. 12 (3) EXCLUSIONS.In this part, the term quali13 fying single source drug does not include any of the 14 following: 15 (A) CERTAIN ORPHAN DRUGS.A drug 16 that is designated as a drug for only one rare 17 disease or condition under section 526 of the 18 Federal Food, Drug, and Cosmetic Act and for 19 which the only approved indication (or indica20 tions) is for such disease or condition. 21 (B) LOW SPEND MEDICARE DRUGS.A 22 drug or biological product with respect to which 23 the total expenditures under parts B and D of 24 title XVIII, as determined by the Secretary in 25 accordance with subsection (d)(3)(B) 61  HR 5376 EAS 1 (i) with respect to initial price appli2 cability year 2026, is less
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section defines a qualifying single source drug as a drug that is the listed drug or a product described in clause (ii) of subparagraph (B), with respect to an authorized generic drug. An authorized generic drug is defined as a drug that is an authorized generic drug or a product that has been licensed under section 351(a) of the Federal Food, Drug, and Cosmetic Act and is marketed, sold, or distributed directly or indirectly to retail class of trade under a different labeling, packaging, product code, labeler code, trade name, or trade mark than the reference product.

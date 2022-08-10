@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Administrator 10 of the Environmental Protection Agency shall reserve 5 per11 cent for administrative costs necessary to carry out activi12 ties pursuant to such subsection. 13 SEC. 60110. FUNDING FOR ENFORCEMENT TECHNOLOGY 14 AND PUBLIC INFORMATION. 15 (a) COMPLIANCE MONITORING.In addition to 16 amounts otherwise available, there is appropriated to the 17 Administrator of the Environmental Protection Agency for 18 fiscal year 2022, out of any money in the Treasury not 19 otherwise appropriated, $18,000,000, to remain available 20 until September 30, 2031, to update the Integrated Compli21 ance Information System of the Environmental Protection 22 Agency and any associated systems, necessary information 23 technology infrastructure, or public access software tools to 24 ensure access to compliance data and related information. 682  HR 5376 EAS 1 (b) COMMUNICATIONS WITH ICIS.In addition to 2 amounts otherwise available, there is appropriated to the 3 Administrator of the Environmental Protection Agency for 4 fiscal year 2022, out of any money in the Treasury not 5 otherwise appropriated, $3,000,000, to remain available 6 until September 30, 2031, for grants to States, Indian 7 tribes, and air pollution control agencies (as such terms are 8 defined in section 302 of the Clean Air Act (42 U.S.C. 9 7602)) to update their systems to ensure communication 10 with the Integrated Compliance Information System of the 11 Environmental Protection Agency and any associated sys12 tems. 13 (c) INSPECTION SOFTWARE.In addition to amounts 14 otherwise available, there is appropriated to the Adminis15 trator of the Environmental Protection Agency for fiscal 16 year 2022, out of any money in the Treasury not otherwise 17 appropriated, $4,000,000, to remain available until Sep18 tember 30, 2031 19 (1) to acquire or update inspection software for 20 use by the Environmental Protection Agency, States, 21 Indian tribes, and air pollution control agencies (as 22 such terms are defined
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section outlines funding for the Environmental Protection Agency's (EPA) compliance monitoring, communications, and inspection systems. A total of $25 million is appropriated for these activities in fiscal year 2022, to be drawn from the Treasury. The funds will remain available until 2031.

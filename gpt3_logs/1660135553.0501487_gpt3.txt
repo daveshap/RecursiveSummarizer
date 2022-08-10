@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+en18 tities and distribution systems for ethanol and 19 biodiesel blends.. 20 SEC. 22004. USDA ASSISTANCE FOR RURAL ELECTRIC CO21 OPERATIVES. 22 Section 9003 of the Farm Security and Rural Invest23 ment Act of 2002 (7 U.S.C. 8103) (as amended by section 24 22003) is amended by adding at the end the following: 552  HR 5376 EAS 1 (j) USDA ASSISTANCE FOR RURAL ELECTRIC CO2 OPERATIVES. 3 (1) APPROPRIATION.Notwithstanding sub4 sections (a) through (e) and (g), in addition to 5 amounts otherwise available, there is appropriated to 6 the Secretary for fiscal year 2022, out of any money 7 in the Treasury not otherwise appropriated, 8 $9,700,000,000, to remain available until September 9 30, 2031, for the long-term resiliency, reliability, and 10 affordability of rural electric systems by providing to 11 an eligible entity (defined as an electric cooperative 12 described in section 501(c)(12) or 1381(a)(2) of the 13 Internal Revenue Code of 1986 and is or has been a 14 Rural Utilities Service electric loan borrower pursu15 ant to the Rural Electrification Act of 1936 or serv16 ing a predominantly rural area or a wholly or jointly 17 owned subsidiary of such electric cooperative) loans, 18 modifications of loans, the cost of loans and modifica19 tions, and other financial assistance to achieve the 20 greatest reduction in carbon dioxide, methane, and 21 nitrous oxide emissions associated with rural electric 22 systems through the purchase of renewable energy, re23 newable energy systems, zero-emission systems, and 24 carbon capture and storage systems, to deploy such 25 systems, or to make energy efficiency improvements to 553  HR 5376 EAS 1 electric generation and transmission systems of the el2 igible entity after the date of enactment of this sub3 section. 4 (2) LIMITATION.No eligible entity may receive 5 an amount equal to more than 10 percent of the total 6 amount made available by this subsection. 7 (3) REQUIREMENT.The amount of a grant 8 under this
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Farm Security and Rural Investment Act of 2002 provides for USDA assistance to rural electric cooperatives in the form of loans and other financial assistance to reduce carbon dioxide, methane, and nitrous oxide emissions associated with rural electric systems. There is a limit of 10 percent of the total amount available for each eligible entity.

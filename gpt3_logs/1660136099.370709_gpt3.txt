@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+determined under paragraph (3)(C) for such Part B rebatable drug. If the payment amount for a calendar quarter exceeds the inflation-adjusted payment for such quarter, the coinsurance for such calendar quarter is equal to 20 percent of the inflation-adjusted payment amount determined under paragraph (3)(C) for such Part B rebatable drug. Amounts paid as rebates under paragraph (1)(B) are to be deposited into the Federal Supplementary Medical Insurance Trust Fund established under section 1841.  The Social Security Act is amended to require manufacturers of rebatable drugs to pay a civil money penalty if the drug fails to comply with certain requirements for a calendar quarter. The penalty is equal to at least 125 percent of the amount specified in the Act for such drug for the quarter. There is no administrative or judicial review of the determination of the penalty amount.  This section amends the Social Security Act to require the payment for certain drugs under Medicare Part B to be equal to the inflation-adjusted payment under Part B for such drugs.  This section amends the Social Security Act to include provisions related to the calculation of copayments for Part B drugs under the Medicare program. It also includes provisions for the disclosure of rebate information to Medicaid programs, and excludes Part B drug rebates from the calculation of the Average Manufacturer Price. Finally, it appropriates additional funds to the Centers for Medicare & Medicaid Services to cover the costs associated with these changes.  This section requires drug manufacturers to provide rebates to the Secretary for drugs that have prices that increase faster than inflation. The rebates must be equal to the amount specified in subsection (b) for each dosage form and strength of the drug. This section applies to drugs covered under Part D of the Social Security Act.  The 15 Secretary may, for each rebatable covered part D 16 drug, delay the timeframe for reporting the informa17 tion
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Social Security Act requires drug manufacturers to provide rebates to the government for drugs that have prices that increase faster than inflation. The rebates must be equal to the amount specified in subsection (b) for each dosage form and strength of the drug. This section applies to drugs covered under Part D of the Social Security Act.

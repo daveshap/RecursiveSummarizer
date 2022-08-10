@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(B), in the case of a biological product 12 that would (but for this subsection) be an ex13 tended-monopoly drug (as defined in section 14 1194(c)(4)) included as a selected drug on the 15 list published under subsection (a) with respect 16 to an initial price applicability year, the rules 17 described in paragraph (2) shall apply if the 18 Secretary determines that there is a high likeli19 hood (as described in paragraph (3)) that a bio20 similar biological product (for which such bio21 logical product will be the reference product) will 22 be licensed and marketed under section 351(k) of 23 the Public Health Service Act before the date 24 that is 2 years after the selected drug publication 101  HR 5376 EAS 1 date with respect to such initial price applica2 bility year. 3 (B) REQUEST REQUIRED. 4 (i) IN GENERAL.The Secretary shall 5 not provide for a delay under 6 (I) paragraph (2)(A) unless a re7 quest is made for such a delay by a 8 manufacturer of a biosimilar biological 9 product prior to the selected drug pub10 lication date for the list published 11 under subsection (a) with respect to the 12 initial price applicability year for 13 which the biological product may have 14 been included as a selected drug on 15 such list but for subparagraph (2)(A); 16 or 17 (II) paragraph (2)(B)(iii) unless 18 a request is made for such a delay by 19 such a manufacturer prior to the se20 lected drug publication date for the list 21 published under subsection (a) with re22 spect to the initial price applicability 23 year that is 1 year after the initial 24 price applicability year for which the 25 biological product described in sub- 102  HR 5376 EAS 1 section (a) would have been included as 2 a selected drug on such list but for 3 paragraph (2)(A). 4 (ii) INFORMATION AND DOCU5 MENTS. 6 (I) IN GENERAL.A request 7 made under clause (i) shall be sub8 mitted to the Secretary by such manu9 facturer at a time and in a form and 10 manner specified by the Secretary,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services may delay the inclusion of a biosimilar biological product on the list of extended-monopoly drugs if the manufacturer requests a delay and it is determined that there is a high likelihood that the biosimilar product will be licensed and marketed before the selected drug's expiration date.

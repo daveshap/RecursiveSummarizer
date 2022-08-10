@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subsection, 4 the term dealer means a person licensed by a State, 5 the District of Columbia, the Commonwealth of Puer6 to Rico, any other territory or possession of the 7 United States, an Indian tribal government, or any 8 Alaska Native Corporation (as defined in section 3 of 9 the Alaska Native Claims Settlement Act (43 U.S.C. 10 1602(m)) to engage in the sale of vehicles. 11 (9) INDIAN TRIBAL GOVERNMENT.For pur12 poses of this subsection, the term Indian tribal gov13 ernment means the recognized governing body of any 14 Indian or Alaska Native tribe, band, nation, pueblo, 15 village, community, component band, or component 16 reservation, individually identified (including par17 enthetically) in the list published most recently as of 18 the date of enactment of this subsection pursuant to 19 section 104 of the Federally Recognized Indian Tribe 20 List Act of 1994 (25 U.S.C. 5131). 21 (10) RECAPTURE.In the case of any taxpayer 22 who has made an election described in paragraph (1) 23 with respect to a new clean vehicle and received a 24 payment described in paragraph (2)(C) from an eligi25 ble entity, if the credit under subsection (a) would 390  HR 5376 EAS 1 otherwise (but for this subsection) not be allowable to 2 such taxpayer pursuant to the application of sub3 section (f)(10), the tax imposed on such taxpayer 4 under this chapter for the taxable year in which such 5 vehicle was placed in service shall be increased by the 6 amount of the payment received by such taxpayer.. 7 (2) CONFORMING AMENDMENTS.Section 30D, 8 as amended by the preceding provisions of this sec9 tion, is amended 10 (A) in subsection (d)(1)(H) of such sec11 tion 12 (i) in clause (iv), by striking and at 13 the end, 14 (ii) in clause (v), by striking the pe15 riod at the end and inserting , and, and 16 (iii) by adding at the end the fol17 lowing: 18 (vi) in the case of a taxpayer who 19 makes an election under subsection (g)(1), 20 any amount described in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "dealer" subsection of the new clean vehicle tax credit allows for a credit to be given to taxpayers who purchase new, eligible vehicles from licensed dealers. The credit is recaptured if the vehicle is no longer used as a clean vehicle. Indian tribal governments are defined for the purposes of this subsection.

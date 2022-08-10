@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Service entitled Special Areas; Roadless 7 Area Conservation (66 Fed. Reg. 3244 (January 12, 8 2001)), as modified by subparts C and D of part 294 9 of title 36, Code of Federal Regulations; or 10 (6) carried out on any land that is not National 11 Forest System land, including other forested land on 12 Federal, State, Tribal, or private land. 13 (c) LIMITATIONS.Nothing in this section shall be in14 terpreted to authorize funds of the Commodity Credit Cor15 poration for activities under this section if such funds are 16 not expressly authorized or currently expended for such pur17 poses. 18 (d) COST-SHARING WAIVER. 19 (1) IN GENERAL.The non-Federal cost-share re20 quirement of a project described in paragraph (2) 21 may be waived at the discretion of the Secretary. 22 (2) PROJECT DESCRIBED.A project referred to 23 in paragraph (1) is a project that 24 (A) is carried out using funds made avail25 able under this section; 562  HR 5376 EAS 1 (B) requires a partnership agreement, in2 cluding a cooperative agreement or mutual inter3 est agreement; and 4 (C) is subject to a non-Federal cost-share re5 quirement. 6 (e) DEFINITIONS.In this section: 7 (1) DECOMMISSION.The term decommission 8 means, with respect to a road 9 (A) reestablishing native vegetation on the 10 road; 11 (B) restoring any natural drainage, water12 shed function, or other ecological processes that 13 were disrupted or adversely impacted by the 14 road by removing or hydrologically dis15 connecting the road prism and reestablishing 16 stable slope contours; and 17 (C) effectively blocking the road to vehicular 18 traffic, where feasible. 19 (2) ECOLOGICAL INTEGRITY.The term ecologi20 cal integrity has the meaning given the term in sec21 tion 219.19 of title 36, Code of Federal Regulations 22 (as in effect on the date of enactment of this Act). 23 (3) HAZARDOUS FUELS REDUCTION PROJECT. 24 The term hazardous fuels reduction project means 25 an activity, including the use of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Special Areas; Roadless 7 Area Conservation service (66 Fed. Reg. 3244 (January 12, 2001)), as modified by subparts C and D of part 294 of title 36, Code of Federal Regulations, or any other project carried out on land that is not National Forest System land, including other forested land on Federal, State, Tribal, or private land, that is subject to a non-Federal cost-share requirement. The non-Federal cost-share requirement of a project may be waived at the discretion of the Secretary.

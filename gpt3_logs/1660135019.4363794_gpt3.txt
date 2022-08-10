@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+claimed a credit under 9 this section with respect to such carbon capture 10 equipment for any prior taxable year, 11 (B) the qualified facility at which such 12 carbon capture equipment is placed in service is 13 located in an area affected by a federally-de14 clared disaster (as defined by section 15 165(i)(5)(A)) after the carbon capture equipment 16 is originally placed in service, and 17 (C) such federally-declared disaster results 18 in a cessation of the operation of the qualified 19 facility or the carbon capture equipment after 20 such equipment is originally placed in service.. 21 (h) REGULATIONS FOR BASELINE CARBON OXIDE 22 PRODUCTION.Subsection (i) of section 45Q, as redesig23 nated by subsection (d), is amended 24 (1) in paragraph (1), by striking and, 304  HR 5376 EAS 1 (2) in paragraph (2), by striking the period at 2 the end and inserting , and, and 3 (3) by adding at the end the following new para4 graph: 5 (3) for purposes of subsection (d)(2)(B)(ii), ad6 just the baseline carbon oxide production with respect 7 to any applicable electric generating unit at any elec8 tricity generating facility if, after the date on which 9 the carbon capture equipment is placed in service, 10 modifications which are chargeable to capital account 11 are made to such unit which result in a significant 12 increase or decrease in carbon oxide production.. 13 (i) EFFECTIVE DATES. 14 (1) IN GENERAL.Except as provided in para15 graphs (2), (3), and (4), the amendments made by 16 this section shall apply to facilities or equipment 17 placed in service after December 31, 2022. 18 (2) MODIFICATION OF CARBON OXIDE CAPTURE 19 REQUIREMENTS.The amendments made by sub20 section (a) shall apply to facilities or equipment the 21 construction of which begins after the date of enact22 ment of this Act. 23 (3) APPLICATION OF SECTION FOR CERTAIN CAR24 BON CAPTURE EQUIPMENT.The amendments made 305  HR 5376 EAS 1 by subsection (f) shall take effect on the date
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amendments made by this section will apply to facilities or equipment placed in service after December 31, 2022, with the exception of the carbon capture requirements (which will apply to facilities or equipment the construction of which begins after the date of enactment of this Act), and the amendments made by subsection (f) (which will take effect on the date of enactment of this Act).

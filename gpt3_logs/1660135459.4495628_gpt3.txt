@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+fuels, and 8 (B) does not include any facility for which 9 one of the following credits is allowed under sec10 tion 38 for the taxable year: 11 (i) The credit for production of clean 12 hydrogen under section 45V. 13 (ii) The credit determined under sec14 tion 46 to the extent that such credit is at15 tributable to the energy credit determined 16 under section 48 with respect to any speci17 fied clean hydrogen production facility for 18 which an election is made under subsection 19 (a)(15) of such section. 20 (iii) The credit for carbon oxide se21 questration under section 45Q. 22 (5) TRANSPORTATION FUEL. 23 (A) IN GENERAL.The term transpor24 tation fuel means a fuel which 499  HR 5376 EAS 1 (i) is suitable for use as a fuel in a 2 highway vehicle or aircraft, 3 (ii) has an emissions rate which is 4 not greater than 50 kilograms of CO2e per 5 mmBTU, and 6 (iii) is not derived from coprocessing 7 an applicable material (or materials de8 rived from an applicable material) with a 9 feedstock which is not biomass. 10 (B) DEFINITIONS.In this paragraph 11 (i) APPLICABLE MATERIAL.The 12 term applicable material means 13 (I) monoglycerides, diglycerides, 14 and triglycerides, 15 (II) free fatty acids, and 16 (III) fatty acid esters. 17 (ii) BIOMASS.The term biomass 18 has the same meaning given such term in 19 section 45K(c)(3). 20 (e) GUIDANCE.Not later than January 1, 2025, the 21 Secretary shall issue guidance regarding implementation of 22 this section, including calculation of emissions factors for 23 transportation fuel, the table described in subsection 24 (b)(1)(B)(i), and the determination of clean fuel production 25 credits under this section. 500  HR 5376 EAS 1 (f) SPECIAL RULES. 2 (1) ONLY REGISTERED PRODUCTION IN THE 3 UNITED STATES TAKEN INTO ACCOUNT. 4 (A) IN GENERAL.No clean fuel produc5 tion credit shall be determined under subsection 6 (a) with respect to any transportation fuel un7 less 8 (i)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section deals with the clean fuel production credit, which is a credit that is available for producing transportation fuels with low emissions. The credit is available for monoglycerides, diglycerides, triglycerides, free fatty acids, and fatty acid esters.

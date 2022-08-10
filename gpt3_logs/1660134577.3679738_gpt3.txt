@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+applicable. 19 SEC. 1195. PUBLICATION OF MAXIMUM FAIR PRICES. 20 (a) IN GENERAL.With respect to an initial price 21 applicability year and a selected drug with respect to such 22 year 23 (1) not later than November 30 of the year that 24 is 2 years prior to such initial price applicability 25 year, the Secretary shall publish the maximum fair 84  HR 5376 EAS 1 price for such drug negotiated with the manufacturer 2 of such drug under this part; and 3 (2) not later than March 1 of the year prior to 4 such initial price applicability year, the Secretary 5 shall publish, subject to section 1193(c), the expla6 nation for the maximum fair price with respect to the 7 factors as applied under section 1194(e) for such drug 8 described in paragraph (1). 9 (b) UPDATES. 10 (1) SUBSEQUENT YEAR MAXIMUM FAIR 11 PRICES.For a selected drug, for each year subse12 quent to the first initial price applicability year of 13 the price applicability period with respect to such 14 drug, with respect to which an agreement for such 15 drug is in effect under section 1193, not later than 16 November 30 of the year that is 2 years prior to such 17 subsequent year, the Secretary shall publish the max18 imum fair price applicable to such drug and year, 19 which shall be 20 (A) subject to subparagraph (B), the 21 amount equal to the maximum fair price pub22 lished for such drug for the previous year, in23 creased by the annual percentage increase in the 24 consumer price index for all urban consumers 25 (all items; United States city average) for the 85  HR 5376 EAS 1 12-month period ending with the July imme2 diately preceding such November 30; or 3 (B) in the case the maximum fair price for 4 such drug was renegotiated, for the first year for 5 which such price as so renegotiated applies, such 6 renegotiated maximum fair price. 7 (2) PRICES NEGOTIATED AFTER DEADLINE.In 8 the case of a selected drug with respect to an initial 9 price applicability year for which the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services must publish the maximum fair price for a selected drug at least two years prior to the initial price applicability year. The maximum fair price may be increased each year by the annual percentage increase in the consumer price index. If a drug's maximum fair price is renegotiated, the new price will apply for the first year it is in effect.

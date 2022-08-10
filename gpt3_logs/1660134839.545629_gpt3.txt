@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+applicable). 13 (e) CONFORMING AMENDMENTS. 14 (1) Section 1860D2 of the Social Security Act 15 (42 U.S.C. 1395w102) is amended 16 (A) in subsection (a)(2)(A)(i)(I), by striking 17 , or an increase in the initial and inserting 18 or, for a year preceding 2025, an increase in 19 the initial; 20 (B) in subsection (c)(1)(C) 21 (i) in the subparagraph heading, by 22 striking AT INITIAL COVERAGE LIMIT; and 23 (ii) by inserting for a year preceding 24 2025 or the annual out-of-pocket threshold 25 specified in subsection (b)(4)(B) for the year 201  HR 5376 EAS 1 for 2025 and each subsequent year after 2 subsection (b)(3) for the year each place 3 it appears; and 4 (C) in subsection (d)(1)(A), by striking or 5 an initial and inserting or, for a year pre6 ceding 2025, an initial. 7 (2) Section 1860D4(a)(4)(B)(i) of the Social 8 Security Act (42 U.S.C. 1395w104(a)(4)(B)(i)) is 9 amended by striking the initial and inserting for 10 a year preceding 2025, the initial. 11 (3) Section 1860D14(a) of the Social Security 12 Act (42 U.S.C. 1395w114(a)) is amended 13 (A) in paragraph (1) 14 (i) in subparagraph (C), by striking 15 The continuation and inserting For a 16 year preceding 2025, the continuation; 17 (ii) in subparagraph (D)(iii), by strik18 ing 1860D2(b)(4)(A)(i)(I) and inserting 19 1860D2(b)(4)(A)(i)(I)(aa); and 20 (iii) in subparagraph (E), by striking 21 The elimination and inserting For a 22 year preceding 2024, the elimination; and 23 (B) in paragraph (2)(E), by striking 24 1860D2(b)(4)(A)(i)(I) and inserting 25 1860D2(b)(4)(A)(i)(I)(aa). 202  HR 5376 EAS 1 (4) Section 1860D21(d)(7) of the Social Secu2 rity Act (42 U.S.C. 1395w131(d)(7)) is amended by 3 striking section 1860D2(b)(4)(B)(i) and inserting 4 section 1860D2(b)(4)(C)(i). 5 (5) Section 1860D22(a)(2)(A) of the Social Se6 curity Act (42 U.S.C. 1395w132(a)(2)(A)) is amend7 ed 8 (A) by striking the value of any
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to conform to the requirements of the Patient Protection and Affordable Care Act. Specifically, it amends sections 1860D2 and 1860D4 to increase the initial coverage limit and out-of-pocket threshold for 2025 and subsequent years, and amends section 1860D14 to eliminate the annual out-of-pocket threshold for 2024 and subsequent years. Finally, it amends section 1860D21 to repeal the annual out-of-pocket threshold for 2025 and subsequent years.

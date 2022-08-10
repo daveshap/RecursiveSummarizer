@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+due 17 date (determined without regard to extensions) of 18 the return of tax for the taxable year or the date 19 on which such return is filed. 20 (5) ADDITIONAL INFORMATION.As a condition 21 of, and prior to, any amount being treated as a pay22 ment which is made by an applicable entity under 23 subsection (a), the Secretary may require such infor24 mation or registration as the Secretary deems nec25 essary for purposes of preventing duplication, fraud, 520  HR 5376 EAS 1 improper payments, or excessive payments under this 2 section. 3 (6) EXCESSIVE PAYMENT. 4 (A) IN GENERAL.In the case of any 5 amount treated as a payment which is made by 6 the applicable entity under subsection (a), or the 7 amount of the payment made pursuant to sub8 section (c), which the Secretary determines con9 stitutes an excessive payment, the tax imposed 10 on such entity by chapter 1 (regardless of wheth11 er such entity would otherwise be subject to tax 12 under such chapter) for the taxable year in 13 which such determination is made shall be in14 creased by an amount equal to the sum of 15 (i) the amount of such excessive pay16 ment, plus 17 (ii) an amount equal to 20 percent of 18 such excessive payment. 19 (B) REASONABLE CAUSE.Subparagraph 20 (A)(ii) shall not apply if the applicable entity 21 demonstrates to the satisfaction of the Secretary 22 that the excessive payment resulted from reason23 able cause. 24 (C) EXCESSIVE PAYMENT DEFINED.For 25 purposes of this paragraph, the term excessive 521  HR 5376 EAS 1 payment means, with respect to a facility or 2 property for which an election is made under 3 this section for any taxable year, an amount 4 equal to the excess of 5 (i) the amount treated as a payment 6 which is made by the applicable entity 7 under subsection (a), or the amount of the 8 payment made pursuant to subsection (c), 9 with respect to such facility or property for 10 such taxable year, over 11 (ii) the amount of the credit which, 12
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amount of the credit which an applicable entity may receive for a taxable year with respect to a facility or property shall be reduced by the amount of any excessive payment made by the entity with respect to the facility or property. An applicable entity may avoid this reduction if it can demonstrate to the satisfaction of the Secretary that the excessive payment resulted from reasonable cause.

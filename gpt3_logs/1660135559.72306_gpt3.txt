@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+shall pro25 vide relief to those borrowers whose agricultural operations 555  HR 5376 EAS 1 are at financial risk as expeditiously as possible, as deter2 mined by the Secretary. 3 SEC. 22007. USDA ASSISTANCE AND SUPPORT FOR UNDER4 SERVED FARMERS, RANCHERS, AND FOR5 ESTERS. 6 Section 1006 of the American Rescue Plan Act of 2021 7 (7 U.S.C. 2279 note; Public Law 1172) is amended to read 8 as follows: 9 SEC. 1006. USDA ASSISTANCE AND SUPPORT FOR UNDER10 SERVED FARMERS, RANCHERS, FORESTERS. 11 (a) TECHNICAL AND OTHER ASSISTANCE.In addi12 tion to amounts otherwise available, there is appropriated 13 to the Secretary of Agriculture for fiscal year 2022, to re14 main available until September 30, 2031, out of any money 15 in the Treasury not otherwise appropriated, $125,000,000 16 to provide outreach, mediation, financial training, capacity 17 building training, cooperative development and agricul18 tural credit training and support, and other technical as19 sistance on issues concerning food, agriculture, agricultural 20 credit, agricultural extension, rural development, or nutri21 tion to underserved farmers, ranchers, or forest landowners, 22 including veterans, limited resource producers, beginning 23 farmers and ranchers, and farmers, ranchers, and forest 24 landowners living in high poverty areas. 556  HR 5376 EAS 1 (b) LAND LOSS ASSISTANCE.In addition to 2 amounts otherwise available, there is appropriated to the 3 Secretary of Agriculture for fiscal year 2022, to remain 4 available until September 30, 2031, out of any money in 5 the Treasury not otherwise appropriated, $250,000,000 to 6 provide grants and loans to eligible entities, as determined 7 by the Secretary, to improve land access (including heirs 8 property and fractionated land issues) for underserved 9 farmers, ranchers, and forest landowners, including vet10 erans, limited resource producers, beginning farmers and 11 ranchers, and farmers, ranchers, and forest landowners liv12 ing in high
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides relief to borrowers whose agricultural operations are at financial risk. It also provides funding for outreach, mediation, financial training, capacity building training, cooperative development and agricultural credit training and support to underserved farmers, ranchers, or forest landowners. Additionally, it provides funding for grants and loans to improve land access for underserved farmers, ranchers, and forest landowners.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+landowners. Additionally, it provides funding for grants and loans to improve land access for underserved farmers, ranchers, and forest landowners.  This section appropriates $10,000,000 to fund the activities of one or more equity commissions that will address racial equity issues within the Department of Agriculture and the programs of the Department of Agriculture, and $250,000,000 to support and supplement agricultural research, education, and extension, as well as scholarships and programs that provide internships and pathways to agricultural sector or Federal employment, for 1890 Institutions (as defined in section 2 of the Agricultural, Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7601)), 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103382)), Alaska Native serving institutions and Native Hawaiian serving institutions eligible to receive grants under subsections (a) and (b), respectively, of section 1419B of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3156), Hispanic-serving institutions eligible to receive grants under section 1455 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3241), and the insular area institutions of higher education located in the territories of the United States, as referred to in section 1489 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7  This section of the bill appropriates $2,200,000,000 for a program to provide financial assistance to farmers, ranchers, or forest landowners who experienced discrimination prior to January 1, 2021, in Department of Agriculture farm lending programs. The funds are to be used for administrative costs, including training employees, of the agencies and offices of the Department of Agriculture to carry out this section. This section also repeals Section 1005 of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $2,200,000,000 for a program to provide financial assistance to farmers, ranchers, or Forest landowners who experienced discrimination prior to January 1, 2021, in Department of Agriculture farm lending programs. The funds are to be used for administrative costs, including training employees, of the agencies and offices of the Department of Agriculture to carry out this section. This section also repeals Section 1005 of the Consolidated Farm and Rural Development Act.

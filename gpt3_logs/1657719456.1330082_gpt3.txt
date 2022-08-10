@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+from third parties their confidential or proprietary information subject to a duty on the Companys part to maintain the confidentiality of such information and to use it only for certain limited purposes. Contractor agrees that Contractor owes the Company and such third parties, during the term of this Agreement and thereafter, a duty to hold all such confidential or proprietary information in the strictest confidence and not to disclose it publicly nor to any person or entity or to use it except as necessary in carrying out the Services for the Company consistent with the Companys agreement with such third party. All such third-party information will, as between the Company and Contractor, be deemed to be Companys Confidential Information for purposes of this Agreement. (d) Other Contractor Confidential Information. Contractor agrees that Contractor will not, during the term of this Agreement, improperly use or disclose any confidential or proprietary information or trade secrets
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Company has a duty to maintain the confidentiality of any confidential or proprietary information it receives from third parties, and to use it only for certain limited purposes. The Contractor agrees that they owe the Company and any such third parties a duty to keep all confidential or proprietary information strictly confidential, and not to disclose it publicly or to any other person or entity, except as necessary in carrying out the Services for the Company. Any such third-party information will be considered the Company's Confidential Information for purposes of this Agreement.

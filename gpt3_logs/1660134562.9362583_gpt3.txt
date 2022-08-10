@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+which the manufacturer has recouped research 13 and development costs. 14 (B) Current unit costs of production and 15 distribution of the drug. 16 (C) Prior Federal financial support for 17 novel therapeutic discovery and development 18 with respect to the drug. 19 (D) Data on pending and approved patent 20 applications, exclusivities recognized by the Food 21 and Drug Administration, and applications and 22 approvals under section 505(c) of the Federal 23 Food, Drug, and Cosmetic Act or section 351(a) 24 of the Public Health Service Act for the drug. 79  HR 5376 EAS 1 (E) Market data and revenue and sales 2 volume data for the drug in the United States. 3 (2) EVIDENCE ABOUT ALTERNATIVE TREAT4 MENTS.The following evidence, as available, with 5 respect to such selected drug and therapeutic alter6 natives to such drug: 7 (A) The extent to which such drug rep8 resents a therapeutic advance as compared to ex9 isting therapeutic alternatives and the costs of 10 such existing therapeutic alternatives. 11 (B) Prescribing information approved by 12 the Food and Drug Administration for such drug 13 and therapeutic alternatives to such drug. 14 (C) Comparative effectiveness of such drug 15 and therapeutic alternatives to such drug, taking 16 into consideration the effects of such drug and 17 therapeutic alternatives to such drug on specific 18 populations, such as individuals with disabil19 ities, the elderly, the terminally ill, children, and 20 other patient populations. 21 (D) The extent to which such drug and 22 therapeutic alternatives to such drug address 23 unmet medical needs for a condition for which 24 treatment or diagnosis is not addressed ade25 quately by available therapy. 80  HR 5376 EAS 1 In using evidence described in subparagraph (C), the 2 Secretary shall not use evidence from comparative 3 clinical effectiveness research in a manner that treats 4 extending the life of an elderly, disabled, or termi5 nally ill individual as of lower
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill requires the Secretary of Health and Human Services to select a drug for negotiation in order to secure the best possible price for the drug, taking into account the following factors: the manufacturer's research and development costs, the current unit costs of production and distribution, prior Federal financial support for novel therapeutic discovery and development, data on pending and approved patent applications and exclusivities, market data and revenue and sales volume data. In addition, the Secretary must consider evidence about alternative treatments, including the extent to which the drug represents a therapeutic advance, prescribing information, comparative effectiveness, and unmet medical needs.

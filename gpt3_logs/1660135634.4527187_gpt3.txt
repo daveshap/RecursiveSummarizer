@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Tribe seeking a grant under the program shall submit to 12 the Secretary an application that includes a plan to imple13 ment a high-efficiency electric home rebate program, includ14 ing 15 (1) a plan to verify the income eligibility of eli16 gible entities seeking a rebate for a qualified elec17 trification project; 18 (2) a plan to allow rebates for qualified elec19 trification projects at the point of sale in a manner 20 that ensures that the income eligibility of an eligible 21 entity seeking a rebate may be verified at the point 22 of sale; 23 (3) a plan to ensure that an eligible entity does 24 not receive a rebate for the same qualified electrifica25 tion project through both a high-efficiency electric 596  HR 5376 EAS 1 home rebate program and any other Federal grant or 2 rebate program, pursuant to subsection (c)(8); and 3 (4) any additional information that the Sec4 retary may require. 5 (c) HIGH-EFFICIENCY ELECTRIC HOME REBATE PRO6 GRAM. 7 (1) IN GENERAL.Under the program, the Sec8 retary shall award grants to State energy offices and 9 Indian Tribes to establish a high-efficiency electric 10 home rebate program under which rebates shall be 11 provided to eligible entities for qualified electrifica12 tion projects. 13 (2) GUIDELINES.The Secretary shall prescribe 14 guidelines for high-efficiency electric home rebate pro15 grams, including guidelines for providing point of 16 sale rebates in a manner consistent with the income 17 eligibility requirements under this section. 18 (3) AMOUNT OF REBATE. 19 (A) APPLIANCE UPGRADES.The amount of 20 a rebate provided under a high-efficiency electric 21 home rebate program for the purchase of an ap22 pliance under a qualified electrification project 23 shall be 24 (i) not more than $1,750 for a heat 25 pump water heater; 597  HR 5376 EAS 1 (ii) not more than $8,000 for a heat 2 pump for space heating or cooling; and 3 (iii) not more than $840 for 4 (I) an electric stove, cooktop, 5 range, or oven; or 6 (II)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy will award grants to states and Indian tribes to establish a high-efficiency electric home rebate program. Under the program, eligible entities will be able to receive rebates for qualified electrification projects, such as the purchase of a heat pump water heater or an electric stove.

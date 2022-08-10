@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+to insulin fur8 nished on or after July 1, 2023, through an item 9 of durable medical equipment covered under sec10 tion 1861(n), the amounts paid shall be, subject 11 to the fourth sentence of this subsection, 80 per12 cent of the payment amount established under 13 section 1847A (or section 1847B, if applicable) 14 for such insulin,. 15 (2) ADJUSTMENT TO SUPPLIER PAYMENTS; LIMI16 TATION ON MONTHLY COINSURANCE.Section 1833(a) 17 of the Social Security Act (42 U.S.C. 1395l(a)) is 18 amended, in the flush matter at the end, by adding 19 at the end the following new sentence: The Secretary 20 shall make such adjustments as may be necessary to 21 the amounts paid as specified under paragraph 22 (1)(S)(ii) for insulin furnished on or after July 1, 23 2023, through an item of durable medical equipment 24 covered under section 1861(n), such that the amount 25 of coinsurance payable by an individual enrolled 238  HR 5376 EAS 1 under this part for a months supply of such insulin 2 does not exceed $35.. 3 (c) IMPLEMENTATION.The Secretary of Health and 4 Human Services shall implement this section for 2023 by 5 program instruction or other forms of program guidance. 6 SEC. 11408. SAFE HARBOR FOR ABSENCE OF DEDUCTIBLE 7 FOR INSULIN. 8 (a) IN GENERAL.Paragraph (2) of section 223(c) of 9 the Internal Revenue Code of 1986 is amended by adding 10 at the end the following new subparagraph: 11 (G) SAFE HARBOR FOR ABSENCE OF DE12 DUCTIBLE FOR CERTAIN INSULIN PRODUCTS. 13 (i) IN GENERAL.A plan shall not 14 fail to be treated as a high deductible health 15 plan by reason of failing to have a deduct16 ible for selected insulin products. 17 (ii) SELECTED INSULIN PRODUCTS. 18 For purposes of this subparagraph 19 (I) IN GENERAL.The term se20 lected insulin products means any 21 dosage form (such as vial, pump, or 22 inhaler dosage forms) of any different 23 type (such as rapid-acting, short-act24 ing, intermediate-acting, long-acting, 239  HR 5376 EAS 1 ultra
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to allow for a safe harbor for high deductible health plans that don't have a deductible for selected insulin products.

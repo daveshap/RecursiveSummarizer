@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(a) through (b) of section 106 of the In- 725  HR 5376 EAS 1 dian Self-Determination and Education Assistance 2 Act (25 U.S.C. 5325(a)(b)); and 3 (3) shall only be used for the purposes identified 4 under the applicable subsection. 5 SEC. 80002. NATIVE HAWAIIAN CLIMATE RESILIENCE. 6 (a) NATIVE HAWAIIAN CLIMATE RESILIENCE AND AD7 APTATION.In addition to amounts otherwise available, 8 there is appropriated to the Senior Program Director of the 9 Office of Native Hawaiian Relations for fiscal year 2022, 10 out of any money in the Treasury not otherwise appro11 priated, $23,500,000, to remain available until September 12 30, 2031, to carry out, through financial assistance, tech13 nical assistance, direct expenditure, grants, contracts, or co14 operative agreements, climate resilience and adaptation ac15 tivities that serve the Native Hawaiian Community. 16 (b) ADMINISTRATION.In addition to amounts other17 wise available, there is appropriated to the Senior Program 18 Director of the Office of Native Hawaiian Relations for fis19 cal year 2022, out of any money in the Treasury not other20 wise appropriated, $1,500,000, to remain available until 21 September 30, 2031, for the administrative costs of carrying 22 out this section. 23 (c) COST-SHARING AND MATCHING REQUIREMENTS. 24 None of the funds provided by this section shall be subject 25 to cost-sharing or matching requirements. 726  HR 5376 EAS 1 SEC. 80003. TRIBAL ELECTRIFICATION PROGRAM. 2 (a) TRIBAL ELECTRIFICATION PROGRAM.In addi3 tion to amounts otherwise available, there is appropriated 4 to the Director of the Bureau of Indian Affairs for fiscal 5 year 2022, out of any money in the Treasury not otherwise 6 appropriated, $145,500,000, to remain available until Sep7 tember 30, 2031, for 8 (1) the provision of electricity to unelectrified 9 Tribal homes through zero-emissions energy systems; 10 (2) transitioning electrified Tribal homes to zero11 emissions energy systems; and 12 (3) associated home repairs
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Indian Self-Determination and Education Assistance Act provides for the appropriation of funds to carry out climate resilience and adaptation activities for the Native Hawaiian community. The Tribal Electrification Program provides for the appropriation of funds to electrify unelectrified Tribal homes and to transition electrified Tribal homes to zero-emissions energy systems.

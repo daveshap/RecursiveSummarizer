@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+DOORS.The credit allowed under this sec19 tion by reason of subsection (a)(1) with respect to any 20 taxpayer for any taxable year shall not exceed 21 (A) $250 in the case of any exterior door, 22 and 23 (B) $500 in the aggregate with respect to 24 all exterior doors. 340  HR 5376 EAS 1 (5) HEAT PUMP AND HEAT PUMP WATER HEAT2 ERS; BIOMASS STOVES AND BOILERS.Notwith3 standing paragraphs (1) and (2), the credit allowed 4 under this section by reason of subsection (a)(2) with 5 respect to any taxpayer for any taxable year shall 6 not, in the aggregate, exceed $2,000 with respect to 7 amounts paid or incurred for property described in 8 clauses (i) and (ii) of subsection (d)(2)(A) and in 9 subsection (d)(2)(B).. 10 (d) MODIFICATIONS RELATED TO QUALIFIED ENERGY 11 EFFICIENCY IMPROVEMENTS. 12 (1) STANDARDS FOR ENERGY EFFICIENT BUILD13 ING ENVELOPE COMPONENTS.Section 25C(c)(2) is 14 amended by striking meets and all that follows 15 through the period at the end and inserting the fol16 lowing: meets 17 (A) in the case of an exterior window or 18 skylight, Energy Star most efficient certification 19 requirements, 20 (B) in the case of an exterior door, appli21 cable Energy Star requirements, and 22 (C) in the case of any other component, the 23 prescriptive criteria for such component estab24 lished by the most recent International Energy 25 Conservation Code standard in effect as of the 341  HR 5376 EAS 1 beginning of the calendar year which is 2 years 2 prior to the calendar year in which such compo3 nent is placed in service.. 4 (2) ROOFS NOT TREATED AS BUILDING ENVE5 LOPE COMPONENTS.Section 25C(c)(3) is amended 6 by adding and at the end of subparagraph (B), by 7 striking , and at the end of subparagraph (C) and 8 inserting a period, and by striking subparagraph (D). 9 (3) AIR SEALING INSULATION ADDED TO DEFINI10 TION OF BUILDING ENVELOPE COMPONENT.Section 11 25C(c)(3)(A) is amended by inserting , including air 12 sealing
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The credit allowed under this section for any taxpayer for any taxable year shall not exceed $250 for any exterior door, and $500 in the aggregate for all exterior doors. The credit allowed under this section for any taxpayer for any taxable year shall not, in the aggregate, exceed $2,000 with respect to amounts paid or incurred for property described in clauses (i) and (ii) of subsection (d)(2)(A) and in subsection (d)(2)(B).

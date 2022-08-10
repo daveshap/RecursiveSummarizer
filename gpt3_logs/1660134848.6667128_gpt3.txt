@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+individual (as defined in 2 paragraph (3) of section 1860D14(a)), the 3 option to elect with respect to a plan year 4 to pay cost-sharing under the plan in 5 monthly amounts that are capped in ac6 cordance with this subparagraph. 7 (ii) DETERMINATION OF MAXIMUM 8 MONTHLY CAP.For each month in the 9 plan year for which an enrollee in a pre10 scription drug plan or an MAPD plan has 11 made an election pursuant to clause (i), the 12 PDP sponsor or MA organization shall de13 termine a maximum monthly cap (as de14 fined in clause (iv)) for such enrollee. 15 (iii) BENEFICIARY MONTHLY PAY16 MENTS.With respect to an enrollee who 17 has made an election pursuant to clause (i), 18 for each month described in clause (ii), the 19 PDP sponsor or MA organization shall bill 20 such enrollee an amount (not to exceed the 21 maximum monthly cap) for the out-of-pock22 et costs of such enrollee in such month. 23 (iv) MAXIMUM MONTHLY CAP DE24 FINED.In this subparagraph, the term 207  HR 5376 EAS 1 maximum monthly cap means, with re2 spect to an enrollee 3 (I) for the first month for which 4 the enrollee has made an election pur5 suant to clause (i), an amount deter6 mined by calculating 7 (aa) the annual out-of-pock8 et threshold specified in para9 graph (4)(B) minus the incurred 10 costs of the enrollee as described in 11 paragraph (4)(C); divided by 12 (bb) the number of months 13 remaining in the plan year; and 14 (II) for a subsequent month, an 15 amount determined by calculating 16 (aa) the sum of any re17 maining out-of-pocket costs owed 18 by the enrollee from a previous 19 month that have not yet been 20 billed to the enrollee and any ad21 ditional out-of-pocket costs in22 curred by the enrollee; divided by 23 (bb) the number of months 24 remaining in the plan year. 208  HR 5376 EAS 1 (v) ADDITIONAL REQUIREMENTS. 2 The following requirements shall apply with 3 respect to the option to make an election 4 pursuant to clause (i) under this subpara5
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section allows enrollees in a prescription drug plan or an MA plan to elect to pay their cost-sharing in monthly installments, capped at a maximum monthly amount. The maximum monthly amount is determined by the PDP sponsor or MA organization, and is based on the enrollee's annual out-of-pocket costs.

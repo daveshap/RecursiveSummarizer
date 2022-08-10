@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+case of any corpora21 tion which is not included on a consolidated re22 turn with the taxpayer, adjusted financial state23 ment income of the taxpayer with respect to such 24 other corporation shall be determined by only 25 taking into account the dividends received from 15  HR 5376 EAS 1 such other corporation (reduced to the extent pro2 vided by the Secretary in regulations or other 3 guidance) and other amounts which are includ4 ible in gross income or deductible as a loss under 5 this chapter (other than amounts required to be 6 included under sections 951 and 951A or such 7 other amounts as provided by the Secretary) 8 with respect to such other corporation. 9 (D) TREATMENT OF PARTNERSHIPS. 10 (i) IN GENERAL.Except as provided 11 by the Secretary, if the taxpayer is a part12 ner in a partnership, adjusted financial 13 statement income of the taxpayer with re14 spect to such partnership shall be adjusted 15 to only take into account the taxpayers dis16 tributive share of adjusted financial state17 ment income of such partnership. 18 (ii) ADJUSTED FINANCIAL STATEMENT 19 INCOME OF PARTNERSHIPS.For the pur20 poses of this part, the adjusted financial 21 statement income of a partnership shall be 22 the partnerships net income or loss set forth 23 on such partnerships applicable financial 24 statement (adjusted under rules similar to 25 the rules of this section). 16  HR 5376 EAS 1 (3) ADJUSTMENTS TO TAKE INTO ACCOUNT 2 CERTAIN ITEMS OF FOREIGN INCOME. 3 (A) IN GENERAL.If, for any taxable 4 year, a taxpayer is a United States shareholder 5 of one or more controlled foreign corporations, 6 the adjusted financial statement income of such 7 taxpayer with respect to such controlled foreign 8 corporation (as determined under paragraph 9 (2)(C)) shall be adjusted to also take into ac10 count such taxpayers pro rata share (determined 11 under rules similar to the rules under section 12 951(a)(2)) of items taken into account in com13 puting the net
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+If a taxpayer is a shareholder of one or more controlled foreign corporations, the taxpayer's adjusted financial statement income with respect to such controlled foreign corporation shall be adjusted to also take into account the taxpayer's pro rata share of items taken into account in computing the corporation's net income or loss.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+30, 2028, for activities described in paragraphs 19 (1) through (4) of subsection (a) at marginal conventional 20 wells. 21 (c) WASTE EMISSIONS CHARGE.The Administrator 22 shall impose and collect a charge on methane emissions that 23 exceed an applicable waste emissions threshold under sub24 section (f) from an owner or operator of an applicable facil25 ity that reports more than 25,000 metric tons of carbon di- 688  HR 5376 EAS 1 oxide equivalent of greenhouse gases emitted per year pursu2 ant to subpart W of part 98 of title 40, Code of Federal 3 Regulations, regardless of the reporting threshold under that 4 subpart. 5 (d) APPLICABLE FACILITY.For purposes of this sec6 tion, the term applicable facility means a facility within 7 the following industry segments, as defined in subpart W 8 of part 98 of title 40, Code of Federal Regulations: 9 (1) Offshore petroleum and natural gas produc10 tion. 11 (2) Onshore petroleum and natural gas produc12 tion. 13 (3) Onshore natural gas processing. 14 (4) Onshore natural gas transmission compres15 sion. 16 (5) Underground natural gas storage. 17 (6) Liquefied natural gas storage. 18 (7) Liquefied natural gas import and export 19 equipment. 20 (8) Onshore petroleum and natural gas gath21 ering and boosting. 22 (9) Onshore natural gas transmission pipeline. 23 (e) CHARGE AMOUNT.The amount of a charge 24 under subsection (c) for an applicable facility shall be equal 25 to the product obtained by multiplying 689  HR 5376 EAS 1 (1) the number of metric tons of methane emis2 sions reported pursuant to subpart W of part 98 of 3 title 40, Code of Federal Regulations, for the applica4 ble facility that exceed the applicable annual waste 5 emissions threshold listed in subsection (f) during the 6 previous reporting period; and 7 (2)(A) $900 for emissions reported for calendar 8 year 2024; 9 (B) $1,200 for emissions reported for calendar 10 year 2025; or 11 (C) $1,500 for emissions reported for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section imposes a charge on methane emissions that exceed an applicable waste emissions threshold from an owner or operator of an applicable facility that reports more than 25,000 metric tons of carbon dioxide equivalent of greenhouse gases emitted per year. The charge amount for an applicable facility shall be equal to the product of the number of metric tons of methane emissions reported for the facility that exceed the applicable annual waste emissions threshold multiplied by $900 for emissions reported for calendar year 2024, $1,200 for emissions reported for calendar year 2025, or $1,500 for emissions reported for calendar year 2026 and thereafter.

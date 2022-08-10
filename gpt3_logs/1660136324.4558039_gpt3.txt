@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Manufacturing Production credit, and the Clean Electricity Production credit.  This section allows for the transfer of certain tax credits relating to clean energy production to eligible taxpayers. The eligible credits include the clean fuel production credit, the energy credit, the qualifying advanced energy project credit, and the clean electricity investment credit. In order to transfer the credit, the taxpayer must provide the Secretary with such information or registration as the Secretary deems necessary to prevent duplication, fraud, improper payments, or excessive payments. If a transferee taxpayer receives an excessive credit transfer, the transferee taxpayer shall be liable for a penalty equal to the greater of $10,000 or 10 percent of the excessive credit transfer.  The tax imposed on a transferee taxpayer for an excessive credit transfer shall be increased by the amount of the transfer plus 20 percent. This does not apply if the transferee taxpayer demonstrates to the satisfaction of the Secretary that the excessive credit transfer resulted from reasonable cause.  The HR 5376 EAS 1 bill amends the Internal Revenue Code to allow for a three-year carryback of certain business tax credits. The bill also prohibits the transfer of investment credit property after the recapture period has ended.  This section extends the tax rate for certain taxpayers to taxable years beginning after December 31, 2021.  The Fund 8 Black Lung Disability Trust Fund is being amended by striking subsection (e). This amendment will apply to sales in calendar quarters beginning after the date of enactment. Additionally, the research credit against payroll tax for small businesses is being increased by $250,000 for taxable years beginning after December 31, 2022.  The Tax Cuts and Jobs Act imposes a limit on the deduction for state and local taxes, which is set to expire in 2025. This section of the Act extends the deduction through 2026. Additionally, the Act reinstates the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act allows for the transfer of certain tax credits relating to clean energy production to eligible taxpayers. The eligible credits include the clean fuel production credit, the energy credit, the qualifying advanced energy project credit, and the clean electricity investment credit. The bill also amends the Internal Revenue Code to allow for a three-year carryback of certain business tax credits and extends the tax rate for certain taxpayers to taxable years beginning after December 31, 2021. Finally, the Act reinstates the deduction for state and local taxes through 2026.

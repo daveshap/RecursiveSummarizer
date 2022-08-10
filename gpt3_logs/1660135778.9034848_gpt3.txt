@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+23 the Administrator for fiscal year 2022, out of any 24 money in the Treasury not otherwise appropriated, 25 $30,000,000, to remain available until September 30, 669  HR 5376 EAS 1 2031, for the administrative costs necessary to carry 2 out activities under this section. 3 (b) USE OF FUNDS.An eligible recipient that re4 ceives a grant pursuant to subsection (a) shall use the grant 5 in accordance with the following: 6 (1) DIRECT INVESTMENT.The eligible recipi7 ent shall 8 (A) provide financial assistance to quali9 fied projects at the national, regional, State, and 10 local levels; 11 (B) prioritize investment in qualified 12 projects that would otherwise lack access to fi13 nancing; and 14 (C) retain, manage, recycle, and monetize 15 all repayments and other revenue received from 16 fees, interest, repaid loans, and all other types of 17 financial assistance provided using grant funds 18 under this section to ensure continued oper19 ability. 20 (2) INDIRECT INVESTMENT.The eligible re21 cipient shall provide funding and technical assistance 22 to establish new or support existing public, quasi-pub23 lic, not-for-profit, or nonprofit entities that provide 24 financial assistance to qualified projects at the State, 25 local, territorial, or Tribal level or in the District of 670  HR 5376 EAS 1 Columbia, including community- and low-income-fo2 cused lenders and capital providers. 3 (c) DEFINITIONS.In this section: 4 (1) ELIGIBLE RECIPIENT.The term eligible 5 recipient means a nonprofit organization that 6 (A) is designed to provide capital, leverage 7 private capital, and provide other forms of fi8 nancial assistance for the rapid deployment of 9 low- and zero-emission products, technologies, 10 and services; 11 (B) does not take deposits other than de12 posits from repayments and other revenue re13 ceived from financial assistance provided using 14 grant funds under this section; 15 (C) is funded by public or charitable con16
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes the Administrator to award grants totaling $30 million to eligible recipients for the purpose of funding activities related to the deployment of low- and zero-emission products, technologies, and services. Eligible recipients include nonprofit organizations that are designed to provide capital and financial assistance for the rapid deployment of low- and zero-emission products, technologies, and services.

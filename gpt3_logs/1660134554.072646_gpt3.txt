@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(C) LONG-MONOPOLY DRUGS.With re5 spect to a long-monopoly drug, 40 percent. 6 (4) EXTENDED-MONOPOLY DRUG DEFINED. 7 (A) IN GENERAL.In this part, subject to 8 subparagraph (B), the term extended-monopoly 9 drug means, with respect to an initial price ap10 plicability year, a selected drug for which at 11 least 12 years, but fewer than 16 years, have 12 elapsed since the date of approval of such drug 13 under section 505(c) of the Federal Food, Drug, 14 and Cosmetic Act or since the date of licensure 15 of such drug under section 351(a) of the Public 16 Health Service Act, as applicable. 17 (B) EXCLUSIONS.The term extended-mo18 nopoly drug shall not include any of the fol19 lowing: 20 (i) A vaccine that is licensed under 21 section 351 of the Public Health Service Act 22 and marketed pursuant to such section. 23 (ii) A selected drug for which a man24 ufacturer had an agreement under this part 76  HR 5376 EAS 1 with the Secretary with respect to an initial 2 price applicability year that is before 2030. 3 (C) CLARIFICATION.Nothing in subpara4 graph (B)(ii) shall limit the transition of a se5 lected drug described in paragraph (3)(A) to a 6 long-monopoly drug if the selected drug meets the 7 definition of a long-monopoly drug. 8 (5) LONG-MONOPOLY DRUG DEFINED. 9 (A) IN GENERAL.In this part, subject to 10 subparagraph (B), the term long-monopoly 11 drug means, with respect to an initial price ap12 plicability year, a selected drug for which at 13 least 16 years have elapsed since the date of ap14 proval of such drug under section 505(c) of the 15 Federal Food, Drug, and Cosmetic Act or since 16 the date of licensure of such drug under section 17 351(a) of the Public Health Service Act, as ap18 plicable. 19 (B) EXCLUSION.The term long-monop20 oly drug shall not include a vaccine that is li21 censed under section 351 of the Public Health 22 Service Act and marketed pursuant to such sec23 tion. 24 (6) AVERAGE NON-FEDERAL AVERAGE MANU25
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section defines the terms "extended-monopoly drug" and "long-monopoly drug" for purposes of the drug pricing provisions in this bill. An extended-monopoly drug is a selected drug for which at least 12, but fewer than 16, years have elapsed since its approval or licensure. A long-monopoly drug is a selected drug for which at least 16 years have elapsed since its approval or licensure. Vaccines are excluded from both definitions.

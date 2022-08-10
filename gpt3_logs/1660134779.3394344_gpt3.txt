@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+start of a calendar quarter or another date specified 6 by the Secretary. 7 (c) DUTIES DESCRIBED.The duties described in 8 this subsection are the following: 9 (1) ADMINISTRATION OF PROGRAM.Admin10 istering the program, including 11 (A) the determination of the amount of the 12 discounted price of an applicable drug of a man13 ufacturer; 14 (B) the establishment of procedures to en15 sure that, not later than the applicable number 16 of calendar days after the dispensing of an ap17 plicable drug by a pharmacy or mail order serv18 ice, the pharmacy or mail order service is reim19 bursed for an amount equal to the difference be20 tween 21 (i) the negotiated price of the applica22 ble drug; and 23 (ii) the discounted price of the appli24 cable drug; 175  HR 5376 EAS 1 (C) the establishment of procedures to en2 sure that the discounted price for an applicable 3 drug under this section is applied before any 4 coverage or financial assistance under other 5 health benefit plans or programs that provide 6 coverage or financial assistance for the purchase 7 or provision of prescription drug coverage on be8 half of applicable beneficiaries as specified by the 9 Secretary; and 10 (D) providing a reasonable dispute resolu11 tion mechanism to resolve disagreements between 12 manufacturers, prescription drug plans and 13 MAPD plans, and the Secretary. 14 (2) MONITORING COMPLIANCE.The Secretary 15 shall monitor compliance by a manufacturer with the 16 terms of an agreement under this section. 17 (3) COLLECTION OF DATA FROM PRESCRIPTION 18 DRUG PLANS AND MAPD PLANS.The Secretary may 19 collect appropriate data from prescription drug plans 20 and MAPD plans in a timeframe that allows for 21 discounted prices to be provided for applicable drugs 22 under this section. 23 (d) ADMINISTRATION. 24 (1) IN GENERAL.Subject to paragraph (2), the 25 Secretary shall provide for the implementation of this 176  HR 5376 EAS 1 section, including the performance
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The purpose of this section is to establish a program to provide discounts on prescription drugs for certain Medicare beneficiaries. The discounts will be applied before any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of applicable beneficiaries as specified by the Secretary. The Secretary shall monitor compliance by a manufacturer with the terms of an agreement under this section, and may collect appropriate data from prescription drug plans and Medicare Advantage plans in a timeframe that allows for discounted prices to be provided for applicable drugs under this section.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subsection: 20 (g) WAGE AND APPRENTICESHIP REQUIREMENTS. 21 (1) INCREASED CREDIT AMOUNT. 22 (A) IN GENERAL.In the case of any 23 qualified alternative fuel vehicle refueling project 24 which satisfies the requirements of subparagraph 25 (C), the amount of the credit determined under 409  HR 5376 EAS 1 subsection (a) for any qualified alternative fuel 2 vehicle refueling property of a character subject 3 to an allowance for depreciation which is part of 4 such project shall be equal to such amount (deter5 mined without regard to this sentence) multi6 plied by 5. 7 (B) QUALIFIED ALTERNATIVE FUEL VEHI8 CLE REFUELING PROJECT.For purposes of this 9 subsection, the term qualified alternative fuel ve10 hicle refueling project means a project consisting 11 of one or more properties that are part of a sin12 gle project. 13 (C) PROJECT REQUIREMENTS.A project 14 meets the requirements of this subparagraph if it 15 is one of the following: 16 (i) A project the construction of which 17 begins prior to the date that is 60 days 18 after the Secretary publishes guidance with 19 respect to the requirements of paragraphs 20 (2)(A) and (3). 21 (ii) A project which satisfies the re22 quirements of paragraphs (2)(A) and (3). 23 (2) PREVAILING WAGE REQUIREMENTS. 24 (A) IN GENERAL.The requirements de25 scribed in this subparagraph with respect to any 410  HR 5376 EAS 1 qualified alternative fuel vehicle refueling project 2 are that the taxpayer shall ensure that any la3 borers and mechanics employed by the taxpayer 4 or any contractor or subcontractor in the con5 struction of any qualified alternative fuel vehicle 6 refueling property which is part of such project 7 shall be paid wages at rates not less than the 8 prevailing rates for construction, alteration, or 9 repair of a similar character in the locality in 10 which such project is located as most recently de11 termined by the Secretary of Labor, in accord12 ance with subchapter IV of chapter 31 of title
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amount of the tax credit for qualified alternative fuel vehicle refueling property is increased to five times the original amount, if the project meets certain requirements. These requirements include that the project must begin construction before a specified date, and that all laborers and mechanics employed on the project must be paid prevailing wages.

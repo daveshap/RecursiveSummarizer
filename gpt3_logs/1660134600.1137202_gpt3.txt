@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+new 12 subclause: 13 (VI) any reduction in price paid 14 during the rebate period to the manu15 facturer for a drug by reason of appli16 cation of part E of title XI.. 17 (c) IMPLEMENTATION FOR 2026 THROUGH 2028.The 18 Secretary of Health and Human Services shall implement 19 this section, including the amendments made by this sec20 tion, for 2026, 2027, and 2028 by program instruction or 21 other forms of program guidance. 99  HR 5376 EAS 1 SEC. 11002. SPECIAL RULE TO DELAY SELECTION AND NE2 GOTIATION OF BIOLOGICS FOR BIOSIMILAR 3 MARKET ENTRY. 4 (a) IN GENERAL.Part E of title XI of the Social Se5 curity Act, as added by section 11001, is amended 6 (1) in section 1192 7 (A) in subsection (a), in the flush matter 8 following paragraph (4), by inserting and sub9 section (b)(3) after the previous sentence; 10 (B) in subsection (b) 11 (i) in paragraph (1), by adding at the 12 end the following new subparagraph: 13 (C) In the case of a biological product for 14 which the inclusion of the biological product as 15 a selected drug on a list published under sub16 section (a) has been delayed under subsection 17 (f)(2), remove such biological product from the 18 rankings under subparagraph (A) before making 19 the selections under subparagraph (B).; and 20 (ii) by adding at the end the following 21 new paragraph: 22 (3) INCLUSION OF DELAYED BIOLOGICAL PROD23 UCTS.Pursuant to subparagraphs (B)(ii)(I) and 24 (C)(i) of subsection (f)(2), the Secretary shall select 25 and include on the list published under subsection (a) 26 the biological products described in such subpara- 100  HR 5376 EAS 1 graphs. Such biological products shall count towards 2 the required number of drugs to be selected under sub3 section (a)(1).; and 4 (C) by adding at the end the following new 5 subsection: 6 (f) SPECIAL RULE TO DELAY SELECTION AND NEGO7 TIATION OF BIOLOGICS FOR BIOSIMILAR MARKET 8 ENTRY. 9 (1) APPLICATION. 10 (A) IN GENERAL.Subject to subpara11 graph
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The new 12 subclause requires the manufacturer to reduce the price of a drug during the rebate period if the drug is selected for biosimilar market entry. This section applies to drugs selected for biosimilar market entry for 2026, 2027, and 2028.

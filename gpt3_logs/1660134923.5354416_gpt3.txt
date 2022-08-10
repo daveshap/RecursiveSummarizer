@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+REGULATIONS AND GUIDANCE.The Sec20 retary shall issue such regulations or other guidance 21 as the Secretary determines necessary to carry out the 22 purposes of this subsection, including regulations or 23 other guidance which provides for requirements for 24 recordkeeping or information reporting for purposes 25 of administering the requirements of this subsection.. 254  HR 5376 EAS 1 (g) DOMESTIC CONTENT, PHASEOUT, AND ENERGY 2 COMMUNITIES.Section 45(b), as amended by subsection 3 (f), is amended 4 (1) by redesignating paragraph (9) as para5 graph (12), and 6 (2) by inserting after paragraph (8) the fol7 lowing: 8 (9) DOMESTIC CONTENT BONUS CREDIT 9 AMOUNT. 10 (A) IN GENERAL.In the case of any 11 qualified facility which satisfies the requirement 12 under subparagraph (B)(i), the amount of the 13 credit determined under subsection (a) (deter14 mined after the application of paragraphs (1) 15 through (8)) shall be increased by an amount 16 equal to 10 percent of the amount so determined. 17 (B) REQUIREMENT. 18 (i) IN GENERAL.The requirement 19 described in this clause is satisfied with re20 spect to any qualified facility if the tax21 payer certifies to the Secretary (at such 22 time, and in such form and manner, as the 23 Secretary may prescribe) that any steel, 24 iron, or manufactured product which is a 25 component of such facility (upon completion 255  HR 5376 EAS 1 of construction) was produced in the United 2 States (as determined under section 661 of 3 title 49, Code of Federal Regulations). 4 (ii) STEEL AND IRON.In the case of 5 steel or iron, clause (i) shall be applied in 6 a manner consistent with section 661.5 of 7 title 49, Code of Federal Regulations. 8 (iii) MANUFACTURED PRODUCT.For 9 purposes of clause (i), the manufactured 10 products which are components of a quali11 fied facility upon completion of construction 12 shall be deemed to have been produced in 13 the United States if not less than the ad14 justed percentage
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Energy shall issue regulations or other guidance as necessary to carry out the purposes of the Domestic Content Bonus Credit, including recordkeeping and information reporting requirements. The Domestic Content Bonus Credit is a 10% increase to the tax credit for qualified facilities that use components produced in the United States.

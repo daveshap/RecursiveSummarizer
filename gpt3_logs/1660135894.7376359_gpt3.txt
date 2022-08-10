@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+appropriated, $12,500,000, to remain available 25 until September 30, 2026, for near-term drought relief ac- 728  HR 5376 EAS 1 tions to mitigate drought impacts for Indian Tribes that 2 are impacted by the operation of a Bureau of Reclamation 3 water project, including through direct financial assistance 4 to address drinking water shortages and to mitigate the loss 5 of Tribal trust resources. 6 (b) COST-SHARING AND MATCHING REQUIREMENTS. 7 None of the funds provided by this section shall be subject 8 to cost-sharing or matching requirements. Attest: Secretary.  117TH CONGRESS 2D SESSION H.R. 5376 AMENDMENT
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This amendment appropriates $12,500,000 for near-term drought relief actions to mitigate drought impacts for Indian Tribes that are impacted by the operation of a Bureau of Reclamation water project. The funds are to be used for drinking water shortages and to mitigate the loss of Tribal trust resources. There are no cost-sharing or matching requirements for these funds.

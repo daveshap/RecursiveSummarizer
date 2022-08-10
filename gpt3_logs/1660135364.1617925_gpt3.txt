@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+greenhouse gas emissions rate for such facil12 ity shall be equal to the net rate of greenhouse 13 gases emitted into the atmosphere by such facil14 ity (taking into account lifecycle greenhouse gas 15 emissions, as described in section 211(o)(1)(H) of 16 the Clean Air Act (42 U.S.C. 7545(o)(1)(H))) in 17 the production of electricity, expressed as grams 18 of CO2e per KWh. 19 (C) ESTABLISHMENT OF EMISSIONS RATES 20 FOR FACILITIES. 21 (i) PUBLISHING EMISSIONS RATES. 22 The Secretary shall annually publish a 23 table that sets forth the greenhouse gas emis24 sions rates for types or categories of facili- 453  HR 5376 EAS 1 ties, which a taxpayer shall use for purposes 2 of this section. 3 (ii) PROVISIONAL EMISSIONS RATE. 4 In the case of any facility for which an 5 emissions rate has not been established by 6 the Secretary, a taxpayer which owns such 7 facility may file a petition with the Sec8 retary for determination of the emissions 9 rate with respect to such facility. 10 (D) CARBON CAPTURE AND SEQUESTRA11 TION EQUIPMENT.For purposes of this sub12 section, the amount of greenhouse gases emitted 13 into the atmosphere by a facility in the produc14 tion of electricity shall not include any qualified 15 carbon dioxide that is captured by the taxpayer 16 and 17 (i) pursuant to any regulations estab18 lished under paragraph (2) of section 19 45Q(f), disposed of by the taxpayer in se20 cure geological storage, or 21 (ii) utilized by the taxpayer in a 22 manner described in paragraph (5) of such 23 section. 24 (c) INFLATION ADJUSTMENT. 454  HR 5376 EAS 1 (1) IN GENERAL.In the case of a calendar 2 year beginning after 2024, the 0.3 cent amount in 3 paragraph (2)(A) of subsection (a) and the 1.5 cent 4 amount in paragraph (2)(B) of such subsection shall 5 each be adjusted by multiplying such amount by the 6 inflation adjustment factor for the calendar year in 7 which the sale, consumption, or storage of the elec8 tricity occurs. If the 0.3 cent
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Air Act Amendments of 2018 establish emissions rates for facilities producing electricity, to be used for purposes of the tax credit for carbon capture and sequestration. The emissions rates are to be published annually by the Secretary of Energy, and are to be adjusted for inflation beginning in 2025.

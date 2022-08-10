@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+zero-emission technologies.  This section authorizes the appropriation of funds to the Administrator of the Environmental Protection Agency (EPA) to provide grants, loans, or other forms of financial assistance to states, municipalities, Tribal governments, and eligible recipients for the purposes of deploying or benefiting from zero emission technologies, including distributed technologies on residential rooftops, and to carry out other greenhouse gas emission reduction activities. Funds appropriated under this section shall be used to provide financial assistance and technical assistance in low-income and disadvantaged communities.  This section authorizes the Administrator to award grants totaling $30 million to eligible recipients for the purpose of funding activities related to the deployment of low- and zero-emission products, technologies, and services. Eligible recipients include nonprofit organizations that are designed to provide capital and financial assistance for the rapid deployment of low- and zero-emission products, technologies, and services.  This section of the bill appropriates $60,000,000 to the Administrator of the Environmental Protection Agency for fiscal year 2022 in order to reduce diesel emissions from goods movement facilities and vehicles servicing goods movement facilities in low-income and disadvantaged communities.  This section of the bill appropriates $117,500,000 for fenceline air monitoring and screening air monitoring, $50,000,000 for multipollutant monitoring stations, and $3,000,000 for air quality sensors in low-income and disadvantaged communities.  This bill appropriates $5 million to the EPA for fiscal year 2022 to integrate and operate air quality sensors in low-income and disadvantaged communities. The sensors will monitor emissions of methane and other pollutants.  This section provides funding to address air pollution at schools in low-income and disadvantaged communities. It appropriated $37,500,000 for grants and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill authorizes the appropriation of funds to the Administrator of the Environmental Protection Agency (EPA) to provide grants, loans, or other forms of financial assistance to states, municipalities, Tribal governments, and eligible recipients for the purposes of deploying or benefiting from zero emission technologies, including distributed technologies on residential rooftops, and to carry out other greenhouse gas emission reduction activities.

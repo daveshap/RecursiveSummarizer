@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+during such year (and to phar23 macies, mail order services, and other dispensers, 24 with respect to such maximum fair price eligible in25 dividuals who are dispensed such drugs); or 89  HR 5376 EAS 1 (2) to a hospital, physician, or other provider 2 of services or supplier with respect to maximum fair 3 price eligible individuals who with respect to such 4 drug is described in subparagraph (B) of such section 5 and is furnished or administered such drug by such 6 hospital, physician, or provider or supplier during 7 such year; 8 shall be subject to a civil monetary penalty equal to ten 9 times the amount equal to the product of the number of 10 units of such drug so furnished, dispensed, or administered 11 during such year and the difference between the price for 12 such drug made available for such year by such manufac13 turer with respect to such individual or hospital, physician, 14 provider of services, or supplier and the maximum fair 15 price for such drug for such year. 16 (b) VIOLATIONS OF CERTAIN TERMS OF AGREE17 MENT.Any manufacturer of a selected drug that has en18 tered into an agreement under section 1193, with respect 19 to a year during the price applicability period with respect 20 to such drug, that is in violation of a requirement imposed 21 pursuant to section 1193(a)(5), including the requirement 22 to submit information pursuant to section 1193(a)(4), shall 23 be subject to a civil monetary penalty equal to $1,000,000 24 for each day of such violation. 90  HR 5376 EAS 1 (c) FALSE INFORMATION.Any manufacturer that 2 knowingly provides false information pursuant to section 3 1196(a)(7) shall be subject to a civil monetary penalty equal 4 to $100,000,000 for each item of such false information. 5 (d) APPLICATION.The provisions of section 1128A 6 (other than subsections (a) and (b)) shall apply to a civil 7 monetary penalty under this section in the same manner 8 as such provisions apply to a penalty or proceeding under 9 section
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes civil monetary penalties for drug manufacturers who overcharge for drugs covered by Medicaid. The penalties are $10,000 per unit of the overpriced drug, $1,000,000 per day for violating terms of an agreement with Medicaid, and $100,000,000 for each item of false information provided to Medicaid.

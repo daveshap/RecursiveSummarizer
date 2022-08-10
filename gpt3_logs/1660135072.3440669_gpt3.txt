@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the end the following new 2 item: Sec. 45V. Credit for production of clean hydrogen.. 3 (5) EFFECTIVE DATES. 4 (A) IN GENERAL.The amendments made 5 by paragraphs (1) and (4) of this subsection 6 shall apply to hydrogen produced after December 7 31, 2022. 8 (B) CREDIT REDUCED FOR TAX-EXEMPT 9 BONDS.The amendment made by paragraph 10 (2) shall apply to facilities the construction of 11 which begins after the date of enactment of this 12 Act. 13 (C) MODIFICATION OF EXISTING FACILI14 TIES.The amendment made by paragraph (3) 15 shall apply to modifications made after Decem16 ber 31, 2022. 17 (b) CREDIT FOR ELECTRICITY PRODUCED FROM RE18 NEWABLE RESOURCES ALLOWED IF ELECTRICITY IS USED 19 TO PRODUCE CLEAN HYDROGEN. 20 (1) IN GENERAL.Section 45(e), as amended by 21 the preceding provisions of this Act, is amended by 22 adding at the end the following new paragraph: 23 (13) SPECIAL RULE FOR ELECTRICITY USED AT 24 A QUALIFIED CLEAN HYDROGEN PRODUCTION FACIL25 ITY.Electricity produced by the taxpayer shall be 333  HR 5376 EAS 1 treated as sold by such taxpayer to an unrelated per2 son during the taxable year if 3 (A) such electricity is used during such 4 taxable year by the taxpayer or a person related 5 to the taxpayer at a qualified clean hydrogen 6 production facility (as defined in section 7 45V(c)(3)) to produce qualified clean hydrogen 8 (as defined in section 45V(c)(2)), and 9 (B) such use and production is verified (in 10 such form or manner as the Secretary may pre11 scribe) by an unrelated third party.. 12 (2) SIMILAR RULE FOR ZERO-EMISSION NUCLEAR 13 POWER PRODUCTION CREDIT.Subsection (c)(2) of 14 section 45U, as added by section 13105 of this Act, 15 is amended by striking and (5) and inserting (5), 16 and (13). 17 (3) EFFECTIVE DATE.The amendments made 18 by this subsection shall apply to electricity produced 19 after December 31, 2022. 20 (c) ELECTION TO TREAT CLEAN HYDROGEN PRODUC21 TION FACILITIES AS ENERGY PROPERTY. 22 (1) IN
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amendments in this section apply to hydrogen produced after December 31, 2022, and to electricity produced after that date if it is used to produce clean hydrogen. The credit for electricity production from renewable resources is allowed if the electricity is used to produce clean hydrogen. Clean hydrogen production facilities may be treated as energy property.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+DEFINED.For purposes of this subsection, the 19 term financial statement net operating loss means 20 the amount of the net loss (if any) set forth on the 21 corporations applicable financial statement (deter22 mined after application of subsection (c) and without 23 regard to this subsection) for taxable years ending 24 after December 31, 2019. 26  HR 5376 EAS 1 (e) REGULATIONS AND OTHER GUIDANCE.The Sec2 retary shall provide for such regulations and other guidance 3 as necessary to carry out the purposes of this section, in4 cluding regulations and other guidance relating to the effect 5 of the rules of this section on partnerships with income 6 taken into account by an applicable corporation.. 7 (2) CLERICAL AMENDMENT.The table of sec8 tions for part VI of subchapter A of chapter 1 is 9 amended by inserting after the item relating to sec10 tion 56 the following new item: Sec. 56A. Adjusted financial statement income.. 11 (c) CORPORATE AMT FOREIGN TAX CREDIT.Section 12 59, as amended by this section, is amended by adding at 13 the end the following new subsection: 14 (l) CORPORATE AMT FOREIGN TAX CREDIT. 15 (1) IN GENERAL.For purposes of this part, if 16 an applicable corporation chooses to have the benefits 17 of subpart A of part III of subchapter N for any tax18 able year, the corporate AMT foreign tax credit for 19 the taxable year of the applicable corporation is an 20 amount equal to sum of 21 (A) the lesser of 22 (i) the aggregate of the applicable cor23 porations pro rata share (as determined 24 under section 56A(c)(3)) of the amount of 25 income, war profits, and excess profits taxes 27  HR 5376 EAS 1 (within the meaning of section 901) im2 posed by any foreign country or possession 3 of the United States which are 4 (I) taken into account on the ap5 plicable financial statement of each 6 controlled foreign corporation with re7 spect to which the applicable corpora8 tion is a United States shareholder, 9 and 10 (II) paid
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Internal Revenue Code to create a new section 56A, which allows corporations to take a deduction for adjusted financial statement net operating losses. The deduction is available for taxable years ending after December 31, 2019. The deduction is subject to regulations and other guidance issued by the Treasury Department.

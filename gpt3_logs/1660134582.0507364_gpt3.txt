@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+maximum fair 10 price is determined under this part after the date of 11 publication under this section, the Secretary shall 12 publish such maximum fair price by not later than 13 30 days after the date such maximum price is so de14 termined. 15 SEC. 1196. ADMINISTRATIVE DUTIES AND COMPLIANCE 16 MONITORING. 17 (a) ADMINISTRATIVE DUTIES.For purposes of sec18 tion 1191(a)(4), the administrative duties described in this 19 section are the following: 20 (1) The establishment of procedures to ensure 21 that the maximum fair price for a selected drug is 22 applied before 23 (A) any coverage or financial assistance 24 under other health benefit plans or programs 25 that provide coverage or financial assistance for 86  HR 5376 EAS 1 the purchase or provision of prescription drug 2 coverage on behalf of maximum fair price eligi3 ble individuals; and 4 (B) any other discounts. 5 (2) The establishment of procedures to compute 6 and apply the maximum fair price across different 7 strengths and dosage forms of a selected drug and not 8 based on the specific formulation or package size or 9 package type of such drug. 10 (3) The establishment of procedures to carry out 11 the provisions of this part, as applicable, with respect 12 to 13 (A) maximum fair price eligible individ14 uals who are enrolled in a prescription drug 15 plan under part D of title XVIII or an MAPD 16 plan under part C of such title; and 17 (B) maximum fair price eligible individ18 uals who are enrolled under part B of such title, 19 including who are enrolled in an MA plan under 20 part C of such title. 21 (4) The establishment of a negotiation process 22 and renegotiation process in accordance with section 23 1194. 87  HR 5376 EAS 1 (5) The establishment of a process for manufac2 turers to submit information described in section 3 1194(b)(2)(A). 4 (6) The sharing with the Secretary of the Treas5 ury of such information as is necessary to determine 6 the tax imposed by section
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The maximum fair price for a selected drug is determined by the Secretary and published not later than 30 days after the date such maximum price is so determined. The maximum fair price is applied before any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of maximum fair price eligible individuals. The maximum fair price is also applied across different strengths and dosage forms of a selected drug and not based on the specific formulation or package size or package type of such drug.

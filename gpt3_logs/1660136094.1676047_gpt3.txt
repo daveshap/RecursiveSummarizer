@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+number of units determined under subparagraph (B) for the billing and payment code of such drug; and (ii) the amount (if any) by which (I) the amount equal to (aa) in the case of a part B rebatable drug described in paragraph (1)(B) of subsection (b), 106 percent of the amount determined under paragraph (4) of such section for such drug during the calendar quarter; or (bb) in the case of a part B rebatable drug described in paragraph (1)(C) of such subsection, the payment amount under such paragraph for such drug during the calendar quarter; exceeds (II) the inflation-adjusted payment amount determined under subparagraph (C) for such part B rebatable drug during the calendar quarter.  This section of the bill establishes the payment amount for Part B rebatable drugs for each calendar quarter. The payment amount is determined by the inflation-adjusted payment amount for the drug in the payment amount benchmark quarter (July 1, 2021), increased by the percentage by which the rebate period CPIU (as defined in subparagraph (F)) for the calendar quarter exceeds the benchmark period CPIU (as defined in subparagraph (E)). The Secretary may reduce or waive the amount under subparagraph (A) with respect to a part B rebatable drug and a calendar quarter in the case of a part B rebatable drug that is described as currently in shortage on the shortage list in  This section of the bill deals with rebates for drugs covered under Part B of Medicare. For drugs first approved or licensed after December 1, 2020, the rebate amount will be based on the third full calendar quarter after the drug is first marketed. For subsequently approved drugs, the rebate will be based on the later of the 6th full calendar quarter after the drug is first marketed or January 1, 2023.  This section of the bill deals with the payment amount for Part B rebatable drugs. The payment amount for a calendar quarter is the lesser of the drug's price for that quarter or the inflation-adjusted payment amount
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes the payment amount for Part B rebatable drugs for each calendar quarter. The payment amount is determined by the inflation-adjusted payment amount for the drug in the payment amount benchmark quarter (July 1, 2021), increased by the percentage by which the rebate period CPIU (as defined in subparagraph (F)) for the calendar quarter exceeds the benchmark period CPIU (as defined in subparagraph (E)). The Secretary may reduce or waive the amount under subparagraph (A) with respect to a part B rebatable drug and a calendar quarter in the case of a part B rebatable drug that is described as currently in shortage on the shortage list.

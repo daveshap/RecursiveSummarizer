@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+GAS AIR POLLUTION IMPLE12 MENTATION GRANTS.In addition to amounts other13 wise available, there is appropriated to the Adminis14 trator for fiscal year 2022, out of any amounts in the 15 Treasury not otherwise appropriated, $4,750,000,000, 16 to remain available until September 30, 2026, to 17 carry out subsection (c). 18 (3) ADMINISTRATIVE COSTS.Of the funds 19 made available under paragraph (2), the Adminis20 trator shall reserve 3 percent for administrative costs 21 necessary to carry out this section, to provide tech22 nical assistance to eligible entities, to develop a plan 23 that could be used as a model by grantees in devel24 oping a plan under subsection (b), and to model the 25 effects of plans described in this section. 695  HR 5376 EAS 1 (b) GREENHOUSE GAS AIR POLLUTION PLANNING 2 GRANTS.The Administrator shall make a grant to at least 3 one eligible entity in each State for the costs of developing 4 a plan for the reduction of greenhouse gas air pollution to 5 be submitted with an application for a grant under sub6 section (c). Each such plan shall include programs, policies, 7 measures, and projects that will achieve or facilitate the re8 duction of greenhouse gas air pollution. Not later than 270 9 days after the date of enactment of this section, the Admin10 istrator shall publish a funding opportunity announcement 11 for grants under this subsection. 12 (c) GREENHOUSE GAS AIR POLLUTION REDUCTION 13 IMPLEMENTATION GRANTS. 14 (1) IN GENERAL.The Administrator shall 15 competitively award grants to eligible entities to im16 plement plans developed under subsection (b). 17 (2) APPLICATION.To apply for a grant under 18 this subsection, an eligible entity shall submit to the 19 Administrator an application at such time, in such 20 manner, and containing such information as the Ad21 ministrator shall require, which such application 22 shall include information regarding the degree to 23 which greenhouse gas air pollution is projected to be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Gas Air Pollution Implementation Grants program appropriates $4.75 billion to the EPA for grants to states to develop and implement plans to reduce greenhouse gas air pollution. The program includes provisions for technical assistance, modeling, and administrative costs.

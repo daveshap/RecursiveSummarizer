@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(A) meets the requirements of 12 (i) ASTM International Standard 13 D7566, or 14 (ii) the Fischer Tropsch provisions of 15 ASTM International Standard D1655, 16 Annex A1, 17 (B) is not derived from coprocessing an 18 applicable material (or materials derived from 19 an applicable material) with a feedstock which is 20 not biomass, 21 (C) is not derived from palm fatty acid 22 distillates or petroleum, and 23 (D) has been certified in accordance with 24 subsection (e) as having a lifecycle greenhouse 316  HR 5376 EAS 1 gas emissions reduction percentage of at least 50 2 percent. 3 (2) DEFINITIONS.In this subsection 4 (A) APPLICABLE MATERIAL.The term 5 applicable material means 6 (i) monoglycerides, diglycerides, and 7 triglycerides, 8 (ii) free fatty acids, and 9 (iii) fatty acid esters. 10 (B) BIOMASS.The term biomass has the 11 same meaning given such term in section 12 45K(c)(3). 13 (e) LIFECYCLE GREENHOUSE GAS EMISSIONS RE14 DUCTION PERCENTAGE.For purposes of this section, the 15 term lifecycle greenhouse gas emissions reduction percent16 age means, with respect to any sustainable aviation fuel, 17 the percentage reduction in lifecycle greenhouse gas emis18 sions achieved by such fuel as compared with petroleum19 based jet fuel, as defined in accordance with 20 (1) the most recent Carbon Offsetting and Re21 duction Scheme for International Aviation which has 22 been adopted by the International Civil Aviation Or23 ganization with the agreement of the United States, 24 or 317  HR 5376 EAS 1 (2) any similar methodology which satisfies the 2 criteria under section 211(o)(1)(H) of the Clean Air 3 Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the 4 date of enactment of this section. 5 (f) REGISTRATION OF SUSTAINABLE AVIATION FUEL 6 PRODUCERS.No credit shall be allowed under this section 7 with respect to any sustainable aviation fuel unless the pro8 ducer or importer of such fuel 9 (1) is registered with the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes a tax credit for the production of sustainable aviation fuel. To be eligible for the credit, the fuel must meet certain standards for greenhouse gas emissions reduction, and the producer must be registered with the government.

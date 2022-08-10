@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the Secretary, 7 as applicable, for purposes of administering the pro8 gram, including any determination under subpara9 graph (A) of subsection (c)(1) or procedures estab10 lished under such subsection (c)(1). 11 (4) LENGTH OF AGREEMENT. 12 (A) IN GENERAL.An agreement under 13 this section shall be effective for an initial period 14 of not less than 12 months and shall be auto15 matically renewed for a period of not less than 16 1 year unless terminated under subparagraph 17 (B). 18 (B) TERMINATION. 19 (i) BY THE SECRETARY.The Sec20 retary shall provide for termination of an 21 agreement under this section for a knowing 22 and willful violation of the requirements of 23 the agreement or other good cause shown. 24 Such termination shall not be effective ear25 lier than 30 days after the date of notice to 173  HR 5376 EAS 1 the manufacturer of such termination. The 2 Secretary shall provide, upon request, a 3 manufacturer with a hearing concerning 4 such a termination, and such hearing shall 5 take place prior to the effective date of the 6 termination with sufficient time for such ef7 fective date to be repealed if the Secretary 8 determines appropriate. 9 (ii) BY A MANUFACTURER.A manu10 facturer may terminate an agreement under 11 this section for any reason. Any such termi12 nation shall be effective, with respect to a 13 plan year 14 (I) if the termination occurs be15 fore January 31 of a plan year, as of 16 the day after the end of the plan year; 17 and 18 (II) if the termination occurs on 19 or after January 31 of a plan year, as 20 of the day after the end of the suc21 ceeding plan year. 22 (iii) EFFECTIVENESS OF TERMI23 NATION.Any termination under this sub24 paragraph shall not affect discounts for ap25 plicable drugs of the manufacturer that are 174  HR 5376 EAS 1 due under the agreement before the effective 2 date of its termination. 3 (5) EFFECTIVE DATE OF AGREEMENT.An 4 agreement under this section shall take effect at the 5
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services is responsible for administering the discount program for prescription drugs, including determining eligibility and establishing procedures. Agreements with manufacturers are automatically renewed for at least one year unless terminated by the Secretary for violation of the agreement or other good cause, or by the manufacturer for any reason. Termination by the manufacturer is effective at the end of the plan year.

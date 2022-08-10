@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+with respect 7 to any eligible component, including any eligible com8 ponent it incorporates, shall be equal to 9 (A) in the case of a thin film photovoltaic 10 cell or a crystalline photovoltaic cell, an amount 11 equal to the product of 12 (i) 4 cents, multiplied by 13 (ii) the capacity of such cell (ex14 pressed on a per direct current watt basis), 15 (B) in the case of a photovoltaic wafer, 16 $12 per square meter, 17 (C) in the case of solar grade polysilicon, 18 $3 per kilogram, 19 (D) in the case of a polymeric backsheet, 20 40 cents per square meter, 21 (E) in the case of a solar module, an 22 amount equal to the product of 23 (i) 7 cents, multiplied by 24 (ii) the capacity of such module (ex25 pressed on a per direct current watt basis), 423  HR 5376 EAS 1 (F) in the case of a wind energy compo2 nent 3 (i) if such component is a related off4 shore wind vessel, an amount equal to 10 5 percent of the sales price of such vessel, and 6 (ii) if such component is not described 7 in clause (i), an amount equal to the prod8 uct of 9 (I) the applicable amount with 10 respect to such component (as deter11 mined under paragraph (2)(A)), multi12 plied by 13 (II) the total rated capacity (ex14 pressed on a per watt basis) of the 15 completed wind turbine for which such 16 component is designed, 17 (G) in the case of a torque tube, 87 cents 18 per kilogram, 19 (H) in the case of a structural fastener, 20 $2.28 per kilogram, 21 (I) in the case of an inverter, an amount 22 equal to the product of 23 (i) the applicable amount with respect 24 to such inverter (as determined under para25 graph (2)(B)), multiplied by 424  HR 5376 EAS 1 (ii) the capacity of such inverter (ex2 pressed on a per alternating current watt 3 basis), 4 (J) in the case of electrode active mate5 rials, an amount equal to 10 percent of the costs 6 incurred by the taxpayer with respect to produc7 tion of such materials, 8 (K) in the case of a battery cell,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The production tax credit for renewable energy is equal to the product of (A) 4 cents, multiplied by the capacity of the cell (on a per direct current watt basis), (B) $12 per square meter for a photovoltaic wafer, (C) $3 per kilogram for solar grade polysilicon, (D) 40 cents per square meter for a polymeric backsheet, (E) 7 cents multiplied by the capacity of the module (on a per direct current watt basis) for a solar module, (F) 10 percent of the sales price of an offshore wind vessel or the applicable amount determined under paragraph (2)(A) multiplied by the total rated capacity (on a per watt basis) of the completed wind turbine for which the component is designed for a wind energy component, (G) 87 cents per kilogram for a torque tube, (H) $2.28 per kilogram for a structural fastener, (I) the applicable amount determined under paragraph (2)(B) multiplied by the capacity of the inverter (on an alternating current watt basis) for an inverter, and (J) 10 percent of the costs incurred by the taxpayer with respect to production of electrode active materials.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+performance of the duties de10 scribed in subsection (c). 11 (b) TERMS OF AGREEMENT. 12 (1) IN GENERAL. 13 (A) AGREEMENT.An agreement under 14 this section shall require the manufacturer to 15 provide, in accordance with this section, dis16 counted prices for applicable drugs of the manu17 facturer that are dispensed to applicable bene18 ficiaries on or after January 1, 2025. 19 (B) CLARIFICATION.Nothing in this sec20 tion shall be construed as affecting 21 (i) the application of a coinsurance of 22 25 percent of the negotiated price, as ap23 plied under paragraph (2)(A) of section 24 1860D2(b), for costs described in such 25 paragraph; or 171  HR 5376 EAS 1 (ii) the application of the copayment 2 amount described in paragraph (4)(A) of 3 such section, with respect to costs described 4 in such paragraph. 5 (C) TIMING OF AGREEMENT. 6 (i) SPECIAL RULE FOR 2025.In 7 order for an agreement with a manufac8 turer to be in effect under this section with 9 respect to the period beginning on January 10 1, 2025, and ending on December 31, 2025, 11 the manufacturer shall enter into such 12 agreement not later than March 1, 2024. 13 (ii) 2026 AND SUBSEQUENT YEARS. 14 In order for an agreement with a manufac15 turer to be in effect under this section with 16 respect to plan year 2026 or a subsequent 17 plan year, the manufacturer shall enter into 18 such agreement not later than a calendar 19 quarter or semi-annual deadline established 20 by the Secretary. 21 (2) PROVISION OF APPROPRIATE DATA.Each 22 manufacturer with an agreement in effect under this 23 section shall collect and have available appropriate 24 data, as determined by the Secretary, to ensure that 172  HR 5376 EAS 1 it can demonstrate to the Secretary compliance with 2 the requirements under the program. 3 (3) COMPLIANCE WITH REQUIREMENTS FOR AD4 MINISTRATION OF PROGRAM.Each manufacturer 5 with an agreement in effect under this section shall 6 comply with requirements imposed by
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The manufacturer must provide discounted prices for applicable drugs of the manufacturer that are dispensed to applicable beneficiaries on or after January 1, 2025. The manufacturer must also collect and have available appropriate data to ensure that it can demonstrate to the Secretary compliance with the requirements under the program.

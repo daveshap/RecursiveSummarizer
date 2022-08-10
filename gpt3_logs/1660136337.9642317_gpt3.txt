@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+American Rescue Plan Act of 2021.  This section of the bill appropriates $1.8 billion for hazardous fuels reduction projects on National Forest System land within the wildland-urban interface, $200 million for vegetation management projects on National Forest System land, $100 million for environmental reviews by the Forest Service, and $50 million for the protection of old-growth forests on National Forest System land.  The Special Areas; Roadless 7 Area Conservation service (66 Fed. Reg. 3244 (January 12, 2001)), as modified by subparts C and D of part 294 of title 36, Code of Federal Regulations, or any other project carried out on land that is not National Forest System land, including other forested land on Federal, State, Tribal, or private land, that is subject to a non-Federal cost-share requirement. The non-Federal cost-share requirement of a project may be waived at the discretion of the Secretary.  The bill authorizes appropriations for competitive grants to non-federal forest landowners for climate mitigation or forest resilience practices, and for grants to support the participation of underserved Forest landowners in emerging private markets for climate mitigation or forest carbon offset projects.  The bill provides $3.5 billion in funding for programs to support forestry and land management, including resilience to climate change and increased carbon sequestration. The funding is to be used for grants to states, forest landowners, and other eligible entities.  This section authorizes appropriations for fiscal year 2022 for the Forest Legacy Program and the Urban and Community Forestry Assistance program. It also waives the non-Federal cost-share requirement for projects under these programs.  This section authorizes appropriations for the Department of Housing and Urban Development (HUD) to improve energy efficiency, water efficiency, and climate resilience in affordable housing. It also allows HUD to waive certain requirements at the discretion of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The American Rescue Plan Act of 2021 appropriates $1.8 billion for hazardous fuels reduction projects on National Forest System land within the wildland-urban interface, $200 million for vegetation management projects on National Forest System land, $100 million for environmental reviews by the Forest Service, and $50 million for the protection of old-growth forests on National Forest System land. The bill also authorizes appropriations for competitive grants to non-federal forest landowners for climate mitigation or forest resilience practices, and for grants to support the participation of underserved Forest landowners in emerging private markets for climate mitigation or forest carbon offset projects.

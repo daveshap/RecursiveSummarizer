@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and rebate amount described in subparagraphs 18 (A) and (B) of such paragraph for the applicable pe19 riods beginning October 1, 2022, and October 1, 2023, 20 until not later than December 31, 2025. 21 (b) REBATE AMOUNT. 22 (1) IN GENERAL. 23 (A) CALCULATION.For purposes of this 24 section, the amount specified in this subsection 25 for a dosage form and strength with respect to a part D rebatable drug and applicable period is, subject to subparagraph (C), paragraph (5)(B), and paragraph (6), the estimated amount equal to the product of (i) subject to subparagraph (B) of this paragraph, the total number of units of such dosage form and strength for each rebatable covered part D drug dispensed under this part during the applicable period; and (ii) the amount (if any) by which (I) the annual manufacturer price (as determined in paragraph (2)) paid for such dosage form and strength with respect to such part D rebatable drug for the period; exceeds (II) the inflation-adjusted payment amount determined under paragraph (3) for such dosage form and strength with respect to such part D rebatable drug for the period. (B) EXCLUDED UNITS.For purposes of subparagraph (A)(i), beginning with plan year 2026, the Secretary shall exclude from the total number of units for a dosage form and strength with respect to a part D rebatable drug, with respect to an applicable period, units of each dosage form and strength of such part D rebatable drug for which the manufacturer provides a discount under the program under section 340B of the Public Health Service Act. (C) REDUCTION OR WAIVER FOR SHORTAGES AND SEVERE SUPPLY CHAIN DISRUPTIONS.The Secretary shall reduce or waive the amount under subparagraph (A) with  This section of the bill reduces or waives the manufacturer price of a Part D rebatable drug for a period of time if the drug is in short supply or if there is a severe supply chain disruption. The annual manufacturer price is determined by the average manufacturer price for each
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill reduces or waives the manufacturer price of a Part D rebatable drug for a period of time if the drug is in short supply or if there is a severe supply chain disruption. The annual manufacturer price is determined by the average manufacturer price for each dosage form and strength of the drug.

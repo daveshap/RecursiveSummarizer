@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+of any third party with which Contractor has an agreement or duty to keep in confidence information acquired by Contractor, if any, and that Contractor will not bring onto the premises of the Company any unpublished document or proprietary information belonging to such party unless consented to in writing by such party. 2 COMPANY CONFIDENTIAL (e) Return of Materials. Upon the termination of this Agreement, or upon Companys earlier request, Contractor will deliver to the Company all of the Companys property or Confidential Information that Contractor may have in Contractors possession or control. (f) Exception to Confidentiality Obligations. Notwithstanding the confidentiality obligations contained in this Section 2, pursuant to 18 U.S.C. 1833(b), Contractor shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that is made: (i) in confidence to a federal, state, or local government official, either directly
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+1. The contractor will not bring any unpublished documents or proprietary information belonging to a third party onto the premises of the company unless consented to in writing by that party. 2. Upon the termination of this agreement, or at the request of the company, the contractor will deliver to the company all property or confidential information of the company in the contractor's possession. 3. Notwithstanding the confidentiality obligations in this section, the contractor shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that is made: a) in confidence to a federal, state, or local government official, either directly or indirectly, or to an attorney; and b) solely for the purpose of reporting or investigating a suspected violation of law; or is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal.

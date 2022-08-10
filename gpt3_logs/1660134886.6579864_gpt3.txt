@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+para22 graph (8) and inserting paragraphs (8) and 23 (9); 24 (B) in paragraph (2) 230  HR 5376 EAS 1 (i) in subparagraph (A), by striking 2 paragraph (8) and inserting paragraphs 3 (8) and (9); 4 (ii) in subparagraph (C)(i), in the 5 matter preceding subclause (I), by striking 6 and (8) and inserting , (8), and (9); 7 and 8 (iii) in subparagraph (D)(i), in the 9 matter preceding subclause (I), by striking 10 and (8) and inserting , (8), and (9); 11 (C) in paragraph (3)(A), in the matter pre12 ceding clause (i), by striking and (8) and in13 serting (8), and (9); 14 (D) in paragraph (4)(A)(i), by striking 15 paragraph (8) and inserting paragraphs (8) 16 and (9); and 17 (E) by adding at the end the following new 18 paragraph: 19 (9) TREATMENT OF COST-SHARING FOR COV20 ERED INSULIN PRODUCTS. 21 (A) NO APPLICATION OF DEDUCTIBLE. 22 For plan year 2023 and subsequent plan years, 23 the deductible under paragraph (1) shall not 24 apply with respect to any covered insulin prod25 uct. 231  HR 5376 EAS 1 (B) APPLICATION OF COST-SHARING. 2 (i) PLAN YEARS 2023 AND 2024.For 3 plan years 2023 and 2024, the coverage 4 provides benefits for any covered insulin 5 product, regardless of whether an individual 6 has reached the initial coverage limit under 7 paragraph (3) or the out-of-pocket threshold 8 under paragraph (4), with cost-sharing for 9 a months supply that does not exceed the 10 applicable copayment amount. 11 (ii) PLAN YEAR 2025 AND SUBSE12 QUENT PLAN YEARS.For a plan year be13 ginning on or after January 1, 2025, the 14 coverage provides benefits for any covered 15 insulin product, prior to an individual 16 reaching the out-of-pocket threshold under 17 paragraph (4), with cost-sharing for a 18 months supply that does not exceed the ap19 plicable copayment amount. 20 (C) COVERED INSULIN PRODUCT.In this 21 paragraph, the term covered insulin product 22 means an insulin product that is a covered part 23
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill amends the Patient Protection and Affordable Care Act to treat cost-sharing for covered insulin products as meeting the deductible and out-of-pocket requirements for plan years 2023 and 2024. For plan years 2025 and subsequent plan years, cost-sharing for covered insulin products is only required prior to an individual reaching the out-of-pocket threshold.

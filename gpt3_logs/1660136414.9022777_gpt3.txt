@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of corporate climate action commitments and plans to reduce greenhouse gas emissions, as well as enhanced transparency regarding progress toward meeting those commitments and implementing those plans. Additionally, this section authorizes the appropriation of $250,000,000 for the Environmental Protection Agency to develop and carry out a program to support the development, enhanced standardization and transparency, and reporting criteria for environmental product declarations that include measurements of the embodied greenhouse gas emissions of the material or product associated with all relevant stages of production, use, and disposal.  The Environmental Protection Agency is appropriated $850,000,000 for fiscal year 2022 to remain available until September 30, 2028 for grants, rebates, contracts, loans, and other activities related to reducing methane emissions from petroleum and natural gas systems.  The bill would appropriate $700 million for the Environmental Protection Agency to provide financial and technical assistance to owners and operators of facilities that emit greenhouse gases, with a focus on methane emissions. The money would be used to help reduce emissions, improve climate resilience, and support innovation in reducing methane emissions.  This section imposes a charge on methane emissions that exceed an applicable waste emissions threshold from an owner or operator of an applicable facility that reports more than 25,000 metric tons of carbon dioxide equivalent of greenhouse gases emitted per year. The charge amount for an applicable facility shall be equal to the product of the number of metric tons of methane emissions reported for the facility that exceed the applicable annual waste emissions threshold multiplied by $900 for emissions reported for calendar year 2024, $1,200 for emissions reported for calendar year 2025, or $1,500 for emissions reported for calendar year 2026 and thereafter.  The Administrator shall impose and collect the charge on
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill authorizes the appropriation of $250,000,000 for the Environmental Protection Agency to develop and carry out a program to support the development, enhanced standardization and transparency, and reporting criteria for environmental product declarations that include measurements of the embodied greenhouse gas emissions of the material or product associated with all relevant stages of production, use, and disposal. Additionally, the EPA is appropriated $850,000,000 for fiscal year 2022 to remain available until September 30, 2028 for grants, rebates, contracts, loans, and other activities related to reducing methane emissions from petroleum and natural gas systems. This section also imposes a charge on methane emissions that exceed an applicable waste emissions threshold from an owner or operator of an applicable facility that reports more than 25,000 metric tons of carbon dioxide equivalent of greenhouse gases emitted per year.

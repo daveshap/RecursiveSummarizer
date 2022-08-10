@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+an average non-Federal average 5 manufacturer price available for such 6 drug for 2021, for the first full year 7 following the market entry for such 8 drug), increased by the percentage in9 crease in the consumer price index for 10 all urban consumers (all items; United 11 States city average) from September 12 2021 (or December of such first full 13 year following the market entry), as 14 applicable, to September of the year 15 prior to the year of the selected drug 16 publication date with respect to such 17 initial price applicability year; or 18 (II) the average non-Federal av19 erage manufacturer price for such drug 20 for the year prior to the selected drug 21 publication date with respect to such 22 initial price applicability year. 23 (2) PLAN SPECIFIC ENROLLMENT WEIGHTED 24 AMOUNT.For purposes of paragraph (1)(B)(i), the 25 plan specific enrollment weighted amount for a pre- 74  HR 5376 EAS 1 scription drug plan or an MAPD plan with respect 2 to a covered Part D drug is an amount equal to the 3 product of 4 (A) the negotiated price of the drug under 5 such plan under part D of title XVIII, net of all 6 price concessions received by such plan or phar7 macy benefit managers on behalf of such plan, 8 for the most recent year for which data is avail9 able; and 10 (B) a fraction 11 (i) the numerator of which is the total 12 number of individuals enrolled in such plan 13 in such year; and 14 (ii) the denominator of which is the 15 total number of individuals enrolled in a 16 prescription drug plan or an MAPD plan 17 in such year. 18 (3) APPLICABLE PERCENT DESCRIBED.For 19 purposes of this subsection, the applicable percent de20 scribed in this paragraph is the following: 21 (A) SHORT-MONOPOLY DRUGS AND VAC22 CINES.With respect to a selected drug (other 23 than an extended-monopoly drug and a long-mo24 nopoly drug), 75 percent. 75  HR 5376 EAS 1 (B) EXTENDED-MONOPOLY DRUGS.With 2 respect to an extended-monopoly drug, 65 per3 cent. 4
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The average non-Federal manufacturer price for a drug will be increased by the percentage increase in the consumer price index from the year prior to the year of the drug's publication date. The plan specific enrollment weighted amount for a prescription drug plan or an MAPD plan will be the negotiated price of the drug for the most recent year, multiplied by the total number of individuals enrolled in the plan divided by the total number of individuals enrolled in a prescription drug plan or an MAPD plan.

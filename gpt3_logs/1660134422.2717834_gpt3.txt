@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subparagraph: 5 (D) ALTERNATIVE MINIMUM TAXABLE IN6 COME.The term alternative minimum taxable 7 income means the taxable income of the tax8 payer for the taxable year 9 (i) determined with the adjustments 10 provided in section 56 and section 58, and 11 (ii) increased by the amount of the 12 items of tax preference described in section 13 57. 14 If a taxpayer is subject to the regular tax, such 15 taxpayer shall be subject to the tax imposed by 16 this section (and, if the regular tax is determined 17 by reference to an amount other than taxable in18 come, such amount shall be treated as the taxable 19 income of such taxpayer for purposes of the pre20 ceding sentence).. 21 (ii) Section 860E(a)(4) is amended by 22 striking 55(b)(2) and inserting 55(b)(1)(D). 23 (iii) Section 897(a)(2)(A)(i) is amended by 24 striking 55(b)(2) and inserting 55(b)(1)(D). 12  HR 5376 EAS 1 (C) Section 11(d) is amended by striking 2 the tax imposed by subsection (a) and insert3 ing the taxes imposed by subsection (a) and sec4 tion 55. 5 (D) Section 12 is amended by adding at the 6 end the following new paragraph: 7 (5) For alternative minimum tax, see section 8 55.. 9 (E) Section 882(a)(1) is amended by insert10 ing , 55, after section 11. 11 (F) Section 6425(c)(1)(A) is amended to 12 read as follows: 13 (A) the sum of 14 (i) the tax imposed by section 11 or 15 subchapter L of chapter 1, whichever is ap16 plicable, plus 17 (ii) the tax imposed by section 55, 18 plus 19 (iii) the tax imposed by section 59A, 20 over. 21 (G) Section 6655(e)(2) is amended by in22 serting , adjusted financial statement income 23 (as defined in section 56A), before and modi24 fied taxable income each place it appears in 25 subparagraphs (A)(i) and (B)(i). 13  HR 5376 EAS 1 (H) Section 6655(g)(1)(A) is amended by 2 redesignating clauses (ii) and (iii) as clauses 3 (iii) and (iv), respectively, and by inserting after 4 clause (i) the following
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The term "alternative minimum taxable income" means the taxable income of the taxpayer for the taxable year, determined with the adjustments provided in section 56 and section 58, and increased by the amount of the items of tax preference described in section 57. If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).

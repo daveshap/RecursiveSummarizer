@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+grant funds under subsection (a) 18 shall be 75 percent of the total proposed cost of the project, 19 except that such Federal share shall increase to 90 percent 20 of the total proposed cost of the project if the eligible entity 21 is a small hub airport or nonhub airport, as such terms 22 are defined in section 47102 of title 49, United States Code. 23 (d) FUEL EMISSIONS REDUCTION TEST.For pur24 poses of clause (ii) of subsection (e)(7)(E), the Secretary 25 shall, not later than 2 years after the date of enactment 579  HR 5376 EAS 1 of this section, adopt at least 1 methodology for testing 2 lifecycle greenhouse gas emissions that meets the require3 ments of such clause. 4 (e) DEFINITIONS.In this section: 5 (1) ELIGIBLE ENTITY.The term eligible enti6 ty means 7 (A) a State or local government, including 8 the District of Columbia, other than an airport 9 sponsor; 10 (B) an air carrier; 11 (C) an airport sponsor; 12 (D) an accredited institution of higher edu13 cation; 14 (E) a research institution; 15 (F) a person or entity engaged in the pro16 duction, transportation, blending, or storage of 17 sustainable aviation fuel in the United States or 18 feedstocks in the United States that could be used 19 to produce sustainable aviation fuel; 20 (G) a person or entity engaged in the devel21 opment, demonstration, or application of low22 emission aviation technologies; or 23 (H) nonprofit entities or nonprofit con24 sortia with experience in sustainable aviation 580  HR 5376 EAS 1 fuels, low-emission aviation technologies, or other 2 clean transportation research programs. 3 (2) FEEDSTOCK.The term feedstock means 4 sources of hydrogen and carbon not originating from 5 unrefined or refined petrochemicals. 6 (3) INDUCED LAND-USE CHANGE VALUES.The 7 term induced land-use change values means the 8 greenhouse gas emissions resulting from the conver9 sion of land to the production of feedstocks and from 10 the conversion of other land due to the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Federal Aviation Administration Reauthorization Act of 2018 includes provisions for grant funding to promote the development of sustainable aviation fuels and low-emission aviation technologies. The grant funds will cover 75 percent of the total proposed cost of the project, with the possibility of increasing to 90 percent for small hub airports or nonhub airports. The Act also requires the Secretary of Transportation to adopt at least one methodology for testing lifecycle greenhouse gas emissions.

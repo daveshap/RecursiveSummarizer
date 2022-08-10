@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+below the 11 rate described in subparagraph 12 (A) for any period during such 13 year. 14 (ii) DEFICIENCY PROCEDURES NOT TO 15 APPLY.Subchapter B of chapter 63 (relat16 ing to deficiency procedures for income, es17 tate, gift, and certain excise taxes) shall not 18 apply with respect to the assessment or col19 lection of any penalty imposed by this 20 paragraph. 21 (iii) INTENTIONAL DISREGARD.If 22 the Secretary determines that any failure 23 described in clause (i) is due to intentional 24 disregard of the requirements under sub- 248  HR 5376 EAS 1 paragraph (A), such clause shall be ap2 plied 3 (I) in subclause (I), by sub4 stituting three times the sum for the 5 sum, and 6 (II) in subclause (II), by sub7 stituting $10,000 for 5,000 in item 8 (aa) thereof. 9 (iv) LIMITATION ON PERIOD FOR PAY10 MENT.Pursuant to rules issued by the 11 Secretary, in the case of a final determina12 tion by the Secretary with respect to any 13 failure by the taxpayer to satisfy the re14 quirement under subparagraph (A), sub15 paragraph (B)(i) shall not apply unless the 16 payments described in subclauses (I) and 17 (II) of such subparagraph are made by the 18 taxpayer on or before the date which is 180 19 days after the date of such determination. 20 (8) APPRENTICESHIP REQUIREMENTS.The re21 quirements described in this paragraph with respect 22 to the construction of any qualified facility are as fol23 lows: 24 (A) LABOR HOURS. 249  HR 5376 EAS 1 (i) PERCENTAGE OF TOTAL LABOR 2 HOURS.Taxpayers shall ensure that, with 3 respect to the construction of any qualified 4 facility, not less than the applicable per5 centage of the total labor hours of the con6 struction, alteration, or repair work (in7 cluding such work performed by any con8 tractor or subcontractor) with respect to 9 such facility shall, subject to subparagraph 10 (B), be performed by qualified apprentices. 11 (ii) APPLICABLE PERCENTAGE.For 12 purposes of clause (i), the applicable per13
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Building and Renovation Tax Relief Act imposes a penalty on taxpayers who fail to meet the apprenticeship requirements for construction of qualified facilities. The penalty is equal to 3% of the construction costs of the qualified facility.

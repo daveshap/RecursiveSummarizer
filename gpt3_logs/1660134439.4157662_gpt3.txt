@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+include any item of income in connection with 2 a mortgage servicing contract any earlier than 3 when such income is included in gross income 4 under any other provision of this chapter. 5 (B) RULES FOR AMOUNTS NOT REP6 RESENTING REASONABLE COMPENSATION.The 7 Secretary shall provide regulations to prevent the 8 avoidance of taxes imposed by this chapter with 9 respect to amounts not representing reasonable 10 compensation (as determined by the Secretary) 11 with respect to a mortgage servicing contract. 12 (11) ADJUSTMENT WITH RESPECT TO DEFINED 13 BENEFIT PENSIONS. 14 (A) IN GENERAL.Except as otherwise 15 provided in rules prescribed by the Secretary in 16 regulations or other guidance, adjusted financial 17 statement income shall be 18 (i) adjusted to disregard any amount 19 of income, cost, or expense that would other20 wise be included on the applicable financial 21 statement in connection with any covered 22 benefit plan, 23 (ii) increased by any amount of in24 come in connection with any such covered 25 benefit plan that is included in the gross in- 21  HR 5376 EAS 1 come of the corporation under any other 2 provision of this chapter, and 3 (iii) reduced by deductions allowed 4 under any other provision of this chapter 5 with respect to any such covered benefit 6 plan. 7 (B) COVERED BENEFIT PLAN.For pur8 poses of this paragraph, the term covered benefit 9 plan means 10 (i) a defined benefit plan (other than 11 a multiemployer plan described in section 12 414(f)) if the trust which is part of such 13 plan is an employees trust described in sec14 tion 401(a) which is exempt from tax under 15 section 501(a), 16 (ii) any qualified foreign plan (as de17 fined in section 404A(e)), or 18 (iii) any other defined benefit plan 19 which provides post-employment benefits 20 other than pension benefits. 21 (12) TAX-EXEMPT ENTITIES.In the case of an 22 organization subject to tax under section 511, ad23 justed financial statement income
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the code deals with the taxation of income from mortgage servicing contracts. It stipulates that such income may not be included in gross income under any other provision of the code until it is actually received. Additionally, the Secretary of the Treasury is authorized to promulgate regulations to prevent the avoidance of taxes on amounts not representing reasonable compensation for services rendered under the contract. Finally, this section provides for special adjustments to be made to income from defined benefit pension plans for tax purposes.

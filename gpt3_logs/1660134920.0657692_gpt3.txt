@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+15 qualified facility if such taxpayer has re16 quested qualified apprentices from a reg17 istered apprenticeship program, as defined 18 in section 3131(e)(3)(B), and 19 (I) such request has been denied, 20 provided that such denial is not the re21 sult of a refusal by the taxpayer or any 22 contractors or subcontractors engaged 23 in the performance of construction, al24 teration, or repair work with respect to 25 such qualified facility to comply with 252  HR 5376 EAS 1 the established standards and require2 ments of the registered apprenticeship 3 program, or 4 (II) the registered apprenticeship 5 program fails to respond to such re6 quest within 5 business days after the 7 date on which such registered appren8 ticeship program received such request. 9 (iii) INTENTIONAL DISREGARD.If 10 the Secretary determines that any failure 11 described in subclause (i)(II) is due to in12 tentional disregard of the requirements 13 under subparagraphs (A) and (C), subclause 14 (i)(II) shall be applied by substituting 15 $500 for $50 in item (aa) thereof. 16 (E) DEFINITIONS.For purposes of this 17 paragraph 18 (i) LABOR HOURS.The term labor 19 hours 20 (I) means the total number of 21 hours devoted to the performance of 22 construction, alteration, or repair work 23 by any individual employed by the 24 taxpayer or by any contractor or sub25 contractor, and 253  HR 5376 EAS 1 (II) excludes any hours worked 2 by 3 (aa) foremen, 4 (bb) superintendents, 5 (cc) owners, or 6 (dd) persons employed in a 7 bona fide executive, administra8 tive, or professional capacity 9 (within the meaning of those 10 terms in part 541 of title 29, Code 11 of Federal Regulations). 12 (ii) QUALIFIED APPRENTICE.The 13 term qualified apprentice means an indi14 vidual who is employed by the taxpayer or 15 by any contractor or subcontractor and who 16 is participating in a registered apprentice17 ship program, as defined in section 18 3131(e)(3)(B). 19 (9)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The 15 qualified facility tax credit is available to taxpayers who have requested qualified apprentices from a registered apprenticeship program, and have been denied, provided that such denial is not the result of a refusal by the taxpayer or any contractors or subcontractors engaged in the performance of construction, alteration, or repair work with respect to such qualified facility to comply with the established standards and requirements of the registered apprenticeship program. If the Secretary determines that any failure is due to intentional disregard of the requirements, the credit shall be applied by substituting $500 for $50.

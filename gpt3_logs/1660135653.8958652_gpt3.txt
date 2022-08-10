@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+D of title III of the Energy Policy and Con16 servation Act (42 U.S.C. 6321 through 6326) in ac17 cordance with subsection (c). 18 (b) LATEST BUILDING ENERGY CODE.The Secretary 19 shall use funds made available under subsection (a)(1) for 20 grants to assist States, and units of local government that 21 have authority to adopt building codes 22 (1) to adopt 23 (A) a building energy code (or codes) for 24 residential buildings that meets or exceeds the 25 2021 International Energy Conservation Code, 26 or achieves equivalent or greater energy savings; 607  HR 5376 EAS 1 (B) a building energy code (or codes) for 2 commercial buildings that meets or exceeds the 3 ANSI/ASHRAE/IES Standard 90.12019, or 4 achieves equivalent or greater energy savings; or 5 (C) any combination of building energy 6 codes described in subparagraph (A) or (B); and 7 (2) to implement a plan for the jurisdiction to 8 achieve full compliance with any building energy code 9 adopted under paragraph (1) in new and renovated 10 residential or commercial buildings, as applicable, 11 which plan shall include active training and enforce12 ment programs and measurement of the rate of com13 pliance each year. 14 (c) ZERO ENERGY CODE.The Secretary shall use 15 funds made available under subsection (a)(2) for grants to 16 assist States, and units of local government that have au17 thority to adopt building codes 18 (1) to adopt a building energy code (or codes) for 19 residential and commercial buildings that meets or 20 exceeds the zero energy provisions in the 2021 Inter21 national Energy Conservation Code or an equivalent 22 stretch code; and 23 (2) to implement a plan for the jurisdiction to 24 achieve full compliance with any building energy code 25 adopted under paragraph (1) in new and renovated 608  HR 5376 EAS 1 residential and commercial buildings, which plan 2 shall include active training and enforcement pro3 grams and measurement of the rate of compliance 4 each year. 5 (d) STATE
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy and Conservation Act provides funding for grants to assist States and units of local government in adopting and implementing building energy codes. The codes must meet or exceed the 2021 International Energy Conservation Code for residential buildings, the ANSI/ASHRAE/IES Standard 90.12019 for commercial buildings, or achieve equivalent or greater energy savings. The codes must also meet the zero energy provisions in the 2021 International Energy Conservation Code for both residential and commercial buildings. The plan for full compliance with the code must include active training and enforcement programs, as well as measurement of the rate of compliance each year.

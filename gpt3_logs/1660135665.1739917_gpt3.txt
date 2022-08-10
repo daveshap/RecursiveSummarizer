@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+$25,000,000,000 in. 3 SEC. 50143. DOMESTIC MANUFACTURING CONVERSION 4 GRANTS. 5 (a) APPROPRIATION.In addition to amounts other6 wise available, there is appropriated to the Secretary for 7 fiscal year 2022, out of any money in the Treasury not 8 otherwise appropriated, $2,000,000,000, to remain avail9 able through September 30, 2031, to provide grants for do10 mestic production of efficient hybrid, plug-in electric hy11 brid, plug-in electric drive, and hydrogen fuel cell electric 12 vehicles, in accordance with section 712 of the Energy Pol13 icy Act of 2005 (42 U.S.C. 16062). 14 (b) COST SHARE.The Secretary shall require a re15 cipient of a grant provided under subsection (a) to provide 16 not less than 50 percent of the cost of the project carried 17 out using the grant. 18 (c) ADMINISTRATIVE COSTS.The Secretary shall re19 serve not more than 3 percent of amounts made available 20 under subsection (a) for administrative costs of making 21 grants described in such subsection (a) pursuant to section 22 712 of the Energy Policy Act of 2005 (42 U.S.C. 16062). 614  HR 5376 EAS 1 SEC. 50144. ENERGY INFRASTRUCTURE REINVESTMENT FI2 NANCING. 3 (a) APPROPRIATION.In addition to amounts other4 wise available, there is appropriated to the Secretary for 5 fiscal year 2022, out of any money in the Treasury not 6 otherwise appropriated, $5,000,000,000, to remain avail7 able through September 30, 2026, to carry out activities 8 under section 1706 of the Energy Policy Act of 2005. 9 (b) COMMITMENT AUTHORITY.The Secretary may 10 make, through September 30, 2026, commitments to guar11 antee loans for projects under section 1706 of the Energy 12 Policy Act of 2005 the total principal amount of which is 13 not greater than $250,000,000,000, subject to the limita14 tions that apply to loan guarantees under section 50141(d). 15 (c) ENERGY INFRASTRUCTURE REINVESTMENT FI16 NANCING.Title XVII of the Energy Policy Act of 2005 is 17 amended by inserting after section 1705 (42 U.S.C.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section appropriates $2 billion for grants to encourage domestic production of efficient hybrid and electric vehicles, and $5 billion for energy infrastructure projects. It also allows the Secretary to guarantee loans for energy infrastructure projects up to $250 billion.

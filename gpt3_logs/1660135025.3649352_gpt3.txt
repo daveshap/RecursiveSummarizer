@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+tricity produced by such facility) and 2 sold to an unrelated person during 3 such taxable year, over 4 (II) the amount equal to the 5 product of 6 (aa) 2.5 cents, multiplied 7 by 8 (bb) the amount determined 9 under subsection (a)(1)(B). 10 (B) TREATMENT OF CERTAIN RECEIPTS. 11 (i) IN GENERAL.Subject to clause 12 (iii), the amount determined under sub13 paragraph (A)(ii)(I) shall include any 14 amount received by the taxpayer during the 15 taxable year with respect to the qualified 16 nuclear power facility from a zero-emission 17 credit program. For purposes of deter18 mining the amount received during such 19 taxable year, the taxpayer shall take into 20 account any reductions required under such 21 program. 22 (ii) ZERO-EMISSION CREDIT PRO23 GRAM.For purposes of this subparagraph, 24 the term zero-emission credit program 25 means any payments with respect to a 308  HR 5376 EAS 1 qualified nuclear power facility as a result 2 of any Federal, State or local government 3 program for, in whole or in part, the zero4 emission, zero-carbon, or air quality at5 tributes of any portion of the electricity 6 produced by such facility. 7 (iii) EXCLUSION.For purposes of 8 clause (i), any amount received by the tax9 payer from a zero-emission credit program 10 shall be excluded from the amount deter11 mined under subparagraph (A)(ii)(I) if the 12 full amount of the credit calculated pursu13 ant to subsection (a) (determined without 14 regard to this subparagraph) is used to re15 duce payments from such zero-emission 16 credit program. 17 (3) ELECTRICITY.For purposes of this section, 18 the term electricity means the energy produced by a 19 qualified nuclear power facility from the conversion of 20 nuclear fuel into electric power. 21 (c) OTHER RULES. 22 (1) INFLATION ADJUSTMENT.The 0.3 cent 23 amount in subsection (a)(1)(A) and the 2.5 cent 24 amount in subsection (b)(2)(A)(ii)(II)(aa) shall each 25 be adjusted by multiplying such amount by the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Nuclear Energy Production Tax Credit is a tax credit for taxpayers who produce electricity from nuclear power facilities. The credit is equal to 0.3 cents per kilowatt hour of electricity produced, and is capped at $125 million per year. The credit is available for facilities that come into operation after December 31, 2020.

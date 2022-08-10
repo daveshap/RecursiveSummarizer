@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+pursuant to subsection (a) 7 which the Secretary determines constitutes an ex8 cessive credit transfer, the tax imposed on the 9 transferee taxpayer by chapter 1 (regardless of 10 whether such entity would otherwise be subject to 11 tax under such chapter) for the taxable year in 12 which such determination is made shall be in13 creased by an amount equal to the sum of 14 (i) the amount of such excessive credit 15 transfer, plus 16 (ii) an amount equal to 20 percent of 17 such excessive credit transfer. 18 (B) REASONABLE CAUSE.Subparagraph 19 (A)(ii) shall not apply if the transferee taxpayer 20 demonstrates to the satisfaction of the Secretary 21 that the excessive credit transfer resulted from 22 reasonable cause. 23 (C) EXCESSIVE CREDIT TRANSFER DE24 FINED.For purposes of this paragraph, the 25 term excessive credit transfer means, with re- 529  HR 5376 EAS 1 spect to a facility or property for which an elec2 tion is made under subsection (a) for any tax3 able year, an amount equal to the excess of 4 (i) the amount of the eligible credit 5 claimed by the transferee taxpayer with re6 spect to such facility or property for such 7 taxable year, over 8 (ii) the amount of such credit which, 9 without application of this section, would be 10 otherwise allowable under this title with re11 spect to such facility or property for such 12 taxable year. 13 (3) BASIS REDUCTION; NOTIFICATION OF RE14 CAPTURE.In the case of any election under sub15 section (a) with respect to any portion of an eligible 16 credit described in clauses (ix) through (xi) of sub17 section (f)(1)(A) 18 (A) subsection (c) of section 50 shall apply 19 to the applicable investment credit property (as 20 defined in subsection (a)(5) of such section) as if 21 such eligible credit was allowed to the eligible 22 taxpayer, and 23 (B) if, during any taxable year, the appli24 cable investment credit property (as defined in 25 subsection (a)(5) of section 50) is disposed of, or 530 
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The tax imposed on a transferee taxpayer for an excessive credit transfer shall be increased by the amount of the transfer plus 20 percent. This does not apply if the transferee taxpayer demonstrates to the satisfaction of the Secretary that the excessive credit transfer resulted from reasonable cause.

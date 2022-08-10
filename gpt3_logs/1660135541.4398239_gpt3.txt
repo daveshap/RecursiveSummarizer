@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+any other funds available to the Sec7 retary to satisfy obligations initially made under this 8 section. 9 (c) CONFORMING AMENDMENTS. 10 (1) Section 1240B of the Food Security Act of 11 1985 (16 U.S.C. 3839aa2) is amended 12 (A) in subsection (a), by striking 2023 13 and inserting 2031; and 14 (B) in subsection (f)(2)(B) 15 (i) in the subparagraph heading, by 16 striking 2023 and inserting 2031; and 17 (ii) by striking 2023 and inserting 18 2031. 19 (2) Section 1240H of the Food Security Act of 20 1985 (16 U.S.C. 3839aa8) is amended by striking 21 2023 each place it appears and inserting 2031. 22 (3) Section 1240J(a) of the Food Security Act of 23 1985 (16 U.S.C. 3839aa22(a)) is amended, in the 24 matter preceding paragraph (1), by striking 2023 25 and inserting 2031. 544  HR 5376 EAS 1 (4) Section 1240L(h)(2)(A) of the Food Security 2 Act of 1985 (16 U.S.C. 3839aa24(h)(2)(A)) is 3 amended by striking 2023 and inserting 2031. 4 (5) Section 1241 of the Food Security Act of 5 1985 (16 U.S.C. 3841) is amended 6 (A) in subsection (a) 7 (i) in the matter preceding paragraph 8 (1), by striking 2023 and inserting 9 2031; 10 (ii) in paragraph (2)(F), by striking 11 2023 and inserting 2031; and 12 (iii) in paragraph (3), by striking fis13 cal year 2023 each place it appears and 14 inserting each of fiscal years 2023 through 15 2031; 16 (B) in subsection (b), by striking 2023 17 and inserting 2031; and 18 (C) in subsection (h) 19 (i) in paragraph (1)(B), in the sub20 paragraph heading, by striking 2023 and 21 inserting 2031; and 22 (ii) by striking 2023 each place it 23 appears and inserting 2031. 545  HR 5376 EAS 1 (6) Section 1244(n)(3)(A) of the Food Security 2 Act of 1985 (16 U.S.C. 3844(n)(3)(A)) is amended by 3 striking 2023 and inserting 2031. 4 (7) Section 1271D(a) of the Food Security Act of 5 1985 (16 U.S.C. 3871d(a)) is amended by striking 6 2023
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Food Security Act of 1985 to extend the Secretary's authority to make obligations initially under the Act through 2031. It also makes conforming amendments to various other sections of the Act.

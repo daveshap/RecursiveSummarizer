@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Act), and 8 (2) placed such vehicle in service on or after the 9 date of enactment of this Act, 10 such taxpayer may elect (at such time, and in such form 11 and manner, as the Secretary of the Treasury, or the Sec12 retarys delegate, may prescribe) to treat such vehicle as 13 having been placed in service on the day before the date 14 of enactment of this Act. 15 SEC. 13402. CREDIT FOR PREVIOUSLY-OWNED CLEAN VEHI16 CLES. 17 (a) IN GENERAL.Subpart A of part IV of subchapter 18 A of chapter 1 is amended by inserting after section 25D 19 the following new section: 20 SEC. 25E. PREVIOUSLY-OWNED CLEAN VEHICLES. 21 (a) ALLOWANCE OF CREDIT.In the case of a quali22 fied buyer who during a taxable year places in service a 23 previously-owned clean vehicle, there shall be allowed as a 24 credit against the tax imposed by this chapter for the tax25 able year an amount equal to the lesser of 395  HR 5376 EAS 1 (1) $4,000, or 2 (2) the amount equal to 30 percent of the sale 3 price with respect to such vehicle. 4 (b) LIMITATION BASED ON MODIFIED ADJUSTED 5 GROSS INCOME. 6 (1) IN GENERAL.No credit shall be allowed 7 under subsection (a) for any taxable year if 8 (A) the lesser of 9 (i) the modified adjusted gross income 10 of the taxpayer for such taxable year, or 11 (ii) the modified adjusted gross in12 come of the taxpayer for the preceding tax13 able year, exceeds 14 (B) the threshold amount. 15 (2) THRESHOLD AMOUNT.For purposes of 16 paragraph (1)(B), the threshold amount shall be 17 (A) in the case of a joint return or a sur18 viving spouse (as defined in section 2(a)), 19 $150,000, 20 (B) in the case of a head of household (as 21 defined in section 2(b)), $112,500, and 22 (C) in the case of a taxpayer not described 23 in subparagraph (A) or (B), $75,000. 24 (3) MODIFIED ADJUSTED GROSS INCOME.For 25 purposes of this subsection, the term modified ad- 396  HR 5376 EAS 1 justed gross income means adjusted gross income in2 creased by
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill allows a tax credit for qualified buyers who purchase a previously-owned clean vehicle. The credit is equal to the lesser of $4,000 or 30% of the sale price of the vehicle, and is subject to a modified adjusted gross income limitation.

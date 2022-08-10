@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+(collectively, Work Product) and all intellectual property and associated rights therein and thereto are the sole property of the Company. Contractor does hereby assign fully to the Company all Work Product and any copyrights, patents, or other intellectual property rights relating thereto. Contractor hereby waives any and all rights of attribution, moral rights and similar rights wherever existing in and to any of the foregoing. (b) Further Assurances. Contractor agrees to assist Company, or its designee, at the Companys expense, in every proper way to secure the Companys rights in the Work Product and any copyrights, patents, mask work rights or other intellectual property rights relating thereto in any and all countries, including the disclosure to the Company of all pertinent information and data with respect thereto, the execution of all applications, specifications, oaths, assignments and all other instruments which the Company shall deem necessary in order to apply for and
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Work Product and all intellectual property rights therein and thereto are the sole property of the Company. The Contractor hereby assigns all Work Product and any copyrights, patents, or other intellectual property rights relating thereto to the Company. The Contractor hereby waives any and all rights of attribution, moral rights and similar rights wherever existing in and to any of the foregoing. Further, the Contractor agrees to assist the Company, or its designee, at the Company's expense, in every proper way to secure the Company's rights in the Work Product and any copyrights, patents, mask work rights or other intellectual property rights relating thereto in any and all countries. This assistance includes the disclosure of all pertinent information and data to the Company, as well as the execution of all applications, specifications, oaths, assignments and other instruments which the Company deems necessary in order to apply for and secure such rights.

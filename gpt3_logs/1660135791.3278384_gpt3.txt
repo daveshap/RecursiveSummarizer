@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+greenhouse gas means the air pollutants 19 carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, 20 perfluorocarbons, and sulfur hexafluoride. 21 SEC. 60107. LOW EMISSIONS ELECTRICITY PROGRAM. 22 The Clean Air Act is amended by inserting after sec23 tion 134 of such Act, as added by section 60103 of this Act, 24 the following: 677  HR 5376 EAS 1 SEC. 135. LOW EMISSIONS ELECTRICITY PROGRAM. 2 (a) APPROPRIATION.In addition to amounts other3 wise available, there is appropriated to the Administrator 4 for fiscal year 2022, out of any money in the Treasury not 5 otherwise appropriated, to remain available until Sep6 tember 30, 2031 7 (1) $17,000,000 for consumer-related education 8 and partnerships with respect to reductions in green9 house gas emissions that result from domestic elec10 tricity generation and use; 11 (2) $17,000,000 for education, technical assist12 ance, and partnerships within low-income and dis13 advantaged communities with respect to reductions in 14 greenhouse gas emissions that result from domestic 15 electricity generation and use; 16 (3) $17,000,000 for industry-related outreach, 17 technical assistance, and partnerships with respect to 18 reductions in greenhouse gas emissions that result 19 from domestic electricity generation and use; 20 (4) $17,000,000 for outreach and technical as21 sistance to, and partnerships with, State, Tribal, and 22 local governments with respect to reductions in green23 house gas emissions that result from domestic elec24 tricity generation and use; 25 (5) $1,000,000 to assess, not later than 1 year 26 after the date of enactment of this section, the reduc- 678  HR 5376 EAS 1 tions in greenhouse gas emissions that result from 2 changes in domestic electricity generation and use 3 that are anticipated to occur on an annual basis 4 through fiscal year 2031; and 5 (6) $18,000,000 to ensure that reductions in 6 greenhouse gas emissions are achieved through use of 7 the existing authorities
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Clean Air Act authorizes appropriations for a Low Emissions Electricity Program to reduce greenhouse gas emissions from domestic electricity generation and use. The Program will fund consumer and industry outreach and education, technical assistance and partnerships with state, tribal and local governments, and assessment of anticipated reductions in emissions.

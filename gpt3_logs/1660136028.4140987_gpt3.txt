@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+deduction is subject to regulations and other guidance issued by the Treasury Department.  The Tax Cuts and Jobs Act amends the tax code to provide a credit for corporations that have paid or accrued income, war profits, and excess profits taxes to any foreign country or possession of the United States. The credit is available for taxable years beginning after December 31, 2017, and before January 1, 2026. The credit is equal to the lesser of the amount of taxes paid or accrued, or the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i). The credit is carryoverable for five succeeding taxable years.  The excise tax on repurchase of corporate stock under the new chapter 37 of subtitle D of the Internal Revenue Code shall be 1 percent of the fair market value of any stock of the corporation which is repurchased by such corporation during the taxable year. A "covered corporation" is any domestic corporation the stock of which is traded on an established securities market. "Repurchase" means a redemption within the meaning of section 317(b) with regard to the stock of a covered corporation, and any transaction treated as a redemption for purposes of section 302.  The acquisition of stock of a covered corporation by a specified affiliate of such covered corporation, from a person who is not the covered corporation or a specified affiliate of such covered corporation, shall be treated as a repurchase of the stock of the covered corporation by such covered corporation.  This section of the bill deals with the treatment of foreign corporations for the purposes of the repurchase of stock by a covered corporation. A covered corporation is defined as a corporation that has either moved its headquarters out of the United States or has merged with a foreign corporation. A specified affiliate of a foreign corporation is also treated as a covered corporation for the purposes of this section. The adjustment under
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act amends the tax code to provide a credit for corporations that have paid or accrued income, war profits, and excess profits taxes to any foreign country or possession of the United States. The credit is available for taxable years beginning after December 31, 2017, and before January 1, 2026. The credit is equal to the lesser of the amount of taxes paid or accrued, or the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i). The credit is carryoverable for five succeeding taxable years. In addition, the excise tax on repurchase of corporate stock under the new chapter 37 of subtitle D of the Internal Revenue Code shall be 1 percent of the fair market value of any stock of the corporation which is repurchased by such corporation during the taxable year. This section of the bill deals with the treatment of foreign corporations for the purposes of the repurchase of stock by a covered corporation.

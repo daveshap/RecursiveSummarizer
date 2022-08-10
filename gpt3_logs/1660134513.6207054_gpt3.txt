@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a qualifying single source drug satisfies 9 any of the criteria described in paragraph (1) or 10 (2), the Secretary shall use data that is aggre11 gated across dosage forms and strengths of the 12 drug, including new formulations of the drug, 13 such as an extended release formulation, and not 14 based on the specific formulation or package size 15 or package type of the drug. 16 (e) QUALIFYING SINGLE SOURCE DRUG. 17 (1) IN GENERAL.For purposes of this part, 18 the term qualifying single source drug means, with 19 respect to an initial price applicability year, subject 20 to paragraphs (2) and (3), a covered part D drug (as 21 defined in section 1860D2(e)) that is described in 22 any of the following or a drug or biological product 23 for which payment may be made under part B of title 24 XVIII that is described in any of the following: 25 (A) DRUG PRODUCTS.A drug 58  HR 5376 EAS 1 (i) that is approved under section 2 505(c) of the Federal Food, Drug, and Cos3 metic Act and is marketed pursuant to such 4 approval; 5 (ii) for which, as of the selected drug 6 publication date with respect to such initial 7 price applicability year, at least 7 years 8 will have elapsed since the date of such ap9 proval; and 10 (iii) that is not the listed drug for 11 any drug that is approved and marketed 12 under section 505(j) of such Act. 13 (B) BIOLOGICAL PRODUCTS.A biological 14 product 15 (i) that is licensed under section 16 351(a) of the Public Health Service Act and 17 is marketed under section 351 of such Act; 18 (ii) for which, as of the selected drug 19 publication date with respect to such initial 20 price applicability year, at least 11 years 21 will have elapsed since the date of such li22 censure; and 23 (iii) that is not the reference product 24 for any biological product that is licensed 59  HR 5376 EAS 1 and marketed under section 351(k) of such 2 Act. 3 (2) TREATMENT OF AUTHORIZED GENERIC 4 DRUGS. 5 (A) IN GENERAL.In the case of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "Qualifying Single Source Drug" is a term used by the Centers for Medicare and Medicaid Services (CMS) to denote a covered Part D drug that meets any of the criteria described in paragraphs (1) or (2) of section 1860D-4(e) of the Social Security Act. A drug that meets the criteria in paragraph (1) is a drug that is approved by the FDA under section 505(c) of the Federal Food, Drug, and Cosmetic Act and has been on the market for at least seven years. A drug that meets the criteria in paragraph (2) is a biological product that is licensed by the FDA under section 351(a) of the Public Health Service Act and has been on the market for at least eleven years.

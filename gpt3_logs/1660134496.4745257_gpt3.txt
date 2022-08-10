@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+such initial price 2 applicability year (and the renegotiation process under 3 such section as applicable for any subsequent year during 4 the applicable price applicability period). 5 (b) SELECTION OF DRUGS. 6 (1) IN GENERAL.In carrying out subsection 7 (a), subject to paragraph (2), the Secretary shall, 8 with respect to an initial price applicability year, do 9 the following: 10 (A) Rank negotiation-eligible drugs de11 scribed in subsection (d)(1) according to the total 12 expenditures for such drugs under parts B and 13 D of title XVIII, as determined by the Secretary, 14 during the most recent period of 12 months prior 15 to the selected drug publication date (but ending 16 not later than October 31 of the year prior to the 17 year of such drug publication date), with respect 18 to such year, for which data are available, with 19 the negotiation-eligible drugs with the highest 20 total expenditures being ranked the highest. 21 (B) Select from such ranked drugs with re22 spect to such year the negotiation-eligible drugs 23 with the highest such rankings. 24 (2) HIGH SPEND PART D DRUGS FOR 2026 AND 25 2027.With respect to the initial price applicability 51  HR 5376 EAS 1 year 2026 and with respect to the initial price appli2 cability year 2027, the Secretary shall apply para3 graph (1) as if the reference to negotiation-eligible 4 drugs described in subsection (d)(1) were a reference 5 to negotiation-eligible drugs described in subsection 6 (d)(1)(A) and as if the reference to total expendi7 tures for such drugs under parts B and D of title 8 XVIII were a reference to total expenditures for such 9 drugs under part D of title XVIII. 10 (c) SELECTED DRUG. 11 (1) IN GENERAL.For purposes of this part, in 12 accordance with subsection (e)(2) and subject to para13 graph (2), each negotiation-eligible drug included on 14 the list published under subsection (a) with respect to 15 an initial price applicability year shall be referred to 16 as a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services will rank negotiation-eligible drugs according to total expenditures for the drugs under Medicare parts B and D during a 12-month period, with the highest-ranked drugs being selected for negotiation. For initial price applicability years 2026 and 2027, the ranking and selection process will be applied only to drugs covered under Medicare part D.

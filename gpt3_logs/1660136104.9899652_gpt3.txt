@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+calendar quarter of the applicable period, multiplied by the total number of units of the drug reported for that quarter.  The benchmark manufacturer price for a rebatable drug is determined by the average manufacturer price for the drug in the payment amount benchmark period, increased by the percentage by which the CPIU for the period exceeds the benchmark period CPIU. For drugs first approved or licensed after October 1, 2021, the payment amount benchmark period is the first calendar year after the drug is first marketed.  This section establishes a formula for determining the rebate amount and inflation-adjusted payment amount for certain drugs. The formula is applied as if the CPIU were defined as if the reference to January 2021 were a reference to January of the first year after the date on which the drug was first marketed. For drugs that are line extensions of other drugs, the formula is applied consistent with the formula used for determining rebate obligations under section 1927. For selected drugs that are no longer considered selected drugs, the payment amount benchmark period is the last year during the price applicability period.  This section of the bill requires drug manufacturers to provide rebates to the Medicare program for certain drugs dispensed to Medicare beneficiaries. The rebates are based on the difference between the drug's price and a benchmark price. If a manufacturer does not provide the required rebate, they may be subject to a civil money penalty.  The manufacturer shall be subject to a civil money penalty in an amount equal to 125 percent of the amount specified in subsection (b) for such drug for such period. The provisions of section 1128A shall apply to a civil money penalty under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1128A(a). There shall be no administrative or judicial review of any of the following: (1) The determination of units under this section. (2) The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill requires drug manufacturers to provide rebates to the Medicare program for certain drugs dispensed to Medicare beneficiaries. The rebates are based on the difference between the drug's price and a benchmark price. If a manufacturer does not provide the required rebate, they may be subject to a civil money penalty.

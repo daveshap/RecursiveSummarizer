@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the construction of which 2 begins during the third calendar year following 3 the applicable year, 50 percent, and 4 (D) for a facility the construction of which 5 begins during any calendar year subsequent to 6 the calendar year described in subparagraph (C), 7 0 percent. 8 (3) APPLICABLE YEAR.For purposes of this 9 subsection, the term applicable year means the later 10 of 11 (A) the calendar year in which the Sec12 retary determines that the annual greenhouse gas 13 emissions from the production of electricity in 14 the United States are equal to or less than 25 15 percent of the annual greenhouse gas emissions 16 from the production of electricity in the United 17 States for calendar year 2022, or 18 (B) 2032. 19 (e) DEFINITIONS.For purposes of this section: 20 (1) CO2e PER KWh.The term CO2e per KWh 21 means, with respect to any greenhouse gas, the equiv22 alent carbon dioxide (as determined based on global 23 warming potential) per kilowatt hour of electricity 24 produced. 457  HR 5376 EAS 1 (2) GREENHOUSE GAS.The term greenhouse 2 gas has the same meaning given such term under sec3 tion 211(o)(1)(G) of the Clean Air Act (42 U.S.C. 4 7545(o)(1)(G)), as in effect on the date of the enact5 ment of this section. 6 (3) QUALIFIED CARBON DIOXIDE.The term 7 qualified carbon dioxide means carbon dioxide cap8 tured from an industrial source which 9 (A) would otherwise be released into the 10 atmosphere as industrial emission of greenhouse 11 gas, 12 (B) is measured at the source of capture 13 and verified at the point of disposal or utiliza14 tion, and 15 (C) is captured and disposed or utilized 16 within the United States (within the meaning of 17 section 638(1)) or a possession of the United 18 States (within the meaning of section 638(2)). 19 (f) GUIDANCE.Not later than January 1, 2025, the 20 Secretary shall issue guidance regarding implementation of 21 this section, including calculation of greenhouse gas emis22 sion rates
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "Greenhouse Gas Emission Reduction for New and Existing Power Plants" rule, issued by the U.S. Environmental Protection Agency (EPA) in 2015, requires power plants to reduce their greenhouse gas emissions by a certain percentage below a baseline emissions rate. The rule applies to new, modified, and existing power plants and sets different targets for each category. For new power plants, the target is a greenhouse gas emission rate that is no more than 1,000 pounds of CO2e per megawatt-hour (MWh) of electricity produced. For existing coal-fired power plants, the target is a reduction of at least 32 percent below the baseline emissions rate. The rule also requires power plants to meet an interim emissions reduction target of 30 percent below the baseline by 2030.

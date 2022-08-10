@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+other provider of services or sup6 plier, an individual who is enrolled under part 7 B of title XVIII, including an individual who is 8 enrolled in an MA plan under part C of such 9 title, if payment may be made under part B for 10 such selected drug. 11 (3) MAXIMUM FAIR PRICE.The term max12 imum fair price means, with respect to a year dur13 ing a price applicability period and with respect to 14 a selected drug (as defined in section 1192(c)) with 15 respect to such period, the price negotiated pursuant 16 to section 1194, and updated pursuant to section 17 1195(b), as applicable, for such drug and year. 18 (4) REFERENCE PRODUCT.The term reference 19 product has the meaning given such term in section 20 351(i) of the Public Health Service Act. 21 (5) TOTAL EXPENDITURES.The term total ex22 penditures includes, in the case of expenditures with 23 respect to part D of title XVIII, the total gross covered 24 prescription drug costs (as defined in section 1860D 25 15(b)(3)). The term total expenditures excludes, in 46  HR 5376 EAS 1 the case of expenditures with respect to part B of such 2 title, expenditures for a drug or biological product 3 that are bundled or packaged into the payment for 4 another service. 5 (6) UNIT.The term unit means, with respect 6 to a drug or biological product, the lowest identifiable 7 amount (such as a capsule or tablet, milligram of 8 molecules, or grams) of the drug or biological product 9 that is dispensed or furnished. 10 (d) TIMING FOR INITIAL PRICE APPLICABILITY YEAR 11 2026.Notwithstanding the provisions of this part, in the 12 case of initial price applicability year 2026, the following 13 rules shall apply for purposes of implementing the program: 14 (1) Subsection (b)(3) shall be applied by sub15 stituting September 1, 2023 for , with respect to 16 each initial price applicability year, February 1 of 17 the year that begins 2 years prior to such year. 18 (2) Subsection (b)(4) shall be applied
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes a new program to negotiate drug prices on behalf of Medicare Part B and D enrollees, and sets the maximum fair price for a selected drug at the price negotiated by the program. The program will be implemented in 2026.

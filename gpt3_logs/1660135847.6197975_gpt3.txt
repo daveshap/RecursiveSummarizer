@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Neighborhood access and equity grant pro13 gram 14 (a) IN GENERAL.In addition to amounts otherwise 15 available, there is appropriated for fiscal year 2022, out 16 of any money in the Treasury not otherwise appropriated, 17 $1,893,000,000, to remain available until September 30, 18 2026, to the Administrator of the Federal Highway Admin19 istration for competitive grants to eligible entities described 20 in subsection (b) 21 (1) to improve walkability, safety, and afford22 able transportation access through projects that are 23 context-sensitive 24 (A) to remove, remediate, or reuse a facil25 ity described in subsection (c)(1); 705  HR 5376 EAS 1 (B) to replace a facility described in sub2 section (c)(1) with a facility that is at-grade or 3 lower speed; 4 (C) to retrofit or cap a facility described 5 in subsection (c)(1); 6 (D) to build or improve complete streets, 7 multiuse trails, regional greenways, or active 8 transportation networks and spines; or 9 (E) to provide affordable access to essential 10 destinations, public spaces, or transportation 11 links and hubs; 12 (2) to mitigate or remediate negative impacts 13 on the human or natural environment resulting from 14 a facility described in subsection (c)(2) in a dis15 advantaged or underserved community through 16 (A) noise barriers to reduce impacts result17 ing from a facility described in subsection (c)(2); 18 (B) technologies, infrastructure, and ac19 tivities to reduce surface transportation-related 20 greenhouse gas emissions and other air pollution; 21 (C) natural infrastructure, pervious, per22 meable, or porous pavement, or protective fea23 tures to reduce or manage stormwater run-off re24 sulting from a facility described in subsection 25 (c)(2); 706  HR 5376 EAS 1 (D) infrastructure and natural features to 2 reduce or mitigate urban heat island hot spots in 3 the transportation right-of-way or on surface 4 transportation facilities; or 5 (E) safety improvements for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Neighborhood Access and Equity Grant Program provides funding to improve walkability, safety, and affordable transportation access through projects that are context-sensitive and remove, remediate, or reuse facilities described in subsection (c)(1). The program also provides funding to mitigate or remediate negative impacts on the human or natural environment resulting from a facility described in subsection (c)(2) in a disadvantaged or underserved community.

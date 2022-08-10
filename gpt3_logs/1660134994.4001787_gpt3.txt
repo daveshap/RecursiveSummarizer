@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+apply with respect to any property 6 which is placed in service after the date that 7 is 4 years after the date of the allocation 8 with respect to the facility of which such 9 property is a part. 10 (ii) APPLICATION OF CARRYOVER. 11 Any amount of environmental justice solar 12 and wind capacity limitation which expires 13 under clause (i) during any calendar year 14 shall be taken into account as an excess de15 scribed in subparagraph (D) (or as an in16 crease in such excess) for such calendar 17 year, subject to the limitation imposed by 18 the last sentence of such subparagraph. 19 (5) RECAPTURE.The Secretary shall, by regu20 lations or other guidance, provide for recapturing the 21 benefit of any increase in the credit allowed under 22 subsection (a) by reason of this subsection with re23 spect to any property which ceases to be property eli24 gible for such increase (but which does not cease to be 25 investment credit property within the meaning of sec- 291  HR 5376 EAS 1 tion 50(a)). The period and percentage of such recap2 ture shall be determined under rules similar to the 3 rules of section 50(a). To the extent provided by the 4 Secretary, such recapture may not apply with respect 5 to any property if, within 12 months after the date 6 the taxpayer becomes aware (or reasonably should 7 have become aware) of such property ceasing to be 8 property eligible for such increase, the eligibility of 9 such property for such increase is restored. The pre10 ceding sentence shall not apply more than once with 11 respect to any facility.. 12 (b) EFFECTIVE DATE.The amendments made by this 13 section shall take effect on January 1, 2023. 14 SEC. 13104. EXTENSION AND MODIFICATION OF CREDIT 15 FOR CARBON OXIDE SEQUESTRATION. 16 (a) MODIFICATION OF CARBON OXIDE CAPTURE RE17 QUIREMENTS. 18 (1) IN GENERAL.Section 45Q(d) is amended to 19 read as follows: 20 (d) QUALIFIED FACILITY.For purposes of this sec21 tion, the term qualified facility means any industrial
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amendments made by this section extend and modify the credit for carbon dioxide sequestration. The credit is now available for carbon capture requirements at qualified facilities, which are defined as any industrial gasification facility, any integrated gasification combined cycle facility, or any other industrial facility designated by the Secretary. The credit is also available for carbon capture at qualified facilities that are not part of a designated project.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+determination of the 15 lifecycle greenhouse gas emissions rate with re16 spect to such hydrogen. 17 (3) QUALIFIED CLEAN HYDROGEN PRODUCTION 18 FACILITY.The term qualified clean hydrogen pro19 duction facility means a facility 20 (A) owned by the taxpayer, 21 (B) which produces qualified clean hydro22 gen, and 23 (C) the construction of which begins before 24 January 1, 2033. 25 (d) SPECIAL RULES. 327  HR 5376 EAS 1 (1) TREATMENT OF FACILITIES OWNED BY 2 MORE THAN 1 TAXPAYER.Rules similar to the rules 3 section 45(e)(3) shall apply for purposes of this sec4 tion. 5 (2) COORDINATION WITH CREDIT FOR CARBON 6 OXIDE SEQUESTRATION.No credit shall be allowed 7 under this section with respect to any qualified clean 8 hydrogen produced at a facility which includes car9 bon capture equipment for which a credit is allowed 10 to any taxpayer under section 45Q for the taxable 11 year or any prior taxable year. 12 (e) INCREASED CREDIT AMOUNT FOR QUALIFIED 13 CLEAN HYDROGEN PRODUCTION FACILITIES. 14 (1) IN GENERAL.In the case of any qualified 15 clean hydrogen production facility which satisfies the 16 requirements of paragraph (2), the amount of the 17 credit determined under subsection (a) with respect to 18 qualified clean hydrogen described in subsection 19 (b)(2) shall be equal to such amount (determined 20 without regard to this sentence) multiplied by 5. 21 (2) REQUIREMENTS.A facility meets the re22 quirements of this paragraph if it is one of the fol23 lowing: 24 (A) A facility 328  HR 5376 EAS 1 (i) the construction of which begins 2 prior to the date that is 60 days after the 3 Secretary publishes guidance with respect to 4 the requirements of paragraphs (3)(A) and 5 (4), and 6 (ii) which meets the requirements of 7 paragraph (3)(A) with respect to alteration 8 or repair of such facility which occurs after 9 such date. 10 (B) A facility which satisfies the require11 ments of paragraphs (3)(A) and (4). 12 (3) PREVAILING WAGE
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "qualified clean hydrogen production facility" tax credit is available for facilities that produce qualified clean hydrogen, with a credit amount equal to the determined 15 lifecycle greenhouse gas emissions rate multiplied by 5. The construction of the facility must begin before January 1, 2033.

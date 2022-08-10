@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+purposes of providing financial and tech2 nical assistance to owners and operators of applicable 3 facilities to prepare and submit greenhouse gas re4 ports under subpart W of part 98 of title 40, Code of 5 Federal Regulations; 6 (2) for grants, rebates, contracts, loans, and 7 other activities of the Environmental Protection Agen8 cy authorized under subsections (a) through (c) of sec9 tion 103 for methane emissions monitoring; 10 (3) for grants, rebates, contracts, loans, and 11 other activities of the Environmental Protection Agen12 cy for the purposes of providing financial and tech13 nical assistance to reduce methane and other green14 house gas emissions from petroleum and natural gas 15 systems, mitigate legacy air pollution from petroleum 16 and natural gas systems, and provide funding for 17 (A) improving climate resiliency of com18 munities and petroleum and natural gas sys19 tems; 20 (B) improving and deploying industrial 21 equipment and processes that reduce methane 22 and other greenhouse gas emissions and waste; 23 (C) supporting innovation in reducing 24 methane and other greenhouse gas emissions and 25 waste from petroleum and natural gas systems; 687  HR 5376 EAS 1 (D) permanently shutting in and plugging 2 wells on non-Federal land; 3 (E) mitigating health effects of methane 4 and other greenhouse gas emissions, and legacy 5 air pollution from petroleum and natural gas 6 systems in low-income and disadvantaged com7 munities; and 8 (F) supporting environmental restoration; 9 and 10 (4) to cover all direct and indirect costs re11 quired to administer this section, prepare inventories, 12 gather empirical data, and track emissions. 13 (b) INCENTIVES FOR METHANE MITIGATION FROM 14 CONVENTIONAL WELLS.In addition to amounts otherwise 15 available, there is appropriated to the Administrator for fis16 cal year 2022, out of any money in the Treasury not other17 wise appropriated, $700,000,000, to remain available until 18 September
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill would appropriate $700 million for the Environmental Protection Agency to provide financial and technical assistance to owners and operators of facilities that emit greenhouse gases, with a focus on methane emissions. The money would be used to help reduce emissions, improve climate resilience, and support innovation in reducing methane emissions.

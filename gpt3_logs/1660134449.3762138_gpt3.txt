@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+term quali23 fied wireless spectrum means wireless spectrum 24 which 24  HR 5376 EAS 1 (i) is used in the trade or business of 2 a wireless telecommunications carrier, and 3 (ii) was acquired after December 31, 4 2007, and before the date of enactment of 5 this section. 6 (15) SECRETARIAL AUTHORITY TO ADJUST 7 ITEMS.The Secretary shall issue regulations or other 8 guidance to provide for such adjustments to adjusted 9 financial statement income as the Secretary deter10 mines necessary to carry out the purposes of this sec11 tion, including adjustments 12 (A) to prevent the omission or duplication 13 of any item, and 14 (B) to carry out the principles of part II 15 of subchapter C of this chapter (relating to cor16 porate liquidations), part III of subchapter C of 17 this chapter (relating to corporate organizations 18 and reorganizations), and part II of subchapter 19 K of this chapter (relating to partnership con20 tributions and distributions). 21 (d) DEDUCTION FOR FINANCIAL STATEMENT NET OP22 ERATING LOSS. 23 (1) IN GENERAL.Adjusted financial statement 24 income (determined after application of subsection (c) 25  HR 5376 EAS 1 and without regard to this subsection) shall be re2 duced by an amount equal to the lesser of 3 (A) the aggregate amount of financial 4 statement net operating loss carryovers to the 5 taxable year, or 6 (B) 80 percent of adjusted financial state7 ment income computed without regard to the de8 duction allowable under this subsection. 9 (2) FINANCIAL STATEMENT NET OPERATING 10 LOSS CARRYOVER.A financial statement net oper11 ating loss for any taxable year shall be a financial 12 statement net operating loss carryover to each taxable 13 year following the taxable year of the loss. The por14 tion of such loss which shall be carried to subsequent 15 taxable years shall be the amount of such loss remain16 ing (if any) after the application of paragraph (1). 17 (3) FINANCIAL STATEMENT NET OPERATING 18 LOSS
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "qualified wireless spectrum" refers to the wireless spectrum that is used in the trade or business of a wireless telecommunications carrier, and which was acquired after December 31, 2007, and before the date of enactment of this section. The deduction for financial statement net operating loss is the lesser of the aggregate amount of financial statement net operating loss carryovers to the taxable year, or 80 percent of adjusted financial statement income computed without regard to the deduction allowable under this subsection.

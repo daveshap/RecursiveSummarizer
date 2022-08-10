@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+specified drug means, with re24 spect to a specified manufacturer, 25 for 2021, an applicable drug that 182  HR 5376 EAS 1 is produced, prepared, propa2 gated, compounded, converted, or 3 processed by the manufacturer. 4 (bb) AGGREGATION RULE. 5 All persons treated as a single em6 ployer under subsection (a) or (b) 7 of section 52 of the Internal Rev8 enue Code of 1986 shall be treated 9 as one manufacturer for purposes 10 of this subparagraph. For pur11 poses of making a determination 12 pursuant to the previous sentence, 13 an agreement under this section 14 shall require that a manufacturer 15 provide and attest to such infor16 mation as specified by the Sec17 retary as necessary. 18 (III) LIMITATION.The term 19 specified manufacturer shall not in20 clude a manufacturer described in sub21 clause (I) if such manufacturer is ac22 quired after 2021 by another manufac23 turer that is not a specified manufac24 turer, effective at the beginning of the 25 plan year immediately following such 183  HR 5376 EAS 1 acquisition or, in the case of an acqui2 sition before 2025, effective January 1, 3 2025. 4 (iii) SPECIFIED LIS PERCENT.In 5 this subparagraph, the specified LIS per6 cent means, with respect to a year 7 (I) for an applicable drug dis8 pensed for an applicable beneficiary 9 described in clause (i) who has not in10 curred costs, as determined in accord11 ance with section 1860D2(b)(4)(C), 12 for covered part D drugs in the year 13 that are equal to or exceed the annual 14 out-of-pocket threshold specified in sec15 tion 1860D2(b)(4)(B)(i) for the 16 year 17 (aa) for 2025, 99 percent; 18 (bb) for 2026, 98 percent; 19 (cc) for 2027, 95 percent; 20 (dd) for 2028, 92 percent; 21 and 22 (ee) for 2029 and each sub23 sequent year, 90 percent; and 24 (II) for an applicable drug dis25 pensed for an applicable beneficiary 184  HR 5376 EAS 1 described in clause (i) who has in2 curred costs, as determined in accord3 ance with section
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "specified drug" for a given manufacturer is defined as an applicable drug produced, prepared, propagated, compounded, converted, or processed by that manufacturer. For the purposes of this section, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as one manufacturer. A manufacturer described in this clause shall not be considered a "specified manufacturer" if such manufacturer is acquired after 2021 by another manufacturer that is not a specified manufacturer. The "specified LIS percent" is the percentage of applicable drugs dispensed to low-income subsidy (LIS) beneficiaries that are produced by specified manufacturers.

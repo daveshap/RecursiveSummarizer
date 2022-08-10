@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+rural electric cooperatives in the form of loans and other financial assistance to reduce carbon dioxide, methane, and nitrous oxide emissions associated with rural electric systems. There is a limit of 10 percent of the total amount available for each eligible entity.  This section of the bill appropriates $2,200,000,000 for a program to provide financial assistance to farmers, ranchers, or Forest landowners who experienced discrimination prior to January 1, 2021, in Department of Agriculture farm lending programs. The funds are to be used for administrative costs, including training employees, of the agencies and offices of the Department of Agriculture to carry out this section. This section also repeals Section 1005 of the Consolidated Farm and Rural Development Act.  The American Rescue Plan Act of 2021 appropriates $1.8 billion for hazardous fuels reduction projects on National Forest System land within the wildland-urban interface, $200 million for vegetation management projects on National Forest System land, $100 million for environmental reviews by the Forest Service, and $50 million for the protection of old-growth forests on National Forest System land. The bill also authorizes appropriations for competitive grants to non-federal forest landowners for climate mitigation or forest resilience practices, and for grants to support the participation of underserved Forest landowners in emerging private markets for climate mitigation or forest carbon offset projects.  This section provides for the appropriation of $4 billion to subsidize loans for energy efficiency, water efficiency, and climate resilience projects for eligible properties. Additionally, the National Oceanic and Atmospheric Administration is appropriated $2.6 billion for fiscal year 2022 to provide funding to coastal states, the District of Columbia, Tribal Governments, nonprofit organizations, local governments, and institutions of higher education to invest in coastal communities and climate
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $2,200,000,000 for a program to provide financial assistance to farmers, ranchers, or forest landowners who experienced discrimination prior to January 1, 2021, in Department of Agriculture farm lending programs. The funds are to be used for administrative costs, including training employees, of the agencies and offices of the Department of Agriculture to carry out this section. This section also repeals Section 1005 of the Consolidated Farm and Rural Development Act.

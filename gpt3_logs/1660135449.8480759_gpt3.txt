@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+10 paragraph (2) shall be applied 11 (i) in the case of fuel produced at a 12 qualified facility described in paragraph 13 (2)(A), by substituting 35 cents for 20 14 cents, and 15 (ii) in the case of fuel produced at a 16 qualified facility described in paragraph 17 (2)(B), by substituting $1.75 for $1.00. 18 (B) SUSTAINABLE AVIATION FUEL.For 19 purposes of this subparagraph (A), the term sus20 tainable aviation fuel means liquid fuel, the 21 portion of which is not kerosene, which is sold 22 for use in an aircraft and which 23 (i) meets the requirements of 24 (I) ASTM International Stand25 ard D7566, or 493  HR 5376 EAS 1 (II) the Fischer Tropsch provi2 sions of ASTM International Standard 3 D1655, Annex A1, and 4 (ii) is not derived from palm fatty 5 acid distillates or petroleum. 6 (4) SALE.For purposes of paragraph (1), the 7 transportation fuel is sold in a manner described in 8 this paragraph if such fuel is sold by the taxpayer to 9 an unrelated person 10 (A) for use by such person in the produc11 tion of a fuel mixture, 12 (B) for use by such person in a trade or 13 business, or 14 (C) who sells such fuel at retail to another 15 person and places such fuel in the fuel tank of 16 such other person. 17 (5) ROUNDING.If any amount determined 18 under paragraph (1) is not a multiple of 1 cent, such 19 amount shall be rounded to the nearest cent. 20 (b) EMISSIONS FACTORS. 21 (1) EMISSIONS FACTOR. 22 (A) CALCULATION. 23 (i) IN GENERAL.The emissions fac24 tor of a transportation fuel shall be an 25 amount equal to the quotient of 494  HR 5376 EAS 1 (I) an amount equal to 2 (aa) 50 kilograms of CO2e 3 per mmBTU, minus 4 (bb) the emissions rate for 5 such fuel, divided by 6 (II) 50 kilograms of CO2e per 7 mmBTU. 8 (B) ESTABLISHMENT OF EMISSIONS 9 RATE. 10 (i) IN GENERAL.Subject to clauses 11 (ii) and (iii), the Secretary shall annually 12 publish a table which sets forth the emis13 sions rate for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes the emissions factor for transportation fuels. The emissions factor is the amount of CO2e emitted per mmBTU of fuel. The emissions rate for each fuel is established by the Secretary and published in a table annually.

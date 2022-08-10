@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+during the 180-day 14 exclusivity period, as those terms are 15 defined in section 505(j)(5)(B)(iv) of 16 the Federal Food, Drug, and Cosmetic 17 Act; and 18 (IV) the manufacturer is not a 19 first approved applicant for a com20 petitive generic therapy, as that term 21 is defined in section 505(j)(5)(B)(v) of 22 the Federal Food, Drug, and Cosmetic 23 Act; or 24 (iii) a biological licensed under sec25 tion 351 of the Public Health Service Act. 159  HR 5376 EAS 1 (2) UNIT.The term unit means, with respect 2 to a part D rebatable drug, the lowest dispensable 3 amount (such as a capsule or tablet, milligram of 4 molecules, or grams) of the part D rebatable drug, as 5 reported under section 1927. 6 (3) PAYMENT AMOUNT BENCHMARK PERIOD. 7 The term payment amount benchmark period means 8 the period beginning January 1, 2021, and ending in 9 the month immediately prior to October 1, 2021. 10 (4) BENCHMARK PERIOD CPIU.The term 11 benchmark period CPIU means the consumer price 12 index for all urban consumers (United States city av13 erage) for January 2021. 14 (5) APPLICABLE PERIOD CPIU.The term ap15 plicable period CPIU means, with respect to an ap16 plicable period, the consumer price index for all 17 urban consumers (United States city average) for the 18 first month of such applicable period. 19 (6) AVERAGE MANUFACTURER PRICE.The 20 term average manufacturer price has the meaning, 21 with respect to a part D rebatable drug of a manufac22 turer, given such term in section 1927(k)(1), with re23 spect to a covered outpatient drug of a manufacturer 24 for a rebate period under section 1927. 160  HR 5376 EAS 1 (7) APPLICABLE PERIOD.The term applicable 2 period means a 12-month period beginning with Oc3 tober 1 of a year (beginning with October 1, 2022). 4 (h) IMPLEMENTATION FOR 2022, 2023, AND 2024. 5 The Secretary shall implement this section for 2022, 2023, 6 and 2024 by program instruction or other forms of program 7
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes a new rebate program for Part D drugs, to be implemented in 2022, 2023, and 2024. Under the program, manufacturers of Part D drugs will be required to pay rebates to the Secretary if the price of the drug increases faster than inflation.

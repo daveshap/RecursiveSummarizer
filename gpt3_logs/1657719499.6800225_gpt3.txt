@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+dissolution, mental or physical incapacity, or for any other reason, to secure Contractors signature to apply for or to pursue any application or registration for any United States or foreign patents, copyright or other formal intellectual 3 COMPANY CONFIDENTIAL property protection covering the Work Product assigned to the Company above, then Contractor hereby irrevocably designates and appoints the Company and its duly authorized officers and agents as Contractors agent and attorney-infact, to act for and in Contractors behalf and stead to execute and file any such applications and to do all other lawfully permitted acts to further the prosecution and issuance of patents, copyright registrations and other formal intellectual property protections thereon with the same legal force and effect as if executed by Contractor. 4. WARRANTIES (a) Contractor Warranty. Contractor shall perform the obligations described herein in a good and workmanlike manner with due diligence and in full
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+1. The contractor will perform the work assigned to them in a good and workmanlike manner, with due diligence, and in full compliance with all applicable laws. 2. If the contractor is unable, for any reason, to secure their signature on an application or registration for a patent, copyright, or other formal intellectual property protection, they hereby irrevocably designate and appoint the company and its duly authorized officers and agents as their agent and attorney-in-fact, to act for and in their behalf and stead to execute and file any such applications and to do all other lawfully permitted acts to further the prosecution and issuance of patents, copyright registrations, and other formal intellectual property protections thereon with the same legal force and effect as if executed by the contractor. 3. The contractor warrants that they will perform their obligations described herein in a good and workmanlike manner with due diligence and in full compliance with all applicable laws.

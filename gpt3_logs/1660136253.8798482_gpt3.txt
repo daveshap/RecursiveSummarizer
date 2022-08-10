@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+module, (F) 10 percent of the sales price of an offshore wind vessel or the applicable amount determined under paragraph (2)(A) multiplied by the total rated capacity (on a per watt basis) of the completed wind turbine for which the component is designed for a wind energy component, (G) 87 cents per kilogram for a torque tube, (H) $2.28 per kilogram for a structural fastener, (I) the applicable amount determined under paragraph (2)(B) multiplied by the capacity of the inverter (on an alternating current watt basis) for an inverter, and (J) 10 percent of the costs incurred by the taxpayer with respect to production of electrode active materials.  The Energy Improvement and Extension Act of 2008 provides for a tax credit for certain renewable energy components, including wind energy components, inverters, and battery cells and modules. The credit is phased out after December 31, 2029.  This section establishes a tax credit for the production of certain renewable energy components and critical minerals. Eligible components include solar energy components, wind energy components, inverters, qualifying battery components, and applicable critical minerals. The credit is phased out over time, with the phase out percentage equal to 75 percent for components sold in 2030, 50 percent for components sold in 2031, and 25 percent for components sold in 2032. The credit is not available for any property produced at a facility if the basis of any property which is part of such facility is taken into account for any other credit.  The Credit for Renewable Energy Investments Act of 2009 allows a credit for solar energy investments. The credit is available for inverters, central inverters, commercial inverters, distributed wind inverters, and microinverters.  The Solar Energy Component Tax Credit is a tax credit for solar energy components used in residential or commercial solar energy systems. The credit is for up to 30% of the cost of the solar energy components, and is capped at
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Improvement and Extension Act of 2008 provides for a tax credit for certain renewable energy components, including wind energy components, inverters, and battery cells and modules. The credit is phased out after December 31, 2029. The Credit for Renewable Energy Investments Act of 2009 allows a credit for solar energy investments. The credit is available for inverters, central inverters, commercial inverters, distributed wind inverters, and microinverters. The Solar Energy Component Tax Credit is a tax credit for solar energy components used in residential or commercial solar energy systems. The credit is for up to 30% of the cost of the solar energy components, and is capped at $2,000.

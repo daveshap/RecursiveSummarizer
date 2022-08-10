@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+clean fuel production credit 12 determined under section 45Z(a). 13 (ix) The energy credit determined 14 under section 48. 15 (x) The qualifying advanced energy 16 project credit determined under section 48C. 17 (xi) The clean electricity investment 18 credit determined under section 48E. 19 (B) ELECTION FOR CERTAIN CREDITS.In 20 the case of any eligible credit described in clause 21 (ii), (iii), (v), or (vii) of subparagraph (A), an 22 election under subsection (a) shall be made 23 (i) separately with respect to each fa24 cility for which such credit is determined, 25 and 527  HR 5376 EAS 1 (ii) for each taxable year during the 2 10-year period beginning on the date such 3 facility was originally placed in service (or, 4 in the case of the credit described in clause 5 (iii), for each year during the 12-year pe6 riod beginning on the date the carbon cap7 ture equipment was originally placed in 8 service at such facility). 9 (C) EXCEPTION FOR BUSINESS CREDIT 10 CARRYFORWARDS OR CARRYBACKS.The term 11 eligible credit shall not include any business 12 credit carryforward or business credit carryback 13 determined under section 39. 14 (2) ELIGIBLE TAXPAYER.The term eligible 15 taxpayer means any taxpayer which is not described 16 in section 6417(d)(1)(A). 17 (g) SPECIAL RULES.For purposes of this section 18 (1) ADDITIONAL INFORMATION.As a condition 19 of, and prior to, any transfer of any portion of an 20 eligible credit pursuant to subsection (a), the Sec21 retary may require such information (including, in 22 such form or manner as is determined appropriate by 23 the Secretary, such information returns) or registra24 tion as the Secretary deems necessary for purposes of 528  HR 5376 EAS 1 preventing duplication, fraud, improper payments, or 2 excessive payments under this section. 3 (2) EXCESSIVE CREDIT TRANSFER. 4 (A) IN GENERAL.In the case of any por5 tion of an eligible credit which is transferred to 6 a transferee taxpayer
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section allows for the transfer of certain tax credits relating to clean energy production to eligible taxpayers. The eligible credits include the clean fuel production credit, the energy credit, the qualifying advanced energy project credit, and the clean electricity investment credit. In order to transfer the credit, the taxpayer must provide the Secretary with such information or registration as the Secretary deems necessary to prevent duplication, fraud, improper payments, or excessive payments. If a transferee taxpayer receives an excessive credit transfer, the transferee taxpayer shall be liable for a penalty equal to the greater of $10,000 or 10 percent of the excessive credit transfer.

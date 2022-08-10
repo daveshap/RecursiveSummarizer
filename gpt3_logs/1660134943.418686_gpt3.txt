@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+January 1, 2024 and inserting January 1, 2035. 17 (c) PHASEOUT OF CREDIT.Section 48(a) is amended 18 by striking paragraphs (6) and (7) and inserting the fol19 lowing new paragraph: 20 (6) PHASEOUT FOR CERTAIN ENERGY PROP21 ERTY.In the case of any qualified fuel cell property, 22 qualified small wind property, or energy property de23 scribed in clause (i) or clause (ii) of paragraph (3)(A) 24 the construction of which begins after December 31, 25 2019, and which is placed in service before January 264  HR 5376 EAS 1 1, 2022, the energy percentage determined under 2 paragraph (2) shall be equal to 26 percent.. 3 (d) BASE ENERGY PERCENTAGE AMOUNT; PHASEOUT 4 OF CERTAIN ENERGY PROPERTY. 5 (1) BASE ENERGY PERCENTAGE AMOUNT.Sec6 tion 48(a) is amended 7 (A) in paragraph (2)(A) 8 (i) in clause (i), by striking 30 per9 cent and inserting 6 percent, and 10 (ii) in clause (ii), by striking 10 per11 cent and inserting 2 percent, and 12 (B) in paragraph (5)(A)(ii), by striking 13 30 percent and inserting 6 percent. 14 (2) PHASEOUT OF CERTAIN ENERGY PROP15 ERTY.Section 48(a), as amended by the preceding 16 provisions of this Act, is amended by adding at the 17 end the following new paragraph: 18 (7) PHASEOUT FOR CERTAIN ENERGY PROP19 ERTY.In the case of any energy property described 20 in clause (vii) of paragraph (3)(A), the energy per21 centage determined under paragraph (2) shall be 22 equal to 23 (A) in the case of any property the con24 struction of which begins before January 1, 265  HR 5376 EAS 1 2033, and which is placed in service after De2 cember 31, 2021, 6 percent, 3 (B) in the case of any property the con4 struction of which begins after December 31, 5 2032, and before January 1, 2034, 5.2 percent, 6 and 7 (C) in the case of any property the con8 struction of which begins after December 31, 9 2033, and before January 1, 2035, 4.4 percent.. 10 (e) 6 PERCENT CREDIT FOR GEOTHERMAL.Section 11 48(a)(2)(A)(i)(II)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends section 48(a) of the Internal Revenue Code to phase out the credit for certain energy property and to reduce the credit for qualified fuel cell property, qualified small wind property, and energy property described in clause (i) or (ii) of paragraph (3)(A).

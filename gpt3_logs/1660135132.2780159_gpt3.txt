@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+year 17 which includes the date of the qualifying final certifi18 cation with respect to the qualified retrofit plan of 19 such building, an amount equal to the lesser of 20 (A) the excess described in subsection (b) 21 (determined by substituting energy use inten22 sity for total annual energy and power costs in 23 paragraph (2) thereof), or 24 (B) the aggregate adjusted basis (deter25 mined after taking into account all adjustments 361  HR 5376 EAS 1 with respect to such taxable year other than the 2 reduction under subsection (e)) of energy efficient 3 building retrofit property placed in service by 4 the taxpayer pursuant to such qualified retrofit 5 plan. 6 (2) QUALIFIED RETROFIT PLAN.For purposes 7 of this subsection, the term qualified retrofit plan 8 means a written plan prepared by a qualified profes9 sional which specifies modifications to a building 10 which, in the aggregate, are expected to reduce such 11 buildings energy use intensity by 25 percent or more 12 in comparison to the baseline energy use intensity of 13 such building. Such plan shall provide for a qualified 14 professional to 15 (A) as of any date during the 1-year pe16 riod ending on the date on which the property 17 installed pursuant to such plan is placed in serv18 ice, certify the energy use intensity of such build19 ing as of such date, 20 (B) certify the status of property installed 21 pursuant to such plan as meeting the require22 ments of subparagraphs (B) and (C) of para23 graph (3), and 24 (C) as of any date that is more than 1 25 year after the date on which the property in- 362  HR 5376 EAS 1 stalled pursuant to such plan is placed in serv2 ice, certify the energy use intensity of such build3 ing as of such date. 4 (3) ENERGY EFFICIENT BUILDING RETROFIT 5 PROPERTY.For purposes of this subsection, the term 6 energy efficient building retrofit property means 7 property 8 (A) with respect to which depreciation (or 9 amortization in lieu of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Efficient Buildings Retrofit Tax Credit allows taxpayers to claim a credit for retrofitting their buildings to improve energy efficiency. The credit is equal to the lesser of the excess energy use intensity or the aggregate adjusted basis of the energy efficient building retrofit property placed in service. The property must be certified by a qualified professional as meeting the requirements of the qualified retrofit plan.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and in accordance with subsections (b), (c), and (d), the 17 Secretary and the manufacturer 18 (1) shall during the negotiation period with re19 spect to such drug, in accordance with this section, 20 negotiate a maximum fair price for such drug for the 21 purpose described in section 1193(a)(1); and 22 (2) renegotiate, in accordance with the process 23 specified pursuant to subsection (f), such maximum 24 fair price for such drug for the purpose described in 68  HR 5376 EAS 1 section 1193(a)(2) if such drug is a renegotiation-eli2 gible drug under such subsection. 3 (b) NEGOTIATION PROCESS REQUIREMENTS. 4 (1) METHODOLOGY AND PROCESS.The Sec5 retary shall develop and use a consistent methodology 6 and process, in accordance with paragraph (2), for 7 negotiations under subsection (a) that aims to achieve 8 the lowest maximum fair price for each selected drug. 9 (2) SPECIFIC ELEMENTS OF NEGOTIATION 10 PROCESS.As part of the negotiation process under 11 this section, with respect to a selected drug and the 12 negotiation period with respect to the initial price 13 applicability year with respect to such drug, the fol14 lowing shall apply: 15 (A) SUBMISSION OF INFORMATION.Not 16 later than March 1 of the year of the selected 17 drug publication date, with respect to the selected 18 drug, the manufacturer of the drug shall submit 19 to the Secretary, in accordance with section 20 1193(a)(4), the information described in such 21 section. 22 (B) INITIAL OFFER BY SECRETARY.Not 23 later than the June 1 following the selected drug 24 publication date, the Secretary shall provide the 25 manufacturer of the selected drug with a written 69  HR 5376 EAS 1 initial offer that contains the Secretarys pro2 posal for the maximum fair price of the drug 3 and a concise justification based on the factors 4 described in section 1194(e) that were used in de5 veloping such offer. 6 (C) RESPONSE TO INITIAL OFFER. 7 (i) IN GENERAL.Not later than 30 8 days after
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services shall negotiate a maximum fair price for a selected drug with the manufacturer during the negotiation period. If the drug is a renegotiation-eligible drug, the Secretary shall renegotiate the maximum fair price for the drug during the renegotiation period.

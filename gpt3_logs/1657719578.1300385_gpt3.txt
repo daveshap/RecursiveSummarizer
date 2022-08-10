@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+documents with original signatures. [signature page follows] 6 COMPANY CONFIDENTIAL IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written. Company: Contractor: Quantified Communications, Inc. By: ____________________________ _____________________________________ Print Name: Print Name: Title: Date: ___________________________ Date: ____________________________ Address: Address: ____________________________ ____________________________ 7 COMPANY CONFIDENTIAL EXHIBIT A SERVICES AND COMPENSATION 1. Services. Contractor will render to the Company the following Services: [FILL IN] In addition, Contractor agrees that it will from time to time during the term of this Agreement or any extension thereof keep the Company advised as to Contractors progress in performing the Services hereunder and that Contractor will, as requested by the Company, prepare written reports with respect thereto. 2. Compensation. $[ ] per hour with an agreed
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+1. Services. The contractor will provide the following services to the company: [FILL IN]. In addition, the contractor agrees to keep the company updated on its progress in performing the services, and to prepare written reports as requested by the company. 2. Compensation. The contractor will be paid $[ ] per hour, with an agreed-upon maximum of $[ ] for the entire project. 3. Term. This agreement will begin on [DATE] and end on [DATE], unless extended by mutual agreement of the parties. 4. Confidentiality. The contractor agrees to keep all information regarding the company's business confidential and not to disclose it to any third party. 5. Assignment. The contractor may not assign any rights or obligations under this agreement without the company's prior written consent. 6. Independent Contractor. The contractor is an independent contractor and is not an employee of the company. 7. Severability. If any provision of this agreement is held to be invalid or unenforceable, the remaining provisions will remain in full force and effect. 8. Waiver. The failure of either party to enforce any provision of this agreement will not constitute a waiver of that provision. 9. Entire Agreement. This agreement constitutes the entire agreement between the parties and supersedes all prior agreements, whether written or oral, regarding its subject matter.

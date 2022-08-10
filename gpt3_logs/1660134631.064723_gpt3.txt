@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+351(k) of the Public Health Service Act, the 14 Secretary shall, at the request of such man15 ufacturer 16 (I) reevaluate whether there is a 17 high likelihood (as described in para18 graph (3)) that such biosimilar biologi19 cal product will be licensed and mar20 keted under such section 351(k) before 21 the date that is 2 years after the se22 lected drug publication date for which 23 such biological product would have 24 been included as a selected drug on 107  HR 5376 EAS 1 such list published but for subpara2 graph (A); and 3 (II) evaluate whether, on the 4 basis of clear and convincing evidence, 5 the manufacturer of such biosimilar bi6 ological product has made a significant 7 amount of progress (as determined by 8 the Secretary) towards both such licen9 sure and the marketing of such bio10 similar biological product (based on 11 information from items described in 12 subclauses (I)(bb) and (II) of para13 graph (1)(B)(ii)) since the receipt by 14 the Secretary of the request made by 15 such manufacturer under paragraph 16 (1)(B)(i)(I). 17 (ii) SELECTION AND NEGOTIATION. 18 If the Secretary determines that there is not 19 a high likelihood that such biosimilar bio20 logical product will be licensed and mar21 keted as described in clause (i)(I) or there 22 has not been a significant amount of 23 progress as described in clause (i)(II) 24 (I) the Secretary shall include 25 the biological product as a selected 108  HR 5376 EAS 1 drug on the list published under sub2 section (a) with respect to the initial 3 price applicability year that is 1 year 4 after the initial price applicability 5 year for which such biological product 6 would have been included as a selected 7 drug on such list but for subparagraph 8 (A); and 9 (II) the manufacturer of such bi10 ological product shall pay a rebate 11 under paragraph (4) with respect to 12 the year for which such manufacturer 13 would have provided access to a max14 imum fair price for such biological 15
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services shall reevaluate whether there is a high likelihood that a biosimilar biological product will be licensed and marketed before the date that is 2 years after the selected drug publication date for which such biological product would have been included as a selected drug on such list published but for subparagraph (A). If the Secretary determines that there is not a high likelihood that such biosimilar biological product will be licensed and marketed as described in clause (i)(I) or there has not been a significant amount of progress as described in clause (i)(II), the manufacturer of such biosimilar biological product shall pay a rebate under paragraph (4) with respect to the year for which such manufacturer would have provided access to a maximum fair price for such biological product.

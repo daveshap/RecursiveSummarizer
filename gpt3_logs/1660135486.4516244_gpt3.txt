@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Secretary, or 19 (II) in any other case, the due 20 date (including extensions of time) for 21 the return of tax for the taxable year 22 for which the election is made, but in 23 no event earlier than 180 days after 24 the date of the enactment of this sec25 tion. 514  HR 5376 EAS 1 (ii) ADDITIONAL RULES.Any elec2 tion under subsection (a), once made, shall 3 be irrevocable and shall apply (except as 4 otherwise provided in this paragraph) with 5 respect to any credit for the taxable year for 6 which the election is made. 7 (B) RENEWABLE ELECTRICITY PRODUC8 TION CREDIT.In the case of the credit described 9 in subsection (b)(2), any election under sub10 section (a) shall 11 (i) apply separately with respect to 12 each qualified facility, 13 (ii) be made for the taxable year in 14 which such qualified facility is originally 15 placed in service, and 16 (iii) shall apply to such taxable year 17 and to any subsequent taxable year which is 18 within the period described in subsection 19 (a)(2)(A)(ii) of section 45 with respect to 20 such qualified facility. 21 (C) CREDIT FOR CARBON OXIDE SEQUES22 TRATION. 23 (i) IN GENERAL.In the case of the 24 credit described in subsection (b)(3), any 25 election under subsection (a) shall 515  HR 5376 EAS 1 (I) apply separately with respect 2 to the carbon capture equipment origi3 nally placed in service by the applica4 ble entity during a taxable year, and 5 (II)(aa) in the case of a taxpayer 6 who makes an election described in 7 paragraph (1)(C), apply to the taxable 8 year in which such equipment is 9 placed in service and the 4 subsequent 10 taxable years with respect to such 11 equipment which end before January 12 1, 2033, and 13 (bb) in any other case, apply to 14 such taxable year and to any subse15 quent taxable year which is within the 16 period described in paragraph (3)(A) 17 or (4)(A) of section 45Q(a) with re18 spect to such equipment. 19 (ii) PROHIBITION ON TRANSFER. 20 For any taxable
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill allows taxpayers to elect to claim the renewable electricity production credit or the carbon capture equipment credit in lieu of the business energy investment tax credit. The election is irrevocable and applies to the taxable year in which the qualified facility is placed in service.

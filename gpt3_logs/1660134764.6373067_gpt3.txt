@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and (II) as items (aa) and (bb), re4 spectively, and moving the margin of 5 each such redesignated item 2 ems to 6 the right; 7 (II) in the matter preceding item 8 (aa), as redesignated by subclause (I), 9 by striking is equal to the greater 10 of and inserting is equal to 11 (I) for a year preceding 2024, 12 the greater of; 13 (III) by striking the period at the 14 end of item (bb), as redesignated by 15 subclause (I), and inserting ; and; 16 and 17 (IV) by adding at the end the fol18 lowing: 19 (II) for 2024 and each suc20 ceeding year, $0.; and 21 (ii) in clause (ii) 22 (I) by striking clause (i)(I) and 23 inserting clause (i)(I)(aa); and 24 (II) by adding at the end the fol25 lowing new sentence: The Secretary 165  HR 5376 EAS 1 shall continue to calculate the dollar 2 amounts specified in clause (i)(I)(aa), 3 including with the adjustment under 4 this clause, after 2023 for purposes of 5 section 1860D14(a)(1)(D)(iii).; 6 (B) in subparagraph (B) 7 (i) in clause (i) 8 (I) in subclause (V), by striking 9 or at the end; 10 (II) in subclause (VI) 11 (aa) by striking for a subse12 quent year and inserting for 13 each of years 2021 through 2024; 14 and 15 (bb) by striking the period at 16 the end and inserting a semicolon; 17 and 18 (III) by adding at the end the fol19 lowing new subclauses: 20 (VII) for 2025, is equal to 21 $2,000; or 22 (VIII) for a subsequent year, is 23 equal to the amount specified in this 24 subparagraph for the previous year, 25 increased by the annual percentage in- 166  HR 5376 EAS 1 crease described in paragraph (6) for 2 the year involved.; and 3 (ii) in clause (ii), by striking clause 4 (i)(II) and inserting clause (i); 5 (C) in subparagraph (C) 6 (i) in clause (i), by striking and for 7 amounts and inserting and, for a year 8 preceding 2025, for amounts; and 9 (ii) in clause (iii) 10 (I) by redesignating subclauses (I) 11 through (IV) as items (aa) through 12 (dd)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill redesignates items in the matter preceding item (aa) as items (I) and (II), respectively, and moves the margin of each such redesignated item 2 ems to the right. It also redesignates clause (i)(I) as clause (i)(I)(aa) and adds a new sentence at the end of clause (ii). For 2024 and each succeeding year, the dollar amount specified in clause (i)(I)(aa) will be $0.

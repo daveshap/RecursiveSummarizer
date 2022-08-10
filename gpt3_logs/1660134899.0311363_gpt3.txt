@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+copayment amount for the product 13 under the prescription drug plan or MAPD 14 plan in which the individual is enrolled.. 15 (c) TEMPORARY RETROSPECTIVE SUBSIDY.Section 16 1860D15(h) of the Social Security Act (42 U.S.C. 1395w 17 115(h)), as added by section 11401(c), is amended 18 (1) in the subsection heading, by inserting AND 19 INSULIN after PRACTICES; and 20 (2) in paragraph (1), by striking section 21 1860D2(b)(8) and inserting paragraph (8) or (9) 22 of section 1860D2(b). 23 (d) IMPLEMENTATION FOR 2023 THROUGH 2025.The 24 Secretary shall implement this section for plan years 2023, 236  HR 5376 EAS 1 2024, and 2025 by program instruction or other forms of 2 program guidance. 3 (e) FUNDING.In addition to amounts otherwise 4 available, there is appropriated to the Centers for Medicare 5 & Medicaid Services, out of any money in the Treasury 6 not otherwise appropriated, $1,500,000 for fiscal year 2022, 7 to remain available until expended, to carry out the provi8 sions of, including the amendments made by, this section. 9 SEC. 11407. LIMITATION ON MONTHLY COINSURANCE AND 10 ADJUSTMENTS TO SUPPLIER PAYMENT 11 UNDER MEDICARE PART B FOR INSULIN FUR12 NISHED THROUGH DURABLE MEDICAL EQUIP13 MENT. 14 (a) WAIVER OF DEDUCTIBLE.The first sentence of 15 section 1833(b) of the Social Security Act (42 U.S.C. 16 1395l(b)) is amended 17 (1) by striking and (12) and inserting (12); 18 and 19 (2) by inserting before the period the following: 20 , and (13) such deductible shall not apply with re21 spect to insulin furnished on or after July 1, 2023, 22 through an item of durable medical equipment cov23 ered under section 1861(n).. 24 (b) COINSURANCE. 237  HR 5376 EAS 1 (1) IN GENERAL.Section 1833(a)(1)(S) of the 2 Social Security Act (42 U.S.C. 1395l(a)(1)(S)) is 3 amended 4 (A) by inserting (i) except as provided in 5 clause (ii), after (S); and 6 (B) by inserting after or 1847B), the fol7 lowing: and (ii) with respect
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The copayment amount for the product 13 under the MAPD 14 plan in which the individual is enrolled will be $1,500,000 for fiscal year 2022. This section also limits the monthly coinsurance and adjusts the supplier payment under Medicare Part B for insulin furnished through durable medical equipment.

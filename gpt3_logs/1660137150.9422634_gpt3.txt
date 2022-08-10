@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+solar and wind energy facilities, nuclear energy production, alternative fuel vehicles, energy efficient buildings, and industrial facilities that reduce greenhouse gas emissions. The Clean Electricity Production Incentive provides credits to qualified facilities that produce electricity within the United States, with an additional 10 percent credit if the taxpayer certifies that any steel, iron, or manufactured product used in the construction of the facility was produced in the United States. The Clean Electricity Investment Credit is a tax credit available for qualified investments in clean electricity facilities and energy storage technologies. This section also allows for a credit with respect to qualified investments in certain energy property. Finally, this section amends the Internal Revenue Code to provide a tax credit for the production of clean transportation fuels.  The Energy Policy Act of 2005 created a tax credit for businesses that make investments in eligible components for use in a trade or business. The credit is equal to 30% of the cost of the investment, and the taxpayer may elect to apply the credit against the tax imposed. This section also deals with the clean fuel production credit, which is a credit that is available for producing transportation fuels with low emissions. The credit is available for monoglycerides, diglycerides, triglycerides, free fatty acids, and fatty acid esters. To be eligible for the credit, the taxpayer must be registered as a producer of clean fuel at the time of production and must provide certification from an unrelated party demonstrating compliance with requirements similar to those established under the Carbon Offsetting and Reduction Scheme for International Aviation. The fuel must also be produced in the United States. The Tax Cuts and Jobs Act allows businesses to claim a tax credit for investments in clean energy production, including the clean fuel production credit, the energy credit, the qualifying
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 2005 and the Tax Cuts and Jobs Act both provide tax incentives for businesses to invest in clean energy production. This includes solar and wind energy facilities, nuclear energy production, alternative fuel vehicles, energy efficient buildings, and industrial facilities that reduce greenhouse gas emissions. The credits are available for qualified investments in clean electricity facilities and energy storage technologies, as well as for the production of clean transportation fuels. To be eligible for the credit, the taxpayer must be registered as a producer of clean fuel at the time of production and must provide certification from an unrelated party demonstrating compliance with requirements similar to those established under the Carbon Offsetting and Reduction Scheme for International Aviation. The fuel must also be produced in the United States.

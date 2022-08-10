@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+for qualified facilities and determination of clean 23 electricity production credits under this section. 24 (g) SPECIAL RULES. 458  HR 5376 EAS 1 (1) ONLY PRODUCTION IN THE UNITED STATES 2 TAKEN INTO ACCOUNT.Consumption, sales, or stor3 age shall be taken into account under this section 4 only with respect to electricity the production of 5 which is within 6 (A) the United States (within the meaning 7 of section 638(1)), or 8 (B) a possession of the United States 9 (within the meaning of section 638(2)). 10 (2) COMBINED HEAT AND POWER SYSTEM PROP11 ERTY. 12 (A) IN GENERAL.For purposes of sub13 section (a) 14 (i) the kilowatt hours of electricity 15 produced by a taxpayer at a qualified facil16 ity shall include any production in the form 17 of useful thermal energy by any combined 18 heat and power system property within 19 such facility, and 20 (ii) the amount of greenhouse gases 21 emitted into the atmosphere by such facility 22 in the production of such useful thermal en23 ergy shall be included for purposes of deter24 mining the greenhouse gas emissions rate 25 for such facility. 459  HR 5376 EAS 1 (B) COMBINED HEAT AND POWER SYSTEM 2 PROPERTY.For purposes of this paragraph, the 3 term combined heat and power system property 4 has the same meaning given such term by section 5 48(c)(3) (without regard to subparagraphs 6 (A)(iv), (B), and (D) thereof). 7 (C) CONVERSION FROM BTU TO KWH. 8 (i) IN GENERAL.For purposes of 9 subparagraph (A)(i), the amount of kilowatt 10 hours of electricity produced in the form of 11 useful thermal energy shall be equal to the 12 quotient of 13 (I) the total useful thermal en14 ergy produced by the combined heat 15 and power system property within the 16 qualified facility, divided by 17 (II) the heat rate for such facil18 ity. 19 (ii) HEAT RATE.For purposes of 20 this subparagraph, the term heat rate 21 means the amount of energy used by the 22 qualified facility to generate 1 kilowatt
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The section allows for qualified facilities to receive clean electricity production credits, provided that the electricity is produced within the United States. Additionally, any combined heat and power system property within the facility will also be taken into account for the purposes of determining the greenhouse gas emissions rate.

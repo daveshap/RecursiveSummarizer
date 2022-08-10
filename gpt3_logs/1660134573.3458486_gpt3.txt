@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+renegotiation-eligible drugs described in 5 subparagraphs (A) and (D) of paragraph (2), 6 the Secretary shall select renegotiation-eligible 7 drugs for which the Secretary expects renegoti8 ation is likely to result in a significant change 9 in the maximum fair price otherwise negotiated. 10 (4) RENEGOTIATION PROCESS. 11 (A) IN GENERAL.The Secretary shall 12 specify the process for renegotiation of maximum 13 fair prices with the manufacturer of a renegoti14 ation-eligible drug selected for renegotiation 15 under this subsection. 16 (B) CONSISTENT WITH NEGOTIATION 17 PROCESS.The process specified under subpara18 graph (A) shall, to the extent practicable, be con19 sistent with the methodology and process estab20 lished under subsection (b) and in accordance 21 with subsections (c), (d), and (e), and for pur22 poses of applying subsections (c)(1)(A) and (d), 23 the reference to the first initial price applica24 bility year of the price applicability period with 25 respect to such drug shall be treated as the first 83  HR 5376 EAS 1 initial price applicability year of such period for 2 which the maximum fair price established pursu3 ant to such renegotiation applies, including for 4 applying subsection (c)(3)(B) in the case of re5 negotiation-eligible drugs described in paragraph 6 (3)(A) of this subsection and subsection (c)(3)(C) 7 in the case of renegotiation-eligible drugs de8 scribed in paragraph (3)(B) of this subsection. 9 (5) CLARIFICATION.A renegotiation-eligible 10 drug for which the Secretary makes a determination 11 described in section 1192(c)(1) before or during the 12 period of renegotiation shall not be subject to the re13 negotiation process under this section. 14 (g) CLARIFICATION.The maximum fair price for a 15 selected drug described in subparagraph (A) or (B) of para16 graph (1) shall take effect no later than the first day of 17 the first calendar quarter that begins after the date de18 scribed in subparagraph (A) or (B), as
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes a process for the renegotiation of maximum fair prices for certain drugs. The process is to be consistent with the methodology and process established under subsection (b) and in accordance with subsections (c), (d), and (e). A drug for which the Secretary makes a determination described in section 1192(c)(1) before or during the period of renegotiation shall not be subject to the renegotiation process.

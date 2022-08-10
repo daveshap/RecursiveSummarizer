@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+an individual who 9 is a licensed architect or a licensed engineer and 10 meets such other requirements as the Secretary 11 may provide. 12 (8) COORDINATION WITH DEDUCTION OTHER13 WISE ALLOWED UNDER SUBSECTION (a). 14 (A) IN GENERAL.In the case of any 15 building with respect to which an election is 16 made under paragraph (1), the term energy effi17 cient commercial building property shall not in18 clude any energy efficient building retrofit prop19 erty with respect to which a deduction is allow20 able under this subsection. 21 (B) CERTAIN RULES NOT APPLICABLE. 22 (i) IN GENERAL.Except as provided 23 in clause (ii), subsection (d) shall not apply 24 for purposes of this subsection. 365  HR 5376 EAS 1 (ii) ALLOCATION OF DEDUCTION BY 2 CERTAIN TAX-EXEMPT ENTITIES.Rules 3 similar to subsection (d)(3) shall apply for 4 purposes of this subsection.. 5 (8) INFLATION ADJUSTMENT.Section 179D(g) 6 is amended 7 (A) by striking 2020 and inserting 8 2022, 9 (B) by striking or subsection (d)(1)(A), 10 and 11 (C) by striking 2019 and inserting 12 2021. 13 (b) APPLICATION TO REAL ESTATE INVESTMENT 14 TRUST EARNINGS AND PROFITS.Section 312(k)(3)(B) is 15 amended 16 (1) by striking For purposes of computing the 17 earnings and profits of a corporation and inserting 18 the following: 19 (i) IN GENERAL.For purposes of 20 computing the earnings and profits of a 21 corporation, except as provided in clause 22 (ii), and 23 (2) by adding at the end the following new 24 clause: 366  HR 5376 EAS 1 (ii) SPECIAL RULE.In the case of a 2 corporation that is a real estate investment 3 trust, any amount deductible under section 4 179D shall be allowed in the year in which 5 the property giving rise to such deduction is 6 placed in service (or, in the case of energy 7 efficient building retrofit property, the year 8 in which the qualifying final certification is 9 made).. 10 (c) CONFORMING AMENDMENT.Paragraph (1) of sec11 tion 179D(d),
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends section 179D of the tax code to allow a deduction for energy efficient commercial buildings. The deduction is available to licensed architects or engineers who meet other requirements as provided by the Secretary. The deduction is not available for energy efficient building retrofit property if a deduction is already allowed for that property under this section. The inflation adjustment for the deduction is increased for 2020 and 2021.

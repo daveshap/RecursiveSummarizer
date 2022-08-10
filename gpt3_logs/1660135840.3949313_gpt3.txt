@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+under 3 subsection (a) for administrative costs to carry out this sec4 tion. 5 (d) DEFINITION OF GREENHOUSE GAS.In this sec6 tion, the term greenhouse gas means the air pollutants car7 bon dioxide, hydrofluorocarbons, methane, nitrous oxide, 8 perfluorocarbons, and sulfur hexafluoride.. 9 Subtitle CUnited States Fish and 10 Wildlife Service 11 SEC. 60301. ENDANGERED SPECIES ACT RECOVERY PLANS. 12 In addition to amounts otherwise available, there is 13 appropriated to the United States Fish and Wildlife Service 14 for fiscal year 2022, out of any money in the Treasury not 15 otherwise appropriated, $125,000,000, to remain available 16 until expended, for the purposes of developing and imple17 menting recovery plans under paragraphs (1), (3), and (4) 18 of subsection (f) of section 4 of the Endangered Species Act 19 of 1973 (16 U.S.C. 1533(f)). 20 SEC. 60302. FUNDING FOR THE UNITED STATES FISH AND 21 WILDLIFE SERVICE TO ADDRESS WEATHER 22 EVENTS. 23 (a) IN GENERAL.In addition to amounts otherwise 24 available, there is appropriated to the United States Fish 25 and Wildlife Service for fiscal year 2022, out of any money 702  HR 5376 EAS 1 in the Treasury not otherwise appropriated, $121,250,000, 2 to remain available until September 30, 2026, to make di3 rect expenditures, award grants, and enter into contracts 4 and cooperative agreements for the purposes of rebuilding 5 and restoring units of the National Wildlife Refuge System 6 and State wildlife management areas by 7 (1) addressing the threat of invasive species; 8 (2) increasing the resiliency and capacity of 9 habitats and infrastructure to withstand weather 10 events; and 11 (3) reducing the amount of damage caused by 12 weather events. 13 (b) ADMINISTRATIVE COSTS.In addition to amounts 14 otherwise available, there is appropriated to the United 15 States Fish and Wildlife Service for fiscal year 2022, out 16 of any money in the Treasury not otherwise appropriated, 17 $3,750,000, to remain available
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides funding for the United States Fish and Wildlife Service to address weather events by rebuilding and restoring units of the National Wildlife Refuge System and State wildlife management areas.

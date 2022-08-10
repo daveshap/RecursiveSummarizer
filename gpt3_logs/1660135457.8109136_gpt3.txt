@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+has not been established under 14 subparagraph (B), a taxpayer producing such 15 fuel may file a petition with the Secretary for 16 determination of the emissions rate with respect 17 to such fuel. 18 (2) ROUNDING.If any amount determined 19 under paragraph (1)(A) is not a multiple of 0.1, such 20 amount shall be rounded to the nearest multiple of 21 0.1. 22 (c) INFLATION ADJUSTMENT. 23 (1) IN GENERAL.In the case of calendar years 24 beginning after 2024, the 20 cent amount in sub25 section (a)(2)(A), the $1.00 amount in subsection 497  HR 5376 EAS 1 (a)(2)(B), the 35 cent amount in subsection 2 (a)(3)(A)(i), and the $1.75 amount in subsection 3 (a)(3)(A)(ii) shall each be adjusted by multiplying 4 such amount by the inflation adjustment factor for 5 the calendar year in which the sale of the transpor6 tation fuel occurs. If any amount as increased under 7 the preceding sentence is not a multiple of 1 cent, 8 such amount shall be rounded to the nearest multiple 9 of 1 cent. 10 (2) INFLATION ADJUSTMENT FACTOR.For 11 purposes of paragraph (1), the inflation adjustment 12 factor shall be the inflation adjustment factor deter13 mined and published by the Secretary pursuant to 14 section 45Y(c), determined by substituting calendar 15 year 2022 for calendar year 1992 in paragraph (3) 16 thereof. 17 (d) DEFINITIONS.In this section: 18 (1) mmBTU.The term mmBTU means 19 1,000,000 British thermal units. 20 (2) CO2e.The term CO2e means, with re21 spect to any greenhouse gas, the equivalent carbon di22 oxide (as determined based on relative global warm23 ing potential). 24 (3) GREENHOUSE GAS.The term greenhouse 25 gas has the same meaning given that term under sec- 498  HR 5376 EAS 1 tion 211(o)(1)(G) of the Clean Air Act (42 U.S.C. 2 7545(o)(1)(G)), as in effect on the date of the enact3 ment of this section. 4 (4) QUALIFIED FACILITY.The term qualified 5 facility 6 (A) means a facility used for the produc7 tion of transportation
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+A taxpayer producing fuel for transportation may file a petition with the Secretary for determination of the emissions rate with respect to such fuel. The emissions rate will be adjusted for inflation starting in 2024.

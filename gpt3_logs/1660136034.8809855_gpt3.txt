@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subsection (c)(3) shall be determined only with respect to stock issued or provided by such specified affiliate to employees of the specified affiliate.  Subsection (a) of this section shall not apply to the extent that the repurchase is part of a reorganization (within the meaning of section 368(a)) and no gain or loss is recognized on such repurchase by the shareholder under chapter 1 by reason of such reorganization.  This section amends section 10 275(a) of the Internal Revenue Code to insert 37, before 41. It also amends the table of chapters for subtitle D by inserting a new item after the item relating to chapter 36, to create chapter 37, which deals with the repurchase of corporate stock. This section applies to repurchases of stock after December 31, 2022.  The Internal Revenue Service is allocated $45,637,400,000 for operations and $25,326,400,000 for enforcement and administration. Additionally, $4,750,700,000 is allocated for business systems modernization.  The Department of the Treasury is allocated $15,000,000 to develop and run a free direct efile tax return system, with a focus on multi-lingual and mobile-friendly features and safeguards for taxpayer data. The Treasury Inspector General for Tax Administration is allocated $403,000,000 to carry out the Inspector General Act of 1978, as amended. The Office of Tax Policy is allocated $104,533,803 to carry out functions related to promulgating regulations under the Internal Revenue Code of 1986. The United States Tax Court is allocated $153,000,000 to carry out its functions.  The Social Security Act is amended by adding a new part, the Drug Price Negotiation Program, which requires the Secretary to negotiate and, if necessary, renegotiate maximum fair prices for selected drugs with manufacturers. The program also requires the publication of a list of selected drugs and the carrying out of administrative duties and compliance monitoring.  The "applicability year" is the year in which a selected drug is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends section 10 275(a) of the Internal Revenue Code to insert 37, before 41. It also amends the table of chapters for subtitle D by inserting a new item after the item relating to chapter 36, to create chapter 37, which deals with the repurchase of corporate stock. This section applies to repurchases of stock after December 31, 2022. The Social Security Act is amended by adding a new part, the Drug Price Negotiation Program, which requires the Secretary to negotiate and, if necessary, renegotiate maximum fair prices for selected drugs with manufacturers. The program also requires the publication of a list of selected drugs and the carrying out of administrative duties and compliance monitoring.

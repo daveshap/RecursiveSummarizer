@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+redesig17 nated), by striking applicable to leases 18 issued under subsection 17(c) of this Act (30 19 U.S.C. 226(c)) except, and inserting ex20 cept; 21 (D) in subsection (h), by striking sub22 sections (d) and (f) of this section and inserting 23 subsection (d); 24 (E) in subsection (i), by striking (i)(1) In 25 acting and all that follows through of this sec- 649  HR 5376 EAS 1 tion in paragraph (2) and inserting the fol2 lowing: 3 (i) ROYALTY REDUCTION IN REIN4 STATED LEASES.In acting on a petition 5 for reinstatement pursuant to subsection 6 (d); 7 (F) by striking subsection (f); and 8 (G) by redesignating subsections (g) through 9 (j) as subsections (f) through (i), respectively. 10 SEC. 50263. ROYALTIES ON ALL EXTRACTED METHANE. 11 (a) IN GENERAL.For all leases issued after the date 12 of enactment of this Act, except as provided in subsection 13 (b), royalties paid for gas produced from Federal land and 14 on the outer Continental Shelf shall be assessed on all gas 15 produced, including all gas that is consumed or lost by vent16 ing, flaring, or negligent releases through any equipment 17 during upstream operations. 18 (b) EXCEPTION.Subsection (a) shall not apply with 19 respect to 20 (1) gas vented or flared for not longer than 48 21 hours in an emergency situation that poses a danger 22 to human health, safety, or the environment; 23 (2) gas used or consumed within the area of the 24 lease, unit, or communitized area for the benefit of the 25 lease, unit, or communitized area; or 650  HR 5376 EAS 1 (3) gas that is unavoidably lost. 2 SEC. 50264. LEASE SALES UNDER THE 20172022 OUTER 3 CONTINENTAL SHELF LEASING PROGRAM. 4 (a) DEFINITIONS.In this section: 5 (1) LEASE SALE 257.The term Lease Sale 6 257 means the lease sale numbered 257 that was ap7 proved in the Record of Decision described in the no8 tice of availability of a record of decision issued on 9 August 31, 2021, entitled Gulf of Mexico, Outer Con10
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Mineral Leasing Act to require that royalties be assessed on all gas produced from Federal land and on the outer Continental Shelf, including gas that is consumed or lost by venting, flaring, or negligent releases through any equipment during upstream operations. There are exceptions for gas vented or flared for not longer than 48 hours in an emergency situation that poses a danger to human health, safety, or the environment; gas used or consumed within the area of the lease, unit, or communitized area for the benefit of the lease, unit, or communitized area; or gas that is unavoidably lost. This section also sets forth requirements for Lease Sale 257 in the Gulf of Mexico.

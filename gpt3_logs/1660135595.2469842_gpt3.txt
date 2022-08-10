@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+higher education (as defined in subsection (a) 21 of section 101 of the Higher Education Act of 1965 (20 22 U.S.C. 1001(a))), for the conservation, restoration, and pro23 tection of coastal and marine habitats, resources, Pacific 24 salmon and other marine fisheries, to enable coastal com25 munities to prepare for extreme storms and other changing 573  HR 5376 EAS 1 climate conditions, and for projects that support natural 2 resources that sustain coastal and marine resource depend3 ent communities, marine fishery and marine mammal stock 4 assessments, and for related administrative expenses. 5 (b) TRIBAL GOVERNMENT DEFINED.In this section, 6 the term Tribal Government means the recognized gov7 erning body of any Indian or Alaska Native tribe, band, 8 nation, pueblo, village, community, component band, or 9 component reservation, individually identified (including 10 parenthetically) in the list published most recently as of the 11 date of enactment of this subsection pursuant to section 104 12 of the Federally Recognized Indian Tribe List Act of 1994 13 (25 U.S.C. 5131). 14 SEC. 40002. FACILITIES OF THE NATIONAL OCEANIC AND 15 ATMOSPHERIC ADMINISTRATION AND NA16 TIONAL MARINE SANCTUARIES. 17 (a) NATIONAL OCEANIC AND ATMOSPHERIC ADMINIS18 TRATION FACILITIES.In addition to amounts otherwise 19 available, there is appropriated to the National Oceanic 20 and Atmospheric Administration for fiscal year 2022, out 21 of any money in the Treasury not otherwise appropriated, 22 $150,000,000, to remain available until September 30, 23 2026, for the construction of new facilities, facilities in need 24 of replacement, piers, marine operations facilities, and fish25 eries laboratories. 574  HR 5376 EAS 1 (b) NATIONAL MARINE SANCTUARIES FACILITIES.In 2 addition to amounts otherwise available, there is appro3 priated to the National Oceanic and Atmospheric Adminis4 tration for fiscal year 2022, out of any money in the Treas5 ury not otherwise appropriated, $50,000,000,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Higher Education Act of 1965 authorizes funds for the construction of new facilities, facilities in need of replacement, piers, marine operations facilities, and fisheries laboratories for the conservation, restoration, and protection of coastal and marine habitats and resources.

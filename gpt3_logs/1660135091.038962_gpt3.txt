@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+material or system, after material or sys13 tem. 14 (e) MODIFICATION OF RESIDENTIAL ENERGY PROP15 ERTY EXPENDITURES.Section 25C(d) is amended to read 16 as follows: 17 (d) RESIDENTIAL ENERGY PROPERTY EXPENDI18 TURES.For purposes of this section 19 (1) IN GENERAL.The term residential energy 20 property expenditures means expenditures made by 21 the taxpayer for qualified energy property which is 22 (A) installed on or in connection with a 23 dwelling unit located in the United States and 24 used as a residence by the taxpayer, and 342  HR 5376 EAS 1 (B) originally placed in service by the tax2 payer. 3 Such term includes expenditures for labor costs prop4 erly allocable to the onsite preparation, assembly, or 5 original installation of the property. 6 (2) QUALIFIED ENERGY PROPERTY.The term 7 qualified energy property means any of the fol8 lowing: 9 (A) Any of the following which meet or ex10 ceed the highest efficiency tier (not including any 11 advanced tier) established by the Consortium for 12 Energy Efficiency which is in effect as of the be13 ginning of the calendar year in which the prop14 erty is placed in service: 15 (i) An electric or natural gas heat 16 pump water heater. 17 (ii) An electric or natural gas heat 18 pump. 19 (iii) A central air conditioner. 20 (iv) A natural gas, propane, or oil 21 water heater. 22 (v) A natural gas, propane, or oil fur23 nace or hot water boiler. 24 (B) A biomass stove or boiler which 343  HR 5376 EAS 1 (i) uses the burning of biomass fuel to 2 heat a dwelling unit located in the United 3 States and used as a residence by the tax4 payer, or to heat water for use in such a 5 dwelling unit, and 6 (ii) has a thermal efficiency rating of 7 at least 75 percent (measured by the higher 8 heating value of the fuel). 9 (C) Any oil furnace or hot water boiler 10 which 11 (i) is placed in service after December 12 31, 2022, and before January 1, 2027, 13 and 14 (I) meets or exceeds
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Modification of Residential Energy Property Expenditures allows taxpayers to deduct the cost of qualified energy property, including labor costs, that is installed on their residence. Qualified energy property includes certain electric and natural gas heat pumps, central air conditioners, water heaters, furnaces, and boilers.

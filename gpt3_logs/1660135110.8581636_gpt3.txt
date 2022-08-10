@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+such manner as 9 the Secretary may provide) of the product identi10 fication numbers so assigned and including such 11 information as the Secretary may require with 12 respect to the item of specified property to which 13 such number was so assigned. 14 (4) SPECIFIED PROPERTY.For purposes of 15 this subsection, the term specified property means 16 any qualified energy property and any property de17 scribed in subparagraph (B) or (C) of subsection 18 (c)(3).. 19 (2) OMISSION OF CORRECT PRODUCT IDENTI20 FICATION NUMBER TREATED AS MATHEMATICAL OR 21 CLERICAL ERROR.Section 6213(g)(2), as amended 22 by the preceding provisions of this Act, is amended 23 (A) in subparagraph (Q), by striking and 24 at the end, 350  HR 5376 EAS 1 (B) in subparagraph (R), by striking the 2 period at the end and inserting , and, and 3 (C) by inserting after subparagraph (R) the 4 following: 5 (S) an omission of a correct product iden6 tification number required under section 25C(h) 7 (relating to credit for nonbusiness energy prop8 erty) to be included on a return.. 9 (h) ENERGY EFFICIENT HOME IMPROVEMENT CRED10 IT. 11 (1) IN GENERAL.The heading for section 25C 12 is amended by striking NONBUSINESS ENERGY 13 PROPERTY and inserting ENERGY EFFICIENT 14 HOME IMPROVEMENT CREDIT. 15 (2) CLERICAL AMENDMENT.The table of sec16 tions for subpart A of part IV of subchapter A of 17 chapter 1 is amended by striking the item relating to 18 section 25C and inserting after the item relating to 19 section 25B the following item: Sec. 25C. Energy efficient home improvement credit.. 20 (i) EFFECTIVE DATES. 21 (1) IN GENERAL.Except as otherwise provided 22 by this subsection, the amendments made by this sec23 tion shall apply to property placed in service after 24 December 31, 2022. 351  HR 5376 EAS 1 (2) EXTENSION OF CREDIT.The amendments 2 made by subsection (a) shall apply to property placed 3 in service after December 31, 2021. 4 (3) IDENTIFICATION NUMBER
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Improvement and Extension Act of 2008 extends and modifies the energy efficient home improvement credit. The credit is now available for an additional two years, through 2021, for qualifying energy efficient property placed in service. The credit is also expanded to include certain qualified energy property placed in service after December 31, 2021. Finally, the Act requires that taxpayers include a product identification number when claiming the credit.

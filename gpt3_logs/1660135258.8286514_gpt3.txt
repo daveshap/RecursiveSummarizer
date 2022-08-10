@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+single-phase 17 power, or 18 (II) 208 or 480 volt three-phase 19 power, and 20 (iii) has a capacity which is not 21 greater than 650 watts (expressed on a per 22 alternating current watt basis). 23 (F) RESIDENTIAL INVERTER.The term 24 residential inverter means an inverter which 25 (i) is suitable for a residence, 431  HR 5376 EAS 1 (ii) has a rated output of 120 or 240 2 volt single-phase power, and 3 (iii) has a capacity which is not 4 greater than 20 kilowatts (expressed on a 5 per alternating current watt basis). 6 (G) UTILITY INVERTER.The term utility 7 inverter means an inverter which 8 (i) is suitable for commercial or util9 ity-scale systems, 10 (ii) has a rated output of not less 11 than 600 volt three-phase power, and 12 (iii) has a capacity which is greater 13 than 125 kilowatts and not greater than 14 1000 kilowatts (expressed on a per alter15 nating current watt basis) 16 (3) SOLAR ENERGY COMPONENT. 17 (A) IN GENERAL.The term solar energy 18 component means any of the following: 19 (i) Solar modules. 20 (ii) Photovoltaic cells. 21 (iii) Photovoltaic wafers. 22 (iv) Solar grade polysilicon. 23 (v) Torque tubes or structural fas24 teners. 25 (vi) Polymeric backsheets. 432  HR 5376 EAS 1 (B) ASSOCIATED DEFINITIONS. 2 (i) PHOTOVOLTAIC CELL.The term 3 photovoltaic cell means the smallest semi4 conductor element of a solar module which 5 performs the immediate conversion of light 6 into electricity. 7 (ii) PHOTOVOLTAIC WAFER.The 8 term photovoltaic wafer means a thin slice, 9 sheet, or layer of semiconductor material of 10 at least 240 square centimeters 11 (I) produced by a single manu12 facturer either 13 (aa) directly from molten or 14 evaporated solar grade polysilicon 15 or deposition of solar grade thin 16 film semiconductor photon ab17 sorber layer, or 18 (bb) through formation of 19 an ingot from molten polysilicon 20 and subsequent slicing, and 21 (II) which comprises the sub22
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Solar Energy Component Tax Credit is a tax credit for solar energy components used in residential or commercial solar energy systems. The credit is for up to 30% of the cost of the solar energy components, and is capped at $2000 for residential systems and $50,000 for commercial systems. The credit is available for solar modules, photovoltaic cells, photovoltaic wafers, solar grade polysilicon, torque tubes or structural fasteners, and polymeric backsheets.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+energy office or Indian 3 Tribe under a high-efficiency electric home rebate pro4 gram may not be combined with any other Federal 5 grant or rebate, including a rebate provided under a 6 HOMES rebate program (as defined in section 7 50121(d)), for the same qualified electrification 8 project. 9 (9) ADMINISTRATIVE COSTS.A State energy of10 fice or Indian Tribe that receives a grant under the 11 program shall use not more than 20 percent of the 12 grant amount for planning, administration, or tech13 nical assistance relating to a high-efficiency electric 14 home rebate program. 15 (d) DEFINITIONS.In this section: 16 (1) ELIGIBLE ENTITY.The term eligible enti17 ty means 18 (A) a low- or moderate-income household; 19 (B) an individual or entity that owns a 20 multifamily building not less than 50 percent of 21 the residents of which are low- or moderate-in22 come households; and 23 (C) a governmental, commercial, or non24 profit entity, as determined by the Secretary, 25 carrying out a qualified electrification project on 602  HR 5376 EAS 1 behalf of an entity described in subparagraph 2 (A) or (B). 3 (2) HIGH-EFFICIENCY ELECTRIC HOME REBATE 4 PROGRAM.The term high-efficiency electric home 5 rebate program means a rebate program carried out 6 by a State energy office or Indian Tribe pursuant to 7 subsection (c) using a grant received under the pro8 gram. 9 (3) INDIAN TRIBE.The term Indian Tribe 10 has the meaning given the term in section 4 of the In11 dian Self-Determination and Education Assistance 12 Act (25 U.S.C. 5304). 13 (4) LOW- OR MODERATE-INCOME HOUSEHOLD. 14 The term low- or moderate-income household means 15 an individual or family the total annual income of 16 which is less than 150 percent of the median income 17 of the area in which the individual or family resides, 18 as reported by the Department of Housing and Urban 19 Development, including an individual or family that 20 has demonstrated eligibility for another Federal pro21
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The energy office or Indian Tribe under a high-efficiency electric home rebate program may not be combined with any other Federal grant or rebate for the same qualified electrification project. A State energy office or Indian Tribe that receives a grant under the program shall use not more than 20 percent of the grant amount for planning, administration, or technical assistance relating to a high-efficiency electric home rebate program.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+in section 302 of the Clean Air 23 Act (42 U.S.C. 7602)); or 24 (2) to acquire necessary devices on which to run 25 such inspection software. 683  HR 5376 EAS 1 SEC. 60111. GREENHOUSE GAS CORPORATE REPORTING. 2 (a) IN GENERAL.In addition to amounts otherwise 3 available, there is appropriated to the Administrator of the 4 Environmental Protection Agency for fiscal year 2022, out 5 of any money in the Treasury not otherwise appropriated, 6 $5,000,000, to remain available until September 30, 2031, 7 for the Environmental Protection Agency to support 8 (1) enhanced standardization and transparency 9 of corporate climate action commitments and plans to 10 reduce greenhouse gas emissions; 11 (2) enhanced transparency regarding progress to12 ward meeting such commitments and implementing 13 such plans; and 14 (3) progress toward meeting such commitments 15 and implementing such plans. 16 (b) DEFINITION OF GREENHOUSE GAS.In this sec17 tion, the term greenhouse gas means the air pollutants 18 carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, 19 perfluorocarbons, and sulfur hexafluoride. 20 SEC. 60112. ENVIRONMENTAL PRODUCT DECLARATION AS21 SISTANCE. 22 (a) IN GENERAL.In addition to amounts otherwise 23 available, there is appropriated to the Administrator of the 24 Environmental Protection Agency for fiscal year 2022, out 25 of any money in the Treasury not otherwise appropriated, 26 $250,000,000, to remain available until September 30, 684  HR 5376 EAS 1 2031, to develop and carry out a program to support the 2 development, enhanced standardization and transparency, 3 and reporting criteria for environmental product declara4 tions that include measurements of the embodied greenhouse 5 gas emissions of the material or product associated with 6 all relevant stages of production, use, and disposal, and con7 form with international standards, for construction mate8 rials and products by 9 (1) providing grants to businesses that manufac10 ture construction
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Clean Air Act authorizes the appropriation of $5 million for the Environmental Protection Agency to support enhanced standardization and transparency of corporate climate action commitments and plans to reduce greenhouse gas emissions, as well as enhanced transparency regarding progress toward meeting those commitments and implementing those plans. Additionally, this section authorizes the appropriation of $250,000,000 for the Environmental Protection Agency to develop and carry out a program to support the development, enhanced standardization and transparency, and reporting criteria for environmental product declarations that include measurements of the embodied greenhouse gas emissions of the material or product associated with all relevant stages of production, use, and disposal.

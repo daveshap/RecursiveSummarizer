@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subsection (b)(2) 10 (I) in subparagraph (G), by in11 serting a comma after State plan; 12 (II) in subparagraph (H), by 13 striking ; or and inserting a comma; 14 (III) in subparagraph (I), by 15 striking ; and and inserting , or; 16 and 17 (IV) by adding at the end the fol18 lowing new subparagraph: 19 (J) vaccines described in section 20 1905(a)(13)(B) and the administration of such 21 vaccines; and. 22 (B) APPLICATION TO ALTERNATIVE COST 23 SHARING.Section 1916A(b)(3)(B) of the Social 24 Security Act (42 U.S.C. 1396o1(b)(3)(B)) is 227  HR 5376 EAS 1 amended by adding at the end the following new 2 clause: 3 (xiv) Vaccines described in section 4 1905(a)(13)(B) and the administration of 5 such vaccines.. 6 (3) INCREASED FMAP FOR ADULT VACCINES AND 7 THEIR ADMINISTRATION.Section 1905(b) of the So8 cial Security Act (42 U.S.C. 1396d(b)) is amended 9 (A) by striking and (5) and inserting 10 (5); 11 (B) by striking services and vaccines de12 scribed in subparagraphs (A) and (B) of sub13 section (a)(13), and prohibits cost-sharing for 14 such services and vaccines and inserting serv15 ices described in subsection (a)(13)(A), and pro16 hibits cost-sharing for such services; 17 (C) by striking medical assistance for such 18 services and vaccines and inserting medical 19 assistance for such services; and 20 (D) by inserting , and (6) during the first 21 8 fiscal quarters beginning on or after the effec22 tive date of this clause, in the case of a State 23 which, as of the date of enactment of the Act ti24 tled An Act to provide for reconciliation pursu25 ant to title II of S. Con. Res. 14, provides med- 228  HR 5376 EAS 1 ical assistance for vaccines described in sub2 section (a)(13)(B) and their administration and 3 prohibits cost-sharing for such vaccines, the Fed4 eral medical assistance percentage, as determined 5 under this subsection and subsection (y), shall be 6 increased by 1 percentage point with respect
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended to provide increased federal funding for adult vaccines and their administration, as well as to prohibit cost-sharing for such vaccines.

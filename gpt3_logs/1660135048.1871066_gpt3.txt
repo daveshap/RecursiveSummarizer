@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+FUEL ADDED TO CREDIT 4 FOR ALCOHOL FUEL, BIODIESEL, AND ALTERNATIVE FUEL 5 MIXTURES. 6 (1) IN GENERAL.Section 6426 is amended by 7 adding at the end the following new subsection: 8 (k) SUSTAINABLE AVIATION FUEL CREDIT. 9 (1) IN GENERAL.For purposes of this section, 10 the sustainable aviation fuel credit for the taxable 11 year is, with respect to any sale or use of a qualified 12 mixture, an amount equal to the product of 13 (A) the number of gallons of sustainable 14 aviation fuel in such mixture, multiplied by 15 (B) the sum of 16 (i) $1.25, plus 17 (ii) the applicable supplementary 18 amount with respect to such sustainable 19 aviation fuel. 20 (2) DEFINITIONS.Any term used in this sub21 section which is also used in section 40B shall have 22 the meaning given such term by section 40B. 23 (3) REGISTRATION REQUIREMENT.For pur24 poses of this subsection, rules similar to the rules of 25 section 40B(f) shall apply.. 320  HR 5376 EAS 1 (2) CONFORMING AMENDMENTS. 2 (A) Section 6426 is amended 3 (i) in subsection (a)(1), by striking 4 and (e) and inserting (e), and (k), and 5 (ii) in subsection (h), by striking 6 under section 40 or 40A and inserting 7 under section 40, 40A, or 40B. 8 (B) Section 6427(e) is amended 9 (i) in the heading, by striking OR AL10 TERNATIVE FUEL and inserting, ALTER11 NATIVE FUEL, OR SUSTAINABLE AVIATION 12 FUEL, 13 (ii) in paragraph (1), by inserting or 14 the sustainable aviation fuel mixture cred15 it after alternative fuel mixture credit, 16 and 17 (iii) in paragraph (6) 18 (I) in subparagraph (C), by strik19 ing and at the end, 20 (II) in subparagraph (D), by 21 striking the period at the end and in22 serting , and, and 23 (III) by adding at the end the fol24 lowing new subparagraph: 321  HR 5376 EAS 1 (E) any qualified mixture of sustainable 2 aviation fuel (as defined in section 6426(k)(3)) 3 sold or used after December 31, 2024.. 4 (C) Section 4101(a)(1) is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Fuel Added to Credit 4 for Alcohol Fuel, Biodiesel, and Alternative Fuel 5 Mixtures Act amends the existing sustainable aviation fuel credit by adding a new subsection (k) which allows for a credit of $1.25 per gallon of sustainable aviation fuel used in a qualified mixture, with a supplementary amount for each type of fuel. This credit is available for sales or uses after December 31, 2024.

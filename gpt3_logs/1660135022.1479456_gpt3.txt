@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of enact2 ment of this Act. 3 (4) ELECTION.The amendments made by sub4 section (g) shall apply to carbon oxide captured and 5 disposed of after December 31, 2021. 6 SEC. 13105. ZERO-EMISSION NUCLEAR POWER PRODUCTION 7 CREDIT. 8 (a) IN GENERAL.Subpart D of part IV of subchapter 9 A of chapter 1 is amended by adding at the end the fol10 lowing new section: 11 SEC. 45U. ZERO-EMISSION NUCLEAR POWER PRODUCTION 12 CREDIT. 13 (a) AMOUNT OF CREDIT.For purposes of section 38, 14 the zero-emission nuclear power production credit for any 15 taxable year is an amount equal to the amount by which 16 (1) the product of 17 (A) 0.3 cents, multiplied by 18 (B) the kilowatt hours of electricity 19 (i) produced by the taxpayer at a 20 qualified nuclear power facility, and 21 (ii) sold by the taxpayer to an unre22 lated person during the taxable year, ex23 ceeds 24 (2) the reduction amount for such taxable year. 25 (b) DEFINITIONS. 306  HR 5376 EAS 1 (1) QUALIFIED NUCLEAR POWER FACILITY. 2 For purposes of this section, the term qualified nu3 clear power facility means any nuclear facility 4 (A) which is owned by the taxpayer and 5 which uses nuclear energy to produce electricity, 6 (B) which is not an advanced nuclear 7 power facility as defined in subsection (d)(1) of 8 section 45J, and 9 (C) which is placed in service before the 10 date of the enactment of this section. 11 (2) REDUCTION AMOUNT. 12 (A) IN GENERAL.For purposes of this 13 section, the term reduction amount means, with 14 respect to any qualified nuclear power facility 15 for any taxable year, the amount equal to the 16 lesser of 17 (i) the amount determined under sub18 section (a)(1), or 19 (ii) the amount equal to 16 percent of 20 the excess of 21 (I) subject to subparagraph (B), 22 the gross receipts from any electricity 23 produced by such facility (including 24 any electricity services or products 25 provided in conjunction with the elec- 307  HR 5376 EAS 1
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Zero-Emission Nuclear Power Production Credit is a credit for taxpayers who produce electricity using nuclear energy. The credit is equal to the difference between the amount of electricity produced and the reduction amount, which is equal to 16 percent of the gross receipts from the electricity produced. The credit is only available for nuclear facilities that are placed in service before the date of enactment of this section.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+24 reduced in total and with respect to low-income and 25 disadvantaged communities. 696  HR 5376 EAS 1 (3) TERMS AND CONDITIONS.The Adminis2 trator shall make funds available to a grantee under 3 this subsection in such amounts, upon such a sched4 ule, and subject to such conditions based on its per5 formance in implementing its plan submitted under 6 this section and in achieving projected greenhouse gas 7 air pollution reduction, as determined by the Admin8 istrator. 9 (d) DEFINITIONS.In this section: 10 (1) ELIGIBLE ENTITY.The term eligible enti11 ty means 12 (A) a State; 13 (B) an air pollution control agency; 14 (C) a municipality; 15 (D) an Indian tribe; and 16 (E) a group of one or more entities listed 17 in subparagraphs (A) through (D). 18 (2) GREENHOUSE GAS.The term greenhouse 19 gas means the air pollutants carbon dioxide, 20 hydrofluorocarbons, methane, nitrous oxide, 21 perfluorocarbons, and sulfur hexafluoride.. 22 SEC. 60115. ENVIRONMENTAL PROTECTION AGENCY EFFI23 CIENT, ACCURATE, AND TIMELY REVIEWS. 24 In addition to amounts otherwise available, there is 25 appropriated to the Environmental Protection Agency for 697  HR 5376 EAS 1 fiscal year 2022, out of any money in the Treasury not 2 otherwise appropriated, $40,000,000, to remain available 3 until September 30, 2026, to provide for the development 4 of efficient, accurate, and timely reviews for permitting and 5 approval processes through the hiring and training of per6 sonnel, the development of programmatic documents, the 7 procurement of technical or scientific services for reviews, 8 the development of environmental data or information sys9 tems, stakeholder and community engagement, the purchase 10 of new equipment for environmental analysis, and the de11 velopment of geographic information systems and other 12 analysis tools, techniques, and guidance to improve agency 13 transparency, accountability, and public engagement. 14 SEC. 60116. LOW-EMBODIED CARBON
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The EPA will receive $40 million to improve its permitting and approval processes, with the goal of reducing greenhouse gas emissions by 24% in total and by 25% in low-income and disadvantaged communities.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+19 (A) in subparagraph (A)(ii), by sub20 stituting October 1, 2023 for February 28 fol21 lowing the selected drug publication date with 22 respect to such selected drug; and 23 (B) in subparagraph (B), by substituting 24 August 1, 2024 for November 1 of the year that 47  HR 5376 EAS 1 begins 2 years prior to the initial price applica2 bility year. 3 (3) Section 1192 shall be applied 4 (A) in subsection (b)(1)(A), by substituting 5 during the period beginning on June 1, 2022, 6 and ending on May 31, 2023 for during the 7 most recent period of 12 months prior to the se8 lected drug publication date (but ending not 9 later than October 31 of the year prior to the 10 year of such drug publication date), with respect 11 to such year, for which data are available; and 12 (B) in subsection (d)(1)(A), by sub13 stituting during the period beginning on June 14 1, 2022, and ending on May 31, 2023 for dur15 ing the most recent period for which data are 16 available of at least 12 months prior to the se17 lected drug publication date (but ending no later 18 than October 31 of the year prior to the year of 19 such drug publication date), with respect to such 20 year. 21 (4) Section 1193(a) shall be applied by sub22 stituting October 1, 2023 for February 28 following 23 the selected drug publication date with respect to such 24 selected drug. 25 (5) Section 1194(b)(2) shall be applied 48  HR 5376 EAS 1 (A) in subparagraph (A), by substituting 2 October 2, 2023 for March 1 of the year of the 3 selected drug publication date, with respect to the 4 selected drug; 5 (B) in subparagraph (B), by substituting 6 February 1, 2024 for the June 1 following the 7 selected drug publication date; and 8 (C) in subparagraph (E), by substituting 9 August 1, 2024 for the first day of November 10 following the selected drug publication date, with 11 respect to the initial price applicability year . 12 (6) Section 1195(a)(1) shall be applied
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill modifies the calculation of the average manufacturer price (AMP) for drugs and biologicals under the Medicaid drug rebate program and the calculation of the base date manufacturer price for new drugs under the 340B drug pricing program. The bill also delays the start date for certain provisions of the Medicare Drug and Biological Pricing Transparency Act of 2020.

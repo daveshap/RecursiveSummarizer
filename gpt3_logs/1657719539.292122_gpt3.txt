@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+Contractor acknowledges and agrees that Contractor is obligated to report as income all compensation received by Contractor pursuant to this Agreement, and Contractor agrees to and acknowledges the obligation to pay all selfemployment and other taxes thereon. 8. BENEFITS. Contractor acknowledges and agrees and it is the intent of the parties hereto that neither Contractor nor any employees or contractors of Contractor receive any Company-sponsored benefits from the Company either as a consultant or employee. Such benefits include, but are not limited to, paid vacation, sick leave, medical insurance, and retirement plan participation. If Contractor is reclassified by a governmental agency or court as an employee, Contractor will become a reclassified employee and will receive no benefits except those mandated by applicable law, even if by the terms of the Companys benefit plans in effect at the time of such reclassification Contractor would otherwise be eligible for such benefits. 9.
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Contractor agrees to report all compensation received under this agreement as income, and to pay all applicable taxes on that income. The Contractor also agrees that they and any employees or contractors working for them will not receive any Company-sponsored benefits, including but not limited to paid vacation, sick leave, medical insurance, and retirement plan participation. If the Contractor is later classified as an employee by a governmental agency or court, they will only receive benefits mandated by law, even if they would otherwise be eligible for benefits under the Company's benefit plans.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+for qualified fuel cell property, qualified small wind property, and energy property described in clause (i) or (ii) of paragraph (3)(A).  The Energy Storage Technology and Qualified Biogas Property sections of the Energy Policy Act of 2005 are amended by adding microgrid controllers to the list of eligible technologies. Energy storage technology is defined as property that receives, stores, and delivers energy for conversion to electricity, with a nameplate capacity of not less than 5 kilowatt hours. Thermal energy storage property is also included.  The term "qualified biogas property" means property comprising a system which converts biomass into a gas which consists of not less than 52 percent methane by volume, or is concentrated by such system into a gas which consists of not less than 52 percent methane, and captures such gas for sale or productive use.  The section amends the definition of "qualified facility" for purposes of the energy investment tax credit to include qualified biogas property and microgrid controllers. Qualified biogas property is defined as property part of a system which cleans or conditions biogas for use, and construction of which begins before 2025. A microgrid controller is defined as equipment part of a qualified microgrid, which is designed and used to monitor and control the energy resources and loads on such microgrid. Construction of a microgrid controller must begin before 2025.  This section amends section 50(d) of the tax code to allow taxpayers to elect to exempt energy storage technology from the requirements of the section. The election must be made on the taxpayer's federal tax return for the year in which the technology is placed in service, and can only be revoked with the consent of the IRS. The exemption does not apply to energy storage technology with a maximum capacity of 500 kilowatt hours or less.  The bill amends the Internal Revenue Code to allow for a tax credit for qualified energy property, including
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 2005 is amended to include microgrid controllers and qualified biogas property as eligible technologies for the energy investment tax credit. Energy storage technology is defined as property that receives, stores, and delivers energy for conversion to electricity, with a nameplate capacity of not less than 5 kilowatt hours. Thermal energy storage property is also included. Qualified biogas property means property comprising a system which converts biomass into a gas which consists of not less than 52 percent methane by volume, or is concentrated by such system into a gas which consists of not less than 52 percent methane, and captures such gas for sale or productive use. A microgrid controller is defined as equipment part of a qualified microgrid, which is designed and used to monitor and control the energy resources and loads on such microgrid.

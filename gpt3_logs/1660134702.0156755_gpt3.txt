@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+under subsection (g)(7)) beginning after the price 137  HR 5376 EAS 1 applicability period with respect to such drug, 2 clause (i) of paragraph (3)(C) shall be applied as 3 if the term payment amount benchmark quarter 4 were defined under paragraph (3)(D) as the cal5 endar quarter beginning January 1 of the last 6 year during such price applicability period with 7 respect to such selected drug and clause (ii) of 8 paragraph (3)(C) shall be applied as if the term 9 benchmark period CPIU were defined under 10 paragraph (3)(E) as if the reference to January 11 2021 under such paragraph were a reference to 12 the July of the year preceding such last year. 13 (5) APPLICATION TO BENEFICIARY COINSUR14 ANCE.In the case of a part B rebatable drug fur15 nished on or after April 1, 2023, if the payment 16 amount described in paragraph (3)(A)(ii)(I) (or, in 17 the case of a part B rebatable drug that is a selected 18 drug (as defined in section 1192(c)), the payment 19 amount described in subsection (b)(1)(B) for such 20 drug) for a calendar quarter exceeds the inflation ad21 justed payment for such quarter 22 (A) in computing the amount of any coin23 surance applicable under this part to an indi24 vidual to whom such drug is furnished, the com25 putation of such coinsurance shall be equal to 20 138  HR 5376 EAS 1 percent of the inflation-adjusted payment 2 amount determined under paragraph (3)(C) for 3 such part B rebatable drug; and 4 (B) the amount of such coinsurance for 5 such calendar quarter, as computed under sub6 paragraph (A), shall be applied as a percent, as 7 determined by the Secretary, to the payment 8 amount that would otherwise apply under sub9 paragraphs (B) or (C) of subsection (b)(1). 10 (6) REBATE DEPOSITS.Amounts paid as re11 bates under paragraph (1)(B) shall be deposited into 12 the Federal Supplementary Medical Insurance Trust 13 Fund established under section 1841. 14 (7) CIVIL MONEY PENALTY.If a manufacturer 15 of a part B
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the payment amount for Part B rebatable drugs. The payment amount for a calendar quarter is the lesser of the drug's price for that quarter or the inflation-adjusted payment amount determined under paragraph (3)(C) for such Part B rebatable drug. If the payment amount for a calendar quarter exceeds the inflation-adjusted payment for such quarter, the coinsurance for such calendar quarter is equal to 20 percent of the inflation-adjusted payment amount determined under paragraph (3)(C) for such Part B rebatable drug. Amounts paid as rebates under paragraph (1)(B) are to be deposited into the Federal Supplementary Medical Insurance Trust Fund established under section 1841.

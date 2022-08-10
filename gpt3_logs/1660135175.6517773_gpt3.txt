@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+requirements described in para8 graph (2), the Secretary may revoke the registration 9 (as described in subparagraph (A) of such paragraph) 10 of such dealer. 11 (5) TAX TREATMENT OF PAYMENTS.With re12 spect to any payment described in paragraph (2)(C), 13 such payment 14 (A) shall not be includible in the gross in15 come of the taxpayer, and 16 (B) with respect to the dealer, shall not be 17 deductible under this title. 18 (6) APPLICATION OF CERTAIN OTHER REQUIRE19 MENTS.In the case of any election under paragraph 20 (1) with respect to any vehicle 21 (A) the requirements of paragraphs (1) 22 and (2) of subsection (f) shall apply to the tax23 payer who acquired the vehicle in the same man24 ner as if the credit determined under this section 388  HR 5376 EAS 1 with respect to such vehicle were allowed to such 2 taxpayer, 3 (B) paragraph (6) of such subsection shall 4 not apply, and 5 (C) the requirement of paragraph (9) of 6 such subsection (f) shall be treated as satisfied if 7 the eligible entity provides the vehicle identifica8 tion number of such vehicle to the Secretary in 9 such manner as the Secretary may provide. 10 (7) ADVANCE PAYMENT TO REGISTERED DEAL11 ERS. 12 (A) IN GENERAL.The Secretary shall es13 tablish a program to make advance payments to 14 any eligible entity in an amount equal to the cu15 mulative amount of the credits allowed under 16 subsection (a) with respect to any vehicles sold 17 by such entity for which an election described in 18 paragraph (1) has been made. 19 (B) EXCESSIVE PAYMENTS.Rules similar 20 to the rules of section 6417(d)(6) shall apply for 21 purposes of this paragraph. 22 (C) TREATMENT OF ADVANCE PAY23 MENTS.For purposes of section 1324 of title 31, 24 United States Code, the payments under sub25 paragraph (A) shall be treated in the same man- 389  HR 5376 EAS 1 ner as a refund due from a credit provision re2 ferred to in subsection (b)(2) of such section. 3 (8) DEALER.For purposes of this
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Energy may revoke the registration of any dealer that does not comply with the requirements described in paragraph 8. With respect to any payment described in paragraph 2(C), such payment shall not be included in the gross income of the taxpayer, and shall not be deductible by the dealer. The requirements of paragraphs 1 and 2 of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section were allowed to such taxpayer. The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph 1 has been made.

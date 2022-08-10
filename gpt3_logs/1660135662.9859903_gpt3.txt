@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Eligi14 ble Lender (as defined in section 609.2 of title 10, Code of 15 Federal Regulations) before the period at the end. 16 (f) SOURCE OF PAYMENTS.Section 1702(b) of the 17 Energy Policy Act of 2005 (42 U.S.C. 16512(b)(2)) is 18 amended by adding at the end the following: 19 (3) SOURCE OF PAYMENTS.The source of a 20 payment received from a borrower under subpara21 graph (A) or (B) of paragraph (2) may not be a loan 22 or other debt obligation that is made or guaranteed 23 by the Federal Government.. 612  HR 5376 EAS 1 SEC. 50142. ADVANCED TECHNOLOGY VEHICLE MANUFAC2 TURING. 3 (a) APPROPRIATION.In addition to amounts other4 wise available, there is appropriated to the Secretary for 5 fiscal year 2022, out of any money in the Treasury not 6 otherwise appropriated, $3,000,000,000, to remain avail7 able through September 30, 2028, for the costs of providing 8 direct loans under section 136(d) of the Energy Independ9 ence and Security Act of 2007 (42 U.S.C. 17013(d)): Pro10 vided, That funds appropriated by this section may be used 11 for the costs of providing direct loans for reequipping, ex12 panding, or establishing a manufacturing facility in the 13 United States to produce, or for engineering integration 14 performed in the United States of, advanced technology ve15 hicles described in subparagraph (C), (D), (E), or (F) of 16 section 136(a)(1) of such Act (42 U.S.C. 17013(a)(1)) only 17 if such advanced technology vehicles emit, under any pos18 sible operational mode or condition, low or zero exhaust 19 emissions of greenhouse gases. 20 (b) ADMINISTRATIVE COSTS.The Secretary shall re21 serve not more than $25,000,000 of amounts made available 22 under subsection (a) for administrative costs of providing 23 loans as described in subsection (a). 24 (c) ELIMINATION OF LOAN PROGRAM CAP.Section 25 136(d)(1) of the Energy Independence and Security Act of 613  HR 5376 EAS 1 2007 (42 U.S.C. 17013(d)(1)) is amended by striking a 2 total of not more than
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 2005 is amended by adding a section on advanced technology vehicle manufacturing. This section appropriates $3,000,000,000 to the Secretary for fiscal year 2022 to provide loans for reequipping, expanding, or establishing a manufacturing facility in the United States to produce advanced technology vehicles that emit low or zero exhaust emissions of greenhouse gases.

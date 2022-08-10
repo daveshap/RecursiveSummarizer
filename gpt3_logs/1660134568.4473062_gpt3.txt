@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+value than extending 6 the life of an individual who is younger, nondisabled, 7 or not terminally ill. 8 (f) RENEGOTIATION PROCESS. 9 (1) IN GENERAL.In the case of a renegoti10 ation-eligible drug (as defined in paragraph (2)) that 11 is selected under paragraph (3), the Secretary shall 12 provide for a process of renegotiation (for years (be13 ginning with 2028) during the price applicability pe14 riod, with respect to such drug) of the maximum fair 15 price for such drug consistent with paragraph (4). 16 (2) RENEGOTIATION-ELIGIBLE DRUG DE17 FINED.In this section, the term renegotiation-eligi18 ble drug means a selected drug that is any of the fol19 lowing: 20 (A) ADDITION OF NEW INDICATION.A se21 lected drug for which a new indication is added 22 to the drug. 23 (B) CHANGE OF STATUS TO AN EXTENDED24 MONOPOLY DRUG.A selected drug that 81  HR 5376 EAS 1 (i) is not an extended-monopoly or a 2 long-monopoly drug; and 3 (ii) for which there is a change in 4 status to that of an extended-monopoly 5 drug. 6 (C) CHANGE OF STATUS TO A LONG-MO7 NOPOLY DRUG.A selected drug that 8 (i) is not a long-monopoly drug; and 9 (ii) for which there is a change in 10 status to that of a long-monopoly drug. 11 (D) MATERIAL CHANGES.A selected drug 12 for which the Secretary determines there has been 13 a material change of any of the factors described 14 in paragraph (1) or (2) of subsection (e). 15 (3) SELECTION OF DRUGS FOR RENEGOTI16 ATION.For each year (beginning with 2028), the 17 Secretary shall select among renegotiation-eligible 18 drugs for renegotiation as follows: 19 (A) ALL EXTENDED-MONOPOLY NEGOTIA20 TION-ELIGIBLE DRUGS.The Secretary shall se21 lect all renegotiation-eligible drugs described in 22 paragraph (2)(B). 23 (B) ALL LONG-MONOPOLY NEGOTIATION24 ELIGIBLE DRUGS.The Secretary shall select all 82  HR 5376 EAS 1 renegotiation-eligible drugs described in para2 graph (2)(C). 3 (C) REMAINING DRUGS.Among the re4 maining
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services is required to renegotiate the maximum fair price for certain drugs selected under this section, beginning in 2028. The selection process for these drugs includes all drugs for which a new indication is added, all drugs for which there is a change in status to that of an extended-monopoly drug, and all drugs for which there is a change in status to that of a long-monopoly drug.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ACCOUNT.In the case of any credit (or portion thereof) 16 with respect to which an election is made under subsection 17 (a), such credit shall be taken into account in the first tax18 able year of the transferee taxpayer ending with, or after, 19 the taxable year of the eligible taxpayer with respect to 20 which the credit was determined. 21 (e) LIMITATIONS ON ELECTION. 22 (1) TIME FOR ELECTION.An election under 23 subsection (a) to transfer any portion of an eligible 24 credit shall be made not later than the due date (in25 cluding extensions of time) for the return of tax for 525  HR 5376 EAS 1 the taxable year for which the credit is determined, 2 but in no event earlier than 180 days after the date 3 of the enactment of this section. Any such election, 4 once made, shall be irrevocable. 5 (2) NO ADDITIONAL TRANSFERS.No election 6 may be made under subsection (a) by a transferee 7 taxpayer with respect to any portion of an eligible 8 credit which has been previously transferred to such 9 taxpayer pursuant to this section. 10 (f) DEFINITIONS.For purposes of this section 11 (1) ELIGIBLE CREDIT. 12 (A) IN GENERAL.The term eligible cred13 it means each of the following: 14 (i) So much of the credit for alter15 native fuel vehicle refueling property al16 lowed under section 30C which, pursuant to 17 subsection (d)(1) of such section, is treated 18 as a credit listed in section 38(b). 19 (ii) The renewable electricity produc20 tion credit determined under section 45(a). 21 (iii) The credit for carbon oxide se22 questration determined under section 23 45Q(a). 526  HR 5376 EAS 1 (iv) The zero-emission nuclear power 2 production credit determined under section 3 45U(a). 4 (v) The clean hydrogen production 5 credit determined under section 45V(a). 6 (vi) The advanced manufacturing 7 production credit determined under section 8 45X(a). 9 (vii) The clean electricity production 10 credit determined under section 45Y(a). 11 (viii) The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "Account" section of this bill deals with the transfer of tax credits. Any credit that is eligible to be transferred must be done so in the first taxable year of the transferee taxpayer, and the election to transfer the credit must be made within 180 days of the bill's enactment. The "Eligible Credit" section defines what types of credits are able to be transferred. These include the Alternative Fuel Vehicle Refueling Property credit, the Renewable Electricity Production credit, the Carbon Oxide Sequestration credit, the Zero-Emission Nuclear Power Production credit, the Clean Hydrogen Production credit, the Advanced Manufacturing Production credit, and the Clean Electricity Production credit.

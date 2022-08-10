@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Secretary under sec10 tion 4101, and 11 (2) provides 12 (A) certification (in such form and man13 ner as the Secretary shall prescribe) from an un14 related party demonstrating compliance with 15 (i) any general requirements, supply 16 chain traceability requirements, and infor17 mation transmission requirements estab18 lished under the Carbon Offsetting and Re19 duction Scheme for International Aviation 20 described in paragraph (1) of subsection (e), 21 or 22 (ii) in the case of any methodology es23 tablished under paragraph (2) of such sub24 section, requirements similar to the require25 ments described in clause (i), and 318  HR 5376 EAS 1 (B) such other information with respect to 2 such fuel as the Secretary may require for pur3 poses of carrying out this section. 4 (g) COORDINATION WITH CREDIT AGAINST EXCISE 5 TAX.The amount of the credit determined under this sec6 tion with respect to any sustainable aviation fuel shall, 7 under rules prescribed by the Secretary, be properly reduced 8 to take into account any benefit provided with respect to 9 such sustainable aviation fuel solely by reason of the appli10 cation of section 6426 or 6427(e). 11 (h) TERMINATION.This section shall not apply to 12 any sale or use after December 31, 2024.. 13 (b) CREDIT MADE PART OF GENERAL BUSINESS 14 CREDIT. Section 38(b), as amended by the preceding pro15 visions of this Act, is amended by striking plus at the 16 end of paragraph (33), by striking the period at the end 17 of paragraph (34) and inserting , plus, and by inserting 18 after paragraph (34) the following new paragraph: 19 (35) the sustainable aviation fuel credit deter20 mined under section 40B.. 21 (c) COORDINATION WITH BIODIESEL INCENTIVES. 22 (1) IN GENERAL.Section 40A(d)(1) is amended 23 by inserting or 40B after determined under sec24 tion 40. 319  HR 5376 EAS 1 (2) CONFORMING AMENDMENT.Section 40A(f) 2 is amended by striking paragraph (4). 3 (d) SUSTAINABLE AVIATION
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides a tax credit for sustainable aviation fuel. The credit is made part of the general business credit and is coordinated with the biodiesel incentives.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and indenting appropriately; 13 (II) by striking if such costs are 14 borne or paid and inserting if such 15 costs 16 (I) are borne or paid; and 17 (III) in item (dd), by striking the 18 period at the end and inserting ; or; 19 and 20 (IV) by adding at the end the fol21 lowing new subclause: 22 (II) for 2025 and subsequent 23 years, are reimbursed through insur24 ance, a group health plan, or certain 25 other third party payment arrange- 167  HR 5376 EAS 1 ments, but not including the coverage 2 provided by a prescription drug plan 3 or an MAPD plan that is basic pre4 scription drug coverage (as defined in 5 subsection (a)(3)) or any payments by 6 a manufacturer under the manufac7 turer discount program under section 8 1860D14C.; and 9 (D) in subparagraph (E), by striking In 10 applying and inserting For each of years 2011 11 through 2024, in applying. 12 (b) REINSURANCE PAYMENT AMOUNT.Section 13 1860D15(b) of the Social Security Act (42 U.S.C. 1395w 14 115(b)) is amended 15 (1) in paragraph (1) 16 (A) by striking equal to 80 percent and 17 inserting equal to 18 (A) for a year preceding 2025, 80 per19 cent; 20 (B) in subparagraph (A), as added by sub21 paragraph (A), by striking the period at the end 22 and inserting ; and; and 23 (C) by adding at the end the following new 24 subparagraph: 168  HR 5376 EAS 1 (B) for 2025 and each subsequent year, the 2 sum of 3 (i) with respect to applicable drugs 4 (as defined in section 1860D14C(g)(2)), an 5 amount equal to 20 percent of such allow6 able reinsurance costs attributable to that 7 portion of gross covered prescription drug 8 costs as specified in paragraph (3) incurred 9 in the coverage year after such individual 10 has incurred costs that exceed the annual 11 out-of-pocket threshold specified in section 12 1860D2(b)(4)(B); and 13 (ii) with respect to covered part D 14 drugs that are not applicable drugs (as so 15 defined), an amount equal to 40 percent of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended to include a new section on prescription drug costs. For years 2025 and beyond, the amount of allowable reinsurance costs will be increased to 20 percent for applicable drugs and 40 percent for other covered drugs.

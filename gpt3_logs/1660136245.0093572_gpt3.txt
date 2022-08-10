@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+credit is worth a maximum of $7,500 per vehicle and is set to expire after December 31, 2032.  This section amends the Alternative Fuel Tax Credit by extending the credit through 2032 and increasing the credit limit from $30,000 to $100,000. It also includes bidirectional charging equipment as qualified alternative fuel vehicle refueling property.  The "qualified alternative fuel vehicle refueling property" tax credit is amended to include electric charging stations for certain vehicles with 2 or 3 wheels, as well as to extend the credit to biodiesel fuel mixtures.  The amount of the tax credit for qualified alternative fuel vehicle refueling property is increased to five times the original amount, if the project meets certain requirements. These requirements include that the project must begin construction before a specified date, and that all laborers and mechanics employed on the project must be paid prevailing wages.  The rules in this section apply to property placed in service after December 31, 2022, with the exception of the amendments in subsection (a), which apply to property placed in service after December 31, 2021. The purpose of this section is to provide for investment in clean energy manufacturing and construction projects.  The Energy Security Act extends the Advanced Energy Project credit and establishes a program to award certifications for qualified investments eligible for the credit. The total amount of credits which may be allocated under the program shall not exceed $10,000,000,000, of which not greater than $6,000,000,000 may be allocated to qualified investments which are not located within a census tract that had no project which received a certification and allocation of credits under the program prior to the date of enactment of the Act.  The tax credit for re-equipping, expanding, or establishing a manufacturing facility is 6 percent, but it is increased to 8 percent if the project satisfies prevailing wage and apprenticeship
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Security Act extends the Alternative Fuel Tax Credit through 2032 and increases the credit limit from $30,000 to $100,000. It also includes bidirectional charging equipment as qualified alternative fuel vehicle refueling property. The amount of the tax credit for qualified alternative fuel vehicle refueling property is increased to five times the original amount, if the project meets certain requirements. These requirements include that the project must begin construction before a specified date, and that all laborers and mechanics employed on the project must be paid prevailing wages. The rules in this section apply to property placed in service after December 31, 2022. The purpose of this section is to provide for investment in clean energy manufacturing and construction projects.

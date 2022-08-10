@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+regulations or other guidance for de5 termining lifecycle greenhouse gas emissions.. 6 (2) CREDIT REDUCED FOR TAX-EXEMPT 7 BONDS.Section 45V(d), as added by this section, is 8 amended by adding at the end the following new 9 paragraph: 10 (3) CREDIT REDUCED FOR TAX-EXEMPT 11 BONDS.Rules similar to the rule under section 12 45(b)(3) shall apply for purposes of this section.. 13 (3) MODIFICATION OF EXISTING FACILITIES. 14 Section 45V(d), as added and amended by the pre15 ceding provisions of this section, is amended by add16 ing at the end the following new paragraph: 17 (4) MODIFICATION OF EXISTING FACILITIES. 18 For purposes of subsection (a)(1), in the case of any 19 facility which 20 (A) was originally placed in service before 21 January 1, 2023, and, prior to the modification 22 described in subparagraph (B), did not produce 23 qualified clean hydrogen, and 24 (B) after the date such facility was origi25 nally placed in service 331  HR 5376 EAS 1 (i) is modified to produce qualified 2 clean hydrogen, and 3 (ii) amounts paid or incurred with 4 respect to such modification are properly 5 chargeable to capital account of the tax6 payer, 7 such facility shall be deemed to have been originally 8 placed in service as of the date that the property re9 quired to complete the modification described in sub10 paragraph (B) is placed in service.. 11 (4) CONFORMING AMENDMENTS. 12 (A) Section 38(b), as amended by the pre13 ceding provisions of this Act, is amended 14 (i) in paragraph (34), by striking 15 plus at the end, 16 (ii) in paragraph (35), by striking the 17 period at the end and inserting , plus, 18 and 19 (iii) by adding at the end the following 20 new paragraph: 21 (36) the clean hydrogen production credit deter22 mined under section 45V(a).. 23 (B) The table of sections for subpart D of 24 part IV of subchapter A of chapter 1, as amend25 ed by the preceding provisions of this Act, is 332  HR 5376 EAS 1 amended by adding at
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The clean hydrogen production credit is a tax credit for businesses that produce qualified clean hydrogen. The credit is equal to the lesser of $5,000 or 30% of the cost of the equipment used to produce the hydrogen. The credit is reduced for tax-exempt bonds.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+project which satisfies the requirements of 6 subparagraph (B), the amount of the credit 7 determined under this subsection (deter8 mined after the application of paragraphs 9 (1) through (8) and without regard to this 10 clause) shall be equal to such amount multi11 plied by 5. 12 (ii) ENERGY PROJECT DEFINED.For 13 purposes of this subsection, the term energy 14 project means a project consisting of one or 15 more energy properties that are part of a 16 single project. 17 (B) PROJECT REQUIREMENTS.A project 18 meets the requirements of this subparagraph if it 19 is one of the following: 20 (i) A project with a maximum net 21 output of less than 1 megawatt of electrical 22 (as measured in alternating current) or 23 thermal energy. 24 (ii) A project the construction of 25 which begins before the date that is 60 days 278  HR 5376 EAS 1 after the Secretary publishes guidance with 2 respect to the requirements of paragraphs 3 (10)(A) and (11). 4 (iii) A project which satisfies the re5 quirements of paragraphs (10)(A) and (11). 6 (10) PREVAILING WAGE REQUIREMENTS. 7 (A) IN GENERAL.The requirements de8 scribed in this subparagraph with respect to any 9 energy project are that the taxpayer shall ensure 10 that any laborers and mechanics employed by 11 the taxpayer or any contractor or subcontractor 12 in 13 (i) the construction of such energy 14 project, and 15 (ii) for the 5-year period beginning 16 on the date such project is originally placed 17 in service, the alteration or repair of such 18 project, 19 shall be paid wages at rates not less than the 20 prevailing rates for construction, alteration, or 21 repair of a similar character in the locality in 22 which such project is located as most recently de23 termined by the Secretary of Labor, in accord24 ance with subchapter IV of chapter 31 of title 40, 25 United States Code. Subject to subparagraph 279  HR 5376 EAS 1 (C), for purposes of any determination under 2 paragraph (9)(A)(i) for the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the tax credit for energy projects. A project is eligible for the credit if it meets certain requirements, including being a project with a maximum net output of less than 1 megawatt of electrical or thermal energy, or a project that satisfies the requirements of paragraphs (10)(A) and (11). The requirements described in this subparagraph with respect to any energy project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such energy project, and for the 5-year period beginning on the date such project is originally placed in service, the alteration or repair of such project, shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.

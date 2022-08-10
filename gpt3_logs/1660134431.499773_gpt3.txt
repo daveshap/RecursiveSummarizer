@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+income or loss set forth on the ap14 plicable financial statement (as adjusted under 15 rules similar to those that apply in determining 16 adjusted financial statement income) of each 17 such controlled foreign corporation with respect 18 to which such taxpayer is a United States share19 holder. 20 (B) NEGATIVE ADJUSTMENTS.In any 21 case in which the adjustment determined under 22 subparagraph (A) would result in a negative ad23 justment for such taxable year 17  HR 5376 EAS 1 (i) no adjustment shall be made 2 under this paragraph for such taxable year, 3 and 4 (ii) the amount of the adjustment de5 termined under this paragraph for the suc6 ceeding taxable year (determined without 7 regard to this paragraph) shall be reduced 8 by an amount equal to the negative adjust9 ment for such taxable year. 10 (4) EFFECTIVELY CONNECTED INCOME.In the 11 case of a foreign corporation, to determine adjusted fi12 nancial statement income, the principles of section 13 882 shall apply. 14 (5) ADJUSTMENTS FOR CERTAIN TAXES.Ad15 justed financial statement income shall be appro16 priately adjusted to disregard any Federal income 17 taxes, or income, war profits, or excess profits taxes 18 (within the meaning of section 901) with respect to 19 a foreign country or possession of the United States, 20 which are taken into account on the taxpayers appli21 cable financial statement. To the extent provided by 22 the Secretary, the preceding sentence shall not apply 23 to income, war profits, or excess profits taxes (within 24 the meaning of section 901) that are imposed by a 25 foreign country or possession of the United States and 18  HR 5376 EAS 1 taken into account on the taxpayers applicable finan2 cial statement if the taxpayer does not choose to have 3 the benefits of subpart A of part III of subchapter N 4 for the taxable year. The Secretary shall prescribe 5 such regulations or other guidance as may be nec6 essary and appropriate to provide for the proper 7
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Foreign Investment in Real Property Tax Act of 1980 (the "Act") imposes a tax on the sale or exchange of certain foreign real property interests. The tax is imposed on the gain realized from the sale or exchange. The tax is imposed at a rate of 10 percent of the gain if the property is held for more than one year, and at a rate of 15 percent if the property is held for less than one year.

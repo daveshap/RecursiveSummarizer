@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+FUND 8 BLACK LUNG DISABILITY TRUST FUND. 9 (a) IN GENERAL.Section 4121 is amended by strik10 ing subsection (e). 11 (b) EFFECTIVE DATE.The amendment made by this 12 section shall apply to sales in calendar quarters beginning 13 after the date which is 1 day after the date of enactment 14 of this Act. 15 SEC. 13902. INCREASE IN RESEARCH CREDIT AGAINST PAY16 ROLL TAX FOR SMALL BUSINESSES. 17 (a) IN GENERAL.Clause (i) of section 41(h)(4)(B) is 18 amended 19 (1) by striking AMOUNT.The amount and 20 inserting AMOUNT. 21 (I) IN GENERAL.The amount, 22 and 23 (2) by adding at the end the following new sub24 clause: 534  HR 5376 EAS 1 (II) INCREASE.In the case of 2 taxable years beginning after December 3 31, 2022, the amount in subclause (I) 4 shall be increased by $250,000.. 5 (b) ALLOWANCE OF CREDIT. 6 (1) IN GENERAL.Paragraph (1) of section 7 3111(f) is amended 8 (A) by striking for a taxable year, there 9 shall be allowed and inserting for a taxable 10 year 11 (A) there shall be allowed, 12 (B) by striking equal to the and inserting 13 equal to so much of the, 14 (C) by striking the period at the end and 15 inserting as does not exceed the limitation of 16 subclause (I) of section 41(h)(4)(B)(i) (applied 17 without regard to subclause (II) thereof), and, 18 and 19 (D) by adding at the end the following new 20 subparagraph: 21 (B) there shall be allowed as a credit 22 against the tax imposed by subsection (b) for the 23 first calendar quarter which begins after the date 24 on which the taxpayer files the return specified 25 in section 41(h)(4)(A)(ii) an amount equal to so 535  HR 5376 EAS 1 much of the payroll tax credit portion deter2 mined under section 41(h)(2) as is not allowed 3 as a credit under subparagraph (A).. 4 (2) LIMITATION.Paragraph (2) of section 5 3111(f) is amended 6 (A) by striking paragraph (1) and insert7 ing paragraph (1)(A), and 8 (B) by inserting , and the credit allowed 9 by
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Fund 8 Black Lung Disability Trust Fund is being amended by striking subsection (e). This amendment will apply to sales in calendar quarters beginning after the date of enactment. Additionally, the research credit against payroll tax for small businesses is being increased by $250,000 for taxable years beginning after December 31, 2022.

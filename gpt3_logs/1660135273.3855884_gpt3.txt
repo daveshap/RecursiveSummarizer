@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(ii) purified to a minimum purity of 20 99 percent cerium by mass. 21 (F) CESIUM.Cesium which is 22 (i) converted to cesium formate or ce23 sium carbonate, or 24 (ii) purified to a minimum purity of 25 99 percent cesium by mass. 440  HR 5376 EAS 1 (G) CHROMIUM.Chromium which is 2 (i) converted to ferrochromium con3 sisting of not less than 60 percent chro4 mium by mass, or 5 (ii) purified to a minimum purity of 6 99 percent chromium by mass. 7 (H) COBALT.Cobalt which is 8 (i) converted to cobalt sulfate, or 9 (ii) purified to a minimum purity of 10 99.6 percent cobalt by mass. 11 (I) DYSPROSIUM.Dysprosium which is 12 (i) converted to not less than 99 per13 cent pure dysprosium iron alloy by mass, or 14 (ii) purified to a minimum purity of 15 99 percent dysprosium by mass. 16 (J) EUROPIUM.Europium which is 17 (i) converted to europium oxide which 18 is purified to a minimum purity of 99.9 19 percent europium oxide by mass, or 20 (ii) purified to a minimum purity of 21 99 percent by mass. 22 (K) FLUORSPAR.Fluorspar which is 23 (i) converted to fluorspar which is pu24 rified to a minimum purity of 97 percent 25 calcium fluoride by mass, or 441  HR 5376 EAS 1 (ii) purified to a minimum purity of 2 99 percent fluorspar by mass. 3 (L) GADOLINIUM.Gadolinium which 4 is 5 (i) converted to gadolinium oxide 6 which is purified to a minimum purity of 7 99.9 percent gadolinium oxide by mass, or 8 (ii) purified to a minimum purity of 9 99 percent gadolinium by mass. 10 (M) GERMANIUM.Germanium which 11 is 12 (i) converted to germanium tetra13 chloride, or 14 (ii) purified to a minimum purity of 15 99.99 percent germanium by mass. 16 (N) GRAPHITE.Graphite which is puri17 fied to a minimum purity of 99.9 percent gra18 phitic carbon by mass. 19 (O) INDIUM.Indium which is 20 (i) converted to 21 (I) indium tin oxide, or 22 (II) indium oxide which is puri23 fied to a minimum purity of 99.9 per24 cent
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The above listed materials must be purified to a minimum purity of 99 percent by mass in order to be used in the production of certain goods.

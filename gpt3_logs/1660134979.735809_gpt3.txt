@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+PLACED IN SERVICE IN CONNECTION WITH 14 LOW-INCOME COMMUNITIES. 15 (1) IN GENERAL.In the case of any qualified 16 solar and wind facility with respect to which the Sec17 retary makes an allocation of environmental justice 18 solar and wind capacity limitation under paragraph 19 (4) 20 (A) the energy percentage otherwise deter21 mined under paragraph (2) or (5) of subsection 22 (a) with respect to any eligible property which 23 is part of such facility shall be increased by 24 (i) in the case of a facility described 25 in subclause (I) of paragraph (2)(A)(iii) 285  HR 5376 EAS 1 and not described in subclause (II) of such 2 paragraph, 10 percentage points, and 3 (ii) in the case of a facility described 4 in subclause (II) of paragraph (2)(A)(iii), 5 20 percentage points, and 6 (B) the increase in the credit determined 7 under subsection (a) by reason of this subsection 8 for any taxable year with respect to all property 9 which is part of such facility shall not exceed the 10 amount which bears the same ratio to the 11 amount of such increase (determined without re12 gard to this subparagraph) as 13 (i) the environmental justice solar 14 and wind capacity limitation allocated to 15 such facility, bears to 16 (ii) the total megawatt nameplate ca17 pacity of such facility, as measured in di18 rect current. 19 (2) QUALIFIED SOLAR AND WIND FACILITY. 20 For purposes of this subsection 21 (A) IN GENERAL.The term qualified 22 solar and wind facility means any facility 23 (i) which generates electricity solely 24 from property described in section 45(d)(1) 286  HR 5376 EAS 1 or in clause (i) or (vi) of subsection 2 (a)(3)(A), 3 (ii) which has a maximum net output 4 of less than 5 megawatts (as measured in 5 alternating current), and 6 (iii) which 7 (I) is located in a low-income 8 community (as defined in section 9 45D(e)) or on Indian land (as defined 10 in section 2601(2) of the Energy Policy 11 Act of 1992 (25 U.S.C. 3501(2))), or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section deals with solar and wind energy tax credits for low-income communities. The credit is increased for facilities located in low-income communities or on Indian land.

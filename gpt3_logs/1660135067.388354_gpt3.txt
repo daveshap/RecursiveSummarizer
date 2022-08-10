@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+REQUIREMENTS. 13 (A) IN GENERAL.The requirements de14 scribed in this subparagraph with respect to any 15 qualified clean hydrogen production facility are 16 that the taxpayer shall ensure that any laborers 17 and mechanics employed by the taxpayer or any 18 contractor or subcontractor in 19 (i) the construction of such facility, 20 and 21 (ii) with respect to any taxable year, 22 for any portion of such taxable year which 23 is within the period described in subsection 24 (a)(2), the alteration or repair of such facil25 ity, 329  HR 5376 EAS 1 shall be paid wages at rates not less than the 2 prevailing rates for construction, alteration, or 3 repair of a similar character in the locality in 4 which such facility is located as most recently 5 determined by the Secretary of Labor, in accord6 ance with subchapter IV of chapter 31 of title 40, 7 United States Code. For purposes of determining 8 an increased credit amount under paragraph (1) 9 for a taxable year, the requirement under clause 10 (ii) of this subparagraph is applied to such tax11 able year in which the alteration or repair of 12 qualified facility occurs. 13 (B) CORRECTION AND PENALTY RELATED 14 TO FAILURE TO SATISFY WAGE REQUIRE15 MENTS.Rules similar to the rules of section 16 45(b)(7)(B) shall apply. 17 (4) APPRENTICESHIP REQUIREMENTS.Rules 18 similar to the rules of section 45(b)(8) shall apply. 19 (5) REGULATIONS AND GUIDANCE.The Sec20 retary shall issue such regulations or other guidance 21 as the Secretary determines necessary to carry out the 22 purposes of this subsection, including regulations or 23 other guidance which provides for requirements for 24 recordkeeping or information reporting for purposes 25 of administering the requirements of this subsection. 330  HR 5376 EAS 1 (f) REGULATIONS.Not later than 1 year after the 2 date of enactment of this section, the Secretary shall issue 3 regulations or other guidance to carry out the purposes of 4 this section, including
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The requirements for any qualified clean hydrogen production facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such facility, and with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2), the alteration or repair of such facility, shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.

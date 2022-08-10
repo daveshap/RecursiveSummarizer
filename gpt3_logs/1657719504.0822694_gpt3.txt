@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+compliance with the terms and conditions of this Agreement, all mutually agreed to specifications and acceptance criteria, and applicable law. (b) Further Warranties. Contractor further warrants that: (i) the Work Product is or will be original to Contractor; (ii) Contractor has not previously granted and will not grant any rights in the Work Product to any third party that are inconsistent with the rights granted to Company herein; (iii) each of Contractors employees, consultants, contractors, partners, or agents who has been or will be involved in the performance of the Services has or will have signed an agreement with Contractor conveying all proprietary and intellectual property rights in or relating to the Work Product to Contractor and agreeing to maintain in confidence all trade secrets and non-Contractor proprietary information embodied in the Work Product or acquired while performing the Services or having access to Work Product; (iv) all Work Product, and the intended uses
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Contractor warrants that they will comply with the terms and conditions of the Agreement, all mutually agreed to specifications and acceptance criteria, and applicable law. The Contractor further warrants that the Work Product will be original to the Contractor, that the Contractor has not previously granted and will not grant any rights in the Work Product to any third party that are inconsistent with the rights granted to Company herein, and that each of the Contractor's employees, consultants, contractors, partners, or agents who has been or will be involved in the performance of the Services has or will have signed an agreement with Contractor conveying all proprietary and intellectual property rights in or relating to the Work Product to Contractor and agreeing to maintain in confidence all trade secrets and non-Contractor proprietary information embodied in the Work Product or acquired while performing the Services or having access to Work Product.

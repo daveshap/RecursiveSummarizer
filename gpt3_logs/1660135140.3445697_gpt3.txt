@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+participate in the 3 Energy Star Multifamily New Construction Pro4 gram 5 (i) which meets the requirements of 6 subsection (c)(1)(A) (and which does not 7 meet the requirements of subsection 8 (c)(1)(B)), $500, and 9 (ii) which meets the requirements of 10 subsection (c)(1)(B), $1,000.. 11 (c) MODIFICATION OF ENERGY SAVING REQUIRE12 MENTS.Section 45L(c) is amended to read as follows: 13 (c) ENERGY SAVING REQUIREMENTS. 14 (1) IN GENERAL. 15 (A) IN GENERAL.A dwelling unit meets 16 the requirements of this subparagraph if such 17 dwelling unit meets the requirements of para18 graph (2) or (3) (whichever is applicable). 19 (B) ZERO ENERGY READY HOME PRO20 GRAM.A dwelling unit meets the requirements 21 of this subparagraph if such dwelling unit is cer22 tified as a zero energy ready home under the zero 23 energy ready home program of the Department 24 of Energy as in effect on January 1, 2023 (or 369  HR 5376 EAS 1 any successor program determined by the Sec2 retary). 3 (2) SINGLE-FAMILY HOME REQUIREMENTS.A 4 dwelling unit meets the requirements of this para5 graph if 6 (A) such dwelling unit meets 7 (i)(I) in the case of a dwelling unit 8 acquired before January 1, 2025, the En9 ergy Star Single-Family New Homes Na10 tional Program Requirements 3.1, or 11 (II) in the case of a dwelling unit ac12 quired after December 31, 2024, the Energy 13 Star Single-Family New Homes National 14 Program Requirements 3.2, and 15 (ii) the most recent Energy Star Sin16 gle-Family New Homes Program Require17 ments applicable to the location of such 18 dwelling unit (as in effect on the latter of 19 January 1, 2023, or January 1 of two cal20 endar years prior to the date the dwelling 21 unit was acquired), or 22 (B) such dwelling unit meets the most re23 cent Energy Star Manufactured Home National 24 program requirements as in effect on the latter 25 of January 1, 2023, or January 1 of two cal- 370  HR 5376 EAS 1 endar years prior to the date such
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The 3 Energy Star Multifamily New Construction Pro- gram provides financial incentives for dwelling units that meet certain energy efficiency requirements. The requirements are different for units acquired before and after January 1, 2025.

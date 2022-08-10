@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+first subject to the maximum fair price. The "price applicability period" is the period during which the drug is a selected drug. The "selected drug publication date" is the date on which the drug is first identified as a selected drug. The "negotiation period" is the period during which the manufacturer of the drug and the Secretary of Health and Human Services negotiate the maximum fair price for the drug.  This section of the bill establishes a new program to negotiate drug prices on behalf of Medicare Part B and D enrollees, and sets the maximum fair price for a selected drug at the price negotiated by the program. The program will be implemented in 2026.  The bill modifies the calculation of the average manufacturer price (AMP) for drugs and biologicals under the Medicaid drug rebate program and the calculation of the base date manufacturer price for new drugs under the 340B drug pricing program. The bill also delays the start date for certain provisions of the Medicare Drug and Biological Pricing Transparency Act of 2020.  This section of the bill deals with the selection of negotiation-eligible drugs as selected drugs. The Secretary of Health and Human Services must select and publish a list of negotiation-eligible drugs for each initial price applicability year. The number of negotiation-eligible drugs selected must increase each year, from 10 in 2026 to 20 in 2029 and subsequent years. Each drug on the list must be subject to the negotiation process under section 1194.  The Secretary of Health and Human Services will rank negotiation-eligible drugs according to total expenditures for the drugs under Medicare parts B and D during a 12-month period, with the highest-ranked drugs being selected for negotiation. For initial price applicability years 2026 and 2027, the ranking and selection process will be applied only to drugs covered under Medicare part D.  The drug negotiation process under this bill would apply to a selected drug with respect to the initial
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes a new program to negotiate drug prices on behalf of Medicare Part B and D enrollees, and sets the maximum fair price for a selected drug at the price negotiated by the program. The program will be implemented in 2026.

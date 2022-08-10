@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+indium oxide by mass, or 442  HR 5376 EAS 1 (ii) purified to a minimum purity of 2 99 percent indium by mass. 3 (P) LITHIUM.Lithium which is 4 (i) converted to lithium carbonate or 5 lithium hydroxide, or 6 (ii) purified to a minimum purity of 7 99.9 percent lithium by mass. 8 (Q) MANGANESE.Manganese which is 9 (i) converted to manganese sulphate, 10 or 11 (ii) purified to a minimum purity of 12 99.7 percent manganese by mass. 13 (R) NEODYMIUM.Neodymium which is 14 (i) converted to neodymium-praseo15 dymium oxide which is purified to a min16 imum purity of 99 percent neodymium-pra17 seodymium oxide by mass, 18 (ii) converted to neodymium oxide 19 which is purified to a minimum purity of 20 99.5 percent neodymium oxide by mass 21 (iii) purified to a minimum purity of 22 99.9 percent neodymium by mass. 23 (S) NICKEL.Nickel which is 24 (i) converted to nickel sulphate, or 443  HR 5376 EAS 1 (ii) purified to a minimum purity of 2 99 percent nickel by mass. 3 (T) NIOBIUM.Niobium which is 4 (i) converted to ferronibium, or 5 (ii) purified to a minimum purity of 6 99 percent niobium by mass. 7 (U) TELLURIUM.Tellurium which is 8 (i) converted to cadmium telluride, or 9 (ii) purified to a minimum purity of 10 99 percent tellurium by mass. 11 (V) TIN.Tin which is purified to low 12 alpha emitting tin which 13 (i) has a purity of greater than 99.99 14 percent by mass, and 15 (ii) possesses an alpha emission rate 16 of not greater than 0.01 counts per hour per 17 centimeter square. 18 (W) TUNGSTEN.Tungsten which is con19 verted to ammonium paratungstate or 20 ferrotungsten. 21 (X) VANADIUM.Vanadium which is con22 verted to ferrovanadium or vanadium pentoxide. 23 (Y) YTTRIUM.Yttrium which is 444  HR 5376 EAS 1 (i) converted to yttrium oxide which 2 is purified to a minimum purity of 99.999 3 percent yttrium oxide by mass, or 4 (ii) purified to a minimum purity of 5 99.9 percent yttrium by mass. 6 (Z)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill would allow for the import of certain metals and alloys, including indium, lithium, manganese, neodymium, nickel, niobium, tellurium, tin, tungsten, vanadium, and yttrium, provided that they are purified to a minimum purity of 99 percent by mass.

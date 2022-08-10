@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+In the Senate of the United States, August 7 (legislative day, August 6), 2022. Resolved, That the bill from the House of Representatives (H.R. 5376) entitled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14., do pass with the following AMENDMENT: Strike all after the enacting clause and insert the following: 1 TITLE ICOMMITTEE ON 2 FINANCE 3 Subtitle ADeficit Reduction 4 SEC. 10001. AMENDMENT OF 1986 CODE. 5 Except as otherwise expressly provided, whenever in 6 this subtitle an amendment or repeal is expressed in terms 7 of an amendment to, or repeal of, a section or other provi8 sion, the reference shall be considered to be made to a section 9 or other provision of the Internal Revenue Code of 1986. 2  HR 5376 EAS 1 PART 1CORPORATE TAX REFORM 2 SEC. 10101. CORPORATE ALTERNATIVE MINIMUM TAX. 3 (a) IMPOSITION OF TAX. 4 (1) IN GENERAL.Paragraph (2) of section 5 55(b) is amended to read as follows: 6 (2) CORPORATIONS. 7 (A) APPLICABLE CORPORATIONS.In the 8 case of an applicable corporation, the tentative 9 minimum tax for the taxable year shall be the 10 excess of 11 (i) 15 percent of the adjusted finan12 cial statement income for the taxable year 13 (as determined under section 56A), over 14 (ii) the corporate AMT foreign tax 15 credit for the taxable year. 16 (B) OTHER CORPORATIONS.In the case 17 of any corporation which is not an applicable 18 corporation, the tentative minimum tax for the 19 taxable year shall be zero.. 20 (2) APPLICABLE CORPORATION.Section 59 is 21 amended by adding at the end the following new sub22 section: 23 (k) APPLICABLE CORPORATION.For purposes of this 24 part 25 (1) APPLICABLE CORPORATION DEFINED. 3  HR 5376 EAS 1 (A) IN GENERAL.The term applicable 2 corporation means, with respect to any taxable 3 year, any corporation (other than an S corpora4 tion, a regulated investment company, or a real 5 estate investment trust) which meets the average 6 annual adjusted financial
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Senate has passed a bill that would amend the Internal Revenue Code to provide for corporate tax reform. The bill would impose a new corporate alternative minimum tax, and would exempt certain corporations from the tax. The bill would also allow for a corporate AMT foreign tax credit.

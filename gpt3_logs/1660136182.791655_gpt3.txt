@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+designated by the Secretary. The credit is also available for carbon capture at qualified facilities that are not part of a designated project.  This section provides a tax credit for certain carbon capture facilities. To qualify, the facility must begin construction before 2033 and must capture a certain amount of carbon oxide each year.  The Energy Independence and Security Act of 2007 amends the Internal Revenue Code of 1986 to include a new section 45Q, which provides a tax credit for the capture and sequestration of carbon dioxide emissions from certain electric generating units. The credit is available for units that are originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins, and on or after the date which is 3 years prior to the date on which construction of such equipment begins. The credit is also available for units that are originally placed in service more than 3 years prior to the date on which construction of the carbon capture equipment begins, but only for the 3 years with the highest annual carbon oxide production during the 12-year period preceding the date on which construction of such equipment begins.  This section amends the Internal Revenue Code to provide a tax credit for carbon capture and sequestration. The credit is equal to the applicable dollar amount for each metric ton of qualified carbon dioxide captured and disposed of in secure geological storage. The applicable dollar amount is $50 for facilities placed in service before January 1, 2024, and $35 for facilities placed in service after December 31, 2023. For facilities placed in service after December 31, 2022, the applicable dollar amount is $36.  The credit for qualified facilities and carbon capture equipment is increased from the original amount to five times the original amount if the taxpayer satisfies the requirements under paragraphs (3)(A) and (4).  The Tax Cuts and Jobs Act imposes a penalty on taxpayers
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides a tax credit for certain carbon capture facilities. To qualify, the facility must begin construction before 2033 and must capture a certain amount of carbon oxide each year. The credit is available for units that are originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins, and on or after the date which is 3 years prior to the date on which construction of such equipment begins. The credit is also available for units that are originally placed in service more than 3 years prior to the date on which construction of the carbon capture equipment begins, but only for the 3 years with the highest annual carbon oxide production during the 12-year period preceding the date on which construction of such equipment begins. The credit for qualified facilities and carbon capture equipment is increased from the original amount to five times the original amount if the taxpayer satisfies the requirements under paragraphs (3)(A) and (4).

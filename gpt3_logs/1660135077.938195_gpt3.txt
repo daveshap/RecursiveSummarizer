@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+GENERAL.Section 48(a), as amended by 23 the preceding provisions of this Act, is amended 24 (A) by redesignating paragraph (15) as 25 paragraph (16), and 334  HR 5376 EAS 1 (B) by inserting after paragraph (14) the 2 following new paragraph: 3 (15) ELECTION TO TREAT CLEAN HYDROGEN 4 PRODUCTION FACILITIES AS ENERGY PROPERTY. 5 (A) IN GENERAL.In the case of any 6 qualified property (as defined in paragraph 7 (5)(D)) which is part of a specified clean hydro8 gen production facility 9 (i) such property shall be treated as 10 energy property for purposes of this section, 11 and 12 (ii) the energy percentage with respect 13 to such property is 14 (I) in the case of a facility which 15 is designed and reasonably expected to 16 produce qualified clean hydrogen which 17 is described in a subparagraph (A) of 18 section 45V(b)(2), 1.2 percent, 19 (II) in the case of a facility 20 which is designed and reasonably ex21 pected to produce qualified clean hy22 drogen which is described in a sub23 paragraph (B) of such section, 1.5 per24 cent, 335  HR 5376 EAS 1 (III) in the case of a facility 2 which is designed and reasonably ex3 pected to produce qualified clean hy4 drogen which is described in a sub5 paragraph (C) of such section, 2 per6 cent, and 7 (IV) in the case of a facility 8 which is designed and reasonably ex9 pected to produce qualified clean hy10 drogen which is described in subpara11 graph (D) of such section, 6 percent. 12 (B) DENIAL OF PRODUCTION CREDIT.No 13 credit shall be allowed under section 45V or sec14 tion 45Q for any taxable year with respect to 15 any specified clean hydrogen production facility 16 or any carbon capture equipment included at 17 such facility. 18 (C) SPECIFIED CLEAN HYDROGEN PRODUC19 TION FACILITY.For purposes of this paragraph, 20 the term specified clean hydrogen production fa21 cility means any qualified clean hydrogen pro22 duction facility (as defined in section 23 45V(c)(3)) 24 (i) which is placed in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amendment to Section 48(a) of the tax code allows for a tax credit for certain clean hydrogen production facilities. The credit is equal to 1.2%, 1.5%, 2.0%, or 6.0% of the cost of the facility, depending on the type of facility. The amendment also denies the production tax credit for any taxable year with respect to any specified clean hydrogen production facility or any carbon capture equipment included at such facility.

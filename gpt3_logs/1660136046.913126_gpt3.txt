@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Public Health Service Act and has been on the market for at least eleven years.  This section defines a qualifying single source drug as a drug that is the listed drug or a product described in clause (ii) of subparagraph (B), with respect to an authorized generic drug. An authorized generic drug is defined as a drug that is an authorized generic drug or a product that has been licensed under section 351(a) of the Federal Food, Drug, and Cosmetic Act and is marketed, sold, or distributed directly or indirectly to retail class of trade under a different labeling, packaging, product code, labeler code, trade name, or trade mark than the reference product.  The Department of Health and Human Services will enter into agreements with manufacturers of selected drugs, in order to negotiate a maximum fair price for the drug. The agreement will be for the initial price applicability year for the selected drug. If a manufacturer does not agree to the maximum fair price, the manufacturer will be required to pay a rebate to the Department.  This section of the bill requires manufacturers to provide access to maximum fair prices for drugs to certain eligible individuals and entities during the price applicability period. The Secretary of Health and Human Services and the manufacturer must renegotiate the maximum fair price for the drug at the end of the period, in order for the manufacturer to provide access to the newly negotiated price during the following year.  The manufacturer of a selected drug will provide access to the maximum fair price to eligible individuals and hospitals, physicians, and other providers of services and suppliers. The manufacturer will also submit information to the Secretary on the non-Federal average manufacturer price for the drug and information that the Secretary requires to carry out the negotiation process. The manufacturer will comply with requirements determined by the Secretary to be necessary for administering the program and monitoring
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill requires manufacturers to provide access to maximum fair prices for drugs to certain eligible individuals and entities during the price applicability period. The manufacturer of a selected drug will provide access to the maximum fair price to eligible individuals and hospitals, physicians, and other providers of services and suppliers. The manufacturer will also submit information to the Secretary on the non-Federal average manufacturer price for the drug and information that the Secretary requires to carry out the negotiation process.

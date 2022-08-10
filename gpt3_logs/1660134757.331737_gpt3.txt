@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+guidance.. 8 (b) CONFORMING AMENDMENTS. 9 (1) TO PART B ASP CALCULATION.Section 10 1847A(c)(3) of the Social Security Act (42 U.S.C. 11 1395w3a(c)(3)), as amended by section 11101(c)(1), 12 is amended by striking subsection (i) or section 13 1927 and inserting subsection (i), section 1927, or 14 section 1860D14B. 15 (2) EXCLUDING PART D DRUG INFLATION RE16 BATE FROM BEST PRICE.Section 17 1927(c)(1)(C)(ii)(I) of the Social Security Act (42 18 U.S.C. 1396r8(c)(1)(C)(ii)(I)), as amended by sec19 tion 11101(c)(2), is amended by striking or section 20 1847A(i) and inserting , section 1847A(i), or sec21 tion 1860D14B. 22 (3) COORDINATION WITH MEDICAID REBATE IN23 FORMATION DISCLOSURE.Section 1927(b)(3)(D)(i) 24 of the Social Security Act (42 U.S.C. 1396r 25 8(b)(3)(D)(i)), as amended by sections 11002(b) and 161  HR 5376 EAS 1 11101(c)(3), is amended by striking or section 2 1192(f), including rebates under paragraph (4) of 3 such section and inserting , section 1192(f), includ4 ing rebates under paragraph (4) of such section, or 5 section 1860D14B. 6 (4) EXCLUDING PART D DRUG INFLATION RE7 BATES FROM AVERAGE MANUFACTURER PRICE.Sec8 tion 1927(k)(1)(B)(i) of the Social Security Act (42 9 U.S.C. 1396r8(k)(1)(B)(i)), as amended by section 10 11001(b)(3) and section 11101(c)(4), is amended by 11 adding at the end the following new subclause: 12 (A) in subclause (VI), by striking and at 13 the end; 14 (B) in subclause (VII), by striking the pe15 riod at the end and inserting a semicolon; and 16 (C) by adding at the end the following new 17 subclause: 18 (VIII) rebates paid by manufac19 turers under section 1860D14B.. 20 (c) FUNDING.In addition to amounts otherwise 21 available, there are appropriated to the Centers for Medi22 care & Medicaid Services, out of any money in the Treasury 23 not otherwise appropriated, $80,000,000 for fiscal year 24 2022, including $12,500,000 to carry out the provisions of, 25 including the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to include rebates from prescription drug manufacturers as part of the calculation for Medicaid reimbursement rates. It also excludes these rebates from the calculation of the Average Manufacturer Price (AMP). Finally, it appropriates $80 million for fiscal year 2022 to carry out these provisions.

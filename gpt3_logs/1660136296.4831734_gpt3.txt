@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+calendar year exceeds the aggregate amount allocated for such year under this paragraph, such limitation for the succeeding calendar year shall be increased by the amount of such excess.  The Environmental Justice Capacity Limitation Credit is a credit that may be applied to the annual capacity limitation for calendar year 2025 for any property that is placed in service after the date that is four years after the date of the allocation with respect to the facility of which such property is a part. If any amount of environmental justice capacity limitation expires during any calendar year, it shall be taken into account as an excess for such calendar year, subject to the limitation imposed by the last sentence of such subparagraph. The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning of section 50(a)).  The CHIPS Act of 2022 amends the Internal Revenue Code to provide guidance on the implementation of the clean electricity investment credit. The credit is available for qualified facilities, qualified property, and energy storage technology placed in service after December 31, 2024. The credit is equal to 30% of the basis of the qualified property.  This section amends the Internal Revenue Code to provide a tax credit for the production of clean transportation fuels. The credit is equal to the applicable amount per gallon (or gallon equivalent) of fuel produced, multiplied by the emissions factor for the fuel. The applicable amount is 20 cents per gallon for most fuels, but is $1.00 per gallon for fuels produced at qualified facilities that meet certain requirements. For sustainable aviation fuels, the credit is increased to 50 cents per gallon.  This section establishes the emissions
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Electricity Investment Credit is a tax credit available for qualified facilities and property placed in service after December 31, 2024. The credit is equal to 30% of the basis of the qualified property. This section amends the Internal Revenue Code to provide a tax credit for the production of clean transportation fuels. The credit is equal to the applicable amount per gallon (or gallon equivalent) of fuel produced, multiplied by the emissions factor for the fuel. The applicable amount is 20 cents per gallon for most fuels, but is $1.00 per gallon for fuels produced at qualified facilities that meet certain requirements. For sustainable aviation fuels, the credit is increased to 50 cents per gallon.

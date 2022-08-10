@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+advance in writing that the loan guar21 antee and the project comply with the provisions 22 under this section. 23 (2) DENIAL OF DOUBLE BENEFIT.Except as 24 provided in paragraph (3), none of the amounts made 25 available under this section for loan guarantees shall 610  HR 5376 EAS 1 be available for commitments to guarantee loans for 2 any projects under which funds, personnel, or prop3 erty (tangible or intangible) of any Federal agency, 4 instrumentality, personnel, or affiliated entity are ex5 pected to be used (directly or indirectly) through ac6 quisitions, contracts, demonstrations, exchanges, 7 grants, incentives, leases, procurements, sales, other 8 transaction authority, or other arrangements to sup9 port the project or to obtain goods or services from the 10 project. 11 (3) EXCEPTION.Paragraph (2) shall not pre12 clude the use of the loan guarantee authority provided 13 under this section for commitments to guarantee loans 14 for 15 (A) projects benefitting from otherwise al16 lowable Federal tax benefits; 17 (B) projects benefitting from being located 18 on Federal land pursuant to a lease or right-of19 way agreement for which all consideration for 20 all uses is 21 (i) paid exclusively in cash; 22 (ii) deposited in the Treasury as offset23 ting receipts; and 24 (iii) equal to the fair market value; 611  HR 5376 EAS 1 (C) projects benefitting from the Federal in2 surance program under section 170 of the Atomic 3 Energy Act of 1954 (42 U.S.C. 2210); or 4 (D) electric generation projects using trans5 mission facilities owned or operated by a Federal 6 Power Marketing Administration or the Ten7 nessee Valley Authority that have been author8 ized, approved, and financed independent of the 9 project receiving the guarantee. 10 (e) GUARANTEE.Section 1701(4)(A) of the Energy 11 Policy Act of 2005 (42 U.S.C. 16511(4)(A)) is amended by 12 inserting , except that a loan guarantee may guarantee 13 any debt obligation of a non-Federal borrower to any
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Energy Policy Act of 2005 authorizes the use of loan guarantees for certain energy projects, subject to the provisions of the act. Specifically, the loan guarantees may be used for projects benefitting from Federal tax benefits, projects located on Federal land, or electric generation projects using transmission facilities owned or operated by a Federal Power Marketing Administration or the Tennessee Valley Authority.

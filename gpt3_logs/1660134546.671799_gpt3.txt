@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+COVERED PART D DRUG.In the 6 case of a covered part D drug (as defined in 7 section 1860D2(e)), the sum of the plan 8 specific enrollment weighted amounts for 9 each prescription drug plan or MAPD 10 plan (as determined under paragraph (2)). 11 (ii) PART B DRUG OR BIOLOGICAL. 12 In the case of a drug or biological product 13 for which payment may be made under 14 part B of title XVIII, the payment amount 15 under section 1847A(b)(4) for the drug or 16 biological product for the year prior to the 17 year of the selected drug publication date 18 with respect to the initial price applica19 bility year for the drug or biological prod20 uct. 21 (C) SUBPARAGRAPH (C) AMOUNT.An 22 amount equal to the applicable percent described 23 in paragraph (3), with respect to such drug, of 24 the following: 72  HR 5376 EAS 1 (i) INITIAL PRICE APPLICABILITY 2 YEAR 2026.In the case of a selected drug 3 with respect to which such initial price ap4 plicability year is 2026, the average non5 Federal average manufacturer price for such 6 drug for 2021 (or, in the case that there is 7 not an average non-Federal average manu8 facturer price available for such drug for 9 2021, for the first full year following the 10 market entry for such drug), increased by 11 the percentage increase in the consumer 12 price index for all urban consumers (all 13 items; United States city average) from 14 September 2021 (or December of such first 15 full year following the market entry), as ap16 plicable, to September of the year prior to 17 the year of the selected drug publication 18 date with respect to such initial price ap19 plicability year. 20 (ii) INITIAL PRICE APPLICABILITY 21 YEAR 2027 AND SUBSEQUENT YEARS.In 22 the case of a selected drug with respect to 23 which such initial price applicability year 24 is 2027 or a subsequent year, the lower of 73  HR 5376 EAS 1 (I) the average non-Federal aver2 age manufacturer price for such drug 3 for 2021 (or, in the case that there is 4 not
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the payment amount for covered drugs under Medicare Part D. For drugs covered under Part D, the payment amount will be the sum of the plan-specific enrollment weighted amounts for each prescription drug plan or MAPD plan. For drugs covered under Part B, the payment amount will be the amount specified in section 1847A(b)(4) of the Social Security Act.

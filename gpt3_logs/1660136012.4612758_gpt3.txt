@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+The Senate has passed a bill that would amend the Internal Revenue Code to provide for corporate tax reform. The bill would impose a new corporate alternative minimum tax, and would exempt certain corporations from the tax. The bill would also allow for a corporate AMT foreign tax credit.  The bill amends the tax code to exempt certain corporations from the corporate income tax if they meet the average annual adjusted financial statement income test for a three-year period ending after December 31, 2021. The bill also exempts certain corporations from the corporate income tax if they have a change in ownership or a specified number of consecutive taxable years in which they do not meet the average annual adjusted financial statement income test.  The preceding sentence shall not apply to any corporation if, after the Secretary makes the determination described in clause (ii), such corporation meets the average annual adjusted financial statement income test of subparagraph (B) for any taxable year beginning after the first taxable year for which such determination applies.  This section explains the treatment of adjusted financial statement income for purposes of the average annual adjusted financial statement income test for foreign-parented multinational groups. Specifically, it provides that the adjusted financial statement income of a corporation for a taxable year shall include the adjusted financial statement income of all members of the corporation's foreign-parented multinational group.  The Tax Cuts and Jobs Act amends the tax code to create a new tax on foreign-owned corporations doing business in the United States. The tax is imposed at a rate of 20 percent on the corporation's income from its U.S. operations. The tax is in addition to the existing corporate income tax and is not deductible against it. The tax applies to corporations with annual revenue of at least $500 million from their U.S. operations.  The term "alternative minimum taxable income"
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Senate has passed a bill that would amend the Internal Revenue Code to provide for corporate tax reform. The bill would impose a new corporate alternative minimum tax, and would exempt certain corporations from the tax. The bill would also allow for a corporate AMT foreign tax credit.

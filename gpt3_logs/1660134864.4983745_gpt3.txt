@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+11201 and 11202, is amended 13 (1) in subsection (b) 14 (A) in paragraph (1)(A), by striking The 15 coverage and inserting Subject to paragraph 16 (8), the coverage; 17 (B) in paragraph (2) 18 (i) in subparagraph (A), by inserting 19 and paragraph (8) after and (E); 20 (ii) in subparagraph (C)(i), in the 21 matter preceding subclause (I), by striking 22 paragraph (4) and inserting paragraphs 23 (4) and (8); and 24 (iii) in subparagraph (D)(i), in the 25 matter preceding subclause (I), by striking 215  HR 5376 EAS 1 paragraph (4) and inserting paragraphs 2 (4) and (8); 3 (C) in paragraph (3)(A), in the matter pre4 ceding clause (i), by striking and (4) and in5 serting (4), and (8); 6 (D) in paragraph (4)(A)(i), by striking 7 The coverage and inserting Subject to para8 graph (8), the coverage; and 9 (E) by adding at the end the following new 10 paragraph: 11 (8) TREATMENT OF COST-SHARING FOR ADULT 12 VACCINES RECOMMENDED BY THE ADVISORY COM13 MITTEE ON IMMUNIZATION PRACTICES CONSISTENT 14 WITH TREATMENT OF VACCINES UNDER PART B. 15 (A) IN GENERAL.For plan years begin16 ning on or after January 1, 2023, with respect 17 to an adult vaccine recommended by the Advi18 sory Committee on Immunization Practices (as 19 defined in subparagraph (B)) 20 (i) the deductible under paragraph 21 (1) shall not apply; and 22 (ii) there shall be no coinsurance or 23 other cost-sharing under this part with re24 spect to such vaccine. 216  HR 5376 EAS 1 (B) ADULT VACCINES RECOMMENDED BY 2 THE ADVISORY COMMITTEE ON IMMUNIZATION 3 PRACTICES.For purposes of this paragraph, the 4 term adult vaccine recommended by the Advi5 sory Committee on Immunization Practices 6 means a covered part D drug that is a vaccine 7 licensed under section 351 of the Public Health 8 Service Act for use by adult populations and ad9 ministered in accordance with recommendations 10 of the Advisory Committee on Immunization 11 Practices of the Centers
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This amendment to the Social Security Act establishes that, for plan years beginning on or after January 1, 2023, adult vaccines recommended by the Advisory Committee on Immunization Practices will be subject to no deductible and no coinsurance or other cost-sharing under Medicare Part B.

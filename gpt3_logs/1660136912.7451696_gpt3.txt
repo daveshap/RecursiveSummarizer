@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+credit against the tax liability for the taxable year in which the investment is made, or for any of the four succeeding taxable years. The taxpayer may also revoke the election at any time. The bill also allows businesses to elect to claim the renewable electricity production credit or the carbon capture equipment credit in lieu of the business energy investment tax credit.  The Tax Cuts and Jobs Act allows for the transfer of certain tax credits relating to clean energy production to eligible taxpayers. The eligible credits include the clean fuel production credit, the energy credit, the qualifying advanced energy project credit, and the clean electricity investment credit. The bill also amends the Internal Revenue Code to allow for a three-year carryback of certain business tax credits and extends the tax rate for certain taxpayers to taxable years beginning after December 31, 2021. Finally, the Act reinstates the deduction for state and local taxes through 2026.  This section of the bill appropriates $2,200,000,000 for a program to provide financial assistance to farmers, ranchers, or forest landowners who experienced discrimination prior to January 1, 2021, in Department of Agriculture farm lending programs. The funds are to be used for administrative costs, including training employees, of the agencies and offices of the Department of Agriculture to carry out this section. This section also repeals Section 1005 of the Consolidated Farm and Rural Development Act.  This section contains appropriations for climate research and weather forecasting, including $50 million for competitive grants to fund climate research relating to weather, ocean, coastal, and atmospheric processes and conditions, and impacts to marine species and coastal habitat. The Federal Aviation Administration Reauthorization Act of 2018 includes provisions for grant funding to promote the development of sustainable aviation fuels and low-emission aviation technologies. The Department of Energy
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act allows businesses to claim a tax credit for investments in clean energy production, including the clean fuel production credit, the energy credit, the qualifying advanced energy project credit, and the clean electricity investment credit. The bill also allows businesses to elect to claim the renewable electricity production credit or the carbon capture equipment credit in lieu of the business energy investment tax credit. The bill also amends the Internal Revenue Code to allow for a three-year carryback of certain business tax credits and extends the tax rate for certain taxpayers to taxable years beginning after December 31, 2021. Finally, the Act reinstates the deduction for state and local taxes through 2026.

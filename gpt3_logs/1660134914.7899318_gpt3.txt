@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+centage shall be 14 (I) in the case of a qualified fa15 cility the construction of which begins 16 before January 1, 2023, 10 percent, 17 (II) in the case of a qualified fa18 cility the construction of which begins 19 after December 31, 2022, and before 20 January 1, 2024, 12.5 percent, and 21 (III) in the case of a qualified 22 facility the construction of which be23 gins after December 31, 2023, 15 per24 cent. 250  HR 5376 EAS 1 (B) APPRENTICE TO JOURNEYWORKER 2 RATIO.The requirement under subparagraph 3 (A)(i) shall be subject to any applicable require4 ments for apprentice-to-journeyworker ratios of 5 the Department of Labor or the applicable State 6 apprenticeship agency. 7 (C) PARTICIPATION.Each taxpayer, con8 tractor, or subcontractor who employs 4 or more 9 individuals to perform construction, alteration, 10 or repair work with respect to the construction 11 of a qualified facility shall employ 1 or more 12 qualified apprentices to perform such work. 13 (D) EXCEPTION. 14 (i) IN GENERAL.A taxpayer shall 15 not be treated as failing to satisfy the re16 quirements of this paragraph if such tax17 payer 18 (I) satisfies the requirements de19 scribed in clause (ii), or 20 (II) subject to clause (iii), in the 21 case of any failure by the taxpayer to 22 satisfy the requirement under subpara23 graphs (A) and (C) with respect to the 24 construction, alteration, or repair work 25 on any qualified facility to which sub- 251  HR 5376 EAS 1 clause (I) does not apply, makes pay2 ment to the Secretary of a penalty in 3 an amount equal to the product of 4 (aa) $50, multiplied by 5 (bb) the total labor hours for 6 which the requirement described 7 in such subparagraph was not 8 satisfied with respect to the con9 struction, alteration, or repair 10 work on such qualified facility. 11 (ii) GOOD FAITH EFFORT.For pur12 poses of clause (i), a taxpayer shall be 13 deemed to have satisfied the requirements 14 under this paragraph with respect to a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill amends the Internal Revenue Code to allow a tax credit for up to 15% of the cost of constructing certain qualified energy efficient buildings, with the credit amount depending on when construction begins. The bill also requires that any taxpayer who employs 4 or more individuals to perform construction work on a qualified facility must employ 1 or more qualified apprentices.

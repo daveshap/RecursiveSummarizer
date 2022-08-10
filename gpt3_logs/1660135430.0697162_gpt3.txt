@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+5 in section 2601(2) of the Energy Policy 6 Act of 1992 (25 U.S.C. 3501(2))), or 7 (II) is part of a qualified low-in8 come residential building project or a 9 qualified low-income economic benefit 10 project. 11 (B) QUALIFIED LOW-INCOME RESIDENTIAL 12 BUILDING PROJECT.A facility shall be treated 13 as part of a qualified low-income residential 14 building project if 15 (i) such facility is installed on a resi16 dential rental building which participates 17 in a covered housing program (as defined in 18 section 41411(a) of the Violence Against 19 Women Act of 1994 (34 U.S.C. 20 12491(a)(3)), a housing assistance program 21 administered by the Department of Agri22 culture under title V of the Housing Act of 23 1949, a housing program administered by a 24 tribally designated housing entity (as de25 fined in section 4(22) of the Native Amer- 484  HR 5376 EAS 1 ican Housing Assistance and Self-Deter2 mination Act of 1996 (25 U.S.C. 4103(22))) 3 or such other affordable housing programs 4 as the Secretary may provide, and 5 (ii) the financial benefits of the elec6 tricity produced by such facility are allo7 cated equitably among the occupants of the 8 dwelling units of such building. 9 (C) QUALIFIED LOW-INCOME ECONOMIC 10 BENEFIT PROJECT.A facility shall be treated 11 as part of a qualified low-income economic ben12 efit project if at least 50 percent of the financial 13 benefits of the electricity produced by such facil14 ity are provided to households with income of 15 (i) less than 200 percent of the pov16 erty line (as defined in section 17 36B(d)(3)(A)) applicable to a family of the 18 size involved, or 19 (ii) less than 80 percent of area me20 dian gross income (as determined under sec21 tion 142(d)(2)(B)). 22 (D) FINANCIAL BENEFIT.For purposes of 23 subparagraphs (B) and (C), electricity acquired 24 at a below-market rate shall not fail to be taken 25 into account as a financial benefit. 485  HR 5376 EAS 1 (3) ELIGIBLE PROPERTY.For
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 1992 provides tax credits for certain renewable energy facilities. To qualify for the credit, the facility must be part of a qualified low-income residential building project or a qualified low-income economic benefit project.

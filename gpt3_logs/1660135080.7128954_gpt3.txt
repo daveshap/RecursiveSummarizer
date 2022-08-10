@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+service after 25 December 31, 2022, 336  HR 5376 EAS 1 (ii) with respect to which 2 (I) no credit has been allowed 3 under section 45V or 45Q, and 4 (II) the taxpayer makes an ir5 revocable election to have this para6 graph apply, and 7 (iii) for which an unrelated third 8 party has verified (in such form or manner 9 as the Secretary may prescribe) that such 10 facility produces hydrogen through a proc11 ess which results in lifecycle greenhouse gas 12 emissions which are consistent with the hy13 drogen that such facility was designed and 14 expected to produce under subparagraph 15 (A)(ii). 16 (D) QUALIFIED CLEAN HYDROGEN.For 17 purposes of this paragraph, the term qualified 18 clean hydrogen has the meaning given such term 19 by section 45V(c)(2). 20 (E) REGULATIONS.The Secretary shall 21 issue such regulations or other guidance as the 22 Secretary determines necessary to carry out the 23 purposes of this section, including regulations or 24 other guidance which recaptures so much of any 25 credit allowed under this section as exceeds the 337  HR 5376 EAS 1 amount of the credit which would have been al2 lowed if the expected production were consistent 3 with the actual verified production (or all of the 4 credit so allowed in the absence of such 5 verification).. 6 (2) CONFORMING AMENDMENT.Paragraph 7 (9)(A)(i) of section 48(a), as added by section 13102, 8 is amended by inserting and paragraph (15) after 9 paragraphs (1) through (8). 10 (3) EFFECTIVE DATE.The amendments made 11 by this subsection shall apply to property placed in 12 service after December 31, 2022, and, for any prop13 erty the construction of which begins prior to Janu14 ary 1, 2023, only to the extent of the basis thereof at15 tributable to the construction, reconstruction, or erec16 tion after December 31, 2022. 17 (d) TERMINATION OF EXCISE TAX CREDIT FOR HY18 DROGEN. 19 (1) IN GENERAL.Section 6426(d)(2) is amend20 ed by striking subparagraph (D) and by
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Credit for Hydrogen Production Act of 2020 amends the Internal Revenue Code to provide a credit for the production of hydrogen. The credit is available for property placed in service after December 31, 2022, and is recaptured if production falls below expectations. The credit is scheduled to terminate on December 31, 2023.

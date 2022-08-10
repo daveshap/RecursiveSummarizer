@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+energy project 22 which satisfies the requirements of para23 graph (9)(B), 10 percentage points. 24 (13) PHASEOUT FOR ELECTIVE PAYMENT.In 25 the case of a taxpayer making an election under sec- 281  HR 5376 EAS 1 tion 6417 with respect to a credit under this section, 2 rules similar to the rules of section 45(b)(10) shall 3 apply.. 4 (m) SPECIAL RULE FOR PROPERTY FINANCED BY 5 TAX-EXEMPT BONDS.Section 48(a)(4) is amended to read 6 as follows: 7 (4) SPECIAL RULE FOR PROPERTY FINANCED BY 8 TAX-EXEMPT BONDS.Rules similar to the rule under 9 section 45(b)(3) shall apply for purposes of this sec10 tion.. 11 (n) TREATMENT OF CERTAIN CONTRACTS INVOLVING 12 ENERGY STORAGE.Section 7701(e) is amended 13 (1) in paragraph (3) 14 (A) in subparagraph (A)(i), by striking 15 or at the end of subclause (II), by striking 16 and at the end of subclause (III) and inserting 17 or, and by adding at the end the following new 18 subclause: 19 (IV) the operation of a storage 20 facility, and, and 21 (B) by adding at the end the following new 22 subparagraph: 23 (F) STORAGE FACILITY.For purposes of 24 subparagraph (A), the term storage facility 25 means a facility which uses energy storage tech- 282  HR 5376 EAS 1 nology within the meaning of section 48(c)(6)., 2 and 3 (2) in paragraph (4), by striking or water 4 treatment works facility and inserting water treat5 ment works facility, or storage facility. 6 (o) INCREASE IN CREDIT RATE FOR ENERGY COMMU7 NITIES.Section 48(a), as amended by the preceding provi8 sions of this Act, is amended by adding at the end the fol9 lowing new paragraph: 10 (14) INCREASE IN CREDIT RATE FOR ENERGY 11 COMMUNITIES. 12 (A) IN GENERAL.In the case of any en13 ergy project that is placed in service within an 14 energy community (as defined in section 15 45(b)(11)(B), as applied by substituting energy 16 project for qualified facility each place it ap17 pears), for purposes of applying paragraph (2) 18 with
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 2005 amended the Internal Revenue Code to provide a tax credit for certain energy storage facilities. The credit is equal to 10 percent of the cost of the facility, and is available for both new and existing storage facilities. The credit is phased out for taxpayers making an election under section 6417 with respect to a credit under this section.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+such 25 selected drug and subparagraph (B) of para- 153  HR 5376 EAS 1 graph (3) shall be applied as if the term bench2 mark period CPIU were defined under sub3 section (g)(4) as if the reference to January 4 2021 under such subsection were a reference to 5 January of the last year beginning during such 6 price applicability period with respect to such 7 drug. 8 (6) RECONCILIATION IN CASE OF REVISED IN9 FORMATION.The Secretary shall provide for a meth10 od and process under which, in the case where a PDP 11 sponsor of a prescription drug plan or an MA organi12 zation offering an MAPD plan submits revisions to 13 the number of units of a rebatable covered part D 14 drug dispensed, the Secretary determines, pursuant to 15 such revisions, adjustments, if any, to the calculation 16 of the amount specified in this subsection for a dosage 17 form and strength with respect to such part D 18 rebatable drug and an applicable period and rec19 onciles any overpayments or underpayments in 20 amounts paid as rebates under this subsection. Any 21 identified underpayment shall be rectified by the 22 manufacturer not later than 30 days after the date of 23 receipt from the Secretary of information on such un24 derpayment. 154  HR 5376 EAS 1 (c) REBATE DEPOSITS.Amounts paid as rebates 2 under subsection (b) shall be deposited into the Medicare 3 Prescription Drug Account in the Federal Supplementary 4 Medical Insurance Trust Fund established under section 5 1841. 6 (d) INFORMATION.For purposes of carrying out this 7 section, the Secretary shall use information submitted by 8 (1) manufacturers under section 1927(b)(3); 9 (2) States under section 1927(b)(2)(A); and 10 (3) PDP sponsors of prescription drug plans 11 and MA organization offering MAPD plans under 12 this part. 13 (e) CIVIL MONEY PENALTY.If a manufacturer of a 14 part D rebatable drug has failed to comply with the require15 ment under subsection (a)(2) with respect to such drug for 16 an
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill requires drug manufacturers to provide rebates to the Medicare program for certain drugs dispensed to Medicare beneficiaries. The rebates are based on the difference between the drug's price and a benchmark price. If a manufacturer does not provide the required rebate, they may be subject to a civil money penalty.

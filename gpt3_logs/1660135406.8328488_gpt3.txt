@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+CONFORMING AMENDMENTS. 15 (1) Section 38(b), as amended by the preceding 16 provisions of this Act, is amended 17 (A) in paragraph (37), by striking plus 18 at the end, 19 (B) in paragraph (38), by striking the pe20 riod at the end and inserting , plus, and 21 (C) by adding at the end the following new 22 paragraph: 23 (39) the clean electricity production credit de24 termined under section 45Y(a).. 470  HR 5376 EAS 1 (2) The table of sections for subpart D of part 2 IV of subchapter A of chapter 1, as amended by the 3 preceding provisions of this Act, is amended by add4 ing at the end the following new item: Sec. 45Y. Clean electricity production credit.. 5 (c) EFFECTIVE DATE.The amendments made by this 6 section shall apply to facilities placed in service after De7 cember 31, 2024. 8 SEC. 13702. CLEAN ELECTRICITY INVESTMENT CREDIT. 9 (a) IN GENERAL.Subpart E of part IV of subchapter 10 A of chapter 1, as amended by section 107(a) of the CHIPS 11 Act of 2022, is amended by inserting after section 48D the 12 following new section: 13 SEC. 48E. CLEAN ELECTRICITY INVESTMENT CREDIT. 14 (a) INVESTMENT CREDIT FOR QUALIFIED PROP15 ERTY. 16 (1) IN GENERAL.For purposes of section 46, 17 the clean electricity investment credit for any taxable 18 year is an amount equal to the applicable percentage 19 of the qualified investment for such taxable year with 20 respect to 21 (A) any qualified facility, and 22 (B) any energy storage technology. 23 (2) APPLICABLE PERCENTAGE. 24 (A) QUALIFIED FACILITIES.Subject to 25 paragraph (3) 471  HR 5376 EAS 1 (i) BASE RATE.In the case of any 2 qualified facility which is not described in 3 subclause (I) or (II) of clause (ii) and does 4 not satisfy the requirements described in 5 subclause (III) of such clause, the applicable 6 percentage shall be 6 percent. 7 (ii) ALTERNATIVE RATE.In the case 8 of any qualified facility 9 (I) with a maximum net output 10 of less than 1 megawatt (as measured
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Electricity Investment Credit is a tax credit for qualified investments in clean electricity facilities and energy storage technologies. The credit is equal to 6 percent of the investment for qualified facilities and energy storage technologies. The credit is available for facilities placed in service after December 31, 2024.

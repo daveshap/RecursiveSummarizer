@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+amended 8 (i) in paragraph (1), by striking 9 and at the end; 10 (ii) in paragraph (2), by striking or 11 institute a price structure for the reimburse12 ment of covered part D drugs. and insert13 ing , except as provided under section 14 1860D4(b)(3)(l); and; and 15 (iii) by adding at the end the following 16 new paragraph: 17 (3) may not institute a price structure for the 18 reimbursement of covered part D drugs, except as pro19 vided under part E of title XI.. 20 (D) APPLICATION AS NEGOTIATED PRICE 21 UNDER PART D.Section 1860D2(d)(1) of the 22 Social Security Act (42 U.S.C. 1395w 23 102(d)(1)) is amended 93  HR 5376 EAS 1 (i) in subparagraph (B), by inserting 2 , subject to subparagraph (D), after ne3 gotiated prices; and 4 (ii) by adding at the end the following 5 new subparagraph: 6 (D) APPLICATION OF MAXIMUM FAIR PRICE 7 FOR SELECTED DRUGS.In applying this sec8 tion, in the case of a covered part D drug that 9 is a selected drug (as referred to in section 10 1192(c)), with respect to a price applicability 11 period (as defined in section 1191(b)(2)), the ne12 gotiated prices used for payment (as described in 13 this subsection) shall be no greater than the max14 imum fair price (as defined in section 15 1191(c)(3)) for such drug and for each year dur16 ing such period plus any dispensing fees for such 17 drug.. 18 (E) COVERAGE OF SELECTED DRUGS.Sec19 tion 1860D4(b)(3) of the Social Security Act 20 (42 U.S.C. 1395w104(b)(3)) is amended by 21 adding at the end the following new subpara22 graph: 23 (I) REQUIRED INCLUSION OF SELECTED 24 DRUGS. 94  HR 5376 EAS 1 (i) IN GENERAL.For 2026 and each 2 subsequent year, the PDP sponsor offering a 3 prescription drug plan shall include each 4 covered part D drug that is a selected drug 5 under section 1192 for which a maximum 6 fair price (as defined in section 1191(c)(3)) 7 is in effect with respect to the year. 8 (ii) CLARIFICATION.Nothing in 9 clause (i) shall be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Social Security Act is amended to require that, for prescription drug plans offered by a PDP sponsor, each covered part D drug that is a selected drug under section 1192 be included for which a maximum fair price is in effect for the year.

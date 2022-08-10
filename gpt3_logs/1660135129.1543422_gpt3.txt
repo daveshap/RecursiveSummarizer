@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(iv) Section 179D is amended by strik22 ing subsection (f). 23 (v) Section 179D(h) is amended by 24 striking or (d)(1)(A). 359  HR 5376 EAS 1 (6) ALLOCATION OF DEDUCTION BY CERTAIN 2 TAX-EXEMPT ENTITIES.Paragraph (3) of section 3 179D(d), as redesignated by paragraph (5)(A), is 4 amended to read as follows: 5 (3) ALLOCATION OF DEDUCTION BY CERTAIN 6 TAX-EXEMPT ENTITIES. 7 (A) IN GENERAL.In the case of energy ef8 ficient commercial building property installed on 9 or in property owned by a specified tax-exempt 10 entity, the Secretary shall promulgate regula11 tions or guidance to allow the allocation of the 12 deduction to the person primarily responsible for 13 designing the property in lieu of the owner of 14 such property. Such person shall be treated as 15 the taxpayer for purposes of this section. 16 (B) SPECIFIED TAX-EXEMPT ENTITY.For 17 purposes of this paragraph, the term specified 18 tax-exempt entity means 19 (i) the United States, any State or 20 political subdivision thereof, any possession 21 of the United States, or any agency or in22 strumentality of any of the foregoing, 23 (ii) an Indian tribal government (as 24 defined in section 30D(g)(9)) or Alaska Na25 tive Corporation (as defined in section 3 of 360  HR 5376 EAS 1 the Alaska Native Claims Settlement Act 2 (43 U.S.C. 1602(m)), and 3 (iii) any organization exempt from 4 tax imposed by this chapter.. 5 (7) ALTERNATIVE DEDUCTION FOR ENERGY EFFI6 CIENT BUILDING RETROFIT PROPERTY.Section 7 179D, as amended by the preceding provisions of this 8 section, is amended by inserting after subsection (e) 9 the following new subsection: 10 (f) ALTERNATIVE DEDUCTION FOR ENERGY EFFI11 CIENT BUILDING RETROFIT PROPERTY. 12 (1) IN GENERAL.In the case of a taxpayer 13 which elects (at such time and in such manner as the 14 Secretary may provide) the application of this sub15 section with respect to any qualified building, there 16 shall be allowed as a deduction for the taxable
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Efficient Commercial Buildings Tax Deduction, created by the Energy Policy Act of 2005 and amended by the Energy Improvement and Extension Act of 2008, allows a tax deduction of up to $1.80 per square foot for energy efficient commercial building property installed on or in property owned by a specified tax-exempt entity. The deduction is available for both new construction and retrofit projects, and can be allocated to the person primarily responsible for designing the property in lieu of the owner.

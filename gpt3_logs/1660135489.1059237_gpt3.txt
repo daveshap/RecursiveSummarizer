@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+year described in clause 21 (i)(II)(aa) with respect to carbon capture 22 equipment, no election may be made by the 23 taxpayer under section 6418(a) for such 24 taxable year with respect to such equipment 516  HR 5376 EAS 1 for purposes of the credit described in sub2 section (b)(3). 3 (iii) REVOCATION OF ELECTION.In 4 the case of a taxpayer who makes an elec5 tion described in paragraph (1)(C) with re6 spect to carbon capture equipment, such 7 taxpayer may, at any time during the pe8 riod described in clause (i)(II)(aa), revoke 9 the application of such election with respect 10 to such equipment for any subsequent tax11 able years during such period. Any such 12 election, if made, shall apply to the applica13 ble year specified in such election and each 14 subsequent taxable year within the period 15 described in clause (i)(II)(aa). Any election 16 under this subclause may not be subse17 quently revoked. 18 (D) CREDIT FOR PRODUCTION OF CLEAN 19 HYDROGEN. 20 (i) IN GENERAL.In the case of the 21 credit described in subsection (b)(5), any 22 election under subsection (a) shall 23 (I) apply separately with respect 24 to each qualified clean hydrogen pro25 duction facility, 517  HR 5376 EAS 1 (II) be made for the taxable year 2 in which such facility is placed in 3 service (or within the 1-year period 4 subsequent to the date of enactment of 5 this section in the case of facilities 6 placed in service before December 31, 7 2022), and 8 (III)(aa) in the case of a tax9 payer who makes an election described 10 in paragraph (1)(B), apply to such 11 taxable year and the 4 subsequent tax12 able years with respect to such facility 13 which end before January 1, 2033, and 14 (bb) in any other case, apply to 15 such taxable year and all subsequent 16 taxable years with respect to such facil17 ity. 18 (ii) PROHIBITION ON TRANSFER. 19 For any taxable year described in clause 20 (i)(III)(aa) with respect to a qualified clean 21 hydrogen production facility,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section explains the process for claiming the clean energy tax credit for carbon capture equipment and clean hydrogen production facilities. Taxpayers must make an election under section 6418(a) in order to claim the credit. The election may be made for the taxable year in which the equipment is placed in service, and will apply to the taxable year and the four subsequent taxable years.

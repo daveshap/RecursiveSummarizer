@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+without application of this section, would be 13 otherwise allowable (as determined pursu14 ant to paragraph (2) and without regard to 15 section 38(c)) under this title with respect 16 to such facility or property for such taxable 17 year. 18 (e) DENIAL OF DOUBLE BENEFIT.In the case of an 19 applicable entity making an election under this section with 20 respect to an applicable credit, such credit shall be reduced 21 to zero and shall, for any other purposes under this title, 22 be deemed to have been allowed to such entity for such tax23 able year. 24 (f) MIRROR CODE POSSESSIONS.In the case of any 25 possession of the United States with a mirror code tax sys- 522  HR 5376 EAS 1 tem (as defined in section 24(k)), this section shall not be 2 treated as part of the income tax laws of the United States 3 for purposes of determining the income tax law of such pos4 session unless such possession elects to have this section be 5 so treated. 6 (g) BASIS REDUCTION AND RECAPTURE.Except as 7 otherwise provided in subsection (c)(2)(A), rules similar to 8 the rules of section 50 shall apply for purposes of this sec9 tion. 10 (h) REGULATIONS.The Secretary shall issue such 11 regulations or other guidance as may be necessary to carry 12 out the purposes of this section, including guidance to en13 sure that the amount of the payment or deemed payment 14 made under this section is commensurate with the amount 15 of the credit that would be otherwise allowable (determined 16 without regard to section 38(c)).. 17 (b) TRANSFER OF CERTAIN CREDITS.Subchapter B 18 of chapter 65, as amended by subsection (a), is amended 19 by inserting after section 6417 the following new section: 20 SEC. 6418. TRANSFER OF CERTAIN CREDITS. 21 (a) IN GENERAL.In the case of an eligible taxpayer 22 which elects to transfer all (or any portion specified in the 23 election) of an eligible credit determined with respect to 24 such taxpayer for any taxable year to a taxpayer (referred 25
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The section amends the Internal Revenue Code to allow businesses to transfer certain tax credits to other businesses. The credit is reduced to zero for the purposes of the tax code, and the regulations for the credit are similar to those for the research and experimentation tax credit.

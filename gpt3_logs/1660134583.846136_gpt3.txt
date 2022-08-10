@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+5000D of the Internal Rev7 enue Code of 1986, including the application of such 8 tax to a manufacturer, producer, or importer or the 9 determination of any date described in section 10 5000D(c)(1) of such Code. For purposes of the pre11 ceding sentence, such information shall include 12 (A) the date on which the Secretary re13 ceives notification of any termination of an 14 agreement under the Medicare coverage gap dis15 count program under section 1860D-14A and the 16 date on which any subsequent agreement under 17 such program is entered into; 18 (B) the date on which the Secretary re19 ceives notification of any termination of an 20 agreement under the manufacturer discount pro21 gram under section 1860D-14C and the date on 22 which any subsequent agreement under such pro23 gram is entered into; and 24 (C) the date on which the Secretary re25 ceives notification of any termination of a rebate 88  HR 5376 EAS 1 agreement described in section 1927(b) and the 2 date on which any subsequent rebate agreement 3 described in such section is entered into. 4 (7) The establishment of procedures for purposes 5 of applying section 1192(d)(2)(B). 6 (b) COMPLIANCE MONITORING.The Secretary shall 7 monitor compliance by a manufacturer with the terms of 8 an agreement under section 1193 and establish a mecha9 nism through which violations of such terms shall be re10 ported. 11 SEC. 1197. CIVIL MONETARY PENALTIES. 12 (a) VIOLATIONS RELATING TO OFFERING OF MAX13 IMUM FAIR PRICE.Any manufacturer of a selected drug 14 that has entered into an agreement under section 1193, with 15 respect to a year during the price applicability period with 16 respect to such drug, that does not provide access to a price 17 that is equal to or less than the maximum fair price for 18 such drug for such year 19 (1) to a maximum fair price eligible individual 20 who with respect to such drug is described in sub21 paragraph (A) of section 1191(c)(2) and who is dis22 pensed such drug
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes civil monetary penalties for manufacturers who do not provide access to a maximum fair price for a selected drug to eligible individuals.

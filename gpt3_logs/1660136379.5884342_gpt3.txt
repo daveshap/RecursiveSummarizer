@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+implementation of clean energy goals. Additionally, this section authorizes $4,000,000,000 for drought mitigation in Reclamation States (as defined in the section).  The Office of Insular Affairs will receive $15,000,000 for fiscal year 2022 to provide technical assistance for climate change planning, mitigation, adaptation, and resilience to United States Insular Areas. This money will come from the Treasury and will be available until September 30, 2026.  The Outer Continental Shelf Lands Act is amended to allow the Secretary to grant leases, easements, and rights-of-way for offshore wind development in areas withdrawn by the President. This section also applies the Act to the territories of the United States.  The Outer Continental Shelf Lands Act is amended to allow for wind lease sales in areas adjacent to Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands. The sales are subject to the condition that the area is determined to be feasible and there is sufficient interest from qualified bidders.  This section of the bill amends the Outer Continental Shelf Lands Act to increase the royalty rate for offshore oil and gas development from 12.5% to 16.3-18.3%. It also amends the Mineral Leasing Act to increase the royalty rate for onshore oil and gas development from 12.5% to 16.3%.  The Mineral Leasing Act is amended to increase the rental rates for fossil fuel leases, and to increase the minimum bid for oil and gas leases.  The Mineral Leasing Act is amended to increase the rental fee for oil and gas leases, and to establish a new fee for expressions of interest in leasing land for oil and gas exploration and development. The Act is also amended to eliminate noncompetitive leasing.  The Mineral Leasing Act is being amended so that leases issued under the Act will be for a primary term of 10 years, with the possibility of extensions if oil or gas is produced in paying quantities. Additionally, any
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill authorizes funding for clean energy goals and drought mitigation, as well as increasing the royalty rates for offshore oil and gas development. It also amends the Outer Continental Shelf Lands Act to allow for wind lease sales in areas adjacent to Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+construction of the facility where the product was made begins after December 31, 2024 and before January 1, 2026, then 45 percent of the total costs of all manufactured products of that facility must be attributable to products mined, produced, or manufactured in the United States. If the construction of the facility where the product was made begins after December 31, 2025 and before January 1, 2027, then 50 percent of the total costs of all manufactured products of that facility must be attributable to products mined, produced, or manufactured in the United States. If the construction of the facility where the product was made begins after December 31, 2026, then 55 percent of the total costs of all manufactured products of that facility must be attributable to products mined, produced, or manufactured in the United States.  The Clean Electricity Investment Credit is a tax credit for qualified investments in clean electricity facilities and energy storage technologies. The credit is equal to 6 percent of the investment for qualified facilities and energy storage technologies. The credit is available for facilities placed in service after December 31, 2024.  This section allows for a credit with respect to qualified investments in certain energy property. The credit is equal to the lesser of $50,000 or 30% of the basis of the property. The credit is phased out for property placed in service after December 31, 2016.  The Clean Electricity Investment Credit is a tax credit available for qualified facilities and property placed in service after December 31, 2024. The credit is equal to 30% of the basis of the qualified property. This section amends the Internal Revenue Code to provide a tax credit for the production of clean transportation fuels. The credit is equal to the applicable amount per gallon (or gallon equivalent) of fuel produced, multiplied by the emissions factor for the fuel. The applicable amount is 20 cents per gallon for most fuels, but is $1.00 per
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Electricity Investment Credit is a tax credit available for qualified investments in clean electricity facilities and energy storage technologies. The credit is equal to 6 percent of the investment for qualified facilities and energy storage technologies, and is available for facilities placed in service after December 31, 2024. This section also allows for a credit with respect to qualified investments in certain energy property, equal to the lesser of $50,000 or 30% of the basis of the property. The credit is phased out for property placed in service after December 31, 2016. Finally, this section amends the Internal Revenue Code to provide a tax credit for the production of clean transportation fuels. The credit is equal to the applicable amount per gallon (or gallon equivalent) of fuel produced, multiplied by the emissions factor for the fuel. The applicable amount is 20 cents per gallon for most fuels, but is $1.00 per gallon for certain other fuels.

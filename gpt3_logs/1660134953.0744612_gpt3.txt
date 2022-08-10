@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+use, and not for disposal via com15 bustion. 16 (B) INCLUSION OF CLEANING AND CONDI17 TIONING PROPERTY.The term qualified biogas 18 property includes any property which is part of 19 such system which cleans or conditions such gas. 20 (C) TERMINATION.The term qualified 21 biogas property shall not include any property 22 the construction of which begins after December 23 31, 2024. 24 (8) MICROGRID CONTROLLER. 270  HR 5376 EAS 1 (A) IN GENERAL.The term microgrid 2 controller means equipment which is 3 (i) part of a qualified microgrid, and 4 (ii) designed and used to monitor and 5 control the energy resources and loads on 6 such microgrid. 7 (B) QUALIFIED MICROGRID.The term 8 qualified microgrid means an electrical system 9 which 10 (i) includes equipment which is capa11 ble of generating not less than 4 kilowatts 12 and not greater than 20 megawatts of elec13 tricity, 14 (ii) is capable of operating 15 (I) in connection with the elec16 trical grid and as a single controllable 17 entity with respect to such grid, and 18 (II) independently (and discon19 nected) from such grid, and 20 (iii) is not part of a bulk-power sys21 tem (as defined in section 215 of the Fed22 eral Power Act (16 U.S.C. 824o)). 23 (C) TERMINATION.The term microgrid 24 controller shall not include any property the 271  HR 5376 EAS 1 construction of which begins after December 31, 2 2024.. 3 (4) DENIAL OF DOUBLE BENEFIT FOR QUALIFIED 4 BIOGAS PROPERTY.Section 45(e) is amended by 5 adding at the end the following new paragraph: 6 (12) COORDINATION WITH ENERGY CREDIT FOR 7 QUALIFIED BIOGAS PROPERTY.The term qualified 8 facility shall not include any facility which produces 9 electricity from gas produced by qualified biogas 10 property (as defined in section 48(c)(7)) if a credit is 11 allowed under section 48 with respect to such prop12 erty for the taxable year or any prior taxable year.. 13 (5) PUBLIC UTILITY PROPERTY.Paragraph (2) 14 of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The section amends the definition of "qualified facility" for purposes of the energy investment tax credit to include qualified biogas property and microgrid controllers. Qualified biogas property is defined as property part of a system which cleans or conditions biogas for use, and construction of which begins before 2025. A microgrid controller is defined as equipment part of a qualified microgrid, which is designed and used to monitor and control the energy resources and loads on such microgrid. Construction of a microgrid controller must begin before 2025.

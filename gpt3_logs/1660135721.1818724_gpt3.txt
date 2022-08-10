@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+September 30, 15 2031, for grants, contracts, or financial assistance agree16 ments for disadvantaged communities (identified according 17 to criteria adopted by the Commissioner of Reclamation) 18 in a manner as determined by the Commissioner of Rec19 lamation for up to 100 percent of the cost of the planning, 20 design, or construction of water projects the primary pur21 pose of which is to provide domestic water supplies to com22 munities or households that do not have reliable access to 23 domestic water supplies in a State or territory described 24 in the first section of the Act of June 17, 1902 (43 U.S.C. 25 391; 32 Stat. 388, chapter 1093). 635  HR 5376 EAS 1 SEC. 50232. CANAL IMPROVEMENT PROJECTS. 2 In addition to amounts otherwise available, there is 3 appropriated to the Secretary, acting through the Commis4 sioner of Reclamation, for fiscal year 2022, out of any 5 money in the Treasury not otherwise appropriated, 6 $25,000,000, to remain available through September 30, 7 2031, for the design, study, and implementation of projects 8 (including pilot and demonstration projects) to cover water 9 conveyance facilities with solar panels to generate renew10 able energy in a manner as determined by the Secretary 11 or for other solar projects associated with Bureau of Rec12 lamation projects that increase water efficiency and assist 13 in implementation of clean energy goals. 14 SEC. 50233. DROUGHT MITIGATION IN THE RECLAMATION 15 STATES. 16 (a) DEFINITION OF RECLAMATION STATE.In this 17 section, the term Reclamation State means a State or ter18 ritory described in the first section of the Act of June 17, 19 1902 (32 Stat. 388, chapter 1093; 43 U.S.C. 391). 20 (b) APPROPRIATION.In addition to amounts other21 wise available, there is appropriated to the Secretary (act22 ing through the Commissioner of Reclamation), for fiscal 23 year 2022, out of any money in the Treasury not otherwise 24 appropriated, $4,000,000,000, to remain available through 25
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes appropriations for the design, study, and implementation of projects to cover water conveyance facilities with solar panels to generate renewable energy, or for other solar projects associated with Bureau of Reclamation projects that increase water efficiency and assist in the implementation of clean energy goals. Additionally, this section authorizes $4,000,000,000 for drought mitigation in Reclamation States (as defined in the section).

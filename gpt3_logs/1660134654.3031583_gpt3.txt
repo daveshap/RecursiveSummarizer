@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(i) in the case of a biological product 8 that is a covered part D drug (as defined in 9 section 1860D2(e)), that is the sum of the 10 products of 11 (I) 75 percent of the amount by 12 which 13 (aa) the average manufac14 turer price, as reported by the 15 manufacturer of such covered part 16 D drug under section 1927 (or, if 17 not reported by such manufac18 turer under section 1927, as re19 ported by such manufacturer to 20 the Secretary pursuant to the 21 agreement under section 1193(a)) 22 for such biological product, with 23 respect to each of the calendar 24 quarters of the price applicability 115  HR 5376 EAS 1 period that would have applied 2 but for this subsection; exceeds 3 (bb) in the initial price ap4 plicability year that would have 5 applied but for a delay under 6 (AA) paragraph 7 (2)(A), the maximum fair 8 price negotiated under sec9 tion 1194 for such biological 10 product under such agree11 ment; or 12 (BB) paragraph 13 (2)(B)(iii), such maximum 14 fair price, increased as de15 scribed in section 16 1195(b)(1)(A); and 17 (II) the number of units dis18 pensed under part D of title XVIII for 19 such covered part D drug during each 20 such calendar quarter of such price ap21 plicability period; and 22 (ii) in the case of a biological product 23 for which payment may be made under 24 part B of title XVIII, that is the sum of the 25 products of 116  HR 5376 EAS 1 (I) 80 percent of the amount by 2 which 3 (aa) the payment amount 4 for such biological product under 5 section 1847A(b), with respect to 6 each of the calendar quarters of 7 the price applicability period that 8 would have applied but for this 9 subsection; exceeds 10 (bb) in the initial price ap11 plicability year that would have 12 applied but for a delay under 13 (AA) paragraph 14 (2)(A), the maximum fair 15 price negotiated under sec16 tion 1194 for such biological 17 product under such agree18 ment; or 19 (BB) paragraph 20 (2)(B)(iii), such maximum 21
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the pricing of biological products. In the case of a biological product that is a covered part D drug, the sum of the manufacturer's price for the product and the number of units dispensed under part D of Medicare for the drug during a certain period is used to calculate the payment amount for the product. In the case of a biological product for which payment may be made under part B of Medicare, the sum of the payment amount for the product and the number of units dispensed under part B of Medicare for the product during a certain period is used to calculate the payment amount for the product.

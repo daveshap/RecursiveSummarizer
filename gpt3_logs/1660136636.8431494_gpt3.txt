@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+dispensed to applicable beneficiaries on or after January 1, 2025. The manufacturer must also collect and have available appropriate data to ensure that it can demonstrate to the Secretary compliance with the requirements under the program. The Secretary of Health and Human Services is responsible for administering the discount program for prescription drugs, including determining eligibility and establishing procedures. Agreements with manufacturers are automatically renewed for at least one year unless terminated by the Secretary for violation of the agreement or other good cause, or by the manufacturer for any reason. Termination by the manufacturer is effective at the end of the plan year.  This section of the Affordable Care Act requires drug manufacturers to provide a discount on drugs to low-income seniors who fall into the "coverage gap." The discount is phased in over time, starting at 50% in 2011 and reaching 75% by 2020. In 2021, the discount will be based on the "specified LIS percent" of the negotiated price of the drug.  This section of the Revenue Code of 1986 defines "drugs" for purposes of the Medicare Part D prescription drug benefit and establishes a percentage threshold for specified small manufacturers. The threshold is used to determine whether a manufacturer's drugs will be subject to price controls under the benefit.  This section of the bill establishes premium stabilization for prescription drug plans under Medicare from 2024-2029. The base beneficiary premium for a given year will be equal to the lesser of (1) the base beneficiary premium from the previous year increased by 6 percent, or (2) the base beneficiary premium that would have applied if this section had not been enacted. The base beneficiary premium for 2030 and subsequent years shall be computed under paragraph (2) or (8) of subsection (a) of the Social Security Act (42 U.S.C. 1395w113(a)), as amended by this paragraph, without regard to this paragraph. The percent specified
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Affordable Care Act requires drug manufacturers to provide a discount on drugs to low-income seniors who fall into the "coverage gap." The discount is phased in over time, starting at 50% in 2011 and reaching 75% by 2020. In 2021, the discount will be based on the "specified LIS percent" of the negotiated price of the drug.

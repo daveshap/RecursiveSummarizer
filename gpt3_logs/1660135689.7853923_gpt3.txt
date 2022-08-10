@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Secretary shall use the 23 amounts made available by subsection (a) to carry out a 24 program to pay the costs of direct loans to non-Federal bor25 rowers, subject to the limitations that apply to loan guaran- 618  HR 5376 EAS 1 tees under section 50141(d) and under such terms and con2 ditions as the Secretary determines to be appropriate, for 3 the construction or modification of electric transmission fa4 cilities designated by the Secretary to be necessary in the 5 national interest under section 216(a) of the Federal Power 6 Act (16 U.S.C. 824p(a)). 7 (c) LOANS.A direct loan provided under this sec8 tion 9 (1) shall have a term that does not exceed the 10 lesser of 11 (A) 90 percent of the projected useful life, in 12 years, of the eligible transmission facility; and 13 (B) 30 years; 14 (2) shall not exceed 80 percent of the project 15 costs; and 16 (3) shall, on first issuance, be subject to the con17 dition that the direct loan is not subordinate to other 18 financing. 19 (d) INTEREST RATES.A direct loan provided under 20 this section shall bear interest at a rate determined by the 21 Secretary, taking into consideration market yields on out22 standing marketable obligations of the United States of 23 comparable maturities as of the date on which the direct 24 loan is made. 619  HR 5376 EAS 1 (e) DEFINITION OF DIRECT LOAN.In this section, the 2 term direct loan has the meaning given the term in sec3 tion 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 4 661a). 5 SEC. 50152. GRANTS TO FACILITATE THE SITING OF INTER6 STATE ELECTRICITY TRANSMISSION LINES. 7 (a) APPROPRIATION.In addition to amounts other8 wise available, there is appropriated to the Secretary for 9 fiscal year 2022, out of any money in the Treasury not 10 otherwise appropriated, $760,000,000, to remain available 11 through September 30, 2029, for making grants in accord12 ance with this section and for administrative expenses asso13 ciated with carrying out this section. 14 (b)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes the Secretary to provide grants to non-federal entities for the construction or modification of electric transmission facilities designated by the Secretary to be necessary in the national interest. The grants may not exceed 80 percent of the project costs, and must be repaid with interest.

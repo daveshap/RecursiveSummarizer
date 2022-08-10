@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+any property for which a credit was al8 lowed under this section with respect to such facility shall 9 cease to be investment credit property in the taxable year 10 in which the determination is made. 11 (h) SPECIAL RULES FOR CERTAIN FACILITIES 12 PLACED IN SERVICE IN CONNECTION WITH LOW-INCOME 13 COMMUNITIES. 14 (1) IN GENERAL.In the case of any applicable 15 facility with respect to which the Secretary makes an 16 allocation of environmental justice capacity limita17 tion under paragraph (4) 18 (A) the applicable percentage otherwise de19 termined under subsection (a)(2) with respect to 20 any eligible property which is part of such facil21 ity shall be increased by 22 (i) in the case of a facility described 23 in subclause (I) of paragraph (2)(A)(iii) 24 and not described in subclause (II) of such 25 paragraph, 10 percentage points, and 482  HR 5376 EAS 1 (ii) in the case of a facility described 2 in subclause (II) of paragraph (2)(A)(iii), 3 20 percentage points, and 4 (B) the increase in the credit determined 5 under subsection (a) by reason of this subsection 6 for any taxable year with respect to all property 7 which is part of such facility shall not exceed the 8 amount which bears the same ratio to the 9 amount of such increase (determined without re10 gard to this subparagraph) as 11 (i) the environmental justice capacity 12 limitation allocated to such facility, bears 13 to 14 (ii) the total megawatt nameplate ca15 pacity of such facility, as measured in di16 rect current. 17 (2) APPLICABLE FACILITY.For purposes of 18 this subsection 19 (A) IN GENERAL.The term applicable 20 facility means any qualified facility 21 (i) which is not described in section 22 45Y(b)(2)(B), 23 (ii) which has a maximum net output 24 of less than 5 megawatts (as measured in 25 alternating current), and 483  HR 5376 EAS 1 (iii) which 2 (I) is located in a low-income 3 community (as defined in section 4 45D(e)) or on Indian land (as defined
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Investment Credit Property section of the bill allows for a credit to be given for any property that is part of a facility that is placed in service in connection with a low-income community. The credit is given as a percentage of the investment in the property, and the percentage is increased for facilities located in low-income communities or on Indian land.

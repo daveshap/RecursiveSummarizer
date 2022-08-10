@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+which is a 4 source of air pollution, noise, stormwater, or other 5 burden to a disadvantaged or underserved commu6 nity. 7 (d) INVESTMENT IN ECONOMICALLY DISADVANTAGED 8 COMMUNITIES. 9 (1) IN GENERAL.In addition to amounts oth10 erwise available, there is appropriated for fiscal year 11 2022, out of any money in the Treasury not otherwise 12 appropriated, $1,262,000,000, to remain available 13 until September 30, 2026, to the Administrator of the 14 Federal Highway Administration to provide grants 15 for projects in communities described in paragraph 16 (2) for the same purposes and administered in the 17 same manner as described in subsection (a). 18 (2) COMMUNITIES DESCRIBED.A community 19 referred to in paragraph (1) is a community that 20 (A) is economically disadvantaged, under21 served, or located in an area of persistent pov22 erty; 23 (B) has entered or will enter into a com24 munity benefits agreement with representatives 25 of the community; 709  HR 5376 EAS 1 (C) has an anti-displacement policy, a 2 community land trust, or a community advisory 3 board in effect; or 4 (D) has demonstrated a plan for employ5 ing local residents in the area impacted by the 6 activity or project proposed under this section. 7 (e) ADMINISTRATION. 8 (1) IN GENERAL.A project carried out under 9 subsection (a) or (d) shall be treated as a project on 10 a Federal-aid highway. 11 (2) COMPLIANCE WITH EXISTING REQUIRE12 MENTS.Funds made available for a grant under 13 this section and administered by or through a State 14 department of transportation shall be expended in 15 compliance with the U.S. Department of Transpor16 tations Disadvantaged Business Enterprise Program. 17 (f) COST SHARE.The Federal share of the cost of 18 an activity carried out using a grant awarded under this 19 section shall be not more than 80 percent, except that the 20 Federal share of the cost of a project in a disadvantaged 21 or underserved community may be up to 100
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides for grants to be awarded to economically disadvantaged or underserved communities for projects that address air pollution, noise, stormwater, or other burdens. The Federal share of the cost of these projects shall not exceed 80 percent.

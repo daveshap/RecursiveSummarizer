@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+22 such section, such excess amount may be 23 carried over and applied to the annual ca24 pacity limitation under this subsection for 25 calendar year 2025. The annual capacity 487  HR 5376 EAS 1 limitation for calendar year 2025 shall be 2 increased by the amount of such excess. 3 (E) PLACED IN SERVICE DEADLINE. 4 (i) IN GENERAL.Paragraph (1) 5 shall not apply with respect to any property 6 which is placed in service after the date that 7 is 4 years after the date of the allocation 8 with respect to the facility of which such 9 property is a part. 10 (ii) APPLICATION OF CARRYOVER. 11 Any amount of environmental justice capac12 ity limitation which expires under clause 13 (i) during any calendar year shall be taken 14 into account as an excess described in sub15 paragraph (D)(i) (or as an increase in such 16 excess) for such calendar year, subject to the 17 limitation imposed by the last sentence of 18 such subparagraph. 19 (5) RECAPTURE.The Secretary shall, by regu20 lations or other guidance, provide for recapturing the 21 benefit of any increase in the credit allowed under 22 subsection (a) by reason of this subsection with re23 spect to any property which ceases to be property eli24 gible for such increase (but which does not cease to be 25 investment credit property within the meaning of sec- 488  HR 5376 EAS 1 tion 50(a)). The period and percentage of such recap2 ture shall be determined under rules similar to the 3 rules of section 50(a). To the extent provided by the 4 Secretary, such recapture may not apply with respect 5 to any property if, within 12 months after the date 6 the taxpayer becomes aware (or reasonably should 7 have become aware) of such property ceasing to be 8 property eligible for such increase, the eligibility of 9 such property for such increase is restored. The pre10 ceding sentence shall not apply more than once with 11 respect to any facility. 12 (i) GUIDANCE.Not later than January 1, 2025, the 13 Secretary shall issue
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Environmental Justice Capacity Limitation Credit is a credit that may be applied to the annual capacity limitation for calendar year 2025 for any property that is placed in service after the date that is four years after the date of the allocation with respect to the facility of which such property is a part. If any amount of environmental justice capacity limitation expires during any calendar year, it shall be taken into account as an excess for such calendar year, subject to the limitation imposed by the last sentence of such subparagraph. The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning of section 50(a)).

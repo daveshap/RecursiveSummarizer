@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+qualified interconnection property, which is used to provide for the transmission or distribution of electricity produced or stored by such property.  This section amends section 48(a) of the Internal Revenue Code to increase the credit amount for energy projects that meet certain wage requirements and apprenticeship requirements.  This section of the bill deals with the tax credit for energy projects. A project is eligible for the credit if it meets certain requirements, including being a project with a maximum net output of less than 1 megawatt of electrical or thermal energy, or a project that satisfies the requirements of paragraphs (10)(A) and (11). The requirements described in this subparagraph with respect to any energy project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such energy project, and for the 5-year period beginning on the date such project is originally placed in service, the alteration or repair of such project, shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.  The energy project tax credit is increased by 2 percentage points for projects that use domestic content, as determined by rules similar to the rules for the regular energy project tax credit.  The Energy Policy Act of 2005 amended the Internal Revenue Code to provide a tax credit for certain energy storage facilities. The credit is equal to 10 percent of the cost of the facility, and is available for both new and existing storage facilities. The credit is phased out for taxpayers making an election under section 6417 with respect to a credit under this section.  This section amends the energy credit for solar and wind
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the tax credit for energy projects. A project is eligible for the credit if it meets certain requirements, including being a project with a maximum net output of less than 1 megawatt of electrical or thermal energy, or a project that satisfies the requirements of paragraphs (10)(A) and (11). The energy project tax credit is increased by 2 percentage points for projects that use domestic content, as determined by rules similar to the rules for the regular energy project tax credit.

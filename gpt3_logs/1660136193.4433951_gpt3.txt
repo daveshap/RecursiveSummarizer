@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+which the sale occurs is determined under section 2 45(e)(2), as applied by substituting calendar year 3 2023 for calendar year 1992 in subparagraph (B) 4 thereof. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount 7 shall be rounded to the nearest multiple of 0.05 cent. 8 If the 2.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall 10 be rounded to the nearest multiple of 0.1 cent. 11 The credit determined under subsection (a) shall be increased by 5 times for any qualified nuclear power facility which satisfies the requirements of paragraph (2)(A), which are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the alteration or repair of such facility shall be paid wages at rates not less than the prevailing rates for alteration or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.  This section extends the incentives for biodiesel, renewable diesel and alternative fuels through 2024.  This section extends the tax credit for qualified second generation biofuel through 2025.  This section amends subpart D of part IV of subchapter A of chapter 1 by inserting a new section 40B, which establishes a sustainable aviation fuel credit for any qualified mixture sold or used in an aircraft. The credit is equal to the number of gallons of sustainable aviation fuel in the mixture, multiplied by the sum of $1.25 and the applicable supplementary amount. The applicable supplementary amount is determined by the percentage of lifecycle greenhouse gas emissions reduction with respect to the sustainable aviation fuel, and may not exceed $0.50.  This section establishes a tax credit for the production of sustainable aviation fuel. To be eligible for the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section extends the incentives for biodiesel, renewable diesel and alternative fuels through 2024. It also extends the tax credit for qualified second generation biofuel through 2025. In addition, this section establishes a sustainable aviation fuel credit and a tax credit for the production of sustainable aviation fuel.

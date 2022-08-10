@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+communitized area for the benefit of the lease, unit, or communitized area; or gas that is unavoidably lost. -This section also sets forth requirements for Lease Sale 257 in the Gulf of Mexico. -The Outer Continental Shelf (OCS) Oil and Gas Lease Sales 257, 258, and 259 are scheduled to occur on September 7, 2021, and October 4, 2021, respectively. -The Continental Shelf Oil and Gas Leasing Program Final Programmatic Environmental Impact Statement was issued on January 17, 2017. The statement outlines the requirements for Lease Sale 261, which must be conducted by September 30, 2023. -This section appropriates $23.5 million to the United States Geological Survey for fiscal year 2022 to produce, collect,  The Department of the Interior may not issue a lease for offshore wind development unless an offshore lease sale has been held during the 1-year period ending on the date of the issuance of the lease for offshore wind development, and the sum total of acres offered for lease in offshore lease sales during that period is not less than 60,000,000 acres. The Department of Energy and the Federal Energy Regulatory Commission are each appropriated $100,000,000 for fiscal year 2022 to facilitate timely and efficient environmental reviews and authorizations. This section appropriates $600,000,000 to the Administrator for fiscal year 2022, to be used for clean heavy-duty vehicle programs. The article discusses a program that provides grants and rebates to encourage the replacement of older, polluting vehicles with newer, cleaner vehicles. The program is administered by the Environmental Protection Agency, and funds are appropriated by Congress. This section authorizes the appropriation of $2.25 billion for grants to reduce air pollution at ports by purchasing or installing zero-emission port equipment or charging stations for electric vehicles. Eligible recipients include states, municipalities, Indian tribes, and nonprofit school transportation associations.  This section
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the article discusses the requirements for offshore lease sales in the Gulf of Mexico, as well as the appropriations for various clean energy initiatives.

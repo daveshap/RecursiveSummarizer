@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+their buildings to improve energy efficiency. The credit is equal to the lesser of the excess energy use intensity or the aggregate adjusted basis of the energy efficient building retrofit property placed in service. The property must be certified by a qualified professional as meeting the requirements of the qualified retrofit plan.  The Energy Efficiency Retrofit Tax Credit allows a tax credit for installing energy efficient systems in qualified buildings. The credit is available for buildings that are at least 5 years old and meet certain energy efficiency requirements.  This section amends section 179D of the tax code to allow a deduction for energy efficient commercial buildings. The deduction is available to licensed architects or engineers who meet other requirements as provided by the Secretary. The deduction is not available for energy efficient building retrofit property if a deduction is already allowed for that property under this section. The inflation adjustment for the deduction is increased for 2020 and 2021.  The Energy Efficient Homes Credit is extended through 2032 and the credit amount is increased for certain energy efficient dwelling units.  The 3 Energy Star Multifamily New Construction Pro- gram provides financial incentives for dwelling units that meet certain energy efficiency requirements. The requirements are different for units acquired before and after January 1, 2025.  The Energy Star Multifamily New Construction National Program Requirements and the Energy Star Multifamily New Construction Regional Program Requirements must be met in order for a dwelling unit to be acquired. The prevailing wage requirements must also be met in order for the credit amount to be allowed.  The Clean Vehicle Credit is a tax credit for vehicles that meet certain fuel efficiency standards. The credit is limited to $3,750 per vehicle.  This section amends the Clean Air Act to include a definition of "new clean vehicle" and to require manufacturers to provide
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Efficiency Retrofit Tax Credit allows a tax credit for installing energy efficient systems in qualified buildings. The credit is available for buildings that are at least 5 years old and meet certain energy efficiency requirements. The Energy Efficient Homes Credit is extended through 2032 and the credit amount is increased for certain energy efficient dwelling units. The Clean Vehicle Credit is a tax credit for vehicles that meet certain fuel efficiency standards.

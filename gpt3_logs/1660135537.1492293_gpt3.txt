@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+through 6 3839aa8) 7 (A)(i) $250,000,000 for fiscal year 2023; 8 (ii) $1,750,000,000 for fiscal year 2024; 9 (iii) $3,000,000,000 for fiscal year 2025; 10 and 11 (iv) $3,450,000,000 for fiscal year 2026; 12 and 13 (B) subject to the conditions on the use of 14 the funds that 15 (i) section 1240B(f)(1) of the Food Se16 curity Act of 1985 (16 U.S.C. 3839aa 17 2(f)(1)) shall not apply; 18 (ii) section 1240H(c)(2) of the Food 19 Security Act of 1985 (16 U.S.C. 3839aa 20 8(c)(2)) shall be applied 21 (I) by substituting $50,000,000 22 for $25,000,000; and 23 (II) with the Secretary 24 prioritizing proposals that utilize diet 25 and feed management to reduce enteric 540  HR 5376 EAS 1 methane emissions from ruminants; 2 and 3 (iii) the funds shall be available for 1 4 or more agricultural conservation practices 5 or enhancements that the Secretary deter6 mines directly improve soil carbon, reduce 7 nitrogen losses, or reduce, capture, avoid, or 8 sequester carbon dioxide, methane, or ni9 trous oxide emissions, associated with agri10 cultural production; 11 (2) to carry out, using the facilities and authori12 ties of the Commodity Credit Corporation, the con13 servation stewardship program under subchapter B of 14 that chapter (16 U.S.C. 3839aa21 through 3839aa 15 25) 16 (A)(i) $250,000,000 for fiscal year 2023; 17 (ii) $500,000,000 for fiscal year 2024; 18 (iii) $1,000,000,000 for fiscal year 2025; 19 and 20 (iv) $1,500,000,000 for fiscal year 2026; 21 and 22 (B) subject to the condition on the use of the 23 funds that the funds shall only be available for 24 1 or more agricultural conservation practices, 25 enhancements, or bundles that the Secretary de- 541  HR 5376 EAS 1 termines directly improve soil carbon, reduce ni2 trogen losses, or reduce, capture, avoid, or seques3 ter carbon dioxide, methane, or nitrous oxide 4 emissions, associated with agricultural produc5 tion; 6 (3) to carry out, using the facilities and authori7 ties of the Commodity
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill authorizes $250 million for the conservation stewardship program for fiscal year 2023, $500 million for fiscal year 2024, $1 billion for fiscal year 2025, and $1.5 billion for fiscal year 2026. The funds may only be used for agricultural conservation practices, enhancements, or bundles that the Secretary determines directly improve soil carbon, reduce nitrogen losses, or reduce, capture, avoid, or sequester carbon dioxide, methane, or nitrous oxide emissions, associated with agricultural production.

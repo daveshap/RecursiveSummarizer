@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+displacement 11 of crops or animals for which the original land was 12 previously used. 13 (4) LIFECYCLE GREENHOUSE GAS EMISSIONS. 14 The term lifecycle greenhouse gas emissions means 15 the combined greenhouse gas emissions from feedstock 16 production, collection of feedstock, transportation of 17 feedstock to fuel production facilities, conversion of 18 feedstock to fuel, transportation and distribution of 19 fuel, and fuel combustion in an aircraft engine, as 20 well as from induced land-use change values. 21 (5) LOW-EMISSION AVIATION TECHNOLOGIES. 22 The term low-emission aviation technologies means 23 technologies, produced in the United States, that sig24 nificantly 25 (A) improve aircraft fuel efficiency; 581  HR 5376 EAS 1 (B) increase utilization of sustainable avia2 tion fuel; or 3 (C) reduce greenhouse gas emissions pro4 duced during operation of civil aircraft. 5 (6) SECRETARY.The term Secretary means 6 the Secretary of Transportation. 7 (7) SUSTAINABLE AVIATION FUEL.The term 8 sustainable aviation fuel means liquid fuel, pro9 duced in the United States, that 10 (A) consists of synthesized hydrocarbons; 11 (B) meets the requirements of 12 (i) ASTM International Standard 13 D7566; or 14 (ii) the co-processing provisions of 15 ASTM International Standard D1655, 16 Annex A1 (or such successor standard); 17 (C) is derived from biomass (in a similar 18 manner as such term is defined in section 19 45K(c)(3) of the Internal Revenue Code of 1986), 20 waste streams, renewable energy sources, or gas21 eous carbon oxides; 22 (D) is not derived from palm fatty acid dis23 tillates; and 24 (E) achieves at least a 50 percent lifecycle 25 greenhouse gas emissions reduction in compari- 582  HR 5376 EAS 1 son with petroleum-based jet fuel, as determined 2 by a test that shows 3 (i) the fuel production pathway 4 achieves at least a 50 percent reduction of 5 the aggregate attributional core lifecycle 6 emissions and the induced land-use change 7
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill defines "low-emission aviation technologies" as technologies that significantly improve aircraft fuel efficiency, increase the utilization of sustainable aviation fuel, or reduce greenhouse gas emissions produced during the operation of civil aircraft. It also defines "sustainable aviation fuel" as a liquid fuel produced in the United States that meets certain standards, is derived from biomass, waste streams, renewable energy sources, or gaseous carbon oxides, and achieves at least a 50 percent lifecycle greenhouse gas emissions reduction in comparison to petroleum-based jet fuel.

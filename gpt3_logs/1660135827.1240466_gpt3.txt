@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+1 (5) EXEMPTION.Charges shall not be imposed 2 pursuant to paragraph (1) on emissions that exceed 3 the waste emissions threshold specified in such para4 graph if such emissions are caused by unreasonable 5 delay, as determined by the Administrator, in envi6 ronmental permitting of gathering or transmission 7 infrastructure necessary for offtake of increased vol8 ume as a result of methane emissions mitigation im9 plementation. 10 (6) EXEMPTION FOR REGULATORY COMPLI11 ANCE. 12 (A) IN GENERAL.Charges shall not be 13 imposed pursuant to subsection (c) on an appli14 cable facility that is subject to and in compli15 ance with methane emissions requirements pur16 suant to subsections (b) and (d) of section 111 17 upon a determination by the Administrator 18 that 19 (i) methane emissions standards and 20 plans pursuant to subsections (b) and (d) of 21 section 111 have been approved and are in 22 effect in all States with respect to the appli23 cable facilities; and 24 (ii) compliance with the requirements 25 described in clause (i) will result in equiva- 692  HR 5376 EAS 1 lent or greater emissions reductions as 2 would be achieved by the proposed rule of 3 the Administrator entitled Standards of 4 Performance for New, Reconstructed, and 5 Modified Sources and Emissions Guidelines 6 for Existing Sources: Oil and Natural Gas 7 Sector Climate Review (86 Fed. Reg. 63110 8 (November 15, 2021)), if such rule had been 9 finalized and implemented. 10 (B) RESUMPTION OF CHARGE.If the con11 ditions in clause (i) or (ii) of subparagraph (A) 12 cease to apply after the Administrator has made 13 the determination in that subparagraph, the ap14 plicable facility will again be subject to the 15 charge under subsection (c) beginning in the first 16 calendar year in which the conditions in either 17 clause (i) or (ii) of that subparagraph are no 18 longer met. 19 (7) PLUGGED WELLS.Charges shall not be im20 posed with respect to the emissions rate from any well 21
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The proposed rule would exempt emissions that exceed the waste emissions threshold if they are caused by unreasonable delay in environmental permitting of gathering or transmission infrastructure necessary for offtake of increased volume as a result of methane emissions mitigation implementation. Additionally, the proposed rule would exempt an applicable facility from the charge if the facility is subject to and in compliance with methane emissions requirements and if compliance with those requirements will result in equivalent or greater emissions reductions. Finally, the proposed rule would exempt emissions from any well that has been plugged in accordance with applicable regulations.

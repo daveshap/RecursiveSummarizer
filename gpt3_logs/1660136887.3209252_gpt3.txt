@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+identification number when claiming the credit. The Residential Clean Energy Credit is extended through 2034 and expanded to include battery storage technology expenditures. The Energy Efficient Commercial Buildings Deduction is being amended to increase the maximum deduction from $0.50 to $1.00 per square foot, and to make the deduction only available for buildings certified to reduce energy and power costs by more than 25%. The Energy Efficiency Retrofit Tax Credit allows a tax credit for installing energy efficient systems in qualified buildings.  The Energy Security Act extends the Alternative Fuel Tax Credit through 2032 and increases the credit limit from $30,000 to $100,000. It also includes bidirectional charging equipment as qualified alternative fuel vehicle refueling. The Clean Vehicle Credit is a tax credit for vehicles that meet certain fuel efficiency standards. The credit is available for vehicles purchased after December 31, 2017 and is capped at $7,500. The credit is phased out for each manufacturer after 200,000 qualifying vehicles are sold.  This section of the tax code provides for a tax credit for certain heavy duty electric or fuel cell vehicles, hybrid vehicles, and associated charging or refueling infrastructure. It also provides for a tax credit for re-equipping an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions.  The "Greenhouse Gas Emission Reduction for New and Existing Power Plants" rule incentivizes clean electricity production and clean transportation by providing a tax credit for any taxable year equal to the product of the kilowatt hours of electricity produced by the taxpayer at a qualified facility and sold by the taxpayer to an unrelated person during the taxable year, multiplied by the applicable amount with respect to such qualified facility. The applicable amount is 0.3 cents per kilowatt hour for qualified facilities that are not described in clause (i) or (ii) of subparagraph
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Security Act extends tax credits for alternative fuel vehicles, energy efficient buildings, and industrial facilities that reduce greenhouse gas emissions.

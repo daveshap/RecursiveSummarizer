@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+drugs under this section.  This section describes a program where manufacturers provide discounted prices for applicable drugs to applicable beneficiaries. The Secretary shall not receive or distribute any funds of a manufacturer under the program. A manufacturer that fails to provide discounted prices for applicable drugs of the manufacturer dispensed to applicable beneficiaries in accordance with an agreement in effect under this section shall be subject to a civil money penalty for each such failure. The provisions of section 1128A shall apply to a civil money penalty under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1128A(a). This section does not prevent an applicable beneficiary from purchasing a covered part D drug that is not an applicable drug.  The annual deductible for covered drugs under Medicare Part D is $415 in 2020. The term "applicable drug" means a covered Part D drug that is approved by the FDA and is on the formulary of the prescription drug plan or Medicare Advantage Prescription Drug (MAPD) plan that the applicable beneficiary is enrolled in. The term "applicable number of calendar days" means 14 days for electronically submitted claims and 30 days for other claims. The "discounted price" is the price of a covered drug after the annual deductible has been met.  The Affordable Care Act requires drug manufacturers to provide a discount on drugs to low-income seniors who fall into the "coverage gap." This discount is phased in over time, starting at 50% in 2011 and reaching 75% by 2020. In 2021, the discount will be based on the "specified LIS percent" of the negotiated price of the drug.  The "specified drug" for a given manufacturer is defined as an applicable drug produced, prepared, propagated, compounded, converted, or processed by that manufacturer. For the purposes of this section, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Affordable Care Act requires drug manufacturers to provide a discount on drugs to low-income seniors who fall into the "coverage gap." The discount is phased in over time, starting at 50% in 2011 and reaching 75% by 2020. In 2021, the discount will be based on the "specified LIS percent" of the negotiated price of the drug.

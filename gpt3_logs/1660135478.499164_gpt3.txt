@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+S corporation makes an election under 23 such subsection (in such manner as the Secretary 24 may provide) with respect to such credit 508  HR 5376 EAS 1 (A) the Secretary shall make a payment to 2 such partnership or S corporation equal to the 3 amount of such credit, 4 (B) subsection (e) shall be applied with re5 spect to such credit before determining any part6 ners distributive share, or shareholders pro rata 7 share, of such credit, 8 (C) any amount with respect to which the 9 election in subsection (a) is made shall be treated 10 as tax exempt income for purposes of sections 11 705 and 1366, and 12 (D) a partners distributive share of such 13 tax exempt income shall be based on such part14 ners distributive share of the otherwise applica15 ble credit for each taxable year. 16 (2) COORDINATION WITH APPLICATION AT PART17 NER OR SHAREHOLDER LEVEL.In the case of any 18 facility or property held directly by a partnership or 19 S corporation, no election by any partner or share20 holder shall be allowed under subsection (a) with re21 spect to any applicable credit determined with respect 22 to such facility or property. 23 (3) TREATMENT OF PAYMENTS TO PARTNER24 SHIPS AND S CORPORATIONS.For purposes of section 25 1324 of title 31, United States Code, the payments 509  HR 5376 EAS 1 under paragraph (1)(A) shall be treated in the same 2 manner as a refund due from a credit provision re3 ferred to in subsection (b)(2) of such section. 4 (d) SPECIAL RULES.For purposes of this section 5 (1) APPLICABLE ENTITY. 6 (A) IN GENERAL.The term applicable 7 entity means 8 (i) any organization exempt from the 9 tax imposed by subtitle A, 10 (ii) any State or political subdivision 11 thereof, 12 (iii) the Tennessee Valley Authority, 13 (iv) an Indian tribal government (as 14 defined in section 30D(g)(9)), 15 (v) any Alaska Native Corporation 16 (as defined in section 3 of the Alaska Native 17 Claims Settlement Act (43 U.S.C. 1602(m)), 18 or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The S corporation makes an election under the 23 such subsection (in such manner as the Secretary 24 may provide) with respect to such credit 508. The Secretary shall make a payment to 2 such partnership or S corporation equal to the 3 amount of such credit, 4 (B) subsection (e) shall be applied with re5 spect to such credit before determining any part6 ners distributive share, or shareholders pro rata 7 share, of such credit, 8 (C) any amount with respect to which the 9 election in subsection (a) is made shall be treated 10 as tax exempt income for purposes of sections 11 705 and 1366, and 12 (D) a partners distributive share of such 13 tax exempt income shall be based on such part14 ners distributive share of the otherwise applica15 ble credit for each taxable year.

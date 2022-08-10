@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Continental Shelf Oil and Gas 18 Leasing Program Final Programmatic Environmental Im19 pact Statement; MMAA104000 issued on January 17, 20 2017 (82 Fed. Reg. 6643 (January 19, 2017)). 21 (e) REQUIREMENT FOR LEASE SALE 261.Notwith22 standing the expiration of the 20172022 leasing program, 23 not later than September 30, 2023, the Secretary shall con24 duct Lease Sale 261 in accordance with the Record of Deci25 sion approved by the Secretary on January 17, 2017, de- 654  HR 5376 EAS 1 scribed in the notice of availability entitled Record of De2 cision for the 20172022 Outer Continental Shelf Oil and 3 Gas Leasing Program Final Programmatic Environmental 4 Impact Statement; MMAA104000 issued on January 17, 5 2017 (82 Fed. Reg. 6643 (January 19, 2017)). 6 SEC. 50265. ENSURING ENERGY SECURITY. 7 (a) DEFINITIONS.In this section: 8 (1) FEDERAL LAND.The term Federal land 9 means public lands (as defined in section 103 of the 10 Federal Land Policy and Management Act of 1976 11 (43 U.S.C. 1702)). 12 (2) OFFSHORE LEASE SALE.The term offshore 13 lease sale means an oil and gas lease sale 14 (A) that is held by the Secretary in accord15 ance with the Outer Continental Shelf Lands Act 16 (43 U.S.C. 1331 et seq.); and 17 (B) that, if any acceptable bids have been 18 received for any tract offered in the lease sale, re19 sults in the issuance of a lease. 20 (3) ONSHORE LEASE SALE.The term onshore 21 lease sale means a quarterly oil and gas lease sale 22 (A) that is held by the Secretary in accord23 ance with section 17 of the Mineral Leasing Act 24 (30 U.S.C. 226); and 655  HR 5376 EAS 1 (B) that, if any acceptable bids have been 2 received for any parcel offered in the lease sale, 3 results in the issuance of a lease. 4 (b) LIMITATION ON ISSUANCE OF CERTAIN LEASES OR 5 RIGHTS-OF-WAY.During the 10-year period beginning on 6 the date of enactment of this Act 7 (1) the Secretary may not issue a right-of-way 8 for wind or solar energy development on
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Continental Shelf Oil and Gas Leasing Program Final Programmatic Environmental Impact Statement was issued on January 17, 2017. The statement outlines the requirements for Lease Sale 261, which must be conducted by September 30, 2023. This section of the Act also requires the Secretary to issue a Record of Decision for the 2017-2022 Outer Continental Shelf Oil and Gas Leasing Program Final Programmatic Environmental Impact Statement.

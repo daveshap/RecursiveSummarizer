@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(c) QUALIFIED COMMERCIAL CLEAN VEHICLE.For 13 purposes of this section, the term qualified commercial 14 clean vehicle means any vehicle which 15 (1) meets the requirements of section 16 30D(d)(1)(C) and is acquired for use or lease by the 17 taxpayer and not for resale, 18 (2) either 19 (A) meets the requirements of subpara20 graph (D) of section 30D(d)(1) and is manufac21 tured primarily for use on public streets, roads, 22 and highways (not including a vehicle operated 23 exclusively on a rail or rails), or 24 (B) is mobile machinery, as defined in sec25 tion 4053(8) (including vehicles that are not de- 402  HR 5376 EAS 1 signed to perform a function of transporting a 2 load over the public highways), 3 (3) either 4 (A) is propelled to a significant extent by 5 an electric motor which draws electricity from a 6 battery which has a capacity of not less than 15 7 kilowatt hours (or, in the case of a vehicle which 8 has a gross vehicle weight rating of less than 9 14,000 pounds, 7 kilowatt hours) and is capable 10 of being recharged from an external source of 11 electricity, or 12 (B) is a motor vehicle which satisfies the 13 requirements under subparagraphs (A) and (B) 14 of section 30B(b)(3), and 15 (4) is of a character subject to the allowance for 16 depreciation. 17 (d) SPECIAL RULES. 18 (1) IN GENERAL.Rules similar to the rules 19 under subsection (f) of section 30D (without regard to 20 paragraph (10) or (11) thereof) shall apply for pur21 poses of this section. 22 (2) VEHICLES PLACED IN SERVICE BY TAX-EX23 EMPT ENTITIES.Subsection (c)(4) shall not apply to 24 any vehicle which is not subject to a lease and which 403  HR 5376 EAS 1 is placed in service by a tax-exempt entity described 2 in clause (i), (ii), or (iv) of section 168(h)(2)(A). 3 (3) NO DOUBLE BENEFIT.No credit shall be 4 allowed under this section with respect to any vehicle 5 for which a credit was allowed under section 30D. 6 (e) VIN NUMBER
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "qualified commercial clean vehicle" tax credit is available for vehicles which meet certain energy efficiency requirements, are not manufactured for resale, and are used on public roads. The credit is similar to the credit available under section 30D of the tax code, but is not available for vehicles which are already eligible for that credit.

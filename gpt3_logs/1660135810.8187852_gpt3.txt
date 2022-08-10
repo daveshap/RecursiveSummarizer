@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+materials and products for devel11 oping and verifying environmental product declara12 tions, and to States, Indian Tribes, and nonprofit or13 ganizations that will support such businesses; 14 (2) providing technical assistance to businesses 15 that manufacture construction materials and products 16 in developing and verifying environmental product 17 declarations, and to States, Indian Tribes, and non18 profit organizations that will support such businesses; 19 and 20 (3) carrying out other activities that assist in 21 measuring, reporting, and steadily reducing the quan22 tity of embodied carbon of construction materials and 23 products. 24 (b) ADMINISTRATIVE COSTS.Of the amounts made 25 available under this section, the Administrator of the Envi- 685  HR 5376 EAS 1 ronmental Protection Agency shall reserve 5 percent for ad2 ministrative costs necessary to carry out this section. 3 (c) DEFINITIONS.In this section: 4 (1) GREENHOUSE GAS.The term greenhouse 5 gas means the air pollutants carbon dioxide, 6 hydrofluorocarbons, methane, nitrous oxide, 7 perfluorocarbons, and sulfur hexafluoride. 8 (2) STATE.The term State has the meaning 9 given to that term in section 302(d) of the Clean Air 10 Act (42 U.S.C. 7602(d)). 11 SEC. 60113. METHANE EMISSIONS REDUCTION PROGRAM. 12 The Clean Air Act is amended by inserting after sec13 tion 135 of such Act, as added by section 60107 of this Act, 14 the following: 15 SEC. 136. METHANE EMISSIONS AND WASTE REDUCTION 16 INCENTIVE PROGRAM FOR PETROLEUM AND 17 NATURAL GAS SYSTEMS. 18 (a) INCENTIVES FOR METHANE MITIGATION AND 19 MONITORING.In addition to amounts otherwise available, 20 there is appropriated to the Administrator for fiscal year 21 2022, out of any money in the Treasury not otherwise ap22 propriated, $850,000,000, to remain available until Sep23 tember 30, 2028 24 (1) for grants, rebates, contracts, loans, and 25 other activities of the Environmental Protection Agen- 686  HR 5376 EAS 1 cy for the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Environmental Protection Agency is appropriated $850,000,000 for fiscal year 2022 to remain available until September 30, 2028 for grants, rebates, contracts, loans, and other activities related to reducing methane emissions from petroleum and natural gas systems.

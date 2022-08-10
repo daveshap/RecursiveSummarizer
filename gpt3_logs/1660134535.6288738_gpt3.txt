@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+effective, with respect to a selected 4 drug, until such drug is no longer considered a selected drug 5 under section 1192(c). 6 (c) CONFIDENTIALITY OF INFORMATION.Informa7 tion submitted to the Secretary under this part by a manu8 facturer of a selected drug that is proprietary information 9 of such manufacturer (as determined by the Secretary) shall 10 be used only by the Secretary or disclosed to and used by 11 the Comptroller General of the United States for purposes 12 of carrying out this part. 13 (d) NONDUPLICATION WITH 340B CEILING PRICE. 14 Under an agreement entered into under this section, the 15 manufacturer of a selected drug 16 (1) shall not be required to provide access to the 17 maximum fair price under subsection (a)(3), with re18 spect to such selected drug and maximum fair price 19 eligible individuals who are eligible to be furnished, 20 administered, or dispensed such selected drug at a 21 covered entity described in section 340B(a)(4) of the 22 Public Health Service Act, to such covered entity if 23 such selected drug is subject to an agreement described 24 in section 340B(a)(1) of such Act and the ceiling 25 price (defined in section 340B(a)(1) of such Act) is 67  HR 5376 EAS 1 lower than the maximum fair price for such selected 2 drug; and 3 (2) shall be required to provide access to the 4 maximum fair price to such covered entity with re5 spect to maximum fair price eligible individuals who 6 are eligible to be furnished, administered, or dis7 pensed such selected drug at such entity at such ceil8 ing price in a nonduplicated amount to the ceiling 9 price if such maximum fair price is below the ceiling 10 price for such selected drug. 11 SEC. 1194. NEGOTIATION AND RENEGOTIATION PROCESS. 12 (a) IN GENERAL.For purposes of this part, under 13 an agreement under section 1193 between the Secretary and 14 a manufacturer of a selected drug (or selected drugs), with 15 respect to the period for which such agreement is in effect 16
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services may negotiate with drug manufacturers to set a maximum fair price for selected drugs, and these agreements may be renewed. Information submitted by manufacturers is confidential and will only be used by the Secretary or the Comptroller General. If a manufacturer has an agreement with a covered entity under the 340B program, the manufacturer is not required to provide the maximum fair price to the covered entity if the ceiling price is lower than the maximum fair price.

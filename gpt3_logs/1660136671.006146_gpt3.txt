@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+credit and a tax credit for the production of sustainable aviation fuel.  This section of the Clean Air Act provides tax credits for the production of sustainable aviation fuel and clean hydrogen. The credit for sustainable aviation fuel is $1.25 per gallon of fuel used in a qualified mixture, with a supplementary amount for each type of fuel. The credit for clean hydrogen is $0.60 per kilogram of qualified clean hydrogen produced, multiplied by the applicable percentage. The applicable percentage is determined according to the lifecycle greenhouse gas emissions rate.  The clean hydrogen production credit is a tax credit for businesses that produce qualified clean hydrogen. The credit is equal to the lesser of $5,000 or 30% of the cost of the equipment used to produce the hydrogen. The credit is reduced for tax-exempt bonds. The amendments in this section apply to hydrogen produced after December 31, 2022, and to electricity produced after that date if it is used to produce clean hydrogen. The credit for electricity production from renewable resources is allowed if the electricity is used to produce clean hydrogen. Clean hydrogen production facilities may be treated as energy property.  The Credit for Hydrogen Production Act of 2020 amends the Internal Revenue Code to provide a credit for the production of hydrogen. The credit is available for property placed in service after December 31, 2022, and is recaptured if production falls below expectations. The credit is scheduled to terminate on December 31, 2023. The Tax Cuts and Jobs Act extends, increases, and modifies the nonbusiness energy property credit. The credit is extended through 2032 and the annual limitation is increased to $1,200. The credit is also expanded to include qualified energy efficiency improvements and residential energy property expenditures. The Modification of Residential Energy Property Expenditures allows taxpayers to deduct the cost of qualified energy property, including labor costs, that
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Air Act provides tax credits for the production of sustainable aviation fuel and clean hydrogen. The credit for sustainable aviation fuel is $1.25 per gallon of fuel used in a qualified mixture, with a supplementary amount for each type of fuel. The credit for clean hydrogen is $0.60 per kilogram of qualified clean hydrogen produced, multiplied by the applicable percentage. The applicable percentage is determined according to the lifecycle greenhouse gas emissions rate. The Credit for Hydrogen Production Act of 2020 amends the Internal Revenue Code to provide a credit for the production of hydrogen. The credit is available for property placed in service after December 31, 2022, and is recaptured if production falls below expectations. The credit is scheduled to terminate on December 31, 2023.

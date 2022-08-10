@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+is overdue and ending on the 25 date that such information is so submitted. 124  HR 5376 EAS 1 (c) SUSPENSION OF TAX. 2 (1) IN GENERAL.A day shall not be taken 3 into account as a day during a period described in 4 subsection (b) if such day is also a day during the 5 period 6 (A) beginning on the first date on which 7 (i) the notice of terminations of all 8 applicable agreements of the manufacturer 9 have been received by the Secretary of 10 Health and Human Services, and 11 (ii) none of the drugs of the manufac12 turer of the designated drug are covered by 13 an agreement under section 1860D-14A or 14 1860D-14C of the Social Security Act, and 15 (B) ending on the last day of February fol16 lowing the earlier of 17 (i) the first day after the date de18 scribed in subparagraph (A) on which the 19 manufacturer enters into any subsequent 20 applicable agreement, or 21 (ii) the first date any drug of the 22 manufacturer of the designated drug is cov23 ered by an agreement under section 1860D24 14A or 1860D-14C of the Social Security 25 Act. 125  HR 5376 EAS 1 (2) APPLICABLE AGREEMENT.For purposes of 2 this subsection, the term applicable agreement means 3 the following: 4 (A) An agreement under 5 (i) the Medicare coverage gap dis6 count program under section 1860D-14A of 7 the Social Security Act, or 8 (ii) the manufacturer discount pro9 gram under section 1860D-14C of such Act. 10 (B) A rebate agreement described in sec11 tion 1927(b) of such Act. 12 (d) APPLICABLE PERCENTAGE.For purposes of this 13 section, the term applicable percentage means 14 (1) in the case of sales of a designated drug 15 during the first 90 days described in subsection (b) 16 with respect to such drug, 65 percent, 17 (2) in the case of sales of such drug during the 18 91st day through the 180th day described in sub19 section (b) with respect to such drug, 75 percent, 20 (3) in the case of sales of such drug during the 21 181st day through the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "applicable percentage" for the Medicare coverage gap discount program is 65% for the first 90 days that a drug is on the market, 75% for the next 90 days, and 80% thereafter.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+gram with income restrictions equal to or below 150 22 percent of area median income. 23 (5) PROGRAM.The term program means the 24 program carried out by the Secretary under sub25 section (a)(1). 603  HR 5376 EAS 1 (6) QUALIFIED ELECTRIFICATION PROJECT. 2 (A) IN GENERAL.The term qualified elec3 trification project means a project that 4 (i) includes the purchase and installa5 tion of 6 (I) an electric heat pump water 7 heater; 8 (II) an electric heat pump for 9 space heating and cooling; 10 (III) an electric stove, cooktop, 11 range, or oven; 12 (IV) an electric heat pump clothes 13 dryer; 14 (V) an electric load service center; 15 (VI) insulation; 16 (VII) air sealing and materials to 17 improve ventilation; or 18 (VIII) electric wiring; 19 (ii) with respect to any appliance de20 scribed in clause (i), the purchase of which 21 is carried out 22 (I) as part of new construction; 23 (II) to replace a nonelectric appli24 ance; or 604  HR 5376 EAS 1 (III) as a first-time purchase with 2 respect to that appliance; and 3 (iii) is carried out at, or relating to, a 4 single-family home or multifamily building, 5 as applicable and defined by the Secretary. 6 (B) EXCLUSIONS.The term qualified 7 electrification project does not include any 8 project with respect to which the appliance, sys9 tem, equipment, infrastructure, component, or 10 other item described in subclauses (I) through 11 (VIII) of subparagraph (A)(i) is not certified 12 under the Energy Star program established by 13 section 324A of the Energy Policy and Conserva14 tion Act (42 U.S.C. 6294a), if applicable. 15 SEC. 50123. STATE-BASED HOME ENERGY EFFICIENCY CON16 TRACTOR TRAINING GRANTS. 17 (a) APPROPRIATION.In addition to amounts other18 wise available, there is appropriated to the Secretary for 19 fiscal year 2022, out of any money in the Treasury not 20 otherwise appropriated, $200,000,000, to remain available 21 through September 30, 2031, to carry out a program to pro22 vide financial
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy will provide $200 million in grants over the next ten years to states for training programs for contractors in home energy efficiency. The goal is to improve the quality of work performed and to increase the number of qualified workers in the field.

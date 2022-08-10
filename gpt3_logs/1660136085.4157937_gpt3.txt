@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+required to pay a rebate to the Secretary at such time and in such manner as determined by the Secretary.  This section of the bill deals with the pricing of biological products. In the case of a biological product that is a covered part D drug, the sum of the manufacturer's price for the product and the number of units dispensed under part D of Medicare for the drug during a certain period is used to calculate the payment amount for the product. In the case of a biological product for which payment may be made under part B of Medicare, the sum of the payment amount for the product and the number of units dispensed under part B of Medicare for the product during a certain period is used to calculate the payment amount for the product.  This section of the bill establishes the maximum fair price for a biological product and the amount of the rebate for such product. The fair price is increased as described in section 1195(b)(1)(A), and the number of units of the product is increased as well. If the product qualifies as a long-monopoly drug, the amount of the rebate is increased by 65 percent.  This section amends the Social Security Act to require manufacturers of biosimilar biological products to provide rebates to Medicare and Medicaid. The rebates shall be deposited into the Federal Supplementary Medical Insurance Trust Fund or the Medicare Prescription Drug Account, depending on the product. The section also defines the term "biosimilar biological product" and makes other conforming amendments.  The Social Security Act is amended by adding a new chapter on designated drugs during noncompliance periods. This chapter imposes a tax on the sale of any designated drug during a day when the manufacturer does not have an agreement in place with the Secretary of Health and Human Services.  The Affordable Care Act establishes a process for setting maximum fair prices for certain designated drugs. This process applies to drugs that are selected for renegotiation by the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes the maximum fair price for a biological product and the amount of the rebate for such product. The fair price is increased as described in section 1195(b)(1)(A), and the number of units of the product is increased as well. If the product qualifies as a long-monopoly drug, the amount of the rebate is increased by 65 percent.

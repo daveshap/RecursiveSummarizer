@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Reconciliation Act of 1986 (42 U.S.C. 14 7178(a)) shall not apply to the costs incurred by the Federal 15 Energy Regulatory Commission in carrying out this sec16 tion. 17 SEC. 50303. DEPARTMENT OF THE INTERIOR. 18 In addition to amounts otherwise available, there is 19 appropriated to the Secretary of the Interior for fiscal year 20 2022, out of any money in the Treasury not otherwise ap21 propriated, $150,000,000, to remain available through Sep22 tember 30, 2026, to provide for the hiring and training of 23 personnel, the development of programmatic environmental 24 documents, the procurement of technical or scientific serv25 ices for environmental reviews, the development of environ- 659  HR 5376 EAS 1 mental data or information systems, stakeholder and com2 munity engagement, and the purchase of new equipment for 3 environmental analysis to facilitate timely and efficient en4 vironmental reviews and authorizations by the National 5 Park Service, the Bureau of Land Management, the Bureau 6 of Ocean Energy Management, the Bureau of Reclamation, 7 the Bureau of Safety and Environmental Enforcement, and 8 the Office of Surface Mining Reclamation and Enforcement. 9 TITLE VICOMMITTEE ON ENVI10 RONMENT AND PUBLIC 11 WORKS 12 Subtitle AAir Pollution 13 SEC. 60101. CLEAN HEAVY-DUTY VEHICLES. 14 The Clean Air Act is amended by inserting after sec15 tion 131 of such Act (42 U.S.C. 7431) the following: 16 SEC. 132. CLEAN HEAVY-DUTY VEHICLES. 17 (a) APPROPRIATIONS. 18 (1) IN GENERAL.In addition to amounts oth19 erwise available, there is appropriated to the Admin20 istrator for fiscal year 2022, out of any money in the 21 Treasury not otherwise appropriated, $600,000,000, 22 to remain available until September 30, 2031, to 23 carry out this section. 24 (2) NONATTAINMENT AREAS.In addition to 25 amounts otherwise available, there is appropriated to 660  HR 5376 EAS 1 the Administrator for fiscal year 2022, out of any 2 money in the Treasury not otherwise
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Reconciliation Act of 1986 shall not apply to the costs incurred by the Federal Energy Regulatory Commission in carrying out this section. This section appropriates $600,000,000 to the Administrator for fiscal year 2022, to be used for clean heavy-duty vehicle programs.

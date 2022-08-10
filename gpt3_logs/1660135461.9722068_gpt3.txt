@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the taxpayer 9 (I) is registered as a producer of 10 clean fuel under section 4101 at the 11 time of production, and 12 (II) in the case of any transpor13 tation fuel which is a sustainable avia14 tion fuel, provides 15 (aa) certification (in such 16 form and manner as the Secretary 17 shall prescribe) from an unrelated 18 party demonstrating compliance 19 with 20 (AA) any general re21 quirements, supply chain 22 traceability requirements, 23 and information trans24 mission requirements estab25 lished under the Carbon Off- 501  HR 5376 EAS 1 setting and Reduction 2 Scheme for International 3 Aviation described in sub4 clause (I) of subsection 5 (b)(1)(B)(iii), or 6 (BB) in the case of 7 any methodology described in 8 subclause (II) of such sub9 section, requirements similar 10 to the requirements described 11 in subitem (AA), and 12 (bb) such other information 13 with respect to such fuel as the 14 Secretary may require for pur15 poses of carrying out this section, 16 and 17 (ii) such fuel is produced in the 18 United States. 19 (B) UNITED STATES.For purposes of this 20 paragraph, the term United States includes any 21 possession of the United States. 22 (2) PRODUCTION ATTRIBUTABLE TO THE TAX23 PAYER.In the case of a facility in which more than 24 1 person has an ownership interest, except to the ex25 tent provided in regulations prescribed by the Sec- 502  HR 5376 EAS 1 retary, production from the facility shall be allocated 2 among such persons in proportion to their respective 3 ownership interests in the gross sales from such facil4 ity. 5 (3) RELATED PERSONS.Persons shall be treat6 ed as related to each other if such persons would be 7 treated as a single employer under the regulations 8 prescribed under section 52(b). In the case of a cor9 poration which is a member of an affiliated group of 10 corporations filing a consolidated return, such cor11 poration shall be treated as selling fuel to an unre12 lated person if such fuel is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Taxpayer Relief Act of 1997 created a tax credit for the production of clean fuel. To be eligible for the credit, the taxpayer must be registered as a producer of clean fuel at the time of production and must provide certification from an unrelated party demonstrating compliance with requirements similar to those established under the Carbon Offsetting and Reduction Scheme for International Aviation. The fuel must also be produced in the United States.

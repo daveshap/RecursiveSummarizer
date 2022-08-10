@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+property. The amount of the tax credit for qualified alternative fuel vehicle refueling property is increased to five times the original amount, if the project meets certain requirements. These requirements include that the project must begin construction before a specified date, and that all laborers and mechanics employed on the project must be paid prevailing wages. The rules in this section apply to property placed in service after December 31, 2022. The purpose of this section is to provide for investment in clean energy manufacturing and construction projects.  This section of the tax code provides for a tax credit for certain heavy duty electric or fuel cell vehicles, hybrid vehicles, and associated charging or refueling infrastructure. It also provides for a tax credit for re-equipping an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions.  The Energy Improvement and Extension Act of 2008 provides for a tax credit for certain renewable energy components, including wind energy components, inverters, and battery cells and modules. The credit is phased out after December 31, 2029. The Credit for Renewable Energy Investments Act of 2009 allows a credit for solar energy investments. The credit is available for inverters, central inverters, commercial inverters, distributed wind inverters, and microinverters. The Solar Energy Component Tax Credit is a tax credit for solar energy components used in residential or commercial solar energy systems. The credit is for up to 30% of the cost of the solar energy components, and is capped at $2,000.  This passage defines the terms "solar module," "solar grade polysilicon," and "solar tracker," and lists the six critical minerals necessary for the production of batteries. It also allows for the import of certain metals and alloys, provided that they are purified to a minimum purity of 99 percent by mass.  This section of the bill establishes that certain minerals are eligible for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the tax code provides for a tax credit for certain heavy duty electric or fuel cell vehicles, hybrid vehicles, and associated charging or refueling infrastructure. It also provides for a tax credit for re-equipping an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions.

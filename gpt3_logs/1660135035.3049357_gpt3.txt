@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+regulations or other guidance 17 as the Secretary determines necessary to carry out the 18 purposes of this subsection, including regulations or 19 other guidance which provides for requirements for 20 recordkeeping or information reporting for purposes 21 of administering the requirements of this subsection. 22 (e) TERMINATION.This section shall not apply to 23 taxable years beginning after December 31, 2032.. 24 (b) CONFORMING AMENDMENTS. 25 (1) Section 38(b) is amended 311  HR 5376 EAS 1 (A) in paragraph (32), by striking plus 2 at the end, 3 (B) in paragraph (33), by striking the pe4 riod at the end and inserting , plus, and 5 (C) by adding at the end the following new 6 paragraph: 7 (34) the zero-emission nuclear power production 8 credit determined under section 45U(a).. 9 (2) The table of sections for subpart D of part 10 IV of subchapter A of chapter 1 is amended by adding 11 at the end the following new item: Sec. 45U. Zero-emission nuclear power production credit.. 12 (c) EFFECTIVE DATE.This section shall apply to 13 electricity produced and sold after December 31, 2023, in 14 taxable years beginning after such date. 15 PART 2CLEAN FUELS 16 SEC. 13201. EXTENSION OF INCENTIVES FOR BIODIESEL, 17 RENEWABLE DIESEL AND ALTERNATIVE 18 FUELS. 19 (a) BIODIESEL AND RENEWABLE DIESEL CREDIT. 20 Section 40A(g) is amended by striking December 31, 21 2022 and inserting December 31, 2024. 22 (b) BIODIESEL MIXTURE CREDIT. 23 (1) IN GENERAL.Section 6426(c)(6) is amend24 ed by striking December 31, 2022 and inserting 25 December 31, 2024. 312  HR 5376 EAS 1 (2) FUELS NOT USED FOR TAXABLE PUR2 POSES.Section 6427(e)(6)(B) is amended by strik3 ing December 31, 2022 and inserting December 4 31, 2024. 5 (c) ALTERNATIVE FUEL CREDIT.Section 6426(d)(5) 6 is amended by striking December 31, 2021 and inserting 7 December 31, 2024. 8 (d) ALTERNATIVE FUEL MIXTURE CREDIT.Section 9 6426(e)(3) is amended by striking
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section extends the incentives for biodiesel, renewable diesel and alternative fuels through 2024.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+30D(d), respectively. 3 (d) VIN NUMBER REQUIREMENT.No credit shall be 4 allowed under subsection (a) with respect to any vehicle un5 less the taxpayer includes the vehicle identification number 6 of such vehicle on the return of tax for the taxable year. 7 (e) APPLICATION OF CERTAIN RULES.For purposes 8 of this section, rules similar to the rules of section 30D(f) 9 (without regard to paragraph (10) or (11) thereof) shall 10 apply for purposes of this section. 11 (f) TERMINATION.No credit shall be allowed under 12 this section with respect to any vehicle acquired after De13 cember 31, 2032.. 14 (b) TRANSFER OF CREDIT.Section 25E, as added by 15 subsection (a), is amended 16 (1) by redesignating subsection (f) as subsection 17 (g), and 18 (2) by inserting after subsection (e) the following: 19 (f) TRANSFER OF CREDIT.Rules similar to the rules 20 of section 30D(g) shall apply.. 21 (c) CONFORMING AMENDMENTS.Section 6213(g)(2), 22 as amended by the preceding provisions of this Act, is 23 amended 24 (1) in subparagraph (S), by striking and at 25 the end, 399  HR 5376 EAS 1 (2) in subparagraph (T), by striking the period 2 at the end and inserting , and, and 3 (3) by inserting after subparagraph (T) the fol4 lowing: 5 (U) an omission of a correct vehicle identi6 fication number required under section 25E(d) 7 (relating to credit for previously-owned clean ve8 hicles) to be included on a return.. 9 (d) CLERICAL AMENDMENT.The table of sections for 10 subpart A of part IV of subchapter A of chapter 1 is amend11 ed by inserting after the item relating to section 25D the 12 following new item: Sec. 25E. Previously-owned clean vehicles.. 13 (e) EFFECTIVE DATE. 14 (1) IN GENERAL.Except as provided in para15 graph (2), the amendments made by this section shall 16 apply to vehicles acquired after December 31, 2022. 17 (2) TRANSFER OF CREDIT.The amendments 18 made by subsection (b) shall apply to vehicles ac19 quired after December 31, 2023.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Internal Revenue Code to allow a tax credit for previously-owned clean vehicles. The credit is equal to the lesser of $2,500 or 10 percent of the cost of the vehicle. The credit is available for vehicles acquired after December 31, 2022, and is not available for vehicles acquired after December 31, 2032.

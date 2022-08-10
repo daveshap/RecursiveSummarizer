@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+funds will be used for administrative expenses and technical assistance.  The Department of Energy will award grants to states and Indian tribes to establish a high-efficiency electric home rebate program. Under the program, eligible entities will be able to receive rebates for qualified electrification projects, such as the purchase of a heat pump water heater or an electric stove.  This section provides for rebates for the purchase of high-efficiency electric home appliances and upgrades to non-appliance electrification projects. The maximum rebate is $14,000.  This section outlines the requirements for an eligible entity to receive a rebate for installing a qualified electrification project. The rebate may not exceed $500 and must be used to discount the amount charged by the eligible entity to the household on behalf of which the qualified electrification project is carried out. Activities carried out by a State energy office using a grant provided under the program are not subject to the expenditure prohibitions and limitations described in section 420.18 of title 10, Code of Federal Regulations.  The energy office or Indian Tribe under a high-efficiency electric home rebate program may not be combined with any other Federal grant or rebate for the same qualified electrification project. A State energy office or Indian Tribe that receives a grant under the program shall use not more than 20 percent of the grant amount for planning, administration, or technical assistance relating to a high-efficiency electric home rebate program.  The Department of Energy will provide $200 million in grants over the next ten years to states for training programs for contractors in home energy efficiency. The goal is to improve the quality of work performed and to increase the number of qualified workers in the field.  This section provides funding for training contractors involved in the installation of home energy efficiency and electrification improvements, as part of an
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy will award grants to states and Indian tribes to establish a high-efficiency electric home rebate program. Under the program, eligible entities will be able to receive rebates for qualified electrification projects, such as the purchase of a heat pump water heater or an electric stove. The maximum rebate is $14,000. This section also provides funding for training contractors involved in the installation of home energy efficiency and electrification improvements.

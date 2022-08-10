@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+than, during the 3 period beginning on June 1, 2022, and end4 ing on May 31, 2023, $200,000,000; 5 (ii) with respect to initial price ap6 plicability year 2027, is less than, during 7 the most recent 12-month period applicable 8 under subparagraphs (A) and (B) of sub9 section (d)(1) for such year, the dollar 10 amount specified in clause (i) increased by 11 the annual percentage increase in the con12 sumer price index for all urban consumers 13 (all items; United States city average) for 14 the period beginning on June 1, 2023, and 15 ending on September 30, 2024; or 16 (iii) with respect to a subsequent ini17 tial price applicability year, is less than, 18 during the most recent 12-month period ap19 plicable under subparagraphs (A) and (B) 20 of subsection (d)(1) for such year, the dollar 21 amount specified in this subparagraph for 22 the previous initial price applicability year 23 increased by the annual percentage increase 24 in such consumer price index for the 12- 25 month period ending on September 30 of the 62  HR 5376 EAS 1 year prior to the year of the selected drug 2 publication date with respect to such subse3 quent initial price applicability year. 4 (C) PLASMA-DERIVED PRODUCTS.A bio5 logical product that is derived from human 6 whole blood or plasma. 7 SEC. 1193. MANUFACTURER AGREEMENTS. 8 (a) IN GENERAL.For purposes of section 9 1191(a)(2), the Secretary shall enter into agreements with 10 manufacturers of selected drugs with respect to a price ap11 plicability period, by not later than February 28 following 12 the selected drug publication date with respect to such se13 lected drug, under which 14 (1) during the negotiation period for the initial 15 price applicability year for the selected drug, the Sec16 retary and the manufacturer, in accordance with sec17 tion 1194, negotiate to determine (and, by not later 18 than the last date of such period, agree to) a max19 imum fair price for such selected drug of the manu20 facturer in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Health and Human Services will enter into agreements with manufacturers of selected drugs, in order to negotiate a maximum fair price for the drug. The agreement will be for the initial price applicability year for the selected drug. If a manufacturer does not agree to the maximum fair price, the manufacturer will be required to pay a rebate to the Department.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+determination of whether a drug is a part D rebatable drug under this section. (3) The calculation of the rebate amount under this section.  The Consumer Price Index for all urban consumers in the United States will increase by the specified amount for the 12-month period beginning with October of 2023. This amount will be increased by the percentage increase in the Consumer Price Index for all urban consumers for the 12-month period beginning with October of the previous period. Any dollar amount specified that is not a multiple of $10 will be rounded to the nearest multiple of $10.  This section establishes a new rebate program for Part D drugs, to be implemented in 2022, 2023, and 2024. Under the program, manufacturers of Part D drugs will be required to pay rebates to the Secretary if the price of the drug increases faster than inflation.  This section amends the Social Security Act to include rebates from prescription drug manufacturers as part of the calculation for Medicaid reimbursement rates. It also excludes these rebates from the calculation of the Average Manufacturer Price (AMP). Finally, it appropriates $80 million for fiscal year 2022 to carry out these provisions.  This section amends section 1860D2(b) of the Social Security Act to redesign the Medicare Part D benefit structure for years preceding 2025. The annual deductible and out-of-pocket threshold will be increased for 2025 and each subsequent year.  This section of the bill redesignates items in the matter preceding item (aa) as items (I) and (II), respectively, and moves the margin of each such redesignated item 2 ems to the right. It also redesignates clause (i)(I) as clause (i)(I)(aa) and adds a new sentence at the end of clause (ii). For 2024 and each succeeding year, the dollar amount specified in clause (i)(I)(aa) will be $0.  The Social Security Act is amended to include a new section on prescription drug costs. For years 2025 and beyond, the amount of allowable reinsurance costs will be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill redesignates items in the matter preceding item (aa) as items (I) and (II), respectively, and moves the margin of each such redesignated item 2 ems to the right. It also redesignates clause (i)(I) as clause (i)(I)(aa) and adds a new sentence at the end of clause (ii). For 2024 and each succeeding year, the dollar amount specified in clause (i)(I)(aa) will be $0. The Social Security Act is amended to include a new section on prescription drug costs. For years 2025 and beyond, the amount of allowable reinsurance costs will be increased by the specified amount for the 12-month period beginning with October of 2023. This amount will be increased by the percentage increase in the Consumer Price Index for all urban consumers for the 12-month period beginning with October of the previous period. Any dollar amount specified that is not a multiple of $10 will be rounded to the nearest multiple of $10.

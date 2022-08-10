@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+requirements. If the project is placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid.  The amendment modifies section 48C of the tax code, relating to the disclosure of allocations for tax credits for certain investments in advanced energy projects. The amendment requires the Secretary of the Treasury to publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant when making a certification under subsection (e).  This section amends the Internal Revenue Code to provide for a tax credit for certain heavy duty electric or fuel cell vehicles, hybrid vehicles, and associated charging or refueling infrastructure. It also amends the Code to provide for a tax credit for re-equipping an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions.  This section establishes the advanced manufacturing production credit for taxable years beginning on or after January 1, 2023. The credit is equal to the sum of the credit amounts determined under subsection (b) with respect to each eligible component which is produced by the taxpayer and sold to an unrelated person. The production and sale of the components must be in a trade or business of the taxpayer. The credit amount is determined based on the cost of labor and materials incurred by the taxpayer in producing the component, as well as the taxpayer's investment in qualifying advanced manufacturing property.  The production tax credit for renewable energy is equal to the product of (A) 4 cents, multiplied by the capacity of the cell (on a per direct current watt basis), (B) $12 per square meter for a photovoltaic wafer, (C) $3 per kilogram for solar grade polysilicon, (D) 40 cents per square meter for a polymeric backsheet, (E) 7 cents multiplied by the capacity of the module (on a per direct current watt basis) for a solar
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the tax code provides for a tax credit for certain heavy duty electric or fuel cell vehicles, hybrid vehicles, and associated charging or refueling infrastructure. It also provides for a tax credit for re-equipping an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions.

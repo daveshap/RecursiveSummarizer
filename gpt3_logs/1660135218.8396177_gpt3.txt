@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ENERGY SECURITY 13 SEC. 13501. EXTENSION OF THE ADVANCED ENERGY 14 PROJECT CREDIT. 15 (a) EXTENSION OF CREDIT.Section 48C is amended 16 by redesignating subsection (e) as subsection (f) and by in17 serting after subsection (d) the following new subsection: 18 (e) ADDITIONAL ALLOCATIONS. 19 (1) IN GENERAL.Not later than 180 days 20 after the date of enactment of this subsection, the Sec21 retary shall establish a program to consider and 22 award certifications for qualified investments eligible 23 for credits under this section to qualifying advanced 24 energy project sponsors. 413  HR 5376 EAS 1 (2) LIMITATION.The total amount of credits 2 which may be allocated under the program established 3 under paragraph (1) shall not exceed 4 $10,000,000,000, of which not greater than 5 $6,000,000,000 may be allocated to qualified invest6 ments which are not located within a census tract 7 which 8 (A) is described in clause (iii) of section 9 45(b)(11)(B), and 10 (B) prior to the date of enactment of this 11 subsection, had no project which received a cer12 tification and allocation of credits under sub13 section (d). 14 (3) CERTIFICATIONS. 15 (A) APPLICATION REQUIREMENT.Each 16 applicant for certification under this subsection 17 shall submit an application at such time and 18 containing such information as the Secretary 19 may require. 20 (B) TIME TO MEET CRITERIA FOR CER21 TIFICATION.Each applicant for certification 22 shall have 2 years from the date of acceptance by 23 the Secretary of the application during which to 24 provide to the Secretary evidence that the re25 quirements of the certification have been met. 414  HR 5376 EAS 1 (C) PERIOD OF ISSUANCE.An applicant 2 which receives a certification shall have 2 years 3 from the date of issuance of the certification in 4 order to place the project in service and to notify 5 the Secretary that such project has been so placed 6 in service, and if such project is not placed in 7 service by that
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Security Act extends the Advanced Energy Project credit and establishes a program to award certifications for qualified investments eligible for the credit. The total amount of credits which may be allocated under the program shall not exceed $10,000,000,000, of which not greater than $6,000,000,000 may be allocated to qualified investments which are not located within a census tract that had no project which received a certification and allocation of credits under the program prior to the date of enactment of the Act.

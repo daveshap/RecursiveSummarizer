@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+1128A(a). 10 SEC. 1198. LIMITATION ON ADMINISTRATIVE AND JUDI11 CIAL REVIEW. 12 There shall be no administrative or judicial review 13 of any of the following: 14 (1) The determination of a unit, with respect to 15 a drug or biological product, pursuant to section 16 1191(c)(6). 17 (2) The selection of drugs under section 1192(b), 18 the determination of negotiation-eligible drugs under 19 section 1192(d), and the determination of qualifying 20 single source drugs under section 1192(e). 21 (3) The determination of a maximum fair price 22 under subsection (b) or (f) of section 1194. 23 (4) The determination of renegotiation-eligible 24 drugs under section 1194(f)(2) and the selection of re25 negotiation-eligible drugs under section 1194(f)(3).. 91  HR 5376 EAS 1 (b) APPLICATION OF MAXIMUM FAIR PRICES AND CON2 FORMING AMENDMENTS. 3 (1) UNDER MEDICARE. 4 (A) APPLICATION TO PAYMENTS UNDER 5 PART B.Section 1847A(b)(1)(B) of the Social 6 Security Act (42 U.S.C. 1395w3a(b)(1)(B)) is 7 amended by inserting or in the case of such a 8 drug or biological product that is a selected drug 9 (as referred to in section 1192(c)), with respect 10 to a price applicability period (as defined in sec11 tion 1191(b)(2)), 106 percent of the maximum 12 fair price (as defined in section 1191(c)(3)) ap13 plicable for such drug and a year during such 14 period after paragraph (4). 15 (B) APPLICATION UNDER MA OF COST16 SHARING FOR PART B DRUGS BASED OFF OF NE17 GOTIATED PRICE.Section 1852(a)(1)(B)(iv) of 18 the Social Security Act (42 U.S.C. 1395w 19 22(a)(1)(B)(iv)) is amended 20 (i) by redesignating subclause (VII) as 21 subclause (VIII); and 22 (ii) by inserting after subclause (VI) 23 the following subclause: 92  HR 5376 EAS 1 (VII) A drug or biological prod2 uct that is a selected drug (as referred 3 to in section 1192(c)).. 4 (C) EXCEPTION TO PART D NON-INTER5 FERENCE.Section 1860D11(i) of the Social 6 Security Act (42 U.S.C. 1395w111(i)) is 7
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill limits administrative and judicial review of certain determinations related to drug pricing, including the determination of a maximum fair price for a drug. The bill also applies the maximum fair price to payments under Medicare and Medicaid, and exempts certain drugs from the non-interference clause in the Medicare Part D program.

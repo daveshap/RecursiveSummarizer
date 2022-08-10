@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(C)(i) the construction, reconstruction, or 21 erection of which is completed by the taxpayer, 22 or 23 (ii) which is acquired by the taxpayer if 24 the original use of such property commences with 25 the taxpayer. 476  HR 5376 EAS 1 (3) QUALIFIED FACILITY. 2 (A) IN GENERAL.For purposes of this 3 section, the term qualified facility means a fa4 cility 5 (i) which is used for the generation of 6 electricity, 7 (ii) which is placed in service after 8 December 31, 2024, and 9 (iii) for which the anticipated green10 house gas emissions rate (as determined 11 under subparagraph (B)(ii)) is not greater 12 than zero. 13 (B) ADDITIONAL RULES. 14 (i) EXPANSION OF FACILITY; INCRE15 MENTAL PRODUCTION.Rules similar to the 16 rules of section 45Y(b)(1)(C) shall apply for 17 purposes of this paragraph. 18 (ii) GREENHOUSE GAS EMISSIONS 19 RATE.Rules similar to the rules of section 20 45Y(b)(2) shall apply for purposes of this 21 paragraph. 22 (C) EXCLUSION.The term qualified fa23 cility shall not include any facility for which 24 (i) a renewable electricity production 25 credit determined under section 45, 477  HR 5376 EAS 1 (ii) an advanced nuclear power facil2 ity production credit determined under sec3 tion 45J, 4 (iii) a carbon oxide sequestration 5 credit determined under section 45Q, 6 (iv) a zero-emission nuclear power 7 production credit determined under section 8 45U, 9 (v) a clean electricity production 10 credit determined under section 45Y, 11 (vi) an energy credit determined 12 under section 48, or 13 (vii) a qualifying advanced coal 14 project credit under section 48A, 15 is allowed under section 38 for the taxable year 16 or any prior taxable year. 17 (4) QUALIFIED INTERCONNECTION PROPERTY. 18 For purposes of this paragraph, the term qualified 19 interconnection property has the meaning given such 20 term in section 48(a)(8)(B). 21 (5) COORDINATION WITH REHABILITATION 22 CREDIT.The qualified investment with
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The qualified investment with respect to any qualified facility shall not be less than the sum of: (1) the credit allowable under section 48 for such facility for the taxable year; and (2) the credit allowable under this section for such facility for the taxable year.

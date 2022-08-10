@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+with respect to such drug that is equal to 10 percent of the 7 negotiated price (as defined in section 1860D14C(g)(6)) 8 of such drug.. 9 (2) SUNSET OF MEDICARE COVERAGE GAP DIS10 COUNT PROGRAM.Section 1860D14A of the Social 11 Security Act (42 U.S.C. 1395w114a) is amended 12 (A) in subsection (a), in the first sentence, 13 by striking The Secretary and inserting Sub14 ject to subsection (h), the Secretary; and 15 (B) by adding at the end the following new 16 subsection: 17 (h) SUNSET OF PROGRAM. 18 (1) IN GENERAL.The program shall not apply 19 with respect to applicable drugs dispensed on or after 20 January 1, 2025, and, subject to paragraph (2), 21 agreements under this section shall be terminated as 22 of such date. 23 (2) CONTINUED APPLICATION FOR APPLICABLE 24 DRUGS DISPENSED PRIOR TO SUNSET.The provi25 sions of this section (including all responsibilities and 193  HR 5376 EAS 1 duties) shall continue to apply on and after January 2 1, 2025, with respect to applicable drugs dispensed 3 prior to such date.. 4 (3) SELECTED DRUG SUBSIDY PAYMENTS FROM 5 MEDICARE PRESCRIPTION DRUG ACCOUNT.Section 6 1860D16(b)(1) of the Social Security Act (42 U.S.C. 7 1395w116(b)(1)) is amended 8 (A) in subparagraph (C), by striking and 9 at the end; 10 (B) in subparagraph (D), by striking the 11 period at the end and inserting ; and; and 12 (C) by adding at the end the following new 13 subparagraph: 14 (E) payments under section 1860D14D 15 (relating to selected drug subsidy payments).. 16 (d) MEDICARE PART D PREMIUM STABILIZATION. 17 (1) 2024 THROUGH 2029.Section 1860D13 of 18 the Social Security Act (42 U.S.C. 1395w113) is 19 amended 20 (A) in subsection (a) 21 (i) in paragraph (1)(A), by inserting 22 or (8) (as applicable) after paragraph 23 (2); 24 (ii) in paragraph (2), in the matter 25 preceding subparagraph (A), by striking 194  HR 5376 EAS 1 The base and inserting Subject to para2 graph (8), the base; 3
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Medicare Coverage Gap Discount Program is set to expire on January 1, 2025. The program provided discounts on drugs for Medicare recipients. After the expiration, agreements under the program will also be terminated.

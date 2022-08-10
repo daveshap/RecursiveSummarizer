@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+defined in section 17 6417(b)) 18 (A) this section shall be applied separately 19 from the business credit (other than the applica20 ble credit), 21 (B) paragraph (1) shall be applied by sub22 stituting each of the 3 taxable years for the 23 taxable year in subparagraph (A) thereof, and 24 (C) paragraph (2) shall be applied 532  HR 5376 EAS 1 (i) by substituting 23 taxable years 2 for 21 taxable years in subparagraph (A) 3 thereof, and 4 (ii) by substituting 22 taxable years 5 for 20 taxable years in subparagraph (B) 6 thereof.. 7 (e) CLERICAL AMENDMENT.The table of sections for 8 subchapter B of chapter 65 is amended by inserting after 9 the item relating to section 6416 the following new items: Sec. 6417. Elective payment of applicable credits. Sec. 6418. Transfer of certain credits.. 10 (f) GROSS-UP OF DIRECT SPENDING.Beginning in 11 fiscal year 2023 and each fiscal year thereafter, the portion 12 of any payment made to a taxpayer pursuant to an election 13 under section 6417 of the Internal Revenue Code of 1986, 14 or any amount treated as a payment which is made by 15 the taxpayer under subsection (a) of such section, that is 16 direct spending shall be increased by 6.0445 percent. 17 (g) EFFECTIVE DATE.The amendments made by this 18 section shall apply to taxable years beginning after Decem19 ber 31, 2022. 20 SEC. 13802. APPROPRIATIONS. 21 Immediately upon the enactment of this Act, in addi22 tion to amounts otherwise available, there are appropriated 23 for fiscal year 2022, out of any money in the Treasury not 24 otherwise appropriated, $500,000,000 to remain available 533  HR 5376 EAS 1 until September 30, 2031, for necessary expenses for the In2 ternal Revenue Service to carry out this subtitle (and the 3 amendments made by this subtitle), which shall supplement 4 and not supplant any other appropriations that may be 5 available for this purpose. 6 PART 9OTHER PROVISIONS 7 SEC. 13901. PERMANENT EXTENSION OF TAX RATE TO
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section extends the tax rate for certain taxpayers to taxable years beginning after December 31, 2021.

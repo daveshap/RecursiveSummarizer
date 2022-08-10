@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+patrons during the payment period 18 described in section 1382(d). 19 (B) TREATMENT OF ORGANIZATIONS AND 20 PATRONS.The amount of the credit apportioned 21 to any patrons under subparagraph (A) 22 (i) shall not be included in the 23 amount determined under subsection (a) 24 with respect to the organization for the tax25 able year, and 462  HR 5376 EAS 1 (ii) shall be included in the amount 2 determined under subsection (a) for the first 3 taxable year of each patron ending on or 4 after the last day of the payment period (as 5 defined in section 1382(d)) for the taxable 6 year of the organization or, if earlier, for 7 the taxable year of each patron ending on 8 or after the date on which the patron re9 ceives notice from the cooperative of the ap10 portionment. 11 (C) SPECIAL RULES FOR DECREASE IN 12 CREDITS FOR TAXABLE YEAR.If the amount of 13 the credit of a cooperative organization deter14 mined under subsection (a) for a taxable year is 15 less than the amount of such credit shown on the 16 return of the cooperative organization for such 17 year, an amount equal to the excess of 18 (i) such reduction, over 19 (ii) the amount not apportioned to 20 such patrons under subparagraph (A) for 21 the taxable year, 22 shall be treated as an increase in tax imposed by 23 this chapter on the organization. Such increase 24 shall not be treated as tax imposed by this chap- 463  HR 5376 EAS 1 ter for purposes of determining the amount of 2 any credit under this chapter. 3 (D) ELIGIBLE COOPERATIVE DEFINED. 4 For purposes of this section, the term eligible co5 operative means a cooperative organization de6 scribed in section 1381(a) which is owned more 7 than 50 percent by agricultural producers or by 8 entities owned by agricultural producers. For 9 this purpose an entity owned by an agricultural 10 producer is one that is more than 50 percent 11 owned by agricultural producers. 12 (7) INCREASE IN CREDIT IN ENERGY COMMU13 NITIES.In the case of any
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section deals with the treatment of cooperative organizations and their patrons for purposes of the tax credit for renewable energy facilities. Specifically, it provides that the amount of the credit apportioned to any patrons of an eligible cooperative shall not be included in the amount of the credit determined for the organization, and shall instead be included in the patron's own tax return. In addition, if the amount of the credit determined for a cooperative organization is less than the amount shown on the organization's return, the difference will be treated as an increase in tax imposed on the organization.

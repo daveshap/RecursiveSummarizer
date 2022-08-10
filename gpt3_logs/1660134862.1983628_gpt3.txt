@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+coverage with respect to 21 an enrollee who has made an election pursuant to 22 clause (i) of subsection (b)(2)(E) under the option 23 provided under such subsection.. 24 (c) IMPLEMENTATION FOR 2025.The Secretary shall 25 implement this section, including the amendments made by 213  HR 5376 EAS 1 this section, for 2025 by program instruction or other forms 2 of program guidance. 3 (d) FUNDING.In addition to amounts otherwise 4 available, there are appropriated to the Centers for Medi5 care & Medicaid Services, out of any money in the Treasury 6 not otherwise appropriated, $10,000,000 for fiscal year 7 2023, to remain available until expended, to carry out the 8 provisions of, including the amendments made by, this sec9 tion. 10 PART 4CONTINUED DELAY OF IMPLEMENTA11 TION OF PRESCRIPTION DRUG REBATE RULE 12 SEC. 11301. EXTENSION OF MORATORIUM ON IMPLEMENTA13 TION OF RULE RELATING TO ELIMINATING 14 THE ANTI-KICKBACK STATUTE SAFE HARBOR 15 PROTECTION FOR PRESCRIPTION DRUG RE16 BATES. 17 The Secretary of Health and Human Services shall 18 not, prior to January 1, 2032, implement, administer, or 19 enforce the provisions of the final rule published by the Of20 fice of the Inspector General of the Department of Health 21 and Human Services on November 30, 2020, and titled 22 Fraud and Abuse; Removal of Safe Harbor Protection for 23 Rebates Involving Prescription Pharmaceuticals and Cre24 ation of New Safe Harbor Protection for Certain Point-of25 Sale Reductions in Price on Prescription Pharmaceuticals 214  HR 5376 EAS 1 and Certain Pharmacy Benefit Manager Service Fees (85 2 Fed. Reg. 76666). 3 PART 5MISCELLANEOUS 4 SEC. 11401. COVERAGE OF ADULT VACCINES REC5 OMMENDED BY THE ADVISORY COMMITTEE 6 ON IMMUNIZATION PRACTICES UNDER MEDI7 CARE PART D. 8 (a) ENSURING TREATMENT OF COST-SHARING AND 9 DEDUCTIBLE IS CONSISTENT WITH TREATMENT OF VAC10 CINES UNDER MEDICARE PART B.Section 1860D2 of the 11 Social Security Act (42 U.S.C. 1395w102), as amended 12 by sections
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill delays the implementation of a rule that would have eliminated the safe harbor protection for prescription drug rebates. It also appropriates $10 million for the Centers for Medicare and Medicaid Services to carry out the provisions of the bill. Finally, it requires Medicare Part D plans to cover adult vaccines recommended by the Advisory Committee on Immunization Practices.

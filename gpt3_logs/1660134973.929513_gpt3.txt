@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+taxable year in 3 which the energy project is placed in service, the 4 taxpayer shall be deemed to satisfy the require5 ment under clause (ii) at the time such project 6 is placed in service. 7 (B) CORRECTION AND PENALTY RELATED 8 TO FAILURE TO SATISFY WAGE REQUIRE9 MENTS.Rules similar to the rules of section 10 45(b)(7)(B) shall apply. 11 (C) RECAPTURE.The Secretary shall, by 12 regulations or other guidance, provide for recap13 turing the benefit of any increase in the credit 14 allowed under this subsection by reason of this 15 paragraph with respect to any project which does 16 not satisfy the requirements under subparagraph 17 (A) (after application of subparagraph (B)) for 18 the period described in clause (ii) of subpara19 graph (A) (but which does not cease to be invest20 ment credit property within the meaning of sec21 tion 50(a)). The period and percentage of such 22 recapture shall be determined under rules simi23 lar to the rules of section 50(a). 24 (11) APPRENTICESHIP REQUIREMENTS.Rules 25 similar to the rules of section 45(b)(8) shall apply.. 280  HR 5376 EAS 1 (l) DOMESTIC CONTENT; PHASEOUT FOR ELECTIVE 2 PAYMENT.Section 48(a), as amended by the preceding 3 provisions of this Act, is amended by adding at the end 4 the following new paragraphs: 5 (12) DOMESTIC CONTENT BONUS CREDIT 6 AMOUNT. 7 (A) IN GENERAL.In the case of any en8 ergy project which satisfies the requirement 9 under subparagraph (B), for purposes of apply10 ing paragraph (2) with respect to such property, 11 the energy percentage shall be increased by the 12 applicable credit rate increase. 13 (B) REQUIREMENT.Rules similar to the 14 rules of section 45(b)(9)(B) shall apply. 15 (C) APPLICABLE CREDIT RATE IN16 CREASE.For purposes of subparagraph (A), the 17 applicable credit rate increase shall be 18 (i) in the case of an energy project 19 which does not satisfy the requirements of 20 paragraph (9)(B), 2 percentage points, and 21 (ii) in the case of an
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The energy project tax credit is increased by 2 percentage points for projects that use domestic content, as determined by rules similar to the rules for the regular energy project tax credit.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+to remain 6 available until September 30, 2026, for the construction of 7 facilities to support the National Marine Sanctuary System 8 established under subsection (c) of section 301 of the Na9 tional Marine Sanctuaries Act (16 U.S.C. 1431(c)). 10 SEC. 40003. NOAA EFFICIENT AND EFFECTIVE REVIEWS. 11 In addition to amounts otherwise available, there is 12 appropriated to the National Oceanic and Atmospheric Ad13 ministration for fiscal year 2022, out of any money in the 14 Treasury not otherwise appropriated, $20,000,000, to re15 main available until September 30, 2026, to conduct more 16 efficient, accurate, and timely reviews for planning, permit17 ting and approval processes through the hiring and train18 ing of personnel, and the purchase of technical and sci19 entific services and new equipment, and to improve agency 20 transparency, accountability, and public engagement. 21 SEC. 40004. OCEANIC AND ATMOSPHERIC RESEARCH AND 22 FORECASTING FOR WEATHER AND CLIMATE. 23 (a) FORECASTING AND RESEARCH.In addition to 24 amounts otherwise available, there is appropriated to the 25 National Oceanic and Atmospheric Administration for fis- 575  HR 5376 EAS 1 cal year 2022, out of any money in the Treasury not other2 wise appropriated, $150,000,000, to remain available until 3 September 30, 2026, to accelerate advances and improve4 ments in research, observation systems, modeling, fore5 casting, assessments, and dissemination of information to 6 the public as it pertains to ocean and atmospheric processes 7 related to weather, coasts, oceans, and climate, and to carry 8 out section 102(a) of the Weather Research and Forecasting 9 Innovation Act of 2017 (15 U.S.C. 8512(a)), and for related 10 administrative expenses. 11 (b) RESEARCH GRANTS AND SCIENCE INFORMATION, 12 PRODUCTS, AND SERVICES.In addition to amounts other13 wise available, there are appropriated to the National Oce14 anic and Atmospheric Administration for fiscal year 2022, 15 out of any money in the Treasury
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides funding for the National Oceanic and Atmospheric Administration (NOAA) to conduct more efficient, accurate, and timely reviews for planning, permitting, and approval processes, as well as to improve agency transparency, accountability, and public engagement. Additionally, this section provides funding for NOAA to accelerate advances and improvements in research, observation systems, modeling, forecasting, assessments, and dissemination of information to the public as it pertains to ocean and atmospheric processes related to weather, coasts, oceans, and climate.

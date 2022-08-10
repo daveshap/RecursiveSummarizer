@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+price applicability year and each subsequent year. A selected drug is a drug that is approved or licensed under the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act and is marketed pursuant to such approval or licensure. A negotiation-eligible drug is a qualifying single source drug that is among the 50 highest spending drugs in Medicare Part D based on total cost per year.  This section of the bill establishes exceptions for small biotech drugs from the definition of "negotiation-eligible drug." A qualifying single source drug is not considered a negotiation-eligible drug if it meets either of the following criteria: (1) for Part D drugs, the total expenditures for the qualifying single source drug under Part D of title XVIII are equal to or less than 1 percent of the total expenditures under such Part D for all covered Part D drugs during the year; or (2) for Part B drugs, the total expenditures for the qualifying single source drug under Part B of title XVIII are equal to or less than 1 percent of the total expenditures under such Part B for all covered Part B drugs during the year.  This section of the bill clarifies that certain drugs will not be counted towards the total number of qualifying single source drugs for a manufacturer, and that the Secretary shall use data from the previous year to determine whether a manufacturer meets the requirements for selection.  The "Qualifying Single Source Drug" is a term used by the Centers for Medicare and Medicaid Services (CMS) to denote a covered Part D drug that meets any of the criteria described in paragraphs (1) or (2) of section 1860D-4(e) of the Social Security Act. A drug that meets the criteria in paragraph (1) is a drug that is approved by the FDA under section 505(c) of the Federal Food, Drug, and Cosmetic Act and has been on the market for at least seven years. A drug that meets the criteria in paragraph (2) is a biological product that is licensed by the FDA under section 351(a) of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes exceptions for small biotech drugs from the definition of "negotiation-eligible drug." A qualifying single source drug is not considered a negotiation-eligible drug if it meets either of the following criteria: (1) for Part D drugs, the total expenditures for the qualifying single source drug under Part D of title XVIII are equal to or less than 1 percent of the total expenditures under such Part D for all covered Part D drugs during the year; or (2) for Part B drugs, the total expenditures for the qualifying single source drug under Part B of title XVIII are equal to or less than 1 percent of the total expenditures under such Part B for all covered Part B drugs during the year.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+RECOMMENDED BY THE ADVISORY COMMITTEE 7 ON IMMUNIZATION PRACTICES DURING 2023. 8 (1) IN GENERAL.In addition to amounts oth9 erwise payable under this section to a PDP sponsor 10 of a prescription drug plan or an MA organization 11 offering an MAPD plan, for plan year 2023, the 12 Secretary shall provide the PDP sponsor or MA orga13 nization offering the plan subsidies in an amount 14 equal to the aggregate reduction in cost-sharing and 15 deductible by reason of the application of section 16 1860D2(b)(8) for individuals under the plan during 17 the year. 18 (2) TIMING.The Secretary shall provide a 19 subsidy under paragraph (1), as applicable, not later 20 than 18 months following the end of the applicable 21 plan year.. 22 (2) TREATMENT AS INCURRED COSTS.Section 23 1860D2(b)(4)(C)(iii)(I) of the Social Security Act 24 (42 U.S.C. 1395w102(b)(4)(C)(iii)(I)), as amended 25 by section 11201(a)(3)(C), is amended 219  HR 5376 EAS 1 (A) in item (cc), by striking or at the 2 end; and 3 (B) by adding at the end the following new 4 item: 5 (dd) under section 1860D 6 15(h); or. 7 (d) RULE OF CONSTRUCTION.Nothing in this section 8 shall be construed as limiting coverage under part D of title 9 XVIII of the Social Security Act for vaccines that are not 10 recommended by the Advisory Committee on Immunization 11 Practices. 12 (e) IMPLEMENTATION FOR 2023 THROUGH 2025.The 13 Secretary shall implement this section, including the 14 amendments made by this section, for 2023, 2024, and 15 2025, by program instruction or other forms of program 16 guidance. 17 SEC. 11402. PAYMENT FOR BIOSIMILAR BIOLOGICAL PROD18 UCTS DURING INITIAL PERIOD. 19 Section 1847A(c)(4) of the Social Security Act (42 20 U.S.C. 1395w3a(c)(4)) is amended 21 (1) in each of subparagraphs (A) and (B), by re22 designating clauses (i) and (ii) as subclauses (I) and 23 (II), respectively, and moving such subclauses 2 ems 24 to the right; 220  HR 5376 EAS 1 (2) by redesignating
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides for the payment of subsidies to prescription drug and Medicare Advantage plan sponsors in an amount equal to the aggregate reduction in cost-sharing and deductible by reason of the application of section 1860D2(b)(8) for individuals under the plan during the year. The subsidies shall be provided not later than 18 months following the end of the applicable plan year.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(iii) in paragraph (7) 4 (I) in subparagraph (B)(ii), by 5 inserting or (8) (as applicable) after 6 paragraph (2); and 7 (II) in subparagraph (E)(i), by 8 inserting or (8) (as applicable) after 9 paragraph (2); and 10 (iv) by adding at the end the following 11 new paragraph: 12 (8) PREMIUM STABILIZATION. 13 (A) IN GENERAL.The base beneficiary 14 premium under this paragraph for a prescrip15 tion drug plan for a month in 2024 through 16 2029 shall be computed as follows: 17 (i) 2024.The base beneficiary pre18 mium for a month in 2024 shall be equal 19 to the lesser of 20 (I) the base beneficiary premium 21 computed under paragraph (2) for a 22 month in 2023 increased by 6 percent; 23 or 24 (II) the base beneficiary pre25 mium computed under paragraph (2) 195  HR 5376 EAS 1 for a month in 2024 that would have 2 applied if this paragraph had not been 3 enacted. 4 (ii) 2025.The base beneficiary pre5 mium for a month in 2025 shall be equal 6 to the lesser of 7 (I) the base beneficiary premium 8 computed under clause (i) for a month 9 in 2024 increased by 6 percent; or 10 (II) the base beneficiary pre11 mium computed under paragraph (2) 12 for a month in 2025 that would have 13 applied if this paragraph had not been 14 enacted. 15 (iii) 2026.The base beneficiary pre16 mium for a month in 2026 shall be equal 17 to the lesser of 18 (I) the base beneficiary premium 19 computed under clause (ii) for a month 20 in 2025 increased by 6 percent; or 21 (II) the base beneficiary pre22 mium computed under paragraph (2) 23 for a month in 2026 that would have 24 applied if this paragraph had not been 25 enacted. 196  HR 5376 EAS 1 (iv) 2027.The base beneficiary pre2 mium for a month in 2027 shall be equal 3 to the lesser of 4 (I) the base beneficiary premium 5 computed under clause (iii) for a 6 month in 2026 increased by 6 percent; 7 or 8 (II) the base beneficiary pre9 mium computed under paragraph (2) 10 for a month in 2027
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes premium stabilization for prescription drug plans under Medicare from 2024-2029. The base beneficiary premium for a given year will be equal to the lesser of (1) the base beneficiary premium from the previous year increased by 6 percent, or (2) the base beneficiary premium that would have applied if this section had not been enacted.

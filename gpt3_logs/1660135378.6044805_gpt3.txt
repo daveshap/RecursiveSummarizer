@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+hour 23 of electricity, expressed as British thermal 24 units per net kilowatt hour generated. 460  HR 5376 EAS 1 (3) PRODUCTION ATTRIBUTABLE TO THE TAX2 PAYER.In the case of a qualified facility in which 3 more than 1 person has an ownership interest, except 4 to the extent provided in regulations prescribed by the 5 Secretary, production from the facility shall be allo6 cated among such persons in proportion to their re7 spective ownership interests in the gross sales from 8 such facility. 9 (4) RELATED PERSONS.Persons shall be treat10 ed as related to each other if such persons would be 11 treated as a single employer under the regulations 12 prescribed under section 52(b). In the case of a cor13 poration which is a member of an affiliated group of 14 corporations filing a consolidated return, such cor15 poration shall be treated as selling electricity to an 16 unrelated person if such electricity is sold to such a 17 person by another member of such group. 18 (5) PASS-THRU IN THE CASE OF ESTATES AND 19 TRUSTS.Under regulations prescribed by the Sec20 retary, rules similar to the rules of subsection (d) of 21 section 52 shall apply. 22 (6) ALLOCATION OF CREDIT TO PATRONS OF AG23 RICULTURAL COOPERATIVE. 24 (A) ELECTION TO ALLOCATE. 461  HR 5376 EAS 1 (i) IN GENERAL.In the case of an 2 eligible cooperative organization, any por3 tion of the credit determined under sub4 section (a) for the taxable year may, at the 5 election of the organization, be apportioned 6 among patrons of the organization on the 7 basis of the amount of business done by the 8 patrons during the taxable year. 9 (ii) FORM AND EFFECT OF ELEC10 TION.An election under clause (i) for any 11 taxable year shall be made on a timely filed 12 return for such year. Such election, once 13 made, shall be irrevocable for such taxable 14 year. Such election shall not take effect un15 less the organization designates the appor16 tionment as such in a written notice mailed 17 to its
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The credit for electricity production is apportioned among owners of the qualified facility in proportion to their ownership interests in the gross sales from the facility. If more than one person has an ownership interest in the facility, the production from the facility is allocated among such persons in proportion to their respective ownership interests.

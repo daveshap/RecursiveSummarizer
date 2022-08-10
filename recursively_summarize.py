@@ -48,12 +48,14 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=0.6, top_p=1.0, toke
 
 if __name__ == '__main__':
     alltext = open_file('input.txt')
-    chunks = textwrap.wrap(alltext, 3000)
+    chunks = textwrap.wrap(alltext, 2000)
     result = list()
+    count = 0
     for chunk in chunks:
+        count = count + 1
         prompt = open_file('prompt.txt').replace('<<SUMMARY>>', chunk)
         prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
         summary = gpt3_completion(prompt)
-        print('\n\n\n', summary)
+        print('\n\n\n', count, 'of', len(chunks), ' - ', summary)
         result.append(summary)
-    save_file('\n\n'.join(result), 'output.txt')
+    save_file('\n\n'.join(result), 'output_%s.txt' % time())

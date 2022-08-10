@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(cc) to connect segments of 11 torque tubes to one another. 12 (4) WIND ENERGY COMPONENT. 13 (A) IN GENERAL.The term wind energy 14 component means any of the following: 15 (i) Blades. 16 (ii) Nacelles. 17 (iii) Towers. 18 (iv) Offshore wind foundations. 19 (v) Related offshore wind vessels. 20 (B) ASSOCIATED DEFINITIONS. 21 (i) BLADE.The term blade means 22 an airfoil-shaped blade which is responsible 23 for converting wind energy to low-speed ro24 tational energy. 436  HR 5376 EAS 1 (ii) OFFSHORE WIND FOUNDATION. 2 The term offshore wind foundation means 3 the component (including transition piece) 4 which secures an offshore wind tower and 5 any above-water turbine components to the 6 seafloor using 7 (I) fixed platforms, such as off8 shore wind monopiles, jackets, or grav9 ity-based foundations, or 10 (II) floating platforms and asso11 ciated mooring systems. 12 (iii) NACELLE.The term nacelle 13 means the assembly of the drivetrain and 14 other tower-top components of a wind tur15 bine (with the exception of the blades and 16 the hub) within their cover housing. 17 (iv) RELATED OFFSHORE WIND VES18 SEL.The term related offshore wind ves19 sel means any vessel which is purpose-built 20 or retrofitted for purposes of the develop21 ment, transport, installation, operation, or 22 maintenance of offshore wind energy compo23 nents. 24 (v) TOWER.The term tower means 25 a tubular or lattice structure which sup- 437  HR 5376 EAS 1 ports the nacelle and rotor of a wind tur2 bine. 3 (5) QUALIFYING BATTERY COMPONENT. 4 (A) IN GENERAL.The term qualifying 5 battery component means any of the following: 6 (i) Electrode active materials. 7 (ii) Battery cells. 8 (iii) Battery modules. 9 (B) ASSOCIATED DEFINITIONS. 10 (i) ELECTRODE ACTIVE MATERIAL. 11 The term electrode active material means 12 cathode materials, anode materials, anode 13 foils, and electrochemically active materials, 14 including
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section defines the term "wind energy component" and provides a list of associated components. It also defines the term "qualifying battery component" and provides a list of associated components.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of this Act, incorporating the 8 assessment under paragraph (5). 9 (b) ADMINISTRATION OF FUNDS.Of the amounts 10 made available under subsection (a), the Administrator 11 shall reserve 2 percent for the administrative costs necessary 12 to carry out activities pursuant to that subsection. 13 (c) DEFINITION OF GREENHOUSE GAS.In this sec14 tion, the term greenhouse gas means the air pollutants car15 bon dioxide, hydrofluorocarbons, methane, nitrous oxide, 16 perfluorocarbons, and sulfur hexafluoride.. 17 SEC. 60108. FUNDING FOR SECTION 211(O) OF THE CLEAN 18 AIR ACT. 19 (a) TEST AND PROTOCOL DEVELOPMENT.In addi20 tion to amounts otherwise available, there is appropriated 21 to the Administrator of the Environmental Protection Agen22 cy for fiscal year 2022, out of any money in the Treasury 23 not otherwise appropriated, $5,000,000, to remain available 24 until September 30, 2031, to carry out section 211(o) of 25 the Clean Air Act (42 U.S.C. 7545(o)) with respect to 679  HR 5376 EAS 1 (1) the development and establishment of tests 2 and protocols regarding the environmental and public 3 health effects of a fuel or fuel additive; 4 (2) internal and extramural data collection and 5 analyses to regularly update applicable regulations, 6 guidance, and procedures for determining lifecycle 7 greenhouse gas emissions of a fuel; and 8 (3) the review, analysis, and evaluation of the 9 impacts of all transportation fuels, including fuel 10 lifecycle implications, on the general public and on 11 low-income and disadvantaged communities. 12 (b) INVESTMENTS IN ADVANCED BIOFUELS.In addi13 tion to amounts otherwise available, there is appropriated 14 to the Administrator of the Environmental Protection Agen15 cy for fiscal year 2022, out of any money in the Treasury 16 not otherwise appropriated, $10,000,000, to remain avail17 able until September 30, 2031, for new grants to industry 18 and other related activities under section 211(o) of the 19 Clean Air Act (42
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes appropriations for the Environmental Protection Agency to carry out activities related to the development and establishment of tests and protocols regarding the environmental and public health effects of a fuel or fuel additive, to regularly update applicable regulations, guidance, and procedures for determining lifecycle greenhouse gas emissions of a fuel, and to review, analyze, and evaluate the impacts of all transportation fuels, including fuel lifecycle implications, on the general public and on low-income and disadvantaged communities.

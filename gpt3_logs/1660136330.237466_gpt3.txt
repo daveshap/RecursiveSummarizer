@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+limitation on the deduction for state and local taxes for taxable years beginning after December 31, 2022. Finally, the Act extends the limitation on the excess business losses of noncorporate taxpayers through 2029.  This bill amends the Internal Revenue Code to extend the deduction for state and local taxes through 2027 and to allow adjusted financial statement income of corporations to be determined without regard to certain provisions of the code. Additionally, the bill appropriates funds to the Department of Agriculture for conservation programs.  This section of the bill authorizes $250 million for the conservation stewardship program for fiscal year 2023, $500 million for fiscal year 2024, $1 billion for fiscal year 2025, and $1.5 billion for fiscal year 2026. The funds may only be used for agricultural conservation practices, enhancements, or bundles that the Secretary determines directly improve soil carbon, reduce nitrogen losses, or reduce, capture, avoid, or sequester carbon dioxide, methane, or nitrous oxide emissions, associated with agricultural production.  This section authorizes funding for the Credit Corporation and the Commodity Credit Corporation to support conservation easements and regional conservation partnerships. Funds are authorized for fiscal years 2023-2026, and are to be used to support projects that improve soil carbon, reduce nitrogen losses, or reduce emissions of carbon dioxide, methane, or nitrous oxide.  This section amends the Food Security Act of 1985 to extend the Secretary's authority to make obligations initially under the Act through 2031. It also makes conforming amendments to various other sections of the Act.  The bill appropriates $1 billion for conservation technical assistance and $300 million for a program to quantify carbon sequestration and emissions of carbon dioxide, methane, and nitrous oxide. The funds are available until September 30, 2031, and are subject to the condition that no payments may be made after
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill extends the deduction for state and local taxes through 2027 and allows adjusted financial statement income of corporations to be determined without regard to certain provisions of the code. Additionally, the bill appropriates funds to the Department of Agriculture for conservation programs. This section of the bill authorizes funding for the Credit Corporation and the Commodity Credit Corporation to support conservation easements and regional conservation partnerships. The bill also appropriates $1 billion for conservation technical assistance and $300 million for a program to quantify carbon sequestration and emissions of carbon dioxide, methane, and nitrous oxide.

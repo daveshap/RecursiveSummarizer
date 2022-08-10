@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+which provides for requirements for recordkeeping or 20 information reporting for purposes of administering 21 the requirements of this subsection.. 22 (2) MODIFICATION OF EFFICIENCY STANDARD. 23 Section 179D(c)(1)(D) is amended by striking 50 24 percent and inserting 25 percent. 357  HR 5376 EAS 1 (3) REFERENCE STANDARD.Section 179D(c)(2) 2 is amended by striking the most recent and insert3 ing the following: the more recent of 4 (A) Standard 90.1-2007 published by the 5 American Society of Heating, Refrigerating, and 6 Air Conditioning Engineers and the Illu7 minating Engineering Society of North America, 8 or 9 (B) the most recent. 10 (4) FINAL DETERMINATION; EXTENSION OF PE11 RIOD; PLACED IN SERVICE DEADLINE.Subparagraph 12 (B) of section 179D(c)(2), as amended by paragraph 13 (3), is amended 14 (A) by inserting for which the Department 15 of Energy has issued a final determination and 16 before which has been affirmed, 17 (B) by striking 2 years and inserting 4 18 years, and 19 (C) by striking that construction of such 20 property begins and inserting such property is 21 placed in service. 22 (5) ELIMINATION OF PARTIAL ALLOWANCE. 23 (A) IN GENERAL.Section 179D(d) is 24 amended 25 (i) by striking paragraph (1), and 358  HR 5376 EAS 1 (ii) by redesignating paragraphs (2) 2 through (6) as paragraphs (1) through (5), 3 respectively. 4 (B) CONFORMING AMENDMENTS. 5 (i) Section 179D(c)(1)(D) is amend6 ed 7 (I) by striking subsection (d)(6) 8 and inserting subsection (d)(5), and 9 (II) by striking subsection 10 (d)(2) and inserting subsection 11 (d)(1). 12 (ii) Paragraph (2)(A) of section 13 179D(d), as redesignated by subparagraph 14 (A), is amended by striking paragraph 15 (2) and inserting paragraph (1). 16 (iii) Paragraph (4) of section 179D(d), 17 as redesignated by subparagraph (A), is 18 amended by striking paragraph 19 (3)(B)(iii) and inserting paragraph 20 (2)(B)(iii). 21
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy is required to issue a final determination on energy efficiency standards for buildings and to extend the period for such standards to be met from two years to four years. Additionally, the allowance for a partial energy efficiency standard is eliminated.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+long-acting, and premixed) of in2 sulin. 3 (II) INSULIN.The term insu4 lin means insulin that is licensed 5 under subsection (a) or (k) of section 6 351 of the Public Health Service Act 7 (42 U.S.C. 262) and continues to be 8 marketed under such section, including 9 any insulin product that has been 10 deemed to be licensed under section 11 351(a) of such Act pursuant to section 12 7002(e)(4) of the Biologics Price Com13 petition and Innovation Act of 2009 14 (Public Law 111148) and continues 15 to be marketed pursuant to such licen16 sure.. 17 (b) EFFECTIVE DATE.The amendment made by this 18 section shall apply to plan years beginning after December 19 31, 2022. 240  HR 5376 EAS 1 Subtitle CAffordable Care Act 2 Subsidies 3 SEC. 12001. IMPROVE AFFORDABILITY AND REDUCE PRE4 MIUM COSTS OF HEALTH INSURANCE FOR 5 CONSUMERS. 6 (a) IN GENERAL.Clause (iii) of section 36B(b)(3)(A) 7 of the Internal Revenue Code of 1986 is amended 8 (1) by striking in 2021 or 2022 and inserting 9 after December 31, 2020, and before January 1, 10 2026, and 11 (2) by striking 2021 AND 2022 in the heading 12 and inserting 2021 THROUGH 2025. 13 (b) EXTENSION THROUGH 2025 OF RULE TO ALLOW 14 CREDIT TO TAXPAYERS WHOSE HOUSEHOLD INCOME EX15 CEEDS 400 PERCENT OF THE POVERTY LINE.Section 16 36B(c)(1)(E) of the Internal Revenue Code of 1986 is 17 amended 18 (1) by striking in 2021 or 2022 and inserting 19 after December 31, 2020, and before January 1, 20 2026, and 21 (2) by striking 2021 AND 2022 in the heading 22 and inserting 2021 THROUGH 2025. 23 (c) EFFECTIVE DATE.The amendments made by this 24 section shall apply to taxable years beginning after Decem25 ber 31, 2022. 241  HR 5376 EAS 1 Subtitle DEnergy Security 2 SEC. 13001. AMENDMENT OF 1986 CODE. 3 Except as otherwise expressly provided, whenever in 4 this subtitle an amendment or repeal is expressed in terms 5 of an amendment to, or repeal of, a section or other provi6 sion, the reference
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Internal Revenue Code of 1986 to extend the period during which subsidies are available to taxpayers whose household income exceeds 400 percent of the poverty line. The amendments made by this section shall apply to taxable years beginning after December 31, 2022.

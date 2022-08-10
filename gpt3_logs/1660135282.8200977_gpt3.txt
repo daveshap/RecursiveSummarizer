@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+OTHER MINERALS.Any of the fol7 lowing minerals, provided that such mineral is 8 purified to a minimum purity of 99 percent by 9 mass: 10 (i) Arsenic. 11 (ii) Bismuth. 12 (iii) Erbium. 13 (iv) Gallium. 14 (v) Hafnium. 15 (vi) Holmium. 16 (vii) Iridium. 17 (viii) Lanthanum. 18 (ix) Lutetium. 19 (x) Magnesium. 20 (xi) Palladium. 21 (xii) Platinum. 22 (xiii) Praseodymium. 23 (xiv) Rhodium. 24 (xv) Rubidium. 25 (xvi) Ruthenium. 445  HR 5376 EAS 1 (xvii) Samarium. 2 (xviii) Scandium. 3 (xix) Tantalum. 4 (xx) Terbium. 5 (xxi) Thulium. 6 (xxii) Titanium. 7 (xxiii) Ytterbium. 8 (xxiv) Zinc. 9 (xxv) Zirconium. 10 (d) SPECIAL RULES.In this section 11 (1) RELATED PERSONS.Persons shall be treat12 ed as related to each other if such persons would be 13 treated as a single employer under the regulations 14 prescribed under section 52(b). 15 (2) ONLY PRODUCTION IN THE UNITED STATES 16 TAKEN INTO ACCOUNT.Sales shall be taken into ac17 count under this section only with respect to eligible 18 components the production of which is within 19 (A) the United States (within the meaning 20 of section 638(1)), or 21 (B) a possession of the United States 22 (within the meaning of section 638(2)). 23 (3) PASS-THRU IN THE CASE OF ESTATES AND 24 TRUSTS.Under regulations prescribed by the Sec- 446  HR 5376 EAS 1 retary, rules similar to the rules of subsection (d) of 2 section 52 shall apply. 3 (4) SALE OF INTEGRATED COMPONENTS.For 4 purposes of this section, a person shall be treated as 5 having sold an eligible component to an unrelated 6 person if such component is integrated, incorporated, 7 or assembled into another eligible component which is 8 sold to an unrelated person.. 9 (b) CONFORMING AMENDMENTS. 10 (1) Section 38(b) of the Internal Revenue Code 11 of 1986, as amended by the preceding provisions of 12 this Act, is amended 13 (A) in paragraph (36), by striking plus 14 at the end, 15 (B) in paragraph
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "Other Minerals" section of the bill establishes that certain minerals are eligible for the tax credit, provided that they are purified to a minimum purity of 99 percent. The minerals include arsenic, bismuth, erbium, gallium, hafnium, holmium, iridium, lanthanum, lutetium, magnesium, palladium, platinum, praseodymium, rhodium, rubidium, ruthenium, samarium, scandium, tantalum, terbium, thulium, titanium, ytterbium, zinc, and zirconium. The section also includes special rules for related persons and for sales of integrated components.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the date of receipt of an initial 9 offer under subparagraph (B), the manufac10 turer shall either accept such offer or pro11 pose a counteroffer to such offer. 12 (ii) COUNTEROFFER REQUIRE13 MENTS.If a manufacturer proposes a 14 counteroffer, such counteroffer 15 (I) shall be in writing; and 16 (II) shall be justified based on 17 the factors described in subsection (e). 18 (D) RESPONSE TO COUNTEROFFER.After 19 receiving a counteroffer under subparagraph (C), 20 the Secretary shall respond in writing to such 21 counteroffer. 22 (E) DEADLINE.All negotiations between 23 the Secretary and the manufacturer of the se24 lected drug shall end prior to the first day of No25 vember following the selected drug publication 70  HR 5376 EAS 1 date, with respect to the initial price applica2 bility year. 3 (F) LIMITATIONS ON OFFER AMOUNT.In 4 negotiating the maximum fair price of a selected 5 drug, with respect to the initial price applica6 bility year for the selected drug, and, as applica7 ble, in renegotiating the maximum fair price for 8 such drug, with respect to a subsequent year dur9 ing the price applicability period for such drug, 10 the Secretary shall not offer (or agree to a 11 counteroffer for) a maximum fair price for the 12 selected drug that 13 (i) exceeds the ceiling determined 14 under subsection (c) for the selected drug 15 and year; or 16 (ii) as applicable, is less than the 17 floor determined under subsection (d) for the 18 selected drug and year. 19 (c) CEILING FOR MAXIMUM FAIR PRICE. 20 (1) GENERAL CEILING. 21 (A) IN GENERAL.The maximum fair 22 price negotiated under this section for a selected 23 drug, with respect to the first initial price appli24 cability year of the price applicability period 25 with respect to such drug, shall not exceed the 71  HR 5376 EAS 1 lower of the amount under subparagraph (B) or 2 the amount under subparagraph (C). 3 (B) SUBPARAGRAPH (B) AMOUNT.An 4 amount equal to the following: 5 (i)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The manufacturer of a selected drug will be given an initial offer by the government, which the manufacturer can either accept or counter. If the manufacturer counters, the government will respond in writing, and all negotiations must end before November 1st. The maximum fair price for the selected drug cannot exceed the lower of the two amounts specified in subparagraphs B and C of this section.

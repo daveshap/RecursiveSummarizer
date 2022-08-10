@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+products) for which payment is made under Part B, with the exception of vaccines or drugs/biologicals for which the average total allowed charges per year per individual user is less than $100 (as adjusted for inflation). For each Part B rebatable drug, manufacturers must provide the Secretary with information on the drug's price and market share, and must pay a rebate equal to the difference between the price of the drug and its benchmark price, as specified in the bill. There is a transition rule for reporting in 2023 and 2024, and the Secretary is authorized to delay the timeframe for reporting until 2025.  This section of the bill establishes the payment amount for Part B rebatable drugs for each calendar quarter. The payment amount is determined by the inflation-adjusted payment amount for the drug in the payment amount benchmark quarter (July 1, 2021), increased by the percentage by which the rebate period CPIU (as defined in subparagraph (F)) for the calendar quarter exceeds the benchmark period CPIU (as defined in subparagraph (E)). The Secretary may reduce or waive the amount under subparagraph (A) with respect to a part B rebatable drug and a calendar quarter in the case of a part B rebatable drug that is described as currently in shortage on the shortage list.  This section of the Social Security Act requires drug manufacturers to provide rebates to the government for drugs that have prices that increase faster than inflation. The rebates must be equal to the amount specified in subsection (b) for each dosage form and strength of the drug. This section applies to drugs covered under Part D of the Social Security Act.  This section of the bill reduces or waives the manufacturer price of a Part D rebatable drug for a period of time if the drug is in short supply or if there is a severe supply chain disruption. The annual manufacturer price is determined by the average manufacturer price for each dosage form and strength of the drug.  This section of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Social Security Act requires drug manufacturers to provide rebates to the government for drugs that have prices that increase faster than inflation. The rebates must be equal to the amount specified in subsection (b) for each dosage form and strength of the drug. This section applies to drugs covered under Part D of the Social Security Act.

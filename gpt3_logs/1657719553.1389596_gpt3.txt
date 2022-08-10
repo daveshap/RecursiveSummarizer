@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+relief, as necessary, without breach of this arbitration agreement and without abridgment of the powers of the arbitrator. 5 COMPANY CONFIDENTIAL (d) Acknowledgment. CONTRACTOR HAS READ AND UNDERSTANDS SECTION 10, WHICH DISCUSSES ARBITRATION. CONTRACTOR UNDERSTANDS THAT BY SIGNING THIS AGREEMENT, CONTRACTOR AGREES TO SUBMIT ANY CLAIMS ARISING OUT OF, RELATING TO, OR IN CONNECTION WITH THIS AGREEMENT, OR THE INTERPRETATION, VALIDITY, CONSTRUCTION, PERFORMANCE, BREACH OR TERMINATION THEREOF, TO BINDING ARBITRATION, EXCEPT AS PROVIDED IN SECTION 10(c), AND THAT THIS ARBITRATION CLAUSE CONSTITUTES A WAIVER OF CONTRACTORS RIGHT TO A JURY TRIAL AND RELATES TO THE RESOLUTION OF ALL DISPUTES RELATING TO ALL ASPECTS OF THE RELATIONSHIP BETWEEN THE PARTIES. 11. MISCELLANEOUS. This Agreement shall be governed by the laws of the State of Texas, without regard to principles of conflict of laws. In any action at law or equity that is brought by one of the parties to enforce or interpret the
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The parties agree to submit any claims arising out of or relating to this agreement or the interpretation, validity, construction, performance, breach, or termination thereof, to binding arbitration, except as provided in section 10(c). This arbitration clause constitutes a waiver of the contractor's right to a jury trial and relates to the resolution of all disputes relating to all aspects of the relationship between the parties. The agreement shall be governed by the laws of the State of Texas.

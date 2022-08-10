@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+provides tax credits for solar and wind energy facilities placed in service in connection with low-income communities. The credit is increased by 2 percentage points for solar projects and 10 percentage points for wind projects. The amendments apply to property placed in service after December 31, 2021.  The Nuclear Energy Production Tax Credit is a tax credit for taxpayers who produce electricity from nuclear power facilities. The credit is available for facilities that come into operation after December 31, 2020. This section also extends the tax credit for qualified second generation biofuel through 2025. In addition, this section establishes a sustainable aviation fuel tax credit and a clean hydrogen production tax credit.  The Energy Security Act extends tax credits for alternative fuel vehicles, energy efficient buildings, and industrial facilities that reduce greenhouse gas emissions.  This section of the bill deals with the Clean Electricity Production Incentive, which provides credits to qualified facilities that produce electricity within the United States. The credit is increased by 10 percent if the taxpayer certifies that any steel, iron, or manufactured product used in the construction of the facility was produced in the United States. The Clean Electricity Investment Credit is a tax credit available for qualified investments in clean electricity facilities and energy storage technologies. The credit is equal to 6 percent of the investment for qualified facilities and energy storage technologies, and is available for facilities placed in service after December 31, 2024. This section also allows for a credit with respect to qualified investments in certain energy property, equal to the lesser of $50,000 or 30% of the basis of the property. The credit is phased out for property placed in service after December 31, 2016. Finally, this section amends the Internal Revenue Code to provide a tax credit for the production of clean transportation fuels. The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Security Act extends tax credits for solar and wind energy facilities, nuclear energy production, alternative fuel vehicles, energy efficient buildings, and industrial facilities that reduce greenhouse gas emissions. The Clean Electricity Production Incentive provides credits to qualified facilities that produce electricity within the United States, with an additional 10 percent credit if the taxpayer certifies that any steel, iron, or manufactured product used in the construction of the facility was produced in the United States. The Clean Electricity Investment Credit is a tax credit available for qualified investments in clean electricity facilities and energy storage technologies. This section also allows for a credit with respect to qualified investments in certain energy property. Finally, this section amends the Internal Revenue Code to provide a tax credit for the production of clean transportation fuels.

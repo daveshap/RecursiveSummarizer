@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+taxpayer.  This section of the code deals with the taxation of income from mortgage servicing contracts. It stipulates that such income may not be included in gross income under any other provision of the code until it is actually received. Additionally, the Secretary of the Treasury is authorized to promulgate regulations to prevent the avoidance of taxes on amounts not representing reasonable compensation for services rendered under the contract. Finally, this section provides for special adjustments to be made to income from defined benefit pension plans for tax purposes.  This section explains how depreciation and amortization deductions will be handled for purposes of computing adjusted financial statement income. Depreciation deductions will be taken into account to the extent allowed as deductions in computing taxable income for the year, and amortization deductions will be taken into account to the extent of the amount allowed as deductions in computing taxable income for the year. In addition, any other items specified by the Secretary will be taken into account in order to provide that property is accounted for in the same manner as it is accounted for under this chapter.  The "qualified wireless spectrum" refers to the wireless spectrum that is used in the trade or business of a wireless telecommunications carrier, and which was acquired after December 31, 2007, and before the date of enactment of this section. The deduction for financial statement net operating loss is the lesser of the aggregate amount of financial statement net operating loss carryovers to the taxable year, or 80 percent of adjusted financial statement income computed without regard to the deduction allowable under this subsection.  This section amends the Internal Revenue Code to create a new section 56A, which allows corporations to take a deduction for adjusted financial statement net operating losses. The deduction is available for taxable years ending after December 31, 2019. The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the code deals with the taxation of income from mortgage servicing contracts. It stipulates that such income may not be included in gross income under any other provision of the code until it is actually received. Additionally, the Secretary of the Treasury is authorized to promulgate regulations to prevent the avoidance of taxes on amounts not representing reasonable compensation for services rendered under the contract. Finally, this section provides for special adjustments to be made to income from defined benefit pension plans for tax purposes.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+2025.. 10 (8) Section 1927 of the Social Security Act (42 11 U.S.C. 1396r8) is amended 12 (A) in subsection (c)(1)(C)(i)(VI), by insert13 ing before the period at the end the following: or 14 under the manufacturer discount program under 15 section 1860D14C; and 16 (B) in subsection (k)(1)(B)(i)(V), by insert17 ing before the period at the end the following: or 18 under section 1860D14C. 19 (f) IMPLEMENTATION FOR 2024 THROUGH 2026.The 20 Secretary shall implement this section, including the 21 amendments made by this section, for 2024, 2025, and 2026 22 by program instruction or other forms of program guidance. 23 (g) FUNDING.In addition to amounts otherwise 24 available, there are appropriated to the Centers for Medi25 care & Medicaid Services, out of any money in the Treasury 205  HR 5376 EAS 1 not otherwise appropriated, $341,000,000 for fiscal year 2 2022, including $20,000,000 and $65,000,000 to carry out 3 the provisions of, including the amendments made by, this 4 section in fiscal years 2022 and 2023, respectively, and 5 $32,000,000 to carry out the provisions of, including the 6 amendments made by, this section in each of fiscal years 7 2024 through 2031, to remain available until expended. 8 SEC. 11202. MAXIMUM MONTHLY CAP ON COST-SHARING 9 PAYMENTS UNDER PRESCRIPTION DRUG 10 PLANS AND MAPD PLANS. 11 (a) IN GENERAL.Section 1860D2(b) of the Social 12 Security Act (42 U.S.C. 1395w102(b)) is amended 13 (1) in paragraph (2) 14 (A) in subparagraph (A), by striking and 15 (D) and inserting , (D), and (E); and 16 (B) by adding at the end the following new 17 subparagraph: 18 (E) MAXIMUM MONTHLY CAP ON COST19 SHARING PAYMENTS. 20 (i) IN GENERAL.For plan years be21 ginning on or after January 1, 2025, each 22 PDP sponsor offering a prescription drug 23 plan and each MA organization offering an 24 MAPD plan shall provide to any enrollee 25 of such plan, including an enrollee who is 206  HR 5376 EAS 1 a subsidy eligible
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended to allow for a maximum monthly cap on cost-sharing payments under prescription drug plans and Medicare Advantage plans. This change will take effect in 2025 and will be implemented by program instruction or other forms of program guidance. Funding for this change will be provided out of any money in the Treasury not otherwise appropriated.

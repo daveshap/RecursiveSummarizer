@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+established for projects located in the United States that produce, transport, blend, or store sustainable aviation fuels or that develop low-emission aviation technology.  The bill appropriates $244.53 million for projects relating to the production, transportation, blending, or storage of sustainable aviation fuel, $46.53 million for projects relating to low-emission aviation technologies, and $5.94 million for the award of grants and oversight of the program by the Department of Transportation.  The Federal Aviation Administration Reauthorization Act of 2018 includes provisions for grant funding to promote the development of sustainable aviation fuels and low-emission aviation technologies. The grant funds will cover 75 percent of the total proposed cost of the project, with the possibility of increasing to 90 percent for small hub airports or nonhub airports. The Act also requires the Secretary of Transportation to adopt at least one methodology for testing lifecycle greenhouse gas emissions.  The bill defines "low-emission aviation technologies" as technologies that significantly improve aircraft fuel efficiency, increase the utilization of sustainable aviation fuel, or reduce greenhouse gas emissions produced during the operation of civil aircraft. It also defines "sustainable aviation fuel" as a liquid fuel produced in the United States that meets certain standards, is derived from biomass, waste streams, renewable energy sources, or gaseous carbon oxides, and achieves at least a 50 percent lifecycle greenhouse gas emissions reduction in comparison to petroleum-based jet fuel.  This section of the bill appropriates $4.3 billion to the Department of Energy for fiscal year 2022 to provide rebates to homeowners for energy efficiency and electrification improvements.  The HOMES Rebate Program will award grants to State energy offices to develop and implement programs that provide rebates for home energy efficiency retrofits. Funds for the program will be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Federal Aviation Administration Reauthorization Act of 2018 includes provisions for grant funding to promote the development of sustainable aviation fuels and low-emission aviation technologies. The grant funds will cover 75 percent of the total proposed cost of the project, with the possibility of increasing to 90 percent for small hub airports or nonhub airports. The Act also requires the Secretary of Transportation to adopt at least one methodology for testing lifecycle greenhouse gas emissions.

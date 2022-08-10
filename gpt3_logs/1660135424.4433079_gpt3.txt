@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the clean elec16 tricity investment credit under subsection (a) for any 17 qualified investment with respect to any qualified fa18 cility or energy storage technology the construction of 19 which begins during a calendar year described in 20 paragraph (2) shall be equal to the product of 21 (A) the amount of the credit determined 22 under subsection (a) without regard to this sub23 section, multiplied by 24 (B) the phase-out percentage under para25 graph (2). 480  HR 5376 EAS 1 (2) PHASE-OUT PERCENTAGE.The phase-out 2 percentage under this paragraph is equal to 3 (A) for any qualified investment with re4 spect to any qualified facility or energy storage 5 technology the construction of which begins dur6 ing the first calendar year following the applica7 ble year, 100 percent, 8 (B) for any qualified investment with re9 spect to any qualified facility or energy storage 10 technology the construction of which begins dur11 ing the second calendar year following the appli12 cable year, 75 percent, 13 (C) for any qualified investment with re14 spect to any qualified facility or energy storage 15 technology the construction of which begins dur16 ing the third calendar year following the appli17 cable year, 50 percent, and 18 (D) for any qualified investment with re19 spect to any qualified facility or energy storage 20 technology the construction of which begins dur21 ing any calendar year subsequent to the calendar 22 year described in subparagraph (C), 0 percent. 23 (3) APPLICABLE YEAR.For purposes of this 24 subsection, the term applicable year has the same 25 meaning given such term in section 45Y(d)(3). 481  HR 5376 EAS 1 (f) GREENHOUSE GAS.In this section, the term 2 greenhouse gas has the same meaning given such term 3 under section 45Y(e)(2). 4 (g) RECAPTURE OF CREDIT.For purposes of section 5 50, if the Secretary determines that the greenhouse gas emis6 sions rate for a qualified facility is greater than 10 grams 7 of CO2e per KWh,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The clean electricity investment credit under subsection (a) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of (A) the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by (B) the phase-out percentage under paragraph (2).

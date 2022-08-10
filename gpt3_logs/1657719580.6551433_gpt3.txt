@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+upon cap of [ ] hours per [period].
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The person will work a maximum of [ ] hours per [period].

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ENTITY.For purposes of this 11 subsection, the term eligible entity means, with re12 spect to the vehicle for which the credit is allowed 13 under subsection (a), the dealer which sold such vehi14 cle to the taxpayer and has 15 (A) subject to paragraph (4), registered 16 with the Secretary for purposes of this para17 graph, at such time, and in such form and man18 ner, as the Secretary may prescribe, 19 (B) prior to the election described in para20 graph (1) and not later than at the time of such 21 sale, disclosed to the taxpayer purchasing such 22 vehicle 23 (i) the manufacturers suggested retail 24 price, 386  HR 5376 EAS 1 (ii) the value of the credit allowed 2 and any other incentive available for the 3 purchase of such vehicle, and 4 (iii) the amount provided by the deal5 er to such taxpayer as a condition of the 6 election described in paragraph (1), 7 (C) not later than at the time of such sale, 8 made payment to such taxpayer (whether in cash 9 or in the form of a partial payment or down 10 payment for the purchase of such vehicle) in an 11 amount equal to the credit otherwise allowable to 12 such taxpayer, and 13 (D) with respect to any incentive otherwise 14 available for the purchase of a vehicle for which 15 a credit is allowed under this section, including 16 any incentive in the form of a rebate or discount 17 provided by the dealer or manufacturer, ensured 18 that 19 (i) the availability or use of such in20 centive shall not limit the ability of a tax21 payer to make an election described in 22 paragraph (1), and 23 (ii) such election shall not limit the 24 value or use of such incentive. 387  HR 5376 EAS 1 (3) TIMING.An election described in para2 graph (1) shall be made by the taxpayer not later 3 than the date on which the vehicle for which the credit 4 is allowed under subsection (a) is purchased. 5 (4) REVOCATION OF REGISTRATION.Upon de6 termination by the Secretary that a dealer has failed 7 to comply with the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "eligible entity" for the purposes of the tax credit under subsection (a) is the dealer who sold the vehicle to the taxpayer and who has registered with the Secretary, disclosed the manufacturer's suggested retail price and the value of the credit to the taxpayer, and made payment to the taxpayer in an amount equal to the credit. The election to claim the credit must be made by the taxpayer at the time of purchase.

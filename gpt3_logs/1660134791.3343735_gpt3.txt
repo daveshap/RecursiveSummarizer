@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+annual deductible specified in section 1860D 20 2(b)(1). 21 (2) APPLICABLE DRUG.The term applicable 22 drug, with respect to an applicable beneficiary 23 (A) means a covered part D drug 24 (i) approved under a new drug appli25 cation under section 505(c) of the Federal 178  HR 5376 EAS 1 Food, Drug, and Cosmetic Act or, in the 2 case of a biologic product, licensed under 3 section 351 of the Public Health Service 4 Act; and 5 (ii)(I) if the PDP sponsor of the pre6 scription drug plan or the MA organization 7 offering the MAPD plan uses a formulary, 8 which is on the formulary of the prescrip9 tion drug plan or MAPD plan that the ap10 plicable beneficiary is enrolled in; 11 (II) if the PDP sponsor of the pre12 scription drug plan or the MA organization 13 offering the MAPD plan does not use a for14 mulary, for which benefits are available 15 under the prescription drug plan or MA 16 PD plan that the applicable beneficiary is 17 enrolled in; or 18 (III) is provided through an exception 19 or appeal; and 20 (B) does not include a selected drug (as re21 ferred to under section 1192(c)) during a price 22 applicability period (as defined in section 23 1191(b)(2)) with respect to such drug. 179  HR 5376 EAS 1 (3) APPLICABLE NUMBER OF CALENDAR 2 DAYS.The term applicable number of calendar 3 days means 4 (A) with respect to claims for reimburse5 ment submitted electronically, 14 days; and 6 (B) with respect to claims for reimburse7 ment submitted otherwise, 30 days. 8 (4) DISCOUNTED PRICE. 9 (A) IN GENERAL.The term discounted 10 price means, subject to subparagraphs (B) and 11 (C), with respect to an applicable drug of a 12 manufacturer dispensed during a year to an ap13 plicable beneficiary 14 (i) who has not incurred costs, as de15 termined in accordance with section 16 1860D2(b)(4)(C), for covered part D drugs 17 in the year that are equal to or exceed the 18 annual out-of-pocket threshold specified in 19 section
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The annual deductible for covered drugs under Medicare Part D is $415 in 2020. The term "applicable drug" means a covered Part D drug that is approved by the FDA and is on the formulary of the prescription drug plan or Medicare Advantage Prescription Drug (MAPD) plan that the applicable beneficiary is enrolled in. The term "applicable number of calendar days" means 14 days for electronically submitted claims and 30 days for other claims. The "discounted price" is the price of a covered drug after the annual deductible has been met.

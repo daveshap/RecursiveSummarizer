@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+increase in the consumer 12 price index for all urban consumers 13 (United States city average) for the 12- 14 month period beginning with October 15 of 2023; and 16 (II) for a subsequent applicable 17 period, shall be the dollar amount spec18 ified in this clause for the previous ap19 plicable period, increased by the per20 centage increase in the consumer price 21 index for all urban consumers (United 22 States city average) for the 12-month 23 period beginning with October of the 24 previous period. 157  HR 5376 EAS 1 Any dollar amount specified under this 2 clause that is not a multiple of $10 shall be 3 rounded to the nearest multiple of $10. 4 (C) DRUG OR BIOLOGICAL DESCRIBED.A 5 drug or biological described in this subparagraph 6 is a drug or biological that, as of the first day 7 of the applicable period involved, is 8 (i) a drug approved under a new 9 drug application under section 505(c) of the 10 Federal Food, Drug, and Cosmetic Act; 11 (ii) a drug approved under an abbre12 viated new drug application under section 13 505(j) of the Federal Food, Drug, and Cos14 metic Act, in the case where 15 (I) the reference listed drug ap16 proved under section 505(c) of the Fed17 eral Food, Drug, and Cosmetic Act, in18 cluding any authorized generic drug 19 (as that term is defined in section 20 505(t)(3) of the Federal Food, Drug, 21 and Cosmetic Act), is not being mar22 keted, as identified in the Food and 23 Drug Administrations National Drug 24 Code Directory; 158  HR 5376 EAS 1 (II) there is no other drug ap2 proved under section 505(j) of the Fed3 eral Food, Drug, and Cosmetic Act 4 that is rated as therapeutically equiva5 lent (under the Food and Drug Admin6 istrations most recent publication of 7 Approved Drug Products with Thera8 peutic Equivalence Evaluations) and 9 that is being marketed, as identified in 10 the Food and Drug Administrations 11 National Drug Code Directory; 12 (III) the manufacturer is not a 13 first applicant
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Consumer Price Index for all urban consumers in the United States will increase by the specified amount for the 12-month period beginning with October of 2023. This amount will be increased by the percentage increase in the Consumer Price Index for all urban consumers for the 12-month period beginning with October of the previous period. Any dollar amount specified that is not a multiple of $10 will be rounded to the nearest multiple of $10.

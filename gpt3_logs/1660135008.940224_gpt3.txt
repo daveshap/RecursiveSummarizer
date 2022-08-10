@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+is amended by 2 striking The applicable dollar amount and in3 serting Except as provided in subparagraph 4 (B) or (C), the applicable dollar amount. 5 (B) Section 45Q(b)(1)(D), as redesignated 6 by paragraph (1)(A), is amended by striking 7 subparagraph (A) and inserting subpara8 graph (A), (B), or (C). 9 (d) WAGE AND APPRENTICESHIP REQUIREMENTS. 10 Section 45Q is amended by redesignating subsection (h) as 11 subsection (i) and inserting after subsection (g) following 12 new subsection: 13 (h) INCREASED CREDIT AMOUNT FOR QUALIFIED FA14 CILITIES AND CARBON CAPTURE EQUIPMENT. 15 (1) IN GENERAL.In the case of any qualified 16 facility or any carbon capture equipment which sat17 isfy the requirements of paragraph (2), the amount of 18 the credit determined under subsection (a) shall be 19 equal to such amount (determined without regard to 20 this sentence) multiplied by 5. 21 (2) REQUIREMENTS.The requirements de22 scribed in this paragraph are that 23 (A) with respect to any qualified facility 24 the construction of which begins on or after the 25 date that is 60 days after the Secretary publishes 299  HR 5376 EAS 1 guidance with respect to the requirements of 2 paragraphs (3)(A) and (4), as well as any car3 bon capture equipment placed in service at such 4 facility 5 (i) subject to subparagraph (B) of 6 paragraph (3), the taxpayer satisfies the re7 quirements under subparagraph (A) of such 8 paragraph with respect to such facility and 9 equipment, and 10 (ii) the taxpayer satisfies the require11 ments under paragraph (4) with respect to 12 the construction of such facility and equip13 ment, 14 (B) with respect to any carbon capture 15 equipment the construction of which begins on or 16 after the date that is 60 days after the Secretary 17 publishes guidance with respect to the require18 ments of paragraphs (3)(A) and (4), and which 19 is installed at a qualified facility the construc20 tion of which began prior to such date 21
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The credit for qualified facilities and carbon capture equipment is increased from the original amount to five times the original amount if the taxpayer satisfies the requirements under paragraphs (3)(A) and (4).

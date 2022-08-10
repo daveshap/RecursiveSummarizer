@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subsection shall be not more than 25 per9 cent of the total project costs of the eligible entity car10 rying out a project using a grant under this sub11 section. 12 (4) PROHIBITION.Nothing in this subsection 13 shall be interpreted to authorize funds of the Com14 modity Credit Corporation for activities under this 15 subsection if such funds are not expressly authorized 16 or currently expended for such purposes. 17 (5) DISBURSEMENTS.The Secretary shall not 18 enter into, pursuant to this subsection 19 (A) any loan agreement that may result in 20 a disbursement after September 30, 2031; or 21 (B) any grant agreement that may result 22 in any outlay after September 30, 2031.. 554  HR 5376 EAS 1 SEC. 22005. ADDITIONAL USDA RURAL DEVELOPMENT AD2 MINISTRATIVE FUNDS. 3 In addition to amounts otherwise available, there is 4 appropriated to the Secretary for fiscal year 2022, out of 5 any money in the Treasury not otherwise appropriated, 6 $100,000,000, to remain available until September 30, 7 2031, for administrative costs and salaries and expenses for 8 the Rural Development mission area and administrative 9 costs of the agencies and offices of the Department for costs 10 related to implementing this subtitle. 11 SEC. 22006. FARM LOAN IMMEDIATE RELIEF FOR BOR12 ROWERS WITH AT-RISK AGRICULTURAL OPER13 ATIONS. 14 In addition to amounts otherwise available, there is 15 appropriated to the Secretary for fiscal year 2022, out of 16 amounts in the Treasury not otherwise appropriated, 17 $3,100,000,000, to remain available until September 30, 18 2031, to provide payments to, for the cost of loans or loan 19 modifications for, or to carry out section 331(b)(4) of the 20 Consolidated Farm and Rural Development Act (7 U.S.C. 21 1981(b)(4)) with respect to distressed borrowers of direct or 22 guaranteed loans administered by the Farm Service Agency 23 under subtitle A, B, or C of that Act (7 U.S.C. 1922 through 24 1970). In carrying out this section, the Secretary
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Farm Loan Immediate Relief for Borrowers with At-Risk Agricultural Operations Act provides $3.1 billion in funding to the Secretary of Agriculture to provide payments to, or for the cost of loans or loan modifications for, distressed borrowers of direct or guaranteed loans administered by the Farm Service Agency. This funding will be available until September 30, 2031.

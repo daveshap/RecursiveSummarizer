@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+shall be appro24 priately adjusted to only take into account any ad25 justed financial statement income 22  HR 5376 EAS 1 (A) of an unrelated trade or business (as 2 defined in section 513) of such organization, or 3 (B) derived from debt-financed property 4 (as defined in section 514) to the extent that in5 come from such property is treated as unrelated 6 business taxable income. 7 (13) DEPRECIATION.Adjusted financial state8 ment income shall be 9 (A) reduced by depreciation deductions al10 lowed under section 167 with respect to property 11 to which section 168 applies to the extent of the 12 amount allowed as deductions in computing tax13 able income for the taxable year, and 14 (B) appropriately adjusted 15 (i) to disregard any amount of depre16 ciation expense that is taken into account 17 on the taxpayers applicable financial state18 ment with respect to such property, and 19 (ii) to take into account any other 20 item specified by the Secretary in order to 21 provide that such property is accounted for 22 in the same manner as it is accounted for 23 under this chapter. 24 (14) QUALIFIED WIRELESS SPECTRUM. 23  HR 5376 EAS 1 (A) IN GENERAL.Adjusted financial 2 statement income shall be 3 (i) reduced by amortization deduc4 tions allowed under section 197 with respect 5 to qualified wireless spectrum to the extent 6 of the amount allowed as deductions in 7 computing taxable income for the taxable 8 year, and 9 (ii) appropriately adjusted 10 (I) to disregard any amount of 11 amortization expense that is taken into 12 account on the taxpayers applicable fi13 nancial statement with respect to such 14 qualified wireless spectrum, and 15 (II) to take into account any 16 other item specified by the Secretary in 17 order to provide that such qualified 18 wireless spectrum is accounted for in 19 the same manner as it is accounted for 20 under this chapter. 21 (B) QUALIFIED WIRELESS SPECTRUM. 22 For purposes of this paragraph, the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section explains how depreciation and amortization deductions will be handled for purposes of computing adjusted financial statement income. Depreciation deductions will be taken into account to the extent allowed as deductions in computing taxable income for the year, and amortization deductions will be taken into account to the extent of the amount allowed as deductions in computing taxable income for the year. In addition, any other items specified by the Secretary will be taken into account in order to provide that property is accounted for in the same manner as it is accounted for under this chapter.

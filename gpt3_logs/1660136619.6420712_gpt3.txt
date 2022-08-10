@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+under Part D of title XVIII are equal to or less than 1 percent of the total expenditures under such Part D for all covered Part D drugs during the year; or (2) for Part B drugs, the total expenditures for the qualifying single source drug under Part B of title XVIII are equal to or less than 1 percent of the total expenditures under such Part B for all covered Part B drugs during the year.  This section of the bill requires manufacturers to provide access to maximum fair prices for drugs to certain eligible individuals and entities during the price applicability period. The manufacturer of a selected drug will provide access to the maximum fair price to eligible individuals and hospitals, physicians, and other providers of services and suppliers. The manufacturer will also submit information to the Secretary on the non-Federal average manufacturer price for the drug and information that the Secretary requires to carry out the negotiation process.  This section of the bill deals with the payment amount for covered drugs under Medicare Part D. For drugs covered under Part D, the payment amount will be the sum of the plan-specific enrollment weighted amounts for each prescription drug plan or MAPD plan. For drugs covered under Part B, the payment amount will be the amount specified in section 1847A(b)(4) of the Social Security Act.  This bill defines the terms "extended-monopoly drug" and "long-monopoly drug" for purposes of the drug pricing provisions in this bill. An extended-monopoly drug is a selected drug for which at least 12, but fewer than 16, years have elapsed since its approval or licensure. A long-monopoly drug is a selected drug for which at least 16 years have elapsed since its approval or licensure. Vaccines are excluded from both definitions. The average manufacturer price for a selected drug is determined by the average of the non-Federal manufacturer prices for the drug for the four calendar quarters of the year involved. For a qualifying single
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill requires manufacturers to provide access to maximum fair prices for drugs to certain eligible individuals and entities during the price applicability period. The manufacturer of a selected drug will provide access to the maximum fair price to eligible individuals and hospitals, physicians, and other providers of services and suppliers. The manufacturer will also submit information to the Secretary on the non-Federal average manufacturer price for the drug and information that the Secretary requires to carry out the negotiation process.

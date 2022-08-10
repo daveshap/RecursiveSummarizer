@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+out of any money in the Treasury not 24 otherwise appropriated, $100,000,000, to remain available 25 until September 30, 2028, for administrative costs of the 547  HR 5376 EAS 1 agencies and offices of the Department of Agriculture for 2 costs related to implementing this section. 3 Subtitle CRural Development and 4 Agricultural Credit 5 SEC. 22001. ADDITIONAL FUNDING FOR ELECTRIC LOANS 6 FOR RENEWABLE ENERGY. 7 Section 9003 of the Farm Security and Rural Invest8 ment Act of 2002 (7 U.S.C. 8103) is amended by adding 9 at the end the following: 10 (h) ADDITIONAL FUNDING FOR ELECTRIC LOANS FOR 11 RENEWABLE ENERGY. 12 (1) APPROPRIATIONS.Notwithstanding sub13 sections (a) through (e), and (g), in addition to 14 amounts otherwise available, there is appropriated to 15 the Secretary for fiscal year 2022, out of any money 16 in the Treasury not otherwise appropriated, 17 $1,000,000,000, to remain available until September 18 30, 2031, for the cost of loans under section 317 of the 19 Rural Electrification Act of 1936 (7 U.S.C. 940g), in20 cluding for projects that store electricity that support 21 the types of eligible projects under that section, which 22 shall be forgiven in an amount that is not greater 23 than 50 percent of the loan based on how the borrower 24 and the project meets the terms and conditions for 25 loan forgiveness consistent with the purposes of that 548  HR 5376 EAS 1 section established by the Secretary, except as pro2 vided in paragraph (3). 3 (2) LIMITATION.The Secretary shall not enter 4 into any loan agreement pursuant this subsection 5 that could result in disbursements after September 30, 6 2031. 7 (3) EXCEPTION.The Secretary shall establish 8 criteria for waiving the 50 percent limitation de9 scribed in paragraph (1).. 10 SEC. 22002. RURAL ENERGY FOR AMERICA PROGRAM. 11 (a) APPROPRIATION.In addition to amounts other12 wise available, there is appropriated to the Secretary, out 13 of any money in the Treasury not otherwise
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes $1,000,000,000 for the cost of loans under the Rural Electrification Act of 1936, to be used for renewable energy projects. The loans will be forgiven in an amount not to exceed 50 percent of the loan, at the discretion of the Secretary. This section also authorizes $100,000,000 for the Department of Agriculture for administrative costs related to implementing this section.

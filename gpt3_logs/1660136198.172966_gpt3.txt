@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+credit, the fuel must meet certain standards for greenhouse gas emissions reduction, and the producer must be registered with the government.  This section provides a tax credit for sustainable aviation fuel. The credit is made part of the general business credit and is coordinated with the biodiesel incentives.  The Fuel Added to Credit 4 for Alcohol Fuel, Biodiesel, and Alternative Fuel 5 Mixtures Act amends the existing sustainable aviation fuel credit by adding a new subsection (k) which allows for a credit of $1.25 per gallon of sustainable aviation fuel used in a qualified mixture, with a supplementary amount for each type of fuel. This credit is available for sales or uses after December 31, 2024.  The Clean Hydrogen Production Credit is a tax credit for any taxable year equal to the product of the kilograms of qualified clean hydrogen produced by the taxpayer during such taxable year at a qualified clean hydrogen production facility during the 10-year period beginning on the date such facility was originally placed in service, multiplied by the applicable amount (as determined under subsection (b)) with respect to such hydrogen. The applicable amount shall be an amount equal to the applicable percentage of $0.60.  This section describes the applicable percentage for the production of qualified clean hydrogen, which is determined according to the lifecycle greenhouse gas emissions rate. The amount is adjusted for inflation each year.  This section of the Clean Air Act defines "lifecycle greenhouse gas emissions" and requires that they be measured using the GREET model. It also defines "qualified clean hydrogen" as hydrogen produced with a lifecycle greenhouse gas emissions rate of no more than 4 kilograms of CO2e per kilogram of hydrogen.  The "qualified clean hydrogen production facility" tax credit is available for facilities that produce qualified clean hydrogen, with a credit amount equal to the determined 15 lifecycle greenhouse gas emissions rate
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Clean Air Act provides tax credits for the production of sustainable aviation fuel and clean hydrogen. The credit for sustainable aviation fuel is $1.25 per gallon of fuel used in a qualified mixture, with a supplementary amount for each type of fuel. The credit for clean hydrogen is $0.60 per kilogram of qualified clean hydrogen produced, multiplied by the applicable percentage. The applicable percentage is determined according to the lifecycle greenhouse gas emissions rate.

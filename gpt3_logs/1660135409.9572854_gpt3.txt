@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+11 in alternating current), 12 (II) the construction of which be13 gins prior to the date that is 60 days 14 after the Secretary publishes guidance 15 with respect to the requirements of 16 paragraphs (3) and (4) of subsection 17 (d), or 18 (III) which 19 (aa) satisfies the require20 ments of subsection (d)(3), and 21 (bb) with respect to the con22 struction of such facility, satisfies 23 the requirements of subsection 24 (d)(4), 472  HR 5376 EAS 1 the applicable percentage shall be 30 per2 cent. 3 (B) ENERGY STORAGE TECHNOLOGY. 4 Subject to paragraph (3) 5 (i) BASE RATE.In the case of any 6 energy storage technology which is not de7 scribed in subclause (I) or (II) of clause (ii) 8 and does not satisfy the requirements de9 scribed in subclause (III) of such clause, the 10 applicable percentage shall be 6 percent. 11 (ii) ALTERNATIVE RATE.In the case 12 of any energy storage technology 13 (I) with a capacity of less than 14 1 megawatt, 15 (II) the construction of which be16 gins prior to the date that is 60 days 17 after the Secretary publishes guidance 18 with respect to the requirements of 19 paragraphs (3) and (4) of subsection 20 (d), or 21 (III) which 22 (aa) satisfies the require23 ments of subsection (d)(3), and 24 (bb) with respect to the con25 struction of such property, satis- 473  HR 5376 EAS 1 fies the requirements of subsection 2 (d)(4), 3 the applicable percentage shall be 30 per4 cent. 5 (3) INCREASE IN CREDIT RATE IN CERTAIN 6 CASES. 7 (A) ENERGY COMMUNITIES. 8 (i) IN GENERAL.In the case of any 9 qualified investment with respect to a quali10 fied facility or with respect to energy stor11 age technology which is placed in service 12 within an energy community (as defined in 13 section 45(b)(11)(B)), for purposes of apply14 ing paragraph (2) with respect to such 15 property or investment, the applicable per16 centage shall be increased by the applicable 17 credit rate increase. 18 (ii) APPLICABLE CREDIT RATE
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Independence and Security Act of 2007 establishes tax credits for investments in certain energy storage technologies and facilities. The credit is 6 percent for technologies with a capacity of less than 1 megawatt, and 30 percent for technologies that meet certain requirements. The credit is increased by the applicable credit rate increase for investments in qualified facilities or energy storage technologies within an energy community.

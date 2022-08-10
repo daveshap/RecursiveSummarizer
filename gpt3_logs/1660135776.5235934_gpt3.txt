@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+available until 12 September 30, 2024, to make grants, on a competitive 13 basis and beginning not later than 180 calendar days 14 after the date of enactment of this section, to States, 15 municipalities, Tribal governments, and eligible re16 cipients for the purposes of providing grants, loans, 17 or other forms of financial assistance, as well as tech18 nical assistance, to enable low-income and disadvan19 taged communities to deploy or benefit from zero20 emission technologies, including distributed tech21 nologies on residential rooftops, and to carry out 22 other greenhouse gas emission reduction activities, as 23 determined appropriate by the Administrator in ac24 cordance with this section. 25 (2) GENERAL ASSISTANCE.In addition to 26 amounts otherwise available, there is appropriated to 668  HR 5376 EAS 1 the Administrator for fiscal year 2022, out of any 2 money in the Treasury not otherwise appropriated, 3 $11,970,000,000, to remain available until September 4 30, 2024, to make grants, on a competitive basis and 5 beginning not later than 180 calendar days after the 6 date of enactment of this section, to eligible recipients 7 for the purposes of providing financial assistance and 8 technical assistance in accordance with subsection (b). 9 (3) LOW-INCOME AND DISADVANTAGED COMMU10 NITIES.In addition to amounts otherwise available, 11 there is appropriated to the Administrator for fiscal 12 year 2022, out of any money in the Treasury not oth13 erwise appropriated, $8,000,000,000, to remain avail14 able until September 30, 2024, to make grants, on a 15 competitive basis and beginning not later than 180 16 calendar days after the date of enactment of this sec17 tion, to eligible recipients for the purposes of pro18 viding financial assistance and technical assistance 19 in low-income and disadvantaged communities in ac20 cordance with subsection (b). 21 (4) ADMINISTRATIVE COSTS.In addition to 22 amounts otherwise available, there is appropriated to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes the appropriation of funds to the Administrator of the Environmental Protection Agency (EPA) to provide grants, loans, or other forms of financial assistance to states, municipalities, Tribal governments, and eligible recipients for the purposes of deploying or benefiting from zero emission technologies, including distributed technologies on residential rooftops, and to carry out other greenhouse gas emission reduction activities. Funds appropriated under this section shall be used to provide financial assistance and technical assistance in low-income and disadvantaged communities.

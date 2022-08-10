@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+that date.  This section authorizes $1,000,000,000 for the cost of loans under the Rural Electrification Act of 1936, to be used for renewable energy projects. The loans will be forgiven in an amount not to exceed 50 percent of the loan, at the discretion of the Secretary. This section also authorizes $100,000,000 for the Department of Agriculture for administrative costs related to implementing this section.  This section appropriates funds for the Farm Security and Rural Investment Act of 2002 and sets a limit on the amount of grants that can be awarded under the act.  The Farm Security and Rural Investment Act of 2002 is amended by adding a section on biofuel infrastructure and agriculture product market expansion. $500 million is appropriated for the Secretary of Agriculture to use for grants to improve biofuel infrastructure and increase sales of biofuel blends containing high levels of commodity-based ethanol and biodiesel.  This section of the Farm Security and Rural Investment Act of 2002 provides for USDA assistance to rural electric cooperatives in the form of loans and other financial assistance to reduce carbon dioxide, methane, and nitrous oxide emissions associated with rural electric systems. There is a limit of 10 percent of the total amount available for each eligible entity.  The Farm Loan Immediate Relief for Borrowers with At-Risk Agricultural Operations Act provides $3.1 billion in funding to the Secretary of Agriculture to provide payments to, or for the cost of loans or loan modifications for, distressed borrowers of direct or guaranteed loans administered by the Farm Service Agency. This funding will be available until September 30, 2031.  This section provides relief to borrowers whose agricultural operations are at financial risk. It also provides funding for outreach, mediation, financial training, capacity building training, cooperative development and agricultural credit training and support to underserved farmers, ranchers, or forest
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Farm Security and Rural Investment Act of 2002 provides for USDA assistance to rural electric cooperatives in the form of loans and other financial assistance to reduce carbon dioxide, methane, and nitrous oxide emissions associated with rural electric systems. There is a limit of 10 percent of the total amount available for each eligible entity.

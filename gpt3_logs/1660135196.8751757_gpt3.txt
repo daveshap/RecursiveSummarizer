@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+20 SEC. 13403. QUALIFIED COMMERCIAL CLEAN VEHICLES. 21 (a) IN GENERAL.Subpart D of part IV of subchapter 22 A of chapter 1, as amended by the preceding provisions of 23 this Act, is amended by adding at the end the following 24 new section: 400  HR 5376 EAS 1 SEC. 45W. CREDIT FOR QUALIFIED COMMERCIAL CLEAN 2 VEHICLES. 3 (a) IN GENERAL.For purposes of section 38, the 4 qualified commercial clean vehicle credit for any taxable 5 year is an amount equal to the sum of the credit amounts 6 determined under subsection (b) with respect to each quali7 fied commercial clean vehicle placed in service by the tax8 payer during the taxable year. 9 (b) PER VEHICLE AMOUNT. 10 (1) IN GENERAL.Subject to paragraph (4), the 11 amount determined under this subsection with respect 12 to any qualified commercial clean vehicle shall be 13 equal to the lesser of 14 (A) 15 percent of the basis of such vehicle 15 (30 percent in the case of a vehicle not powered 16 by a gasoline or diesel internal combustion en17 gine), or 18 (B) the incremental cost of such vehicle. 19 (2) INCREMENTAL COST.For purposes of 20 paragraph (1)(B), the incremental cost of any quali21 fied commercial clean vehicle is an amount equal to 22 the excess of the purchase price for such vehicle over 23 such price of a comparable vehicle. 24 (3) COMPARABLE VEHICLE.For purposes of 25 this subsection, the term comparable vehicle means, 26 with respect to any qualified commercial clean vehi- 401  HR 5376 EAS 1 cle, any vehicle which is powered solely by a gasoline 2 or diesel internal combustion engine and which is 3 comparable in size and use to such vehicle. 4 (4) LIMITATION.The amount determined 5 under this subsection with respect to any qualified 6 commercial clean vehicle shall not exceed 7 (A) in the case of a vehicle which has a 8 gross vehicle weight rating of less than 14,000 9 pounds, $7,500, and 10 (B) in the case of a vehicle not described 11 in subparagraph (A), $40,000. 12
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The qualified commercial clean vehicle credit is a tax credit available for vehicles powered by something other than a gasoline or diesel internal combustion engine. The credit amount is equal to the lesser of 15 percent of the basis of the vehicle or the incremental cost of the vehicle, up to a maximum of $7,500 for vehicles with a gross vehicle weight rating of less than 14,000 pounds or $40,000 for other vehicles.

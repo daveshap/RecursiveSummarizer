@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+drugs means, with respect to a 13 specified small manufacturer, for 14 2021, an applicable drug that is 15 produced, prepared, propagated, 16 compounded, converted, or proc17 essed by the manufacturer. 18 (bb) AGGREGATION RULE. 19 All persons treated as a single em20 ployer under subsection (a) or (b) 21 of section 52 of the Internal Rev22 enue Code of 1986 shall be treated 23 as one manufacturer for purposes 24 of this subparagraph. For pur25 poses of making a determination 187  HR 5376 EAS 1 pursuant to the previous sentence, 2 an agreement under this section 3 shall require that a manufacturer 4 provide and attest to such infor5 mation as specified by the Sec6 retary as necessary. 7 (III) LIMITATION.The term 8 specified small manufacturer shall not 9 include a manufacturer described in 10 subclause (I) if such manufacturer is 11 acquired after 2021 by another manu12 facturer that is not a specified small 13 manufacturer, effective at the begin14 ning of the plan year immediately fol15 lowing such acquisition or, in the case 16 of an acquisition before 2025, effective 17 January 1, 2025. 18 (iii) SPECIFIED SMALL MANUFAC19 TURER PERCENT.In this subparagraph, 20 the term specified small manufacturer per21 cent means, with respect to a year 22 (I) for an applicable drug dis23 pensed for an applicable beneficiary 24 who has not incurred costs, as deter25 mined in accordance with section 188  HR 5376 EAS 1 1860D2(b)(4)(C), for covered part D 2 drugs in the year that are equal to or 3 exceed the annual out-of-pocket thresh4 old specified in section 1860D 5 2(b)(4)(B)(i) for the year 6 (aa) for 2025, 99 percent; 7 (bb) for 2026, 98 percent; 8 (cc) for 2027, 95 percent; 9 (dd) for 2028, 92 percent; 10 and 11 (ee) for 2029 and each sub12 sequent year, 90 percent; and 13 (II) for an applicable drug dis14 pensed for an applicable beneficiary 15 who has incurred costs, as determined 16 in accordance with section 1860D 17 2(b)(4)(C), for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section defines "drugs" for purposes of the Medicare Part D prescription drug benefit, and establishes a percentage threshold for specified small manufacturers. The threshold is used to determine whether a manufacturer's drugs will be subject to price controls under the benefit.

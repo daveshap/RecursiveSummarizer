@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+that would have 11 applied if this paragraph had not been 12 enacted. 13 (v) 2028.The base beneficiary pre14 mium for a month in 2028 shall be equal 15 to the lesser of 16 (I) the base beneficiary premium 17 computed under clause (iv) for a 18 month in 2027 increased by 6 percent; 19 or 20 (II) the base beneficiary pre21 mium computed under paragraph (2) 22 for a month in 2028 that would have 23 applied if this paragraph had not been 24 enacted. 197  HR 5376 EAS 1 (vi) 2029.The base beneficiary pre2 mium for a month in 2029 shall be equal 3 to the lesser of 4 (I) the base beneficiary premium 5 computed under clause (v) for a month 6 in 2028 increased by 6 percent; or 7 (II) the base beneficiary pre8 mium computed under paragraph (2) 9 for a month in 2029 that would have 10 applied if this paragraph had not been 11 enacted. 12 (B) CLARIFICATION REGARDING 2030 AND 13 SUBSEQUENT YEARS.The base beneficiary pre14 mium for a month in 2030 or a subsequent year 15 shall be computed under paragraph (2) without 16 regard to this paragraph.; and 17 (B) in subsection (b)(3)(A)(ii), by striking 18 subsection (a)(2) and inserting paragraph 19 (2) or (8) of subsection (a) (as applicable). 20 (2) ADJUSTMENT TO BENEFICIARY PREMIUM 21 PERCENTAGE FOR 2030 AND SUBSEQUENT YEARS. 22 Section 1860D13(a) of the Social Security Act (42 23 U.S.C. 1395w113(a)), as amended by paragraph (1), 24 is amended 198  HR 5376 EAS 1 (A) in paragraph (3)(A), by inserting (or, 2 for 2030 and each subsequent year, the percent 3 specified under paragraph (9)) after 25.5 per4 cent; and 5 (B) by adding at the end the following new 6 paragraph: 7 (9) PERCENT SPECIFIED. 8 (A) IN GENERAL.Subject to subpara9 graph (B), for purposes of paragraph (3)(A), the 10 percent specified under this paragraph for 2030 11 and each subsequent year is the percent that the 12 Secretary determines is necessary to ensure that 13 the base beneficiary premium computed under 14
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The base beneficiary premium for 2030 and subsequent years shall be computed under paragraph (2) or (8) of subsection (a) of the Social Security Act (42 U.S.C. 1395w113(a)), as amended by this paragraph, without regard to this paragraph. The percent specified under this paragraph for 2030 and each subsequent year is the percent that the Secretary determines is necessary to ensure that the base beneficiary premium computed under paragraph (2) of such subsection does not exceed the base beneficiary premium computed under such paragraph for 2019.

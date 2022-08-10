@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+account for purposes 17 of the credit allowed under section 48C after the 18 date of the enactment of this section. 19 (2) INVERTERS. 20 (A) IN GENERAL.The term inverter 21 means an end product which is suitable to con22 vert direct current electricity from 1 or more 23 solar modules or certified distributed wind en24 ergy systems into alternating current electricity. 429  HR 5376 EAS 1 (B) CENTRAL INVERTER.The term cen2 tral inverter means an inverter which is suitable 3 for large utility-scale systems and has a capacity 4 which is greater than 1,000 kilowatts (expressed 5 on a per alternating current watt basis). 6 (C) COMMERCIAL INVERTER.The term 7 commercial inverter means an inverter which 8 (i) is suitable for commercial or util9 ity-scale applications, 10 (ii) has a rated output of 208, 480, 11 600, or 800 volt three-phase power, and 12 (iii) has a capacity which is not less 13 than 20 kilowatts and not greater than 125 14 kilowatts (expressed on a per alternating 15 current watt basis). 16 (D) DISTRIBUTED WIND INVERTER. 17 (i) IN GENERAL.The term distrib18 uted wind inverter means an inverter 19 which 20 (I) is used in a residential or 21 non-residential system which utilizes 1 22 or more certified distributed wind en23 ergy systems, and 24 (II) has a rated output of not 25 greater than 150 kilowatts. 430  HR 5376 EAS 1 (ii) CERTIFIED DISTRIBUTED WIND 2 ENERGY SYSTEM.The term certified dis3 tributed wind energy system means a wind 4 energy system which is certified by an ac5 credited certification agency to meet Stand6 ard 9.1-2009 of the American Wind Energy 7 Association (including any subsequent revi8 sions to or modifications of such Standard 9 which have been approved by the American 10 National Standards Institute). 11 (E) MICROINVERTER.The term micro12 inverter means an inverter which 13 (i) is suitable to connect with one 14 solar module, 15 (ii) has a rated output of 16 (I) 120 or 240 volt
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Credit for Renewable Energy Investments Act of 2009 allows a credit for solar energy investments. The credit is available for inverters, central inverters, commercial inverters, distributed wind inverters, and microinverters.

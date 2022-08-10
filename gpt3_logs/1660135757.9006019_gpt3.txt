@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Federal land 9 unless 10 (A) an onshore lease sale has been held dur11 ing the 120-day period ending on the date of the 12 issuance of the right-of-way for wind or solar en13 ergy development; and 14 (B) the sum total of acres offered for lease 15 in onshore lease sales during the 1-year period 16 ending on the date of the issuance of the right17 of-way for wind or solar energy development is 18 not less than the lesser of 19 (i) 2,000,000 acres; and 20 (ii) 50 percent of the acreage for which 21 expressions of interest have been submitted 22 for lease sales during that period; and 23 (2) the Secretary may not issue a lease for off24 shore wind development under section 8(p)(1)(C) of 656  HR 5376 EAS 1 the Outer Continental Shelf Lands Act (43 U.S.C. 2 1337(p)(1)(C)) unless 3 (A) an offshore lease sale has been held dur4 ing the 1-year period ending on the date of the 5 issuance of the lease for offshore wind develop6 ment; and 7 (B) the sum total of acres offered for lease 8 in offshore lease sales during the 1-year period 9 ending on the date of the issuance of the lease for 10 offshore wind development is not less than 11 60,000,000 acres. 12 (c) SAVINGS.Except as expressly provided in para13 graphs (1) and (2) of subsection (b), nothing in this section 14 supersedes, amends, or modifies existing law. 15 PART 7UNITED STATES GEOLOGICAL SURVEY 16 SEC. 50271. UNITED STATES GEOLOGICAL SURVEY 3D ELE17 VATION PROGRAM. 18 In addition to amounts otherwise available, there is 19 appropriated to the Secretary, acting through the Director 20 of the United States Geological Survey, for fiscal year 2022, 21 out of any money in the Treasury not otherwise appro22 priated, $23,500,000, to remain available through Sep23 tember 30, 2031, to produce, collect, disseminate, and use 24 3D elevation data. 657  HR 5376 EAS 1 PART 8OTHER NATURAL RESOURCES MATTERS 2 SEC. 50281. DEPARTMENT OF THE INTERIOR OVERSIGHT. 3 In addition to amounts otherwise available, there is 4
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section appropriates $23.5 million to the United States Geological Survey for fiscal year 2022 to produce, collect, disseminate, and use 3D elevation data. Additionally, this section establishes that the Department of the Interior may not issue a lease for offshore wind development unless an offshore lease sale has been held during the 1-year period ending on the date of the issuance of the lease for offshore wind development, and the sum total of acres offered for lease in offshore lease sales during that period is not less than 60,000,000 acres.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+December 31, 2021 10 and inserting December 31, 2024. 11 (e) PAYMENTS FOR ALTERNATIVE FUELS.Section 12 6427(e)(6)(C) is amended by striking December 31, 2021 13 and inserting December 31, 2024. 14 (f) EFFECTIVE DATE.The amendments made by this 15 section shall apply to fuel sold or used after December 31, 16 2021. 17 (g) SPECIAL RULE.In the case of any alternative fuel 18 credit properly determined under section 6426(d) of the In19 ternal Revenue Code of 1986 for the period beginning on 20 January 1, 2022, and ending with the close of the last cal21 endar quarter beginning before the date of the enactment 22 of this Act, such credit shall be allowed, and any refund 23 or payment attributable to such credit (including any pay24 ment under section 6427(e) of such Code) shall be made, 25 only in such manner as the Secretary of the Treasury (or 313  HR 5376 EAS 1 the Secretarys delegate) shall provide. Such Secretary shall 2 issue guidance within 30 days after the date of the enact3 ment of this Act providing for a one-time submission of 4 claims covering periods described in the preceding sentence. 5 Such guidance shall provide for a 180-day period for the 6 submission of such claims (in such manner as prescribed 7 by such Secretary) to begin not later than 30 days after 8 such guidance is issued. Such claims shall be paid by such 9 Secretary not later than 60 days after receipt. If such Sec10 retary has not paid pursuant to a claim filed under this 11 subsection within 60 days after the date of the filing of such 12 claim, the claim shall be paid with interest from such date 13 determined by using the overpayment rate and method 14 under section 6621 of such Code. 15 SEC. 13202. EXTENSION OF SECOND GENERATION BIOFUEL 16 INCENTIVES. 17 (a) IN GENERAL.Section 40(b)(6)(J)(i) is amended 18 by striking 2022 and inserting 2025. 19 (b) EFFECTIVE DATE.The amendment made by sub20 section (a) shall apply to qualified second generation biofuel 21
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section extends the tax credit for qualified second generation biofuel through 2025.

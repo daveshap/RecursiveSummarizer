@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(2) The heading for section 25D is amended by 5 striking ENERGY EFFICIENT PROPERTY and in6 serting CLEAN ENERGY CREDIT. 7 (3) The table of sections for subpart A of part IV 8 of subchapter A of chapter 1 is amended by striking 9 the item relating to section 25D and inserting the fol10 lowing: Sec. 25D. Residential clean energy credit.. 11 (d) EFFECTIVE DATES. 12 (1) IN GENERAL.Except as provided in para13 graph (2), the amendments made by this section shall 14 apply to expenditures made after December 31, 2021. 15 (2) RESIDENTIAL CLEAN ENERGY CREDIT FOR 16 BATTERY STORAGE TECHNOLOGY; CERTAIN EXPENDI17 TURES DISALLOWED.The amendments made by sub18 section (b) shall apply to expenditures made after De19 cember 31, 2022. 20 SEC. 13303. ENERGY EFFICIENT COMMERCIAL BUILDINGS 21 DEDUCTION. 22 (a) IN GENERAL. 23 (1) MAXIMUM AMOUNT OF DEDUCTION.Sub24 section (b) of section 179D is amended to read as fol25 lows: 354  HR 5376 EAS 1 (b) MAXIMUM AMOUNT OF DEDUCTION. 2 (1) IN GENERAL.The deduction under sub3 section (a) with respect to any building for any tax4 able year shall not exceed the excess (if any) of 5 (A) the product of 6 (i) the applicable dollar value, and 7 (ii) the square footage of the building, 8 over 9 (B) the aggregate amount of the deductions 10 under subsections (a) and (f) with respect to the 11 building for the 3 taxable years immediately pre12 ceding such taxable year (or, in the case of any 13 such deduction allowable to a person other than 14 the taxpayer, for any taxable year ending during 15 the 4-taxable-year period ending with such tax16 able year). 17 (2) APPLICABLE DOLLAR VALUE.For purposes 18 of paragraph (1)(A)(i), the applicable dollar value 19 shall be an amount equal to $0.50 increased (but not 20 above $1.00) by $0.02 for each percentage point by 21 which the total annual energy and power costs for the 22 building are certified to be reduced by a percentage 23 greater than 25 percent. 24 (3) INCREASED
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Efficient Commercial Buildings Deduction is being amended so that the maximum deduction is increased from $0.50 to $1.00 per square foot, and the deduction is only available for buildings certified to reduce energy and power costs by more than 25%.

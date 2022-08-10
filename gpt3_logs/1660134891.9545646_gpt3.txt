@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+D drug covered under the prescription drug plan 24 or MAPD plan that is approved under section 25 505 of the Federal Food, Drug, and Cosmetic Act 232  HR 5376 EAS 1 or licensed under section 351 of the Public 2 Health Service Act and marketed pursuant to 3 such approval or licensure, including any cov4 ered insulin product that has been deemed to be 5 licensed under section 351 of the Public Health 6 Service Act pursuant to section 7002(e)(4) of the 7 Biologics Price Competition and Innovation Act 8 of 2009 and marketed pursuant to such section. 9 (D) APPLICABLE COPAYMENT AMOUNT. 10 In this paragraph, the term applicable copay11 ment amount means, with respect to a covered 12 insulin product under a prescription drug plan 13 or an MAPD plan dispensed 14 (i) during plan years 2023, 2024, and 15 2025, $35; and 16 (ii) during plan year 2026 and each 17 subsequent plan year, the lesser of 18 (I) $35; 19 (II) an amount equal to 25 per20 cent of the maximum fair price estab21 lished for the covered insulin product 22 in accordance with part E of title XI; 23 or 24 (III) an amount equal to 25 per25 cent of the negotiated price of the cov- 233  HR 5376 EAS 1 ered insulin product under the pre2 scription drug plan or MAPD plan. 3 (E) SPECIAL RULE FOR FIRST 3 MONTHS 4 OF 2023.With respect to a months supply of a 5 covered insulin product dispensed during the pe6 riod beginning on January 1, 2023, and ending 7 on March 31, 2023, a PDP sponsor offering a 8 prescription drug plan or an MA organization 9 offering an MAPD plan shall reimburse an en10 rollee within 30 days for any cost-sharing paid 11 by such enrollee that exceeds the cost-sharing ap12 plied by the prescription drug plan or MAPD 13 plan under subparagraph (B)(i) at the point-of14 sale for such months supply.; and 15 (2) in subsection (c), by adding at the end the 16 following new paragraph: 17 (6) TREATMENT OF COST-SHARING FOR COV18 ERED INSULIN PRODUCTS.The coverage is provided 19
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section covers a drug that is approved under the Federal Food, Drug, and Cosmetic Act or licensed under the Public Health Service Act, including any covered insulin product that has been deemed to be licensed under the Public Health Service Act. The copayment amount for such a drug is $35 per month during plan years 2023 through 2025, and the lesser of $35 or 25% of the maximum fair price or negotiated price for the covered insulin product during plan year 2026 and each subsequent plan year. For a months supply of a covered insulin product dispensed during the period beginning on January 1, 2023, and ending on March 31, 2023, a PDP sponsor offering a prescription drug plan or an MA organization offering an MAPD plan shall reimburse an enrollee within 30 days for any cost-sharing paid by such enrollee that exceeds the cost-sharing applied by the prescription drug plan or MAPD plan at the point-of-sale for such months supply.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+in19 creased under the preceding sentence is not a multiple 20 of 0.1 cent, such amount shall be rounded to the near21 est multiple of 0.1 cent. 22 (c) DEFINITIONS.For purposes of this section 23 (1) LIFECYCLE GREENHOUSE GAS EMISSIONS. 24 (A) IN GENERAL.Subject to subpara25 graph (B), the term lifecycle greenhouse gas 325  HR 5376 EAS 1 emissions has the same meaning given such term 2 under subparagraph (H) of section 211(o)(1) of 3 the Clean Air Act (42 U.S.C. 7545(o)(1)), as in 4 effect on the date of enactment of this section. 5 (B) GREET MODEL.The term lifecycle 6 greenhouse gas emissions shall only include 7 emissions through the point of production (well8 to-gate), as determined under the most recent 9 Greenhouse gases, Regulated Emissions, and En10 ergy use in Transportation model (commonly re11 ferred to as the GREET model) developed by 12 Argonne National Laboratory, or a successor 13 model (as determined by the Secretary). 14 (2) QUALIFIED CLEAN HYDROGEN. 15 (A) IN GENERAL.The term qualified 16 clean hydrogen means hydrogen which is pro17 duced through a process that results in a lifecycle 18 greenhouse gas emissions rate of not greater than 19 4 kilograms of CO2e per kilogram of hydrogen. 20 (B) ADDITIONAL REQUIREMENTS.Such 21 term shall not include any hydrogen unless 22 (i) such hydrogen is produced 23 (I) in the United States (as de24 fined in section 638(1)) or a possession 326  HR 5376 EAS 1 of the United States (as defined in sec2 tion 638(2)), 3 (II) in the ordinary course of a 4 trade or business of the taxpayer, and 5 (III) for sale or use, and 6 (ii) the production and sale or use of 7 such hydrogen is verified by an unrelated 8 party. 9 (C) PROVISIONAL EMISSIONS RATE.In 10 the case of any hydrogen for which a lifecycle 11 greenhouse gas emissions rate has not been deter12 mined for purposes of this section, a taxpayer 13 producing such hydrogen may file a petition 14 with the Secretary for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Clean Air Act defines "lifecycle greenhouse gas emissions" and requires that they be measured using the GREET model. It also defines "qualified clean hydrogen" as hydrogen produced with a lifecycle greenhouse gas emissions rate of no more than 4 kilograms of CO2e per kilogram of hydrogen.

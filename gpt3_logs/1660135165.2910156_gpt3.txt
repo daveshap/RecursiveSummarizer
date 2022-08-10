@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of a taxpayer not de14 scribed in clause (i) or (ii), $150,000. 15 (C) MODIFIED ADJUSTED GROSS IN16 COME.For purposes of this paragraph, the 17 term modified adjusted gross income means ad18 justed gross income increased by any amount ex19 cluded from gross income under section 911, 931, 20 or 933. 21 (11) MANUFACTURERS SUGGESTED RETAIL 22 PRICE LIMITATION. 23 (A) IN GENERAL.No credit shall be al24 lowed under subsection (a) for a vehicle with a 384  HR 5376 EAS 1 manufacturers suggested retail price in excess of 2 the applicable limitation. 3 (B) APPLICABLE LIMITATION.For pur4 poses of subparagraph (A), the applicable limita5 tion for each vehicle classification is as follows: 6 (i) VANS.In the case of a van, 7 $80,000. 8 (ii) SPORT UTILITY VEHICLES.In 9 the case of a sport utility vehicle, $80,000. 10 (iii) PICKUP TRUCKS.In the case of 11 a pickup truck, $80,000. 12 (iv) OTHER.In the case of any other 13 vehicle, $55,000. 14 (C) REGULATIONS AND GUIDANCE.For 15 purposes of this paragraph, the Secretary shall 16 prescribe such regulations or other guidance as 17 the Secretary determines necessary for deter18 mining vehicle classifications using criteria 19 similar to that employed by the Environmental 20 Protection Agency and the Department of the 21 Energy to determine size and class of vehicles.. 22 (g) TRANSFER OF CREDIT. 23 (1) IN GENERAL.Section 30D is amended by 24 striking subsection (g) and inserting the following: 25 (g) TRANSFER OF CREDIT. 385  HR 5376 EAS 1 (1) IN GENERAL.Subject to such regulations 2 or other guidance as the Secretary determines nec3 essary, if the taxpayer who acquires a new clean vehi4 cle elects the application of this subsection with re5 spect to such vehicle, the credit which would (but for 6 this subsection) be allowed to such taxpayer with re7 spect to such vehicle shall be allowed to the eligible en8 tity specified in such election (and not to such tax9 payer). 10 (2) ELIGIBLE
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes a tax credit for the purchase of a new clean vehicle. The credit is limited to $55,000 for vehicles other than vans, sport utility vehicles, and pickup trucks, which are limited to $80,000. The credit is transferable to an eligible entity specified by the taxpayer.

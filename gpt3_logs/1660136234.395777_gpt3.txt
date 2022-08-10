@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+limited to $55,000 for vehicles other than vans, sport utility vehicles, and pickup trucks, which are limited to $80,000. The credit is transferable to an eligible entity specified by the taxpayer.  The "eligible entity" for the purposes of the tax credit under subsection (a) is the dealer who sold the vehicle to the taxpayer and who has registered with the Secretary, disclosed the manufacturer's suggested retail price and the value of the credit to the taxpayer, and made payment to the taxpayer in an amount equal to the credit. The election to claim the credit must be made by the taxpayer at the time of purchase.  The Secretary of Energy may revoke the registration of any dealer that does not comply with the requirements described in paragraph 8. With respect to any payment described in paragraph 2(C), such payment shall not be included in the gross income of the taxpayer, and shall not be deductible by the dealer. The requirements of paragraphs 1 and 2 of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section were allowed to such taxpayer. The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph 1 has been made.  The "dealer" subsection of the new clean vehicle tax credit allows for a credit to be given to taxpayers who purchase new, eligible vehicles from licensed dealers. The credit is recaptured if the vehicle is no longer used as a clean vehicle. Indian tribal governments are defined for the purposes of this subsection.  The Clean Vehicle Credit is a tax credit for certain vehicles with clean burning engines. The credit is available for vehicles purchased after January 1, 2017 and before January 1, 2032. The credit is capped at $7,500 per vehicle.  This section establishes
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Vehicle Credit is a tax credit for certain vehicles with clean burning engines. The credit is available for vehicles purchased after January 1, 2017 and before January 1, 2032. The credit is capped at $7,500 per vehicle.

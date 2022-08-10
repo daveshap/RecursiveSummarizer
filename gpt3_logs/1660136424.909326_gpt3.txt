@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+income and disadvantaged communities.  This section of the Clean Air Act appropriates $100,000,000 to the Environmental Protection Agency for fiscal year 2022 to develop and carry out a program to identify and label construction materials and products that have lower levels of embodied greenhouse gas emissions.  This section provides funding for grants to be awarded to eligible entities for activities related to reducing greenhouse gas emissions and other air pollutants, mitigating climate and health risks, climate resiliency and adaptation, and reducing indoor toxics and indoor air pollution.  This section provides funding for the United States Fish and Wildlife Service to address weather events by rebuilding and restoring units of the National Wildlife Refuge System and State wildlife management areas.  This section of the bill appropriates $32.5 million to the Chair of the Council on Environmental Quality for data collection efforts relating to environmental harms and climate impacts, and $30 million to the Chair of the Council on Environmental Quality for efficient and effective environmental reviews.  The Neighborhood Access and Equity Grant Program provides funding to improve walkability, safety, and affordable transportation access through projects that are context-sensitive and remove, remediate, or reuse facilities described in subsection (c)(1). The program also provides funding to mitigate or remediate negative impacts on the human or natural environment resulting from a facility described in subsection (c)(2) in a disadvantaged or underserved community.  This section authorizes grants for planning and capacity building activities in disadvantaged or underserved communities to identify, monitor, or assess local and ambient air quality, emissions of transportation greenhouse gases, hot spot areas of extreme heat or elevated air pollution, gaps in tree canopy coverage, or flood prone transportation infrastructure. Eligible entities include State and local
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Clean Air Act appropriates $100,000,000 to the Environmental Protection Agency for fiscal year 2022 to develop and carry out a program to identify and label construction materials and products that have lower levels of embodied greenhouse gas emissions. This section also provides funding for grants to be awarded to eligible entities for activities related to reducing greenhouse gas emissions and other air pollutants, mitigating climate and health risks, climate resiliency and adaptation, and reducing indoor toxics and indoor air pollution.

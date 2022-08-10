@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subject to terms and conditions in 15 subsection (b), including to subsidize gross obligations 16 for the principal amount of such loans, not to exceed 17 $4,000,000,000, to fund projects that improve energy 18 or water efficiency, enhance indoor air quality or sus19 tainability, implement the use of zero-emission elec20 tricity generation, low-emission building materials or 21 processes, energy storage, or building electrification 22 strategies, or address climate resilience, of an eligible 23 property; 24 (2) $60,000,000, to remain available until Sep25 tember 30, 2030, for the costs to the Secretary for in- 570  HR 5376 EAS 1 formation technology, research and evaluation, and 2 administering and overseeing the implementation of 3 this section; 4 (3) $60,000,000, to remain available until Sep5 tember 30, 2029, for expenses of contracts or coopera6 tive agreements administered by the Secretary; and 7 (4) $42,500,000, to remain available until Sep8 tember 30, 2028, for energy and water benchmarking 9 of properties eligible to receive grants or loans under 10 this section, regardless of whether they actually re11 ceived such grants or loans, along with associated 12 data analysis and evaluation at the property and 13 portfolio level, and the development of information 14 technology systems necessary for the collection, evalua15 tion, and analysis of such data. 16 (b) LOAN AND GRANT TERMS AND CONDITIONS. 17 Amounts made available under this section shall be for di18 rect loans, grants, and direct loans that can be converted 19 to grants to eligible recipients that agree to an extended 20 period of affordability for the property. 21 (c) DEFINITIONS.As used in this section 22 (1) the term eligible recipient means any 23 owner or sponsor of an eligible property; and 24 (2) the term eligible property means a prop25 erty assisted pursuant to 571  HR 5376 EAS 1 (A) section 202 of the Housing Act of 1959 2 (12 U.S.C. 1701q); 3 (B) section 202 of the Housing Act
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides for the appropriation of $4 billion to subsidize loans for energy efficiency, water efficiency, and climate resilience projects for eligible properties. Eligible recipients include owners or sponsors of eligible properties assisted by the Housing Act of 1959.

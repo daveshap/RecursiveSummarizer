@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+assistance to States to develop and imple23 ment a State program described in section 362(d)(13) of 24 the Energy Policy and Conservation Act (42 U.S.C. 25 6322(d)(13)), which shall provide training and education 605  HR 5376 EAS 1 to contractors involved in the installation of home energy 2 efficiency and electrification improvements, including im3 provements eligible for rebates under a HOMES rebate pro4 gram (as defined in section 50121(d)) or a high-efficiency 5 electric home rebate program (as defined in section 6 50122(d)), as part of an approved State energy conserva7 tion plan under the State Energy Program. 8 (b) USE OF FUNDS.A State may use amounts re9 ceived under subsection (a) 10 (1) to reduce the cost of training contractor em11 ployees; 12 (2) to provide testing and certification of con13 tractors trained and educated under a State program 14 developed and implemented pursuant to subsection 15 (a); and 16 (3) to partner with nonprofit organizations to 17 develop and implement a State program pursuant to 18 subsection (a). 19 (c) ADMINISTRATIVE EXPENSES.Of the amounts re20 ceived by a State under subsection (a), a State shall use 21 not more than 10 percent for administrative expenses asso22 ciated with developing and implementing a State program 23 pursuant to that subsection. 606  HR 5376 EAS 1 PART 3BUILDING EFFICIENCY AND RESILIENCE 2 SEC. 50131. ASSISTANCE FOR LATEST AND ZERO BUILDING 3 ENERGY CODE ADOPTION. 4 (a) APPROPRIATION.In addition to amounts other5 wise available, there is appropriated to the Secretary for 6 fiscal year 2022, out of any money in the Treasury not 7 otherwise appropriated 8 (1) $330,000,000, to remain available through 9 September 30, 2029, to carry out activities under 10 part D of title III of the Energy Policy and Con11 servation Act (42 U.S.C. 6321 through 6326) in ac12 cordance with subsection (b); and 13 (2) $670,000,000, to remain available through 14 September 30, 2029, to carry out activities under 15 part
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides funding for training contractors involved in the installation of home energy efficiency and electrification improvements, as part of an approved State energy conservation plan. Funds may be used to reduce the cost of training contractor employees, to provide testing and certification of contractors trained and educated under a State program, and to partner with nonprofit organizations to develop and implement a State program.

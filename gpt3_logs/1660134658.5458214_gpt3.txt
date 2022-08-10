@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+fair price, increased as de22 scribed in section 23 1195(b)(1)(A); and 24 (II) the number of units (exclud25 ing units that are packaged into the 117  HR 5376 EAS 1 payment amount for an item or service 2 and are not separately payable under 3 such part B) of the billing and pay4 ment code of such biological product 5 administered or furnished under such 6 part B during each such calendar 7 quarter of such price applicability pe8 riod. 9 (C) SPECIAL RULE FOR DELAYED BIOLOGI10 CAL PRODUCTS THAT ARE LONG-MONOPOLY 11 DRUGS. 12 (i) IN GENERAL.In the case of a bi13 ological product with respect to which a re14 bate is required to be paid under this para15 graph, if such biological product qualifies as 16 a long-monopoly drug (as defined in section 17 1194(c)(5)) at the time of its inclusion on 18 the list published under subsection (a), in 19 determining the amount of the rebate for 20 such biological product under subparagraph 21 (B), the amount described in clause (ii) 22 shall be substituted for the maximum fair 23 price described in clause (i)(I) or (ii)(I) of 24 such subparagraph (B), as applicable. 118  HR 5376 EAS 1 (ii) AMOUNT DESCRIBED.The 2 amount described in this clause is an 3 amount equal to 65 percent of the average 4 non-Federal average manufacturer price for 5 the biological product for 2021 (or, in the 6 case that there is not an average non-Fed7 eral average manufacturer price available 8 for such biological product for 2021, for the 9 first full year following the market entry for 10 such biological product), increased by the 11 percentage increase in the consumer price 12 index for all urban consumers (all items; 13 United States city average) from September 14 2021 (or December of such first full year 15 following the market entry), as applicable, 16 to September of the year prior to the se17 lected drug publication date with respect to 18 the initial price applicability year that 19 would have applied but for this subsection. 20 (D)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes the maximum fair price for a biological product and the amount of the rebate for such product. The fair price is increased as described in section 1195(b)(1)(A), and the number of units of the product is increased as well. If the product qualifies as a long-monopoly drug, the amount of the rebate is increased by 65 percent.

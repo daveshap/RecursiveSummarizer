@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+for necessary expenses 21 of the Government Accountability Office to support the over22 sight of 23 (1) the distribution and use of funds appro24 priated under this Act; and 722  HR 5376 EAS 1 (2) whether the economic, social, and environ2 mental impacts of the funds described in paragraph 3 (1) are equitable. 4 SEC. 70005. OFFICE OF MANAGEMENT AND BUDGET OVER5 SIGHT. 6 In addition to amounts otherwise available, there are 7 appropriated to the Director of the Office of Management 8 and Budget for fiscal year 2022, out of any money in the 9 Treasury not otherwise appropriated, $25,000,000, to re10 main available until September 30, 2026, for necessary ex11 penses to 12 (1) oversee the implementation of this Act; and 13 (2) track labor, equity, and environmental 14 standards and performance. 15 SEC. 70006. FEMA BUILDING MATERIALS PROGRAM. 16 Through September 30, 2026, the Administrator of the 17 Federal Emergency Management Agency may provide fi18 nancial assistance under sections 203(h), 404(a), and 19 406(b) of the Robert T. Stafford Disaster Relief and Emer20 gency Assistance Act (42 U.S.C. 5133(h), 42 U.S.C. 21 5170c(a), 42 U.S.C. 5172(b)) for 22 (1) costs associated with low-carbon materials; 23 and 24 (2) incentives that encourage low-carbon and 25 net-zero energy projects. 723  HR 5376 EAS 1 SEC. 70007. FEDERAL PERMITTING IMPROVEMENT STEER2 ING COUNCIL ENVIRONMENTAL REVIEW IM3 PROVEMENT FUND MANDATORY FUNDING. 4 In addition to amounts otherwise available, there is 5 appropriated to the Federal Permitting Improvement Steer6 ing Council Environmental Review Improvement Fund, out 7 of any money in the Treasury not otherwise appropriated, 8 $350,000,000 for fiscal year 2023, to remain available 9 through September 30, 2031. 10 TITLE VIIICOMMITTEE ON 11 INDIAN AFFAIRS 12 SEC. 80001. TRIBAL CLIMATE RESILIENCE. 13 (a) TRIBAL CLIMATE RESILIENCE AND ADAPTA14 TION.In addition to amounts otherwise available, there 15 is appropriated to the Director of the Bureau
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Government Accountability Office is given $21 million to support the oversight of the distribution and use of funds appropriated under this Act, and to track labor, equity, and environmental standards and performance. Additionally, $25 million is appropriated to the Director of the Office of Management and Budget to oversee the implementation of this Act and track labor, equity, and environmental standards and performance. Finally, $350 million is appropriated to the Federal Permitting Improvement Steering Council Environmental Review Improvement Fund to support climate resilience and adaptation efforts.

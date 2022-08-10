@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+technology for use at, or to di20 rectly serve, one or more ports; 21 (B) to conduct any relevant planning or 22 permitting in connection with the purchase or 23 installation of such zero-emission port equipment 24 or technology; and 664  HR 5376 EAS 1 (C) to develop qualified climate action 2 plans. 3 (2) NONATTAINMENT AREAS.In addition to 4 amounts otherwise available, there is appropriated to 5 the Administrator for fiscal year 2022, out of any 6 money in the Treasury not otherwise appropriated, 7 $750,000,000, to remain available until September 8 30, 2027, to award rebates and grants to eligible re9 cipients to carry out activities described in paragraph 10 (1) with respect to ports located in air quality areas 11 designated pursuant to section 107 as nonattainment 12 for an air pollutant. 13 (b) LIMITATION.Funds awarded under this section 14 shall not be used by any recipient or subrecipient to pur15 chase or install zero-emission port equipment or technology 16 that will not be located at, or directly serve, the one or more 17 ports involved. 18 (c) ADMINISTRATION OF FUNDS.Of the funds made 19 available by this section, the Administrator shall reserve 2 20 percent for administrative costs necessary to carry out this 21 section. 22 (d) DEFINITIONS.In this section: 23 (1) ELIGIBLE RECIPIENT.The term eligible 24 recipient means 25 (A) a port authority; 665  HR 5376 EAS 1 (B) a State, regional, local, or Tribal 2 agency that has jurisdiction over a port author3 ity or a port; 4 (C) an air pollution control agency; or 5 (D) a private entity that 6 (i) applies for a grant under this sec7 tion in partnership with an entity described 8 in any of subparagraphs (A) through (C); 9 and 10 (ii) owns, operates, or uses the facili11 ties, cargo-handling equipment, transpor12 tation equipment, or related technology of a 13 port. 14 (2) GREENHOUSE GAS.The term greenhouse 15 gas means the air pollutants carbon dioxide, 16
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Ports Clean Air Revitalization Act authorizes the Environmental Protection Agency to award rebates and grants to eligible recipients for the purchase and installation of zero-emission port equipment and technology. Funds awarded under this section may not be used to purchase or install equipment or technology that will not be located at, or directly serve, the port(s) involved.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+price or negotiated price for the covered insulin product during plan year 2026 and each subsequent plan year.  This bill amends the Social Security Act to require that, for plan year 2023 and subsequent plan years, the copayment amount for a covered insulin product dispensed to a low-income individual may not exceed the applicable copayment amount for the product under the prescription drug plan or Medicare Advantage plan in which the individual is enrolled. The bill also limits the monthly coinsurance and adjusts the supplier payment under Medicare Part B for insulin furnished through durable medical equipment. Additionally, the bill extends and modifies the credit for electricity produced from certain renewable resources.  The Building and Renovation Tax Relief Act imposes a penalty on taxpayers who fail to meet the apprenticeship requirements for construction of qualified facilities. The bill also provides a tax credit for up to 15% of the cost of constructing certain qualified energy efficient buildings, with the credit amount depending on when construction begins. The bill also requires that any taxpayer who employs 4 or more individuals to perform construction work on a qualified facility must employ 1 or more qualified apprentices. If the Secretary determines that any failure is due to intentional disregard of the requirements, the credit shall be applied by substituting $500 for $50. The Secretary of Energy shall issue regulations or other guidance as necessary to carry out the purposes of the Domestic Content Bonus Credit, including recordkeeping and information reporting requirements. The Domestic Content Bonus Credit is a 10% increase to the tax credit for qualified facilities that use components produced in the United States.  This section amends section 48(a) of the Internal Revenue Code to phase out the credit for certain energy property and to reduce the credit. The credit is extended to facilities placed in service after December 31, 2025. The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill amends the Social Security Act to require that, for plan year 2023 and subsequent plan years, the copayment amount for a covered insulin product dispensed to a low-income individual may not exceed the applicable copayment amount for the product under the prescription drug plan or Medicare Advantage plan in which the individual is enrolled. The bill also limits the monthly coinsurance and adjusts the supplier payment under Medicare Part B for insulin furnished through durable medical equipment. Additionally, the bill extends and modifies the credit for electricity produced from certain renewable resources.

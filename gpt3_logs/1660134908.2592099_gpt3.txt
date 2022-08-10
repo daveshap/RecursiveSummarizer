@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Secretary of Labor, in accord6 ance with subchapter IV of chapter 31 of title 40, 7 United States Code. For purposes of determining 8 an increased credit amount under paragraph 9 (6)(A) for a taxable year, the requirement under 10 clause (ii) is applied to such taxable year in 11 which the alteration or repair of the qualified fa12 cility occurs. 13 (B) CORRECTION AND PENALTY RELATED 14 TO FAILURE TO SATISFY WAGE REQUIRE15 MENTS. 16 (i) IN GENERAL.In the case of any 17 taxpayer which fails to satisfy the require18 ment under subparagraph (A) with respect 19 to the construction of any qualified facility 20 or with respect to the alteration or repair of 21 a facility in any year during the period de22 scribed in subparagraph (A)(ii), such tax23 payer shall be deemed to have satisfied such 24 requirement under such subparagraph with 25 respect to such facility for any year if, with 246  HR 5376 EAS 1 respect to any laborer or mechanic who was 2 paid wages at a rate below the rate de3 scribed in such subparagraph for any pe4 riod during such year, such taxpayer 5 (I) makes payment to such la6 borer or mechanic in an amount equal 7 to the sum of 8 (aa) an amount equal to the 9 difference between 10 (AA) the amount of 11 wages paid to such laborer or 12 mechanic during such period, 13 and 14 (BB) the amount of 15 wages required to be paid to 16 such laborer or mechanic 17 pursuant to such subpara18 graph during such period, 19 plus 20 (bb) interest on the amount 21 determined under item (aa) at the 22 underpayment rate established 23 under section 6621 (determined by 24 substituting 6 percentage points 25 for 3 percentage points in sub- 247  HR 5376 EAS 1 section (a)(2) of such section) for 2 the period described in such item, 3 and 4 (II) makes payment to the Sec5 retary of a penalty in an amount 6 equal to the product of 7 (aa) $5,000, multiplied by 8 (bb) the total number of la9 borers and mechanics who were 10 paid wages at a rate
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Labor is responsible for ensuring that laborers and mechanics working on construction projects funded by the government are paid at least the prevailing wage rate. If a taxpayer fails to pay the prevailing wage, they may be subject to a penalty of $5,000 per worker.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+item: Sec. 30D. Clean vehicle credit.. 19 (j) GROSS-UP OF DIRECT SPENDING.Beginning in 20 fiscal year 2023 and each fiscal year thereafter, the portion 21 of any credit allowed to an eligible entity (as defined in 22 section 30D(g)(2) of the Internal Revenue Code of 1986) 23 pursuant to an election made under section 30D(g) of the 24 Internal Revenue Code of 1986 that is direct spending shall 25 be increased by 6.0445 percent. 393  HR 5376 EAS 1 (k) EFFECTIVE DATES. 2 (1) IN GENERAL.Except as provided in para3 graphs (2), (3), (4), and (5), the amendments made 4 by this section shall apply to vehicles placed in serv5 ice after December 31, 2022. 6 (2) FINAL ASSEMBLY.The amendments made 7 by subsection (b) shall apply to vehicles sold after the 8 date of enactment of this Act. 9 (3) PER VEHICLE DOLLAR LIMITATION AND RE10 LATED REQUIREMENTS.The amendments made by 11 subsections (a) and (e) shall apply to vehicles placed 12 in service after the date on which the proposed guid13 ance described in paragraph (3)(B) of section 30D(e) 14 of the Internal Revenue Code of 1986 (as added by 15 subsection (e)) is issued by the Secretary of the Treas16 ury (or the Secretarys delegate). 17 (4) TRANSFER OF CREDIT.The amendments 18 made by subsection (g) shall apply to vehicles placed 19 in service after December 31, 2023. 20 (5) ELIMINATION OF MANUFACTURER LIMITA21 TION.The amendment made by subsection (d) shall 22 apply to vehicles sold after December 31, 2022. 23 (l) TRANSITION RULE.Solely for purposes of the ap24 plication of section 30D of the Internal Revenue Code of 25 1986, in the case of a taxpayer that 394  HR 5376 EAS 1 (1) after December 31, 2021, and before the date 2 of enactment of this Act, purchased, or entered into 3 a written binding contract to purchase, a new quali4 fied plug-in electric drive motor vehicle (as defined in 5 section 30D(d)(1) of the Internal Revenue Code of 6 1986, as in effect on the day before the date of enact7 ment of this
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes a clean vehicle credit for vehicles placed in service after December 31, 2022. The credit is increased by 6.0445 percent for direct spending on eligible vehicles.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+new clause: 5 (ii) the tax imposed by section 55,. 6 (b) ADJUSTED FINANCIAL STATEMENT INCOME. 7 (1) IN GENERAL.Part VI of subchapter A of 8 chapter 1 is amended by inserting after section 56 the 9 following new section: 10 SEC. 56A. ADJUSTED FINANCIAL STATEMENT INCOME. 11 (a) IN GENERAL.For purposes of this part, the term 12 adjusted financial statement income means, with respect 13 to any corporation for any taxable year, the net income 14 or loss of the taxpayer set forth on the taxpayers applicable 15 financial statement for such taxable year, adjusted as pro16 vided in this section. 17 (b) APPLICABLE FINANCIAL STATEMENT.For pur18 poses of this section, the term applicable financial state19 ment means, with respect to any taxable year, an applica20 ble financial statement (as defined in section 451(b)(3) or 21 as specified by the Secretary in regulations or other guid22 ance) which covers such taxable year. 23 (c) GENERAL ADJUSTMENTS. 24 (1) STATEMENTS COVERING DIFFERENT TAX25 ABLE YEARS.Appropriate adjustments shall be 14  HR 5376 EAS 1 made in adjusted financial statement income in any 2 case in which an applicable financial statement cov3 ers a period other than the taxable year. 4 (2) SPECIAL RULES FOR RELATED ENTITIES. 5 (A) CONSOLIDATED FINANCIAL STATE6 MENTS.If the financial results of a taxpayer 7 are reported on the applicable financial state8 ment for a group of entities, rules similar to the 9 rules of section 451(b)(5) shall apply. 10 (B) CONSOLIDATED RETURNS.Except as 11 provided in regulations prescribed by the Sec12 retary, if the taxpayer is part of an affiliated 13 group of corporations filing a consolidated re14 turn for any taxable year, adjusted financial 15 statement income for such group for such taxable 16 year shall take into account items on the groups 17 applicable financial statement which are prop18 erly allocable to members of such group. 19 (C) TREATMENT OF DIVIDENDS AND 20 OTHER AMOUNTS.In the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This clause amends the tax code to include a new section (56A) on adjusted financial statement income. Adjusted financial statement income is defined as the net income or loss of a corporation set forth on the corporation's applicable financial statement for the taxable year, adjusted as provided in this section. The section goes on to specify what an applicable financial statement is and how to make adjustments for consolidated financial statements and for dividends and other amounts.

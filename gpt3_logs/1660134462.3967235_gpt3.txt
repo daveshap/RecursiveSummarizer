@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+determined by the 5 Secretary to be economically similar to a trans6 action described in subparagraph (A). 7 (2) TREATMENT OF PURCHASES BY SPECIFIED 8 AFFILIATES. 9 (A) IN GENERAL.The acquisition of stock 10 of a covered corporation by a specified affiliate 11 of such covered corporation, from a person who 12 is not the covered corporation or a specified affil13 iate of such covered corporation, shall be treated 14 as a repurchase of the stock of the covered cor15 poration by such covered corporation. 16 (B) SPECIFIED AFFILIATE.For purposes 17 of this section, the term specified affiliate 18 means, with respect to any corporation 19 (i) any corporation more than 50 20 percent of the stock of which is owned (by 21 vote or by value), directly or indirectly, by 22 such corporation, and 23 (ii) any partnership more than 50 24 percent of the capital interests or profits in- 32  HR 5376 EAS 1 terests of which is held, directly or indi2 rectly, by such corporation. 3 (3) ADJUSTMENT.The amount taken into ac4 count under subsection (a) with respect to any stock 5 repurchased by a covered corporation shall be reduced 6 by the fair market value of any stock issued by the 7 covered corporation during the taxable year, includ8 ing the fair market value of any stock issued or pro9 vided to employees of such covered corporation or em10 ployees of a specified affiliate of such covered corpora11 tion during the taxable year, whether or not such 12 stock is issued or provided in response to the exercise 13 of an option to purchase such stock. 14 (d) SPECIAL RULES FOR ACQUISITION OF STOCK OF 15 CERTAIN FOREIGN CORPORATIONS. 16 (1) IN GENERAL.In the case of an acquisition 17 of stock of an applicable foreign corporation by a 18 specified affiliate of such corporation (other than a 19 foreign corporation or a foreign partnership (unless 20 such partnership has a domestic entity as a direct or 21 indirect partner)) from a person who is not the appli22 cable
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The acquisition of stock of a covered corporation by a specified affiliate of such covered corporation, from a person who is not the covered corporation or a specified affiliate of such covered corporation, shall be treated as a repurchase of the stock of the covered corporation by such covered corporation.

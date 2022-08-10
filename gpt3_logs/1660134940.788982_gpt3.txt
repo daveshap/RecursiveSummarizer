@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ENERGY. 14 Section 45(b)(4)(A), as amended by the preceding 15 provisions of this section, is amended by striking 16 (7), (9), or (11) and inserting or (7). 17 (2) MARINE AND HYDROKINETIC RENEWABLE EN18 ERGY.Section 45 is amended 19 (A) in subsection (c)(10)(A) 20 (i) in clause (iii), by striking or, 21 (ii) in clause (iv), by striking the pe22 riod at the end and inserting , or and 23 (iii) by adding at the end the fol24 lowing: 262  HR 5376 EAS 1 (v) pressurized water used in a pipe2 line (or similar man-made water convey3 ance) which is operated 4 (I) for the distribution of water 5 for agricultural, municipal, or indus6 trial consumption, and 7 (II) not primarily for the gen8 eration of electricity., and 9 (B) in subsection (d)(11)(A), by striking 10 150 and inserting 25. 11 (k) EFFECTIVE DATES. 12 (1) IN GENERAL.Except as provided in para13 graphs (2) and (3), the amendments made by this sec14 tion shall apply to facilities placed in service after 15 December 31, 2021. 16 (2) CREDIT REDUCED FOR TAX-EXEMPT 17 BONDS.The amendment made by subsection (h) 18 shall apply to facilities the construction of which be19 gins after the date of enactment of this Act. 20 (3) DOMESTIC CONTENT, PHASEOUT, ENERGY 21 COMMUNITIES, AND HYDROPOWER.The amendments 22 made by subsections (g) and (j) shall apply to facili23 ties placed in service after December 31, 2022. 263  HR 5376 EAS 1 SEC. 13102. EXTENSION AND MODIFICATION OF ENERGY 2 CREDIT. 3 (a) EXTENSION OF CREDIT.The following provisions 4 of section 48 are each amended by striking January 1, 5 2024 each place it appears and inserting January 1, 6 2025: 7 (1) Subsection (a)(2)(A)(i)(II). 8 (2) Subsection (a)(3)(A)(ii). 9 (3) Subsection (c)(1)(D). 10 (4) Subsection (c)(2)(D). 11 (5) Subsection (c)(3)(A)(iv). 12 (6) Subsection (c)(4)(C). 13 (7) Subsection (c)(5)(D). 14 (b) FURTHER EXTENSION FOR CERTAIN ENERGY 15 PROPERTY.Section 48(a)(3)(A)(vii) is amended by strik16 ing
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The energy credit is extended and modified by this section. The credit is extended to facilities placed in service after December 31, 2025. The credit is further extended for certain energy property.

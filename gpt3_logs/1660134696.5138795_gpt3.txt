@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+effect under sec7 tion 506E of the Federal Food, Drug, and 8 Cosmetic Act at any point during the cal9 endar quarter; or 10 (ii) in the case of a biosimilar bio11 logical product, when the Secretary deter12 mines there is a severe supply chain disrup13 tion during the calendar quarter, such as 14 that caused by a natural disaster or other 15 unique or unexpected event. 16 (4) SPECIAL TREATMENT OF CERTAIN DRUGS 17 AND EXEMPTION. 18 (A) SUBSEQUENTLY APPROVED DRUGS. 19 In the case of a part B rebatable drug first ap20 proved or licensed by the Food and Drug Admin21 istration after December 1, 2020, clause (i) of 22 paragraph (3)(C) shall be applied as if the term 23 payment amount benchmark quarter were de24 fined under paragraph (3)(D) as the third full 25 calendar quarter after the day on which the drug 136  HR 5376 EAS 1 was first marketed and clause (ii) of paragraph 2 (3)(C) shall be applied as if the term benchmark 3 period CPIU were defined under paragraph 4 (3)(E) as if the reference to January 2021 5 under such paragraph were a reference to the 6 first month of the first full calendar quarter after 7 the day on which the drug was first marketed. 8 (B) TIMELINE FOR PROVISION OF REBATES 9 FOR SUBSEQUENTLY APPROVED DRUGS.In the 10 case of a part B rebatable drug first approved or 11 licensed by the Food and Drug Administration 12 after December 1, 2020, paragraph (1)(B) shall 13 be applied as if the reference to January 1, 14 2023 under such paragraph were a reference to 15 the later of the 6th full calendar quarter after 16 the day on which the drug was first marketed or 17 January 1, 2023. 18 (C) SELECTED DRUGS.In the case of a 19 part B rebatable drug that is a selected drug (as 20 defined in section 1192(c)) with respect to a 21 price applicability period (as defined in section 22 1191(b)(2)), in the case such drug is no longer 23 considered to be a selected drug under section 24 1192(c), for each applicable period (as defined 25
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with rebates for drugs covered under Part B of Medicare. For drugs first approved or licensed after December 1, 2020, the rebate amount will be based on the third full calendar quarter after the drug is first marketed. For subsequently approved drugs, the rebate will be based on the later of the 6th full calendar quarter after the drug is first marketed or January 1, 2023.

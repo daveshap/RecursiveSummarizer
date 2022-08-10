@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+vulnerable 6 road users; and 7 (3) for planning and capacity building activi8 ties in disadvantaged or underserved communities 9 to 10 (A) identify, monitor, or assess local and 11 ambient air quality, emissions of transportation 12 greenhouse gases, hot spot areas of extreme heat 13 or elevated air pollution, gaps in tree canopy 14 coverage, or flood prone transportation infra15 structure; 16 (B) assess transportation equity or pollu17 tion impacts and develop local anti-displacement 18 policies and community benefit agreements; 19 (C) conduct predevelopment activities for 20 projects eligible under this subsection; 21 (D) expand public participation in trans22 portation planning by individuals and organiza23 tions in disadvantaged or underserved commu24 nities; or 707  HR 5376 EAS 1 (E) administer or obtain technical assist2 ance related to activities described in this sub3 section. 4 (b) ELIGIBLE ENTITIES DESCRIBED.An eligible en5 tity referred to in subsection (a) is 6 (1) a State; 7 (2) a unit of local government; 8 (3) a political subdivision of a State; 9 (4) an entity described in section 207(m)(1)(E); 10 (5) a territory of the United States; 11 (6) a special purpose district or public author12 ity with a transportation function; 13 (7) a metropolitan planning organization (as 14 defined in section 134(b)(2)); or 15 (8) with respect to a grant described in sub16 section (a)(3), in addition to an eligible entity de17 scribed in paragraphs (1) through (7), a nonprofit or18 ganization or institution of higher education that has 19 entered into a partnership with an eligible entity de20 scribed in paragraphs (1) through (7). 21 (c) FACILITY DESCRIBED.A facility referred to in 22 subsection (a) is 23 (1) a surface transportation facility for which 24 high speeds, grade separation, or other design factors 708  HR 5376 EAS 1 create an obstacle to connectivity within a commu2 nity; or 3 (2) a surface transportation facility
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes grants for planning and capacity building activities in disadvantaged or underserved communities to identify, monitor, or assess local and ambient air quality, emissions of transportation greenhouse gases, hot spot areas of extreme heat or elevated air pollution, gaps in tree canopy coverage, or flood prone transportation infrastructure. Eligible entities include State and local governments, metropolitan planning organizations, and nonprofit or educational organizations.

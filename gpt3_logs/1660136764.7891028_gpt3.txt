@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+by unreasonable delay in environmental permitting of gathering or transmission infrastructure necessary for offtake of increased volume as a result of methane emissions mitigation implementation. Additionally, the proposed rule would exempt an applicable facility from the charge if the facility is subject to and in compliance with methane emissions requirements and if compliance with those requirements will result in equivalent or greater emissions reductions. Finally, the proposed rule would exempt emissions from any well that has been plugged in accordance with applicable regulations.  This section of the Clean Air Act appropriates $100,000,000 to the Environmental Protection Agency for fiscal year 2022 to develop and carry out a program to identify and label construction materials and products that have lower levels of embodied greenhouse gas emissions. This section also provides funding for grants to be awarded to eligible entities for activities related to reducing greenhouse gas emissions and other air pollutants, mitigating climate and health risks, climate resiliency and adaptation, and reducing indoor toxics and indoor air pollution.  This section of the bill provides for grants to be awarded to economically disadvantaged or underserved communities for projects that address air pollution, noise, stormwater, or other burdens. The Federal share of the cost of these projects shall not exceed 80 percent. Additionally, the bill appropriates funds for the purchase and installation of low-carbon materials for use in buildings under the jurisdiction of the General Services Administration and for emerging and sustainable technologies. The bill also establishes the Environmental Review Implementation Fund to help cover the costs of environmental reviews required by the National Environmental Policy Act.  This section of the bill establishes the position of Chief Readiness Support Officer within the Department of Homeland Security, and outlines the Officer's
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Clean Air Act appropriates $100,000,000 to the Environmental Protection Agency for fiscal year 2022 to develop and carry out a program to identify and label construction materials and products that have lower levels of embodied greenhouse gas emissions. This section also provides funding for grants to be awarded to eligible entities for activities related to reducing greenhouse gas emissions and other air pollutants, mitigating climate and health risks, climate resiliency and adaptation, and reducing indoor toxics and indoor air pollution.

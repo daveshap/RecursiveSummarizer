@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ENTITY.The term eligible enti7 ty means the owner or operator of an eligible facil8 ity. 9 (3) ELIGIBLE FACILITY.The term eligible fa10 cility means a domestic, non-Federal, nonpower in11 dustrial or manufacturing facility engaged in energy12 intensive industrial processes, including production 13 processes for iron, steel, steel mill products, alu14 minum, cement, concrete, glass, pulp, paper, indus15 trial ceramics, chemicals, and other energy intensive 16 industrial processes, as determined by the Secretary. 17 (4) FINANCIAL ASSISTANCE.The term finan18 cial assistance means a grant, rebate, direct loan, or 19 cooperative agreement. 20 PART 7OTHER ENERGY MATTERS 21 SEC. 50171. DEPARTMENT OF ENERGY OVERSIGHT. 22 In addition to amounts otherwise available, there is 23 appropriated to the Secretary for fiscal year 2022, out of 24 any money in the Treasury not otherwise appropriated, 25 $20,000,000, to remain available through September 30, 629  HR 5376 EAS 1 2031, for oversight by the Department of Energy Office of 2 Inspector General of the Department of Energy activities 3 for which funding is appropriated in this subtitle. 4 SEC. 50172. NATIONAL LABORATORY INFRASTRUCTURE. 5 (a) OFFICE OF SCIENCE.In addition to amounts oth6 erwise available, there is appropriated to the Secretary, act7 ing through the Director of the Office of Science, for fiscal 8 year 2022, out of any money in the Treasury not otherwise 9 appropriated, to remain available through September 30, 10 2027 11 (1) $133,240,000 to carry out activities for 12 science laboratory infrastructure projects; 13 (2) $303,656,000 to carry out activities for high 14 energy physics construction and major items of equip15 ment projects; 16 (3) $280,000,000 to carry out activities for fu17 sion energy science construction and major items of 18 equipment projects; 19 (4) $217,000,000 to carry out activities for nu20 clear physics construction and major items of equip21 ment projects; 22 (5)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy is allocating funds for infrastructure projects related to high energy physics, fusion energy science, and nuclear physics.

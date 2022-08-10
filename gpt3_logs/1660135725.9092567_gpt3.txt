@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+otherwise appropriated, $900,000, to remain available 17 through September 30, 2026, for necessary administrative 18 expenses associated with carrying out this section. 19 PART 5OFFSHORE WIND 20 SEC. 50251. LEASING ON THE OUTER CONTINENTAL SHELF. 21 (a) LEASING AUTHORIZED.The Secretary may grant 22 leases, easements, and rights-of-way pursuant to section 23 8(p)(1)(C) of the Outer Continental Shelf Lands Act (43 24 U.S.C. 1337(p)(1)(C)) in an area withdrawn by 25 (1) the Presidential memorandum entitled 26 Memorandum on the Withdrawal of Certain Areas of 638  HR 5376 EAS 1 the United States Outer Continental Shelf from Leas2 ing Disposition and dated September 8, 2020; or 3 (2) the Presidential memorandum entitled Pres4 idential Determination on the Withdrawal of Certain 5 Areas of the United States Outer Continental Shelf 6 from Leasing Disposition and dated September 25, 7 2020. 8 (b) OFFSHORE WIND FOR THE TERRITORIES. 9 (1) APPLICATION OF OUTER CONTINENTAL SHELF 10 LANDS ACT WITH RESPECT TO TERRITORIES OF THE 11 UNITED STATES. 12 (A) IN GENERAL.Section 2 of the Outer 13 Continental Shelf Lands Act (43 U.S.C. 1331) is 14 amended 15 (i) in subsection (a) 16 (I) by striking means all and 17 inserting the following: means 18 (1) all; and 19 (II) in paragraph (1) (as so des20 ignated), by striking control; and in21 serting the following: control or with22 in the exclusive economic zone of the 23 United States and adjacent to any ter24 ritory of the United States; and; and 639  HR 5376 EAS 1 (III) by adding at the end fol2 lowing: 3 (2) does not include any area conveyed by Con4 gress to a territorial government for administration;; 5 (ii) in subsection (p), by striking 6 and after the semicolon at the end; 7 (iii) in subsection (q), by striking the 8 period at the end and inserting ; and; 9 and 10 (iv) by adding at the end the following: 11 (r) The term State means 12 (1) each of the several States; 13 (2) the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Outer Continental Shelf Lands Act is amended to allow the Secretary to grant leases, easements, and rights-of-way for offshore wind development in areas withdrawn by the President. This section also applies the Act to the territories of the United States.

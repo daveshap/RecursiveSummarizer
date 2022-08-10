@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+fa22 cility or direct air capture facility 23 (1) the construction of which begins before Jan24 uary 1, 2033, and either 292  HR 5376 EAS 1 (A) construction of carbon capture equip2 ment begins before such date, or 3 (B) the original planning and design for 4 such facility includes installation of carbon cap5 ture equipment, and 6 (2) which 7 (A) in the case of a direct air capture fa8 cility, captures not less than 1,000 metric tons of 9 qualified carbon oxide during the taxable year, 10 (B) in the case of an electricity generating 11 facility 12 (i) captures not less than 18,750 met13 ric tons of qualified carbon oxide during the 14 taxable year, and 15 (ii) with respect to any carbon cap16 ture equipment for the applicable electric 17 generating unit at such facility, has a cap18 ture design capacity of not less than 75 per19 cent of the baseline carbon oxide production 20 of such unit, or 21 (C) in the case of any other facility, cap22 tures not less than 12,500 metric tons of quali23 fied carbon oxide during the taxable year.. 24 (2) DEFINITIONS. 293  HR 5376 EAS 1 (A) IN GENERAL.Section 45Q(e) is 2 amended 3 (i) by redesignating paragraphs (1) 4 through (3) as paragraphs (3) through (5), 5 respectively, and 6 (ii) by inserting after For purposes of 7 this section the following new para8 graphs: 9 (1) APPLICABLE ELECTRIC GENERATING 10 UNIT.The term applicable electric generating unit 11 means the principal electric generating unit for which 12 the carbon capture equipment is originally planned 13 and designed. 14 (2) BASELINE CARBON OXIDE PRODUCTION. 15 (A) IN GENERAL.The term baseline car16 bon oxide production means either of the fol17 lowing: 18 (i) In the case of an applicable elec19 tric generating unit which was originally 20 placed in service more than 1 year prior to 21 the date on which construction of the carbon 22 capture equipment begins, the average an23 nual carbon oxide production, by mass, 24 from
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides a tax credit for certain carbon capture facilities. To qualify, the facility must begin construction before 2033 and must capture a certain amount of carbon oxide each year.

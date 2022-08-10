@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+USE OF FUNDS. 15 (1) IN GENERAL.The Secretary may make a 16 grant under this section to a siting authority for, 17 with respect to a covered transmission project, any of 18 the following activities: 19 (A) Studies and analyses of the impacts of 20 the covered transmission project. 21 (B) Examination of up to 3 alternate siting 22 corridors within which the covered transmission 23 project feasibly could be sited. 24 (C) Participation by the siting authority in 25 regulatory proceedings or negotiations in another 620  HR 5376 EAS 1 jurisdiction, or under the auspices of a Trans2 mission Organization (as defined in section 3 of 3 the Federal Power Act (16 U.S.C. 796)) that is 4 also considering the siting or permitting of the 5 covered transmission project. 6 (D) Participation by the siting authority in 7 regulatory proceedings at the Federal Energy 8 Regulatory Commission or a State regulatory 9 commission for determining applicable rates and 10 cost allocation for the covered transmission 11 project. 12 (E) Other measures and actions that may 13 improve the chances of, and shorten the time re14 quired for, approval by the siting authority of 15 the application relating to the siting or permit16 ting of the covered transmission project, as the 17 Secretary determines appropriate. 18 (2) ECONOMIC DEVELOPMENT.The Secretary 19 may make a grant under this section to a siting au20 thority, or other State, local, or Tribal governmental 21 entity, for economic development activities for com22 munities that may be affected by the construction and 23 operation of a covered transmission project, provided 24 that the Secretary shall not enter into any grant 621  HR 5376 EAS 1 agreement pursuant to this section that could result 2 in any outlays after September 30, 2031. 3 (c) CONDITIONS. 4 (1) FINAL DECISION ON APPLICATION.In order 5 to receive a grant for an activity described in sub6 section (b)(1), the Secretary shall require a siting au7 thority to agree, in writing,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy may award grants to state and local governments for activities related to the siting of covered transmission projects. These activities include studies of project impacts, examination of alternate siting corridors, and participation in regulatory proceedings. Grants may also be awarded for economic development activities in communities affected by the construction and operation of a covered transmission project.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+any 9 agreement described in such paragraph 10 with the manufacturer of the reference 11 product described in paragraph (1)(A) 12 that 13 (aa) requires or incentivizes 14 the manufacturer of the biosimilar 15 biological product to submit a re16 quest described in paragraph 17 (1)(B); or 18 (bb) restricts the quantity 19 (either directly or indirectly) of 20 the biosimilar biological product 21 that may be sold in the United 22 States over a specified period of 23 time. 24 (3) HIGH LIKELIHOOD.For purposes of this 25 subsection, there is a high likelihood described in 113  HR 5376 EAS 1 paragraph (1) or paragraph (2), as applicable, if the 2 Secretary finds that 3 (A) an application for licensure under sec4 tion 351(k) of the Public Health Service Act for 5 the biosimilar biological product has been accept6 ed for review or approved by the Food and Drug 7 Administration; and 8 (B) information from items described in 9 sub clauses (I)(bb) and (III) of paragraph 10 (1)(B)(ii) submitted to the Secretary by the 11 manufacturer requesting a delay under such 12 paragraph provides clear and convincing evi13 dence that such biosimilar biological product 14 will, within the time period specified under 15 paragraph (1)(A) or (2)(B)(i)(I), be marketed. 16 (4) REBATE. 17 (A) IN GENERAL.For purposes of sub18 paragraphs (B)(ii)(II) and (C)(ii) of paragraph 19 (2), in the case of a biological product for which 20 the inclusion on the list under subsection (a) was 21 delayed under this subsection and for which the 22 Secretary has negotiated and entered into an 23 agreement under section 1193 with respect to 24 such biological product, the manufacturer shall 25 be required to pay a rebate to the Secretary at 114  HR 5376 EAS 1 such time and in such manner as determined by 2 the Secretary. 3 (B) AMOUNT.Subject to subparagraph 4 (C), the amount of the rebate under subpara5 graph (A) with respect to a biological product 6 shall be equal to the estimated amount 7
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section describes a delay in the inclusion of a biosimilar biological product on the list under subsection (a) if the Secretary finds there is a high likelihood that the biosimilar biological product will be marketed within the time period specified under paragraph (1)(A) or (2)(B)(i)(I). The manufacturer of the biosimilar biological product shall be required to pay a rebate to the Secretary at such time and in such manner as determined by the Secretary.

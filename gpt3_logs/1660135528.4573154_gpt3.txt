@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+paragraph (1)(B) shall not exceed the tax im10 posed by subsection (b) for any calendar quar11 ter, after calendar quarter. 12 (3) CARRYOVER.Paragraph (3) of section 13 3111(f) is amended by striking the credit and in14 serting any credit. 15 (4) DEDUCTION ALLOWED.Paragraph (4) of 16 section 3111(f) is amended 17 (A) by striking credit and inserting 18 credits, and 19 (B) by striking subsection (a) and insert20 ing subsection (a) or (b). 21 (c) AGGREGATION RULES.Clause (ii) of section 22 41(h)(5)(B) is amended by striking the $250,000 amount 23 and inserting each of the $250,000 amounts. 536  HR 5376 EAS 1 (d) EFFECTIVE DATE.The amendments made by this 2 section shall apply to taxable years beginning after Decem3 ber 31, 2022. 4 SEC. 13903. REINSTATEMENT OF LIMITATION RULES FOR 5 DEDUCTION FOR STATE AND LOCAL, ETC., 6 TAXES; EXTENSION OF LIMITATION ON EX7 CESS BUSINESS LOSSES OF NONCORPORATE 8 TAXPAYERS. 9 (a) REINSTATEMENT OF LIMITATION RULES FOR DE10 DUCTION FOR STATE AND LOCAL, ETC., TAXES. 11 (1) IN GENERAL.Section 164(b)(6), as amend12 ed by section 13904, is further amended 13 (A) in the heading, by striking 2026 and 14 inserting 2025, and 15 (B) by striking 2027 and inserting 16 2026. 17 (2) EFFECTIVE DATE.The amendments made 18 by this subsection shall apply to taxable years begin19 ning after December 31, 2022. 20 (b) EXTENSION OF LIMITATION ON EXCESS BUSINESS 21 LOSSES OF NONCORPORATE TAXPAYERS. 22 (1) IN GENERAL.Section 461(l)(1) is amended 23 by striking January 1, 2027 each place it appears 24 and inserting January 1, 2029. 537  HR 5376 EAS 1 (2) EFFECTIVE DATE.The amendments made 2 by this subsection shall apply to taxable years begin3 ning after December 31, 2026. 4 SEC. 13904. REMOVAL OF HARMFUL SMALL BUSINESS 5 TAXES; EXTENSION OF LIMITATION ON DE6 DUCTION FOR STATE AND LOCAL, ETC., 7 TAXES. 8 (a) REMOVAL OF HARMFUL SMALL BUSINESS 9 TAXES.Subparagraph (D) of section
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act imposes a limit on the deduction for state and local taxes, which is set to expire in 2025. This section of the Act extends the deduction through 2026. Additionally, the Act reinstates the limitation on the deduction for state and local taxes for taxable years beginning after December 31, 2022. Finally, the Act extends the limitation on the excess business losses of noncorporate taxpayers through 2029.

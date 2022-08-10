@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+time period, then the certification 8 shall no longer be valid. If any certification is 9 revoked under this subparagraph, the amount of 10 the limitation under paragraph (2) shall be in11 creased by the amount of the credit with respect 12 to such revoked certification. 13 (D) LOCATION OF PROJECT.In the case 14 of an applicant which receives a certification, if 15 the Secretary determines that the project has 16 been placed in service at a location which is ma17 terially different than the location specified in 18 the application for such project, the certification 19 shall no longer be valid. 20 (4) CREDIT RATE CONDITIONED UPON WAGE 21 AND APPRENTICESHIP REQUIREMENTS. 22 (A) BASE RATE.For purposes of alloca23 tions under this subsection, the amount of the 24 credit determined under subsection (a) shall be 415  HR 5376 EAS 1 determined by substituting 6 percent for 30 2 percent. 3 (B) ALTERNATIVE RATE.In the case of 4 any project which satisfies the requirements of 5 paragraphs (5)(A) and (6), subparagraph (A) 6 shall not apply. 7 (5) PREVAILING WAGE REQUIREMENTS. 8 (A) IN GENERAL.The requirements de9 scribed in this subparagraph with respect to a 10 project are that the taxpayer shall ensure that 11 any laborers and mechanics employed by the tax12 payer or any contractor or subcontractor in the 13 re-equipping, expansion, or establishment of a 14 manufacturing facility shall be paid wages at 15 rates not less than the prevailing rates for con16 struction, alteration, or repair of a similar char17 acter in the locality in which such project is lo18 cated as most recently determined by the Sec19 retary of Labor, in accordance with subchapter 20 IV of chapter 31 of title 40, United States Code. 21 (B) CORRECTION AND PENALTY RELATED 22 TO FAILURE TO SATISFY WAGE REQUIRE23 MENTS.Rules similar to the rules of section 24 45(b)(7)(B) shall apply. 416  HR 5376 EAS 1 (6) APPRENTICESHIP REQUIREMENTS.Rules 2 similar to the rules of section
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The tax credit for re-equipping, expanding, or establishing a manufacturing facility is 6 percent, but it is increased to 8 percent if the project satisfies prevailing wage and apprenticeship requirements. If the project is placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid.

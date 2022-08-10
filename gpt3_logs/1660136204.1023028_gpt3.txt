@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+multiplied by 5. The construction of the facility must begin before January 1, 2033.  The requirements for any qualified clean hydrogen production facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such facility, and with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2), the alteration or repair of such facility, shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.  The clean hydrogen production credit is a tax credit for businesses that produce qualified clean hydrogen. The credit is equal to the lesser of $5,000 or 30% of the cost of the equipment used to produce the hydrogen. The credit is reduced for tax-exempt bonds.  The amendments in this section apply to hydrogen produced after December 31, 2022, and to electricity produced after that date if it is used to produce clean hydrogen. The credit for electricity production from renewable resources is allowed if the electricity is used to produce clean hydrogen. Clean hydrogen production facilities may be treated as energy property.  The amendment to Section 48(a) of the tax code allows for a tax credit for certain clean hydrogen production facilities. The credit is equal to 1.2%, 1.5%, 2.0%, or 6.0% of the cost of the facility, depending on the type of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The clean hydrogen production credit is a tax credit for businesses that produce qualified clean hydrogen. The credit is equal to the lesser of $5,000 or 30% of the cost of the equipment used to produce the hydrogen. The credit is reduced for tax-exempt bonds. The amendments in this section apply to hydrogen produced after December 31, 2022, and to electricity produced after that date if it is used to produce clean hydrogen. The credit for electricity production from renewable resources is allowed if the electricity is used to produce clean hydrogen. Clean hydrogen production facilities may be treated as energy property.

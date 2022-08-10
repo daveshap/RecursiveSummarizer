@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+INDEMNIFICATION. Contractor will indemnify and hold the Company and its directors, officers, employees and shareholders from and against all claims, suits, investigations, proceedings, liabilities, damages, losses, fines, penalties, costs and expenses, including, without limitation, reasonable attorneys fees and costs of suit, arising out of or in connection with (i) any negligent, reckless, intentionally wrongful or other act or omission of Contractor, (ii) any determination by a governmental authority or court that Contractor is not an independent contractor, (iii) any breach by Contractor of this Agreement, or (iv) any alleged or actual violation or misappropriation of a third partys rights resulting in whole or in part from Companys use of Work Product or any other deliverable by Contractor in connection with this Agreement. 10. ARBITRATION AND EQUITABLE RELIEF (a) Disputes. Except as provided in Section 10(c), the Company and Contractor agree that any dispute or controversy
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Contractor will indemnify the Company for any claims arising from the Contractor's negligence, recklessness, or intentional wrongdoing. This includes any damages, losses, or costs incurred by the Company as a result of the Contractor's breach of this Agreement. The Company and Contractor agree to arbitrate any disputes between them, except for disputes relating to intellectual property rights, which will be resolved in court.

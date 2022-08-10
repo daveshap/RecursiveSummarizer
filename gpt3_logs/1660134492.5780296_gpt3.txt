@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+by sub13 stituting September 1, 2024 for November 30 of the 14 year that is 2 years prior to such initial price appli15 cability year. 16 SEC. 1192. SELECTION OF NEGOTIATION-ELIGIBLE DRUGS 17 AS SELECTED DRUGS. 18 (a) IN GENERAL.Not later than the selected drug 19 publication date with respect to an initial price applica20 bility year, in accordance with subsection (b), the Secretary 21 shall select and publish a list of 22 (1) with respect to the initial price applica23 bility year 2026, 10 negotiation-eligible drugs de24 scribed in subparagraph (A) of subsection (d)(1), but 25 not subparagraph (B) of such subsection, with respect 49  HR 5376 EAS 1 to such year (or, all (if such number is less than 10) 2 such negotiation-eligible drugs with respect to such 3 year); 4 (2) with respect to the initial price applica5 bility year 2027, 15 negotiation-eligible drugs de6 scribed in subparagraph (A) of subsection (d)(1), but 7 not subparagraph (B) of such subsection, with respect 8 to such year (or, all (if such number is less than 15) 9 such negotiation-eligible drugs with respect to such 10 year); 11 (3) with respect to the initial price applica12 bility year 2028, 15 negotiation-eligible drugs de13 scribed in subparagraph (A) or (B) of subsection 14 (d)(1) with respect to such year (or, all (if such num15 ber is less than 15) such negotiation-eligible drugs 16 with respect to such year); and 17 (4) with respect to the initial price applica18 bility year 2029 or a subsequent year, 20 negotiation19 eligible drugs described in subparagraph (A) or (B) 20 of subsection (d)(1), with respect to such year (or, all 21 (if such number is less than 20) such negotiation-eli22 gible drugs with respect to such year). 23 Subject to subsection (c)(2) and section 1194(f)(5), each 24 drug published on the list pursuant to the previous sentence 25 shall be subject to the negotiation process under section 1194 50  HR 5376 EAS 1 for the negotiation period with respect to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the selection of negotiation-eligible drugs as selected drugs. The Secretary of Health and Human Services must select and publish a list of negotiation-eligible drugs for each initial price applicability year. The number of negotiation-eligible drugs selected must increase each year, from 10 in 2026 to 20 in 2029 and subsequent years. Each drug on the list must be subject to the negotiation process under section 1194.

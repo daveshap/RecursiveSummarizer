@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+QUALIFIED FACILITY. 14 (1) IN GENERAL. 15 (A) DEFINITION.Subject to subpara16 graphs (B), (C), and (D), the term qualified fa17 cility means a facility owned by the taxpayer 18 (i) which is used for the generation of 19 electricity, 20 (ii) which is placed in service after 21 December 31, 2024, and 22 (iii) for which the greenhouse gas 23 emissions rate (as determined under para24 graph (2)) is not greater than zero. 451  HR 5376 EAS 1 (B) 10-YEAR PRODUCTION CREDIT.For 2 purposes of this section, a facility shall only be 3 treated as a qualified facility during the 10-year 4 period beginning on the date the facility was 5 originally placed in service. 6 (C) EXPANSION OF FACILITY; INCRE7 MENTAL PRODUCTION.The term qualified fa8 cility shall include either of the following in 9 connection with a facility described in subpara10 graph (A) (without regard to clause (ii) of such 11 subparagraph) which was placed in service be12 fore January 1, 2025, but only to the extent of 13 the increased amount of electricity produced at 14 the facility by reason of the following: 15 (i) A new unit which is placed in 16 service after December 31, 2024. 17 (ii) Any additions of capacity which 18 are placed in service after December 31, 19 2024. 20 (D) COORDINATION WITH OTHER CRED21 ITS.The term qualified facility shall not in22 clude any facility for which a credit determined 23 under section 45, 45J, 45Q, 45U, 48, 48A, or 24 48E is allowed under section 38 for the taxable 25 year or any prior taxable year. 452  HR 5376 EAS 1 (2) GREENHOUSE GAS EMISSIONS RATE. 2 (A) IN GENERAL.For purposes of this 3 section, the term greenhouse gas emissions rate 4 means the amount of greenhouse gases emitted 5 into the atmosphere by a facility in the produc6 tion of electricity, expressed as grams of CO2e 7 per KWh. 8 (B) FUEL COMBUSTION AND GASIFI9 CATION.In the case of a facility which produces 10 electricity through combustion or gasification, 11 the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The qualified facility credit is a credit for facilities used to generate electricity that are placed in service after December 31, 2024, and have a greenhouse gas emissions rate that does not exceed zero. The credit is only available for the 10-year period beginning on the date the facility was originally placed in service.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+1, 2026. The credit is equal to the lesser of the amount of taxes paid or accrued, or the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i). The credit is carryoverable for five succeeding taxable years. In addition, the excise tax on repurchase of corporate stock under the new chapter 37 of subtitle D of the Internal Revenue Code shall be 1 percent of the fair market value of any stock of the corporation which is repurchased by such corporation during the taxable year. This section of the bill deals with the treatment of foreign corporations for the purposes of the repurchase of stock by a covered corporation.  This section amends section 10 275(a) of the Internal Revenue Code to insert 37, before 41. It also amends the table of chapters for subtitle D by inserting a new item after the item relating to chapter 36, to create chapter 37, which deals with the repurchase of corporate stock. This section applies to repurchases of stock after December 31, 2022. The Social Security Act is amended by adding a new part, the Drug Price Negotiation Program, which requires the Secretary to negotiate and, if necessary, renegotiate maximum fair prices for selected drugs with manufacturers. The program also requires the publication of a list of selected drugs and the carrying out of administrative duties and compliance monitoring.  This section of the bill establishes a new program to negotiate drug prices on behalf of Medicare Part B and D enrollees, and sets the maximum fair price for a selected drug at the price negotiated by the program. The program will be implemented in 2026.  This section of the bill establishes exceptions for small biotech drugs from the definition of "negotiation-eligible drug." A qualifying single source drug is not considered a negotiation-eligible drug if it meets either of the following criteria: (1) for Part D drugs, the total expenditures for the qualifying single source drug
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the treatment of foreign corporations for the purposes of the repurchase of stock by a covered corporation. It amends section 10 275(a) of the Internal Revenue Code to insert 37, before 41. It also amends the table of chapters for subtitle D by inserting a new item after the item relating to chapter 36, to create chapter 37, which deals with the repurchase of corporate stock. This section applies to repurchases of stock after December 31, 2022. This section of the bill establishes a new program to negotiate drug prices on behalf of Medicare Part B and D enrollees, and sets the maximum fair price for a selected drug at the price negotiated by the program. The program will be implemented in 2026. This section of the bill establishes exceptions for small biotech drugs from the definition of "negotiation-eligible drug."

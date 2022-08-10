@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+is amended by striking paragraph 12 (3)(A)(i) and inserting clause (i) or (iii) of paragraph 13 (3)(A). 14 (f) ENERGY STORAGE TECHNOLOGIES; QUALIFIED 15 BIOGAS PROPERTY; MICROGRID CONTROLLERS; EXTENSION 16 OF OTHER PROPERTY. 17 (1) IN GENERAL.Section 48(a)(3)(A) is amend18 ed by striking or at the end of clause (vii), and by 19 adding at the end the following new clauses: 20 (ix) energy storage technology, 21 (x) qualified biogas property, or 22 (xi) microgrid controllers,. 23 (2) APPLICATION OF 6 PERCENT CREDIT.Sec24 tion 48(a)(2)(A)(i) is amended by striking and at 266  HR 5376 EAS 1 the end of subclauses (IV) and (V) and adding at the 2 end the following new subclauses: 3 (VI) energy storage technology, 4 (VII) qualified biogas property, 5 (VIII) microgrid controllers, and 6 (IX) energy property described 7 in clauses (v) and (vii) of paragraph 8 (3)(A), and. 9 (3) DEFINITIONS.Section 48(c) is amended by 10 adding at the end the following new paragraphs: 11 (6) ENERGY STORAGE TECHNOLOGY. 12 (A) IN GENERAL.The term energy stor13 age technology means 14 (i) property (other than property pri15 marily used in the transportation of goods 16 or individuals and not for the production of 17 electricity) which receives, stores, and deliv18 ers energy for conversion to electricity (or, 19 in the case of hydrogen, which stores en20 ergy), and has a nameplate capacity of not 21 less than 5 kilowatt hours, and 22 (ii) thermal energy storage property. 23 (B) MODIFICATIONS OF CERTAIN PROP24 ERTY.In the case of any property which ei25 ther 267  HR 5376 EAS 1 (i) was placed in service before the 2 date of enactment of this section and would 3 be described in subparagraph (A)(i), except 4 that such property has a capacity of less 5 than 5 kilowatt hours and is modified in a 6 manner that such property (after such 7 modification) has a nameplate capacity of 8 not less than 5 kilowatt hours, or 9 (ii) is described in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Storage Technology and Qualified Biogas Property sections of the Energy Policy Act of 2005 are amended by adding microgrid controllers to the list of eligible technologies. Energy storage technology is defined as property that receives, stores, and delivers energy for conversion to electricity, with a nameplate capacity of not less than 5 kilowatt hours. Thermal energy storage property is also included.

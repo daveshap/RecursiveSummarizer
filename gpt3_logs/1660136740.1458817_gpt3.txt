@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+resilience. This section contains appropriations for climate research and weather forecasting, including $50 million for competitive grants to fund climate research relating to weather, ocean, coastal, and atmospheric processes and conditions, and impacts to marine species and coastal habitat.  The Federal Aviation Administration Reauthorization Act of 2018 includes provisions for grant funding to promote the development of sustainable aviation fuels and low-emission aviation technologies. The grant funds will cover 75 percent of the total proposed cost of the project, with the possibility of increasing to 90 percent for small hub airports or nonhub airports. The Act also requires the Secretary of Transportation to adopt at least one methodology for testing lifecycle greenhouse gas emissions.  The Department of Energy will provide $4,275,000,000 in grants to State energy offices to develop and implement high-efficiency electric home rebate programs. The programs must be in accordance with guidelines set forth in the text, and the funds will remain available through September 30, 2022.  The Department of Energy will award grants to states and Indian tribes to establish a high-efficiency electric home rebate program. Under the program, eligible entities will be able to receive rebates for qualified electrification projects, such as the purchase of a heat pump water heater or an electric stove. The maximum rebate is $14,000. This section also provides funding for training contractors involved in the installation of home energy efficiency and electrification improvements.  The Energy Policy and Conservation Act provides funding for grants to assist States and units of local government in adopting and implementing building energy codes. The codes must meet or exceed the 2021 International Energy Conservation Code for residential buildings, the ANSI/ASHRAE/IES Standard 90.12019 for commercial buildings, or achieve equivalent or greater energy savings. The codes must also
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section contains appropriations for climate research and weather forecasting, including $50 million for competitive grants to fund climate research relating to weather, ocean, coastal, and atmospheric processes and conditions, and impacts to marine species and coastal habitat. The Federal Aviation Administration Reauthorization Act of 2018 includes provisions for grant funding to promote the development of sustainable aviation fuels and low-emission aviation technologies. The Department of Energy will provide $4,275,000,000 in grants to State energy offices to develop and implement high-efficiency electric home rebate programs. The Energy Policy and Conservation Act provides funding for grants to assist States and units of local government in adopting and implementing building energy codes.

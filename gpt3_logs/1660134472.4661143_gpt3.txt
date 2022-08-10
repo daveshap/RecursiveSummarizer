@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+section 10 275(a) is amended by inserting 37, before 41. 11 (c) CLERICAL AMENDMENT.The table of chapters for 12 subtitle D is amended by inserting after the item relating 13 to chapter 36 the following new item: CHAPTER 37REPURCHASE OF CORPORATE STOCK. 14 (d) EFFECTIVE DATE.The amendments made by this 15 section shall apply to repurchases (within the meaning of 16 section 4501(c) of the Internal Revenue Code of 1986, as 17 added by this section) of stock after December 31, 2022. 18 PART 3FUNDING THE INTERNAL REVENUE 19 SERVICE AND IMPROVING TAXPAYER COM20 PLIANCE 21 SEC. 10301. ENHANCEMENT OF INTERNAL REVENUE SERV22 ICE RESOURCES. 23 IN GENERAL.The following sums are appropriated, 24 out of any money in the Treasury not otherwise appro25 priated, for the fiscal year ending September 30, 2022: 37  HR 5376 EAS 1 (1) INTERNAL REVENUE SERVICE. 2 (A) IN GENERAL. 3 (i) TAXPAYER SERVICES.For nec4 essary expenses of the Internal Revenue 5 Service to provide taxpayer services, includ6 ing pre-filing assistance and education, fil7 ing and account services, taxpayer advocacy 8 services, and other services as authorized by 9 5 U.S.C. 3109, at such rates as may be de10 termined by the Commissioner, 11 $3,181,500,000, to remain available until 12 September 30, 2031: Provided, That these 13 amounts shall be in addition to amounts 14 otherwise available for such purposes. 15 (ii) ENFORCEMENT.For necessary ex16 penses for tax enforcement activities of the 17 Internal Revenue Service to determine and 18 collect owed taxes, to provide legal and liti19 gation support, to conduct criminal inves20 tigations (including investigative tech21 nology), to provide digital asset monitoring 22 and compliance activities, to enforce crimi23 nal statutes related to violations of internal 24 revenue laws and other financial crimes, to 25 purchase and hire passenger motor vehicles 38  HR 5376 EAS 1 (31 U.S.C. 1343(b)), and to provide other 2 services as authorized by 5 U.S.C.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends section 10 275(a) of the Internal Revenue Code to insert 37, before 41. It also amends the table of chapters for subtitle D by inserting a new item after the item relating to chapter 36, to create chapter 37, which deals with the repurchase of corporate stock. This section applies to repurchases of stock after December 31, 2022.

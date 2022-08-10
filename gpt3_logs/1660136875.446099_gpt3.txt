@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+to the renegotiation process. This section also establishes civil monetary penalties for drug manufacturers who do not provide access to a maximum fair price for a selected drug to eligible individuals, or who overcharge for drugs covered by Medicaid.  This section of the bill delays the inclusion of a biosimilar biological product on the list of extended-monopoly drugs if the manufacturer requests a delay and it is determined that there is a high likelihood that the biosimilar product will be licensed and marketed before the expiration date of the selected drug. The manufacturer must submit information and documents to the Secretary of Health and Human Services to make determinations. This section also establishes the maximum fair price for a biological product and the amount of the rebate for such product.  This section of the Social Security Act requires drug manufacturers to provide rebates to the government for drugs that have prices that increase faster than inflation. The rebates must be equal to the amount specified in subsection (b) for each dosage form and strength of the drug. This section applies to drugs covered under Part D of the Social Security Act.  This bill establishes a program to provide discounts on prescription drugs for certain Medicare beneficiaries. Under the program, manufacturers will agree to provide the discounts and the Secretary will make payments to the manufacturers for the difference between the negotiated price and the applicable drug's retail price.  This section of the Affordable Care Act requires drug manufacturers to provide a discount on drugs to low-income seniors who fall into the "coverage gap." The discount is phased in over time, starting at 50% in 2011 and reaching 75% by 2020. In 2021, the discount will be based on the "specified LIS percent" of the negotiated price of the drug.  This bill amends the Patient Protection and Affordable Care Act to increase the initial coverage limit and out-of-pocket threshold for 2025
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill amends the Patient Protection and Affordable Care Act to increase the initial coverage limit and out-of-pocket threshold for 2025. It also requires drug manufacturers to provide rebates to the government for drugs that have prices that increase faster than inflation. The bill establishes a program to provide discounts on prescription drugs for certain Medicare beneficiaries.

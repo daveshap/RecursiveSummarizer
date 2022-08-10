@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a clean vehicle credit for vehicles placed in service after December 31, 2022. The credit is increased by 6.0445 percent for direct spending on eligible vehicles.  The bill allows a tax credit for qualified buyers who purchase a previously-owned clean vehicle. The credit is equal to the lesser of $4,000 or 30% of the sale price of the vehicle, and is subject to a modified adjusted gross income limitation.  The qualified plug-in electric drive motor vehicle credit is a tax credit for up to $7,500 for the purchase of a new or used plug-in electric drive motor vehicle. The credit is available for vehicles acquired after December 31, 2009.  This section amends the Internal Revenue Code to allow a tax credit for previously-owned clean vehicles. The credit is equal to the lesser of $2,500 or 10 percent of the cost of the vehicle. The credit is available for vehicles acquired after December 31, 2022, and is not available for vehicles acquired after December 31, 2032.  The qualified commercial clean vehicle credit is a tax credit available for vehicles powered by something other than a gasoline or diesel internal combustion engine. The credit amount is equal to the lesser of 15 percent of the basis of the vehicle or the incremental cost of the vehicle, up to a maximum of $7,500 for vehicles with a gross vehicle weight rating of less than 14,000 pounds or $40,000 for other vehicles.  The "qualified commercial clean vehicle" tax credit is available for vehicles which meet certain energy efficiency requirements, are not manufactured for resale, and are used on public roads. The credit is similar to the credit available under section 30D of the tax code, but is not available for vehicles which are already eligible for that credit.  The qualified commercial clean vehicle credit is a tax credit available for vehicles acquired after December 31, 2022. To be eligible for the credit, taxpayers must include the vehicle identification number of the vehicle on their tax return. The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill amends the Internal Revenue Code to allow for tax credits for the purchase of certain types of vehicles. The credit for previously-owned clean vehicles is equal to the lesser of $2,500 or 10 percent of the cost of the vehicle. The credit for qualified commercial clean vehicles is equal to the lesser of 15 percent of the basis of the vehicle or the incremental cost of the vehicle, up to a maximum of $7,500 for vehicles with a gross vehicle weight rating of less than 14,000 pounds or $40,000 for other vehicles. The credit is available for vehicles acquired after December 31, 2022.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+rebatable drug has failed to comply with 16 the requirements under paragraph (1)(B) for such 17 drug for a calendar quarter, the manufacturer shall 18 be subject to, in accordance with a process established 19 by the Secretary pursuant to regulations, a civil 20 money penalty in an amount equal to at least 125 21 percent of the amount specified in paragraph (3) for 22 such drug for such calendar quarter. The provisions 23 of section 1128A (other than subsections (a) (with re24 spect to amounts of penalties or additional assess25 ments) and (b)) shall apply to a civil money penalty 139  HR 5376 EAS 1 under this paragraph in the same manner as such 2 provisions apply to a penalty or proceeding under 3 section 1128A(a). 4 (8) LIMITATION ON ADMINISTRATIVE OR JUDI5 CIAL REVIEW.There shall be no administrative or 6 judicial review of any of the following: 7 (A) The determination of units under this 8 subsection. 9 (B) The determination of whether a drug 10 is a part B rebatable drug under this subsection. 11 (C) The calculation of the rebate amount 12 under this subsection. 13 (D) The computation of coinsurance under 14 paragraph (5) of this subsection. 15 (E) The computation of amounts paid 16 under section 1833(a)(1)(EE).. 17 (b) AMOUNTS PAYABLE; COST-SHARING.Section 18 1833 of the Social Security Act (42 U.S.C. 1395l) is amend19 ed 20 (1) in subsection (a)(1) 21 (A) in subparagraph (G), by inserting , 22 subject to subsection (i)(9), after the amounts 23 paid; 140  HR 5376 EAS 1 (B) in subparagraph (S), by striking with 2 respect to and inserting subject to subpara3 graph (EE), with respect to; 4 (C) by striking and (DD) and inserting 5 (DD); and 6 (D) by inserting before the semicolon at the 7 end the following: , and (EE) with respect to a 8 part B rebatable drug (as defined in paragraph 9 (2) of section 1847A(i)) furnished on or after 10 April 1, 2023, for which the payment amount for 11 a calendar quarter under
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended to require manufacturers of rebatable drugs to pay a civil money penalty if the drug fails to comply with certain requirements for a calendar quarter. The penalty is equal to at least 125 percent of the amount specified in the Act for such drug for the quarter. There is no administrative or judicial review of the determination of the penalty amount.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+depreciation) is allow10 able, 11 (B) which is installed on or in any quali12 fied building, 13 (C) which is installed as part of 14 (i) the interior lighting systems, 15 (ii) the heating, cooling, ventilation, 16 and hot water systems, or 17 (iii) the building envelope, and 18 (D) which is certified in accordance with 19 paragraph (2)(B) as meeting the requirements of 20 subparagraphs (B) and (C). 21 (4) QUALIFIED BUILDING.For purposes of this 22 subsection, the term qualified building means any 23 building which 24 (A) is located in the United States, and 363  HR 5376 EAS 1 (B) was originally placed in service not 2 less than 5 years before the establishment of the 3 qualified retrofit plan with respect to such build4 ing. 5 (5) QUALIFYING FINAL CERTIFICATION.For 6 purposes of this subsection, the term qualifying final 7 certification means, with respect to any qualified ret8 rofit plan, the certification described in paragraph 9 (2)(C) if the energy use intensity certified in such cer10 tification is not more than 75 percent of the baseline 11 energy use intensity of the building. 12 (6) BASELINE ENERGY USE INTENSITY. 13 (A) IN GENERAL.For purposes of this 14 subsection, the term baseline energy use inten15 sity means the energy use intensity certified 16 under paragraph (2)(A), as adjusted to take into 17 account weather. 18 (B) DETERMINATION OF ADJUSTMENT. 19 For purposes of subparagraph (A), the adjust20 ments described in such subparagraph shall be 21 determined in such manner as the Secretary 22 may provide. 23 (7) OTHER DEFINITIONS.For purposes of this 24 subsection 364  HR 5376 EAS 1 (A) ENERGY USE INTENSITY.The term 2 energy use intensity means the annualized, 3 measured site energy use intensity determined in 4 accordance with such regulations or other guid5 ance as the Secretary may provide and measured 6 in British thermal units. 7 (B) QUALIFIED PROFESSIONAL.The term 8 qualified professional means
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Efficiency Retrofit Tax Credit allows a tax credit for installing energy efficient systems in qualified buildings. The credit is available for buildings that are at least 5 years old and meet certain energy efficiency requirements.

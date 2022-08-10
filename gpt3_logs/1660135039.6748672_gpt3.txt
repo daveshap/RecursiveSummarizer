@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+production after December 31, 2021. 22 SEC. 13203. SUSTAINABLE AVIATION FUEL CREDIT. 23 (a) IN GENERAL.Subpart D of part IV of subchapter 24 A of chapter 1 is amended by inserting after section 40A 25 the following new section: 314  HR 5376 EAS 1 SEC. 40B. SUSTAINABLE AVIATION FUEL CREDIT. 2 (a) IN GENERAL.For purposes of section 38, the 3 sustainable aviation fuel credit determined under this sec4 tion for the taxable year is, with respect to any sale or use 5 of a qualified mixture which occurs during such taxable 6 year, an amount equal to the product of 7 (1) the number of gallons of sustainable avia8 tion fuel in such mixture, multiplied by 9 (2) the sum of 10 (A) $1.25, plus 11 (B) the applicable supplementary amount 12 with respect to such sustainable aviation fuel. 13 (b) APPLICABLE SUPPLEMENTARY AMOUNT.For 14 purposes of this section, the term applicable supplementary 15 amount means, with respect to any sustainable aviation 16 fuel, an amount equal to $0.01 for each percentage point 17 by which the lifecycle greenhouse gas emissions reduction 18 percentage with respect to such fuel exceeds 50 percent. In 19 no event shall the applicable supplementary amount deter20 mined under this subsection exceed $0.50. 21 (c) QUALIFIED MIXTURE.For purposes of this sec22 tion, the term qualified mixture means a mixture of sus23 tainable aviation fuel and kerosene if 24 (1) such mixture is produced by the taxpayer in 25 the United States, 315  HR 5376 EAS 1 (2) such mixture is used by the taxpayer (or 2 sold by the taxpayer for use) in an aircraft, 3 (3) such sale or use is in the ordinary course 4 of a trade or business of the taxpayer, and 5 (4) the transfer of such mixture to the fuel tank 6 of such aircraft occurs in the United States. 7 (d) SUSTAINABLE AVIATION FUEL. 8 (1) IN GENERAL.For purposes of this section, 9 the term sustainable aviation fuel means liquid fuel, 10 the portion of which is not kerosene, which 11
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends subpart D of part IV of subchapter A of chapter 1 by inserting a new section 40B, which establishes a sustainable aviation fuel credit for any qualified mixture sold or used in an aircraft. The credit is equal to the number of gallons of sustainable aviation fuel in the mixture, multiplied by the sum of $1.25 and the applicable supplementary amount. The applicable supplementary amount is determined by the percentage of lifecycle greenhouse gas emissions reduction with respect to the sustainable aviation fuel, and may not exceed $0.50.

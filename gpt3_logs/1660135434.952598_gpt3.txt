@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+purposes of this 2 subsection, the term eligible property means a quali3 fied investment with respect to any applicable facil4 ity. 5 (4) ALLOCATIONS. 6 (A) IN GENERAL.Not later than January 7 1, 2025, the Secretary shall establish a program 8 to allocate amounts of environmental justice ca9 pacity limitation to applicable facilities. In es10 tablishing such program and to carry out the 11 purposes of this subsection, the Secretary shall 12 provide procedures to allow for an efficient allo13 cation process, including, when determined ap14 propriate, consideration of multiple projects in a 15 single application if such projects will be placed 16 in service by a single taxpayer. 17 (B) LIMITATION.The amount of environ18 mental justice capacity limitation allocated by 19 the Secretary under subparagraph (A) during 20 any calendar year shall not exceed the annual 21 capacity limitation with respect to such year. 22 (C) ANNUAL CAPACITY LIMITATION.For 23 purposes of this paragraph, the term annual ca24 pacity limitation means 1.8 gigawatts of direct 25 current capacity for each calendar year during 486  HR 5376 EAS 1 the period beginning on January 1, 2025, and 2 ending on December 31 of the applicable year (as 3 defined in section 45Y(d)(3)), and zero there4 after. 5 (D) CARRYOVER OF UNUSED LIMITA6 TION. 7 (i) IN GENERAL.If the annual ca8 pacity limitation for any calendar year ex9 ceeds the aggregate amount allocated for 10 such year under this paragraph, such limi11 tation for the succeeding calendar year shall 12 be increased by the amount of such excess. 13 No amount may be carried under the pre14 ceding sentence to any calendar year after 15 the third calendar year following the appli16 cable year (as defined in section 45Y(d)(3)). 17 (ii) CARRYOVER FROM SECTION 48 18 FOR CALENDAR YEAR 2025.If the annual 19 capacity limitation for calendar year 2024 20 under section 48(e)(4)(D) exceeds the aggre21 gate amount allocated for such year under
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "environmental justice capacity limitation" is a limit on the amount of direct current capacity that can be allocated by the Secretary of Energy to applicable facilities in any given year. The annual capacity limitation for calendar year 2025 is 1.8 gigawatts, and it is zero thereafter. If the annual capacity limitation for any calendar year exceeds the aggregate amount allocated for such year under this paragraph, such limitation for the succeeding calendar year shall be increased by the amount of such excess.

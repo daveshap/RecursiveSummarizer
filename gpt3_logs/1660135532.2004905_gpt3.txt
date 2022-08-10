@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+59(k)(1), as added 10 by section 10101, is amended to read as follows: 11 (D) SPECIAL RULES FOR DETERMINING 12 APPLICABLE CORPORATION STATUS.Solely for 13 purposes of determining whether a corporation is 14 an applicable corporation under this paragraph, 15 all adjusted financial statement income of per16 sons treated as a single employer with such cor17 poration under subsection (a) or (b) of section 52 18 shall be treated as adjusted financial statement 19 income of such corporation, and adjusted finan20 cial statement income of such corporation shall 21 be determined without regard to paragraphs 22 (2)(D)(i) and (11) of section 56A(c).. 23 (b) EXTENSION OF LIMITATION ON DEDUCTION FOR 24 STATE AND LOCAL, ETC., TAXES. 538  HR 5376 EAS 1 (1) IN GENERAL.Section 164(b)(6) is amend2 ed 3 (A) in the heading, by striking 2025 and 4 inserting 2026, and 5 (B) by striking 2026 and inserting 6 2027. 7 (2) EFFECTIVE DATE.The amendments made 8 by this subsection shall apply to taxable years begin9 ning after December 31, 2022. 10 TITLE IICOMMITTEE ON AGRI11 CULTURE, NUTRITION, AND 12 FORESTRY 13 Subtitle AGeneral Provisions 14 SEC. 20001. DEFINITION OF SECRETARY. 15 In this title, the term Secretary means the Secretary 16 of Agriculture. 17 Subtitle BConservation 18 SEC. 21001. ADDITIONAL AGRICULTURAL CONSERVATION 19 INVESTMENTS. 20 (a) APPROPRIATIONS.In addition to amounts other21 wise available (and subject to subsection (b)), there are ap22 propriated to the Secretary, out of any money in the Treas23 ury not otherwise appropriated, to remain available until 24 September 30, 2031 (subject to the condition that no such 25 funds may be disbursed after September 30, 2031) 539  HR 5376 EAS 1 (1) to carry out, using the facilities and authori2 ties of the Commodity Credit Corporation, the envi3 ronmental quality incentives program under sub4 chapter A of chapter 4 of subtitle D of title XII of the 5 Food Security Act of 1985 (16 U.S.C. 3839aa
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill amends the Internal Revenue Code to extend the deduction for state and local taxes through 2027 and to allow adjusted financial statement income of corporations to be determined without regard to certain provisions of the code. Additionally, the bill appropriates funds to the Department of Agriculture for conservation programs.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the funds provided under this section shall be sub2 ject to cost-share or matching requirements. 3 SEC. 50222. NATIONAL PARKS AND PUBLIC LANDS CON4 SERVATION AND ECOSYSTEM RESTORATION. 5 In addition to amounts otherwise available, there is 6 appropriated to the Secretary for fiscal year 2022, out of 7 any money in the Treasury not otherwise appropriated, 8 $250,000,000, to remain available through September 30, 9 2031, to carry out conservation, ecosystem and habitat res10 toration projects on lands administered by the National 11 Park Service and Bureau of Land Management. None of 12 the funds provided under this section shall be subject to cost13 share or matching requirements. 14 SEC. 50223. NATIONAL PARK SERVICE EMPLOYEES. 15 In addition to amounts otherwise available, there is 16 appropriated to the Secretary for fiscal year 2022, out of 17 any money in the Treasury not otherwise appropriated, 18 $500,000,000, to remain available through September 30, 19 2030, to hire employees to serve in units of the National 20 Park System or national historic or national scenic trails 21 administered by the National Park Service. 22 SEC. 50224. NATIONAL PARK SYSTEM DEFERRED MAINTE23 NANCE. 24 In addition to amounts otherwise available, there is 25 appropriated to the Secretary for fiscal year 2022, out of 634  HR 5376 EAS 1 any money in the Treasury not otherwise appropriated, 2 $200,000,000, to remain available through September 30, 3 2026, to carry out priority deferred maintenance projects, 4 through direct expenditures or transfers, within the bound5 aries of the National Park System. 6 PART 3DROUGHT RESPONSE AND 7 PREPAREDNESS 8 SEC. 50231. BUREAU OF RECLAMATION DOMESTIC WATER 9 SUPPLY PROJECTS. 10 In addition to amounts otherwise available, there is 11 appropriated to the Secretary, acting through the Commis12 sioner of Reclamation, for fiscal year 2022, out of any 13 money in the Treasury not otherwise appropriated, 14 $550,000,000, to remain available through
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides funding for conservation, ecosystem, and habitat restoration projects on lands administered by the National Park Service and Bureau of Land Management. The funds are to be used for hiring employees to serve in units of the National Park System, and for deferred maintenance projects within the boundaries of the National Park System.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+INDIVIDUALS; 4 (2) in paragraph (1) 5 (A) by striking the paragraph heading and 6 inserting INDIVIDUALS WITH CERTAIN LOW IN7 COMES; and 8 (B) in the matter preceding subparagraph 9 (A) 10 (i) by inserting (or, with respect to a 11 plan year beginning on or after January 1, 12 2024, 150 percent) after 135 percent; 13 and 14 (ii) by inserting (or, with respect to a 15 plan year beginning on or after January 1, 16 2024, paragraph (3)(E)) after the re17 sources requirement described in paragraph 18 (3)(D); and 19 (3) in paragraph (2) 20 (A) by striking the paragraph heading and 21 inserting OTHER LOW-INCOME INDIVIDUALS; 22 and 23 (B) in the matter preceding subparagraph 24 (A), by striking In the case of a subsidy and 25 inserting With respect to a plan year beginning 225  HR 5376 EAS 1 before January 1, 2024, in the case of a sub2 sidy. 3 SEC. 11405. IMPROVING ACCESS TO ADULT VACCINES 4 UNDER MEDICAID AND CHIP. 5 (a) MEDICAID. 6 (1) REQUIRING COVERAGE OF ADULT VACCINA7 TIONS. 8 (A) IN GENERAL.Section 1902(a)(10)(A) 9 of the Social Security Act (42 U.S.C. 10 1396a(a)(10)(A)) is amended in the matter pre11 ceding clause (i) by inserting (13)(B), after 12 (5),. 13 (B) MEDICALLY NEEDY.Section 14 1902(a)(10)(C)(iv) of such Act (42 U.S.C. 15 1396a(a)(10)(C)(iv)) is amended by inserting , 16 (13)(B), after (5). 17 (2) NO COST SHARING FOR VACCINATIONS. 18 (A) GENERAL COST-SHARING LIMITA19 TIONS.Section 1916 of the Social Security Act 20 (42 U.S.C. 1396o) is amended 21 (i) in subsection (a)(2) 22 (I) in subparagraph (G), by in23 serting a comma after State plan; 24 (II) in subparagraph (H), by 25 striking ; or and inserting a comma; 226  HR 5376 EAS 1 (III) in subparagraph (I), by 2 striking ; and and inserting , or; 3 and 4 (IV) by adding at the end the fol5 lowing new subparagraph: 6 (J) vaccines described in section 7 1905(a)(13)(B) and the administration of such 8 vaccines; and; and 9 (ii) in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended to require Medicaid coverage of adult vaccines, with no cost sharing for vaccinations.

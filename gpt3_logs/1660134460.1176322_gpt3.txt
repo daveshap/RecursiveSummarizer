@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(1) IN GENERAL.Section 53(e) is amended to 9 read as follows: 10 (e) APPLICATION TO APPLICABLE CORPORATIONS. 11 In the case of a corporation 12 (1) subsection (b)(1) shall be applied by sub13 stituting the net minimum tax for all prior taxable 14 years beginning after 2022 for the adjusted net min15 imum tax imposed for all prior taxable years begin16 ning after 1986, and 17 (2) the amount determined under subsection 18 (c)(1) shall be increased by the amount of tax im19 posed under section 59A for the taxable year.. 20 (2) CONFORMING AMENDMENTS.Section 53(d) 21 is amended 22 (A) in paragraph (2), by striking , except 23 that in the case and all that follows through 24 treated as zero, and 25 (B) by striking paragraph (3). 30  HR 5376 EAS 1 (f) EFFECTIVE DATE.The amendments made by this 2 section shall apply to taxable years beginning after Decem3 ber 31, 2022. 4 PART 2EXCISE TAX ON REPURCHASE OF 5 CORPORATE STOCK 6 SEC. 10201. EXCISE TAX ON REPURCHASE OF CORPORATE 7 STOCK. 8 (a) IN GENERAL.Subtitle D is amended by inserting 9 after chapter 36 the following new chapter: 10 CHAPTER 37REPURCHASE OF 11 CORPORATE STOCK Sec. 4501. Repurchase of corporate stock. 12 SEC. 4501. REPURCHASE OF CORPORATE STOCK. 13 (a) GENERAL RULE.There is hereby imposed on 14 each covered corporation a tax equal to 1 percent of the 15 fair market value of any stock of the corporation which is 16 repurchased by such corporation during the taxable year. 17 (b) COVERED CORPORATION.For purposes of this 18 section, the term covered corporation means any domestic 19 corporation the stock of which is traded on an established 20 securities market (within the meaning of section 21 7704(b)(1)). 22 (c) REPURCHASE.For purposes of this section 23 (1) IN GENERAL.The term repurchase 24 means 31  HR 5376 EAS 1 (A) a redemption within the meaning of 2 section 317(b) with regard to the stock of a cov3 ered corporation, and 4 (B) any transaction
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The excise tax on repurchase of corporate stock under the new chapter 37 of subtitle D of the Internal Revenue Code shall be 1 percent of the fair market value of any stock of the corporation which is repurchased by such corporation during the taxable year. A "covered corporation" is any domestic corporation the stock of which is traded on an established securities market. "Repurchase" means a redemption within the meaning of section 317(b) with regard to the stock of a covered corporation, and any transaction treated as a redemption for purposes of section 302.

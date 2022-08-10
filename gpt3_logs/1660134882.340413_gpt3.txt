@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+to 7 medical assistance for such vaccines and their 8 administration before the first period. 9 (b) CHIP. 10 (1) REQUIRING COVERAGE OF ADULT VACCINA11 TIONS.Section 2103(c) of the Social Security Act 12 (42 U.S.C. 1397cc(c)) is amended by adding at the 13 end the following paragraph: 14 (12) REQUIRED COVERAGE OF APPROVED, REC15 OMMENDED ADULT VACCINES AND THEIR ADMINIS16 TRATION.Regardless of the type of coverage elected 17 by a State under subsection (a), if the State child 18 health plan or a waiver of such plan provides child 19 health assistance or pregnancy-related assistance (as 20 defined in section 2112) to an individual who is 19 21 years of age or older, such assistance shall include 22 coverage of vaccines described in section 23 1905(a)(13)(B) and their administration.. 24 (2) NO COST-SHARING FOR VACCINATIONS.Sec25 tion 2103(e)(2) of such Act (42 U.S.C. 1397cc(e)(2)) 229  HR 5376 EAS 1 is amended by inserting vaccines described in sub2 section (c)(12) (and the administration of such vac3 cines), after in vitro diagnostic products described 4 in subsection (c)(10) (and administration of such 5 products),. 6 (c) EFFECTIVE DATE.The amendments made by this 7 section take effect on the 1st day of the 1st fiscal quarter 8 that begins on or after the date that is 1 year after the 9 date of enactment of this Act and shall apply to expendi10 tures made under a State plan or waiver of such plan under 11 title XIX of the Social Security Act (42 U.S.C. 1396 12 through 1396w6) or under a State child health plan or 13 waiver of such plan under title XXI of such Act (42 U.S.C. 14 1397aa through 1397mm) on or after such effective date. 15 SEC. 11406. APPROPRIATE COST-SHARING FOR COVERED IN16 SULIN PRODUCTS UNDER MEDICARE PART D. 17 (a) IN GENERAL.Section 1860D2 of the Social Se18 curity Act (42 U.S.C. 1395w102), as amended by sections 19 11201, 11202, and 11401, is amended 20 (1) in subsection (b) 21 (A) in paragraph (1)(A), by striking
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Social Security Act requires state child health plans or waivers to provide coverage for vaccines and their administration for adults aged 19 and older. Additionally, it requires that such coverage be provided without cost-sharing. This section takes effect one year after the date of enactment.

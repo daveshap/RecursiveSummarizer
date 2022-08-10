@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+3 SEC. 22003. BIOFUEL INFRASTRUCTURE AND AGRICULTURE 4 PRODUCT MARKET EXPANSION. 5 Section 9003 of the Farm Security and Rural Invest6 ment Act of 2002 (7 U.S.C. 8103) (as amended by section 7 22001) is amended by adding at the end the following: 8 (i) BIOFUEL INFRASTRUCTURE AND AGRICULTURE 9 PRODUCT MARKET EXPANSION. 10 (1) APPROPRIATION.Notwithstanding sub11 sections (a) through (e) and subsection (g), in addi12 tion to amounts otherwise available, there is appro13 priated to the Secretary for fiscal year 2022, out of 14 any money in the Treasury not otherwise appro15 priated, $500,000,000, to remain available until Sep16 tember 30, 2031, to carry out this subsection. 17 (2) USE OF FUNDS.The Secretary shall use 18 the amounts made available by paragraph (1) to pro19 vide grants, for which the Federal share shall be not 20 more than 75 percent of the total cost of carrying out 21 a project for which the grant is provided, on a com22 petitive basis, to increase the sale and use of agricul23 tural commodity-based fuels through infrastructure 24 improvements for blending, storing, supplying, or dis25 tributing biofuels, except for transportation infra- 551  HR 5376 EAS 1 structure not on location where such biofuels are 2 blended, stored, supplied, or distributed 3 (A) by installing, retrofitting, or otherwise 4 upgrading fuel dispensers or pumps and related 5 equipment, storage tank system components, and 6 other infrastructure required at a location re7 lated to dispensing certain biofuel blends to en8 sure the increased sales of fuels with high levels 9 of commodity-based ethanol and biodiesel that 10 are at or greater than the levels required in the 11 Notice of Funding Availability for the Higher 12 Blends Infrastructure Incentive Program for Fis13 cal Year 2020, published in the Federal Register 14 (85 Fed. Reg. 26656), as determined by the Sec15 retary; and 16 (B) by building and retrofitting home 17 heating oil distribution centers or equivalent
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Farm Security and Rural Investment Act of 2002 is amended by adding a section on biofuel infrastructure and agriculture product market expansion. $500 million is appropriated for the Secretary of Agriculture to use for grants to improve biofuel infrastructure and increase sales of biofuel blends containing high levels of commodity-based ethanol and biodiesel.

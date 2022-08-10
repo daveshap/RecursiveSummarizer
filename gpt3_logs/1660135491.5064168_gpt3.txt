@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+no election 22 may be made by the taxpayer under section 23 6418(a) for such taxable year with respect 24 to such facility for purposes of the credit de25 scribed in subsection (b)(5). 518  HR 5376 EAS 1 (iii) REVOCATION OF ELECTION.In 2 the case of a taxpayer who makes an elec3 tion described in paragraph (1)(B) with re4 spect to a qualified clean hydrogen produc5 tion facility, such taxpayer may, at any 6 time during the period described in clause 7 (i)(III)(aa), revoke the application of such 8 election with respect to such facility for any 9 subsequent taxable years during such pe10 riod. Any such election, if made, shall apply 11 to the applicable year specified in such elec12 tion and each subsequent taxable year with13 in the period described in clause (i)(II)(aa). 14 Any election under this subclause may not 15 be subsequently revoked. 16 (E) CLEAN ELECTRICITY PRODUCTION 17 CREDIT.In the case of the credit described in 18 subsection (b)(8), any election under subsection 19 (a) shall 20 (i) apply separately with respect to 21 each qualified facility, 22 (ii) be made for the taxable year in 23 which such facility is placed in service, and 24 (iii) shall apply to such taxable year 25 and to any subsequent taxable year which is 519  HR 5376 EAS 1 within the period described in subsection 2 (b)(1)(B) of section 45Y with respect to such 3 facility. 4 (4) TIMING.The payment described in sub5 section (a) shall be treated as made on 6 (A) in the case of any government, or po7 litical subdivision, described in paragraph (1) 8 and for which no return is required under sec9 tion 6011 or 6033(a), the later of the date that 10 a return would be due under section 6033(a) if 11 such government or subdivision were described in 12 that section or the date on which such govern13 ment or subdivision submits a claim for credit or 14 refund (at such time and in such manner as the 15 Secretary shall provide), and 16 (B) in any other case, the later of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The payment described in subsection (a) shall be treated as made on the later of the date that a return would be due under section 6033(a) if such government or subdivision were described in that section or the date on which such government or subdivision submits a claim for credit or refund.

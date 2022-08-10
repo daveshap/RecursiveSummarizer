@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+respect to energy property which is part of 19 such project, the energy percentage shall be in20 creased by the applicable credit rate increase. 21 (B) APPLICABLE CREDIT RATE IN22 CREASE.For purposes of subparagraph (A), the 23 applicable credit rate increase shall be equal 24 to 283  HR 5376 EAS 1 (i) in the case of any energy project 2 which does not satisfy the requirements of 3 paragraph (9)(B), 2 percentage points, and 4 (ii) in the case of any energy project 5 which satisfies the requirements of para6 graph (9)(B), 10 percentage points.. 7 (p) REGULATIONS.Section 48(a), as amended by the 8 preceding provisions of this Act, is amended by adding at 9 the end the following new paragraph: 10 (15) REGULATIONS AND GUIDANCE.The Sec11 retary shall issue such regulations or other guidance 12 as the Secretary determines necessary to carry out the 13 purposes of this subsection, including regulations or 14 other guidance which provides for requirements for 15 recordkeeping or information reporting for purposes 16 of administering the requirements of this subsection.. 17 (q) EFFECTIVE DATES. 18 (1) IN GENERAL.Except as provided in para19 graphs (2) and (3), the amendments made by this sec20 tion shall apply to property placed in service after 21 December 31, 2021. 22 (2) OTHER PROPERTY.The amendments made 23 by subsections (f), (g), (h), (i), (j), (l), (n), and (o) 24 shall apply to property placed in service after Decem25 ber 31, 2022. 284  HR 5376 EAS 1 (3) SPECIAL RULE FOR PROPERTY FINANCED BY 2 TAX-EXEMPT BONDS.The amendments made by sub3 section (m) shall apply to property the construction 4 of which begins after the date of enactment of this 5 Act. 6 SEC. 13103. INCREASE IN ENERGY CREDIT FOR SOLAR AND 7 WIND FACILITIES PLACED IN SERVICE IN 8 CONNECTION WITH LOW-INCOME COMMU9 NITIES. 10 (a) IN GENERAL.Section 48 is amended by adding 11 at the end the following new subsection: 12 (e) SPECIAL RULES FOR CERTAIN SOLAR AND WIND 13 FACILITIES
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the energy credit for solar and wind facilities placed in service in connection with low-income communities. The credit is increased by 2 percentage points for solar projects and 10 percentage points for wind projects. The amendments apply to property placed in service after December 31, 2021.

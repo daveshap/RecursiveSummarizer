@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+fuel, or develop, demonstrate, or apply low-emission avia4 tion technologies, in addition to amounts otherwise avail5 able, there are appropriated to the Secretary for fiscal year 6 2022, out of any money in the Treasury not otherwise ap7 propriated, to remain available until September 30, 2026 8 (1) $244,530,000 for projects relating to the pro9 duction, transportation, blending, or storage of sus10 tainable aviation fuel; 11 (2) $46,530,000 for projects relating to low-emis12 sion aviation technologies; and 13 (3) $5,940,000 to fund the award of grants under 14 this section, and oversight of the program, by the Sec15 retary. 16 (b) CONSIDERATIONS.In carrying out subsection (a), 17 the Secretary shall consider, with respect to a proposed 18 project 19 (1) the capacity for the eligible entity to increase 20 the domestic production and deployment of sustain21 able aviation fuel or the use of low-emission aviation 22 technologies among the United States commercial 23 aviation and aerospace industry; 24 (2) the projected greenhouse gas emissions from 25 such project, including emissions resulting from the 578  HR 5376 EAS 1 development of the project, and the potential the 2 project has to reduce or displace, on a lifecycle basis, 3 United States greenhouse gas emissions associated 4 with air travel; 5 (3) the capacity to create new jobs and develop 6 supply chain partnerships in the United States; 7 (4) for projects related to the production of sus8 tainable aviation fuel, the projected lifecycle green9 house gas emissions benefits from the proposed project, 10 which shall include feedstock and fuel production and 11 potential direct and indirect greenhouse gas emissions 12 (including resulting from changes in land use); and 13 (5) the benefits of ensuring a diversity of feed14 stocks for sustainable aviation fuel, including the use 15 of waste carbon oxides and direct air capture. 16 (c) COST SHARE.The Federal share of the cost of a 17 project carried out using
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill appropriates $244.53 million for projects relating to the production, transportation, blending, or storage of sustainable aviation fuel, $46.53 million for projects relating to low-emission aviation technologies, and $5.94 million for the award of grants and oversight of the program by the Department of Transportation.

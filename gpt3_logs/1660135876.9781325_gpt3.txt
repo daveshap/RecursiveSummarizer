@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+amounts otherwise available, there 7 is appropriated to the Secretary of Homeland Security for 8 fiscal year 2022, out of any money in the Treasury not 9 otherwise appropriated, $500,000,000, to remain available 10 until September 30, 2028, for the Office of the Chief Readi11 ness Support Officer to carry out sustainability and envi12 ronmental programs. 13 SEC. 70002. UNITED STATES POSTAL SERVICE CLEAN 14 FLEETS. 15 In addition to amounts otherwise available, there is 16 appropriated to the United States Postal Service for fiscal 17 year 2022, out of any money in the Treasury not otherwise 18 appropriated, the following amounts, to be deposited into 19 the Postal Service Fund established under section 2003 of 20 title 39, United States Code: 21 (1) $1,290,000,000, to remain available through 22 September 30, 2031, for the purchase of zero-emission 23 delivery vehicles. 24 (2) $1,710,000,000, to remain available through 25 September 30, 2031, for the purchase, design, and in- 721  HR 5376 EAS 1 stallation of the requisite infrastructure to support 2 zero-emission delivery vehicles at facilities that the 3 United States Postal Service owns or leases from non4 Federal entities. 5 SEC. 70003. UNITED STATES POSTAL SERVICE OFFICE OF 6 INSPECTOR GENERAL. 7 In addition to amounts otherwise available, there is 8 appropriated to the Office of Inspector General of the 9 United States Postal Service for fiscal year 2022, out of 10 any money in the Treasury not otherwise appropriated, 11 $15,000,000, to remain available through September 30, 12 2031, to support oversight of United States Postal Service 13 activities implemented pursuant to this Act. 14 SEC. 70004. GOVERNMENT ACCOUNTABILITY OFFICE OVER15 SIGHT. 16 In addition to amounts otherwise available, there is 17 appropriated to the Comptroller General of the United 18 States for fiscal year 2022, out of any money in the Treas19 ury not otherwise appropriated, $25,000,000, to remain 20 available until September 30, 2031,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section appropriates $500 million to the Department of Homeland Security for sustainability and environmental programs, $1.29 billion to the United States Postal Service for the purchase of zero-emission delivery vehicles, and $1.71 billion for the purchase, design, and installation of infrastructure to support zero-emission delivery vehicles. Additionally, it appropriates $15 million to the Office of Inspector General of the United States Postal Service and $25 million to the Comptroller General of the United States for oversight.

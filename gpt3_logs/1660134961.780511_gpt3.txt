@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+transmission 8 or distribution system which is required at 9 or beyond the point at which the energy 10 project interconnects to such transmission 11 or distribution system in order to accommo12 date such interconnection, 13 (ii) either 14 (I) which is constructed, recon15 structed, or erected by the taxpayer, or 16 (II) for which the cost with re17 spect to the construction, reconstruc18 tion, or erection of such property is 19 paid or incurred by such taxpayer, 20 and 21 (iii) the original use of which, pursu22 ant to an interconnection agreement, com23 mences with a utility. 24 (C) INTERCONNECTION AGREEMENT.The 25 term interconnection agreement means an 276  HR 5376 EAS 1 agreement with a utility for the purposes of 2 interconnecting the energy property owned by 3 such taxpayer to the transmission or distribution 4 system of such utility. 5 (D) UTILITY.For purposes of this para6 graph, the term utility means the owner or op7 erator of an electrical transmission or distribu8 tion system which is subject to the regulatory au9 thority of a State or political subdivision thereof, 10 any agency or instrumentality of the United 11 States, a public service or public utility commis12 sion or other similar body of any State or polit13 ical subdivision thereof, or the governing or rate14 making body of an electric cooperative. 15 (E) SPECIAL RULE FOR INTERCONNECTION 16 PROPERTY.In the case of expenses paid or in17 curred for interconnection property, amounts 18 otherwise chargeable to capital account with re19 spect to such expenses shall be reduced under 20 rules similar to the rules of section 50(c).. 21 (k) ENERGY PROJECTS, WAGE REQUIREMENTS, AND 22 APPRENTICESHIP REQUIREMENTS.Section 48(a), as 23 amended by the preceding provisions of this Act, is amended 24 by adding at the end the following new paragraphs: 277  HR 5376 EAS 1 (9) INCREASED CREDIT AMOUNT FOR ENERGY 2 PROJECTS. 3 (A) IN GENERAL. 4 (i) RULE.In the case of any energy 5
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends section 48(a) of the Internal Revenue Code to increase the credit amount for energy projects that meet certain wage requirements and apprenticeship requirements.

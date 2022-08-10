@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+16516) 18 the following: 19 SEC. 1706. ENERGY INFRASTRUCTURE REINVESTMENT FI20 NANCING. 21 (a) IN GENERAL.Notwithstanding section 1703, the 22 Secretary may make guarantees, including refinancing, 23 under this section only for projects that 24 (1) retool, repower, repurpose, or replace energy 25 infrastructure that has ceased operations; or 615  HR 5376 EAS 1 (2) enable operating energy infrastructure to 2 avoid, reduce, utilize, or sequester air pollutants or 3 anthropogenic emissions of greenhouse gases. 4 (b) INCLUSION.A project under subsection (a) may 5 include the remediation of environmental damage associ6 ated with energy infrastructure. 7 (c) REQUIREMENT.A project under subsection 8 (a)(1) that involves electricity generation through the use 9 of fossil fuels shall be required to have controls or tech10 nologies to avoid, reduce, utilize, or sequester air pollutants 11 and anthropogenic emissions of greenhouse gases. 12 (d) APPLICATION.To apply for a guarantee under 13 this section, an applicant shall submit to the Secretary an 14 application at such time, in such manner, and containing 15 such information as the Secretary may require, including 16 (1) a detailed plan describing the proposed 17 project; 18 (2) an analysis of how the proposed project will 19 engage with and affect associated communities; and 20 (3) in the case of an applicant that is an elec21 tric utility, an assurance that the electric utility shall 22 pass on any financial benefit from the guarantee 23 made under this section to the customers of, or associ24 ated communities served by, the electric utility. 616  HR 5376 EAS 1 (e) TERM.Notwithstanding section 1702(f), the 2 term of an obligation shall require full repayment over a 3 period not to exceed 30 years. 4 (f) DEFINITION OF ENERGY INFRASTRUCTURE.In 5 this section, the term energy infrastructure means a facil6 ity, and associated equipment, used for 7 (1) the generation or transmission of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Infrastructure Reinvestment Financing Act enables the Secretary of Energy to provide guarantees for loans to projects that retool, repower, or replace energy infrastructure that has ceased operations, or that enable operating energy infrastructure to avoid, reduce, utilize, or sequester air pollutants or emissions of greenhouse gases. The term of an obligation shall require full repayment over a period not to exceed 30 years.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+provide a tax credit for certain transportation fuels. The credit is available for fuel sold to certain persons by another member of such group. The credit is allowed for fuel sold after December 31, 2027.  This section allows an applicable entity making an election to treat a credit as a payment against the tax imposed by subtitle A. The term applicable credit means the credit for producing electricity from certain renewable resources, the credit for energy property, and the credit for refined coal production property.  The section lists 12 credits that are allowed to be carried over to future tax years, including the renewable electricity production credit, the credit for carbon oxide sequestration, the zero-emission nuclear power production credit, and the credit for production of clean hydrogen.  The S corporation makes an election under the 23 such subsection (in such manner as the Secretary 24 may provide) with respect to such credit 508. The Secretary shall make a payment to 2 such partnership or S corporation equal to the 3 amount of such credit, 4 (B) subsection (e) shall be applied with re5 spect to such credit before determining any part6 ners distributive share, or shareholders pro rata 7 share, of such credit, 8 (C) any amount with respect to which the 9 election in subsection (a) is made shall be treated 10 as tax exempt income for purposes of sections 11 705 and 1366, and 12 (D) a partners distributive share of such 13 tax exempt income shall be based on such part14 ners distributive share of the otherwise applica15 ble credit for each taxable year.  This section allows taxpayers other than those described in subparagraph (A) to make an election with respect to credits for the production of clean hydrogen, carbon capture, and advanced manufacturing. If the taxpayer makes the election, they will be treated as an applicable entity for purposes of this section for the taxable year, but only with respect to the credit for which they made the election.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides a tax credit for certain transportation fuels and allows taxpayers to make an election to treat a credit as a payment against the tax imposed by subtitle A. The credit is allowed for fuel sold after December 31, 2027. The term applicable credit means the credit for producing electricity from certain renewable resources, the credit for energy property, and the credit for refined coal production property. The section lists 12 credits that are allowed to be carried over to future tax years, including the renewable electricity production credit, the credit for carbon oxide sequestration, the zero-emission nuclear power production credit, and the credit for production of clean hydrogen. If the taxpayer makes the election, they will be treated as an applicable entity for purposes of this section for the taxable year, but only with respect to the credit for which they made the election.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+The Energy Policy Act of 2005 created a tax credit for certain entities that make investments in eligible components for use in a trade or business. The credit is equal to 30% of the cost of the investment. The taxpayer may elect to apply the credit against the tax liability for the taxable year in which the investment is made, or for any of the four succeeding taxable years. The taxpayer may also revoke the election at any time.  The bill allows taxpayers to elect to claim the renewable electricity production credit or the carbon capture equipment credit in lieu of the business energy investment tax credit. The election is irrevocable and applies to the taxable year in which the qualified facility is placed in service.  This section explains the process for claiming the clean energy tax credit for carbon capture equipment and clean hydrogen production facilities. Taxpayers must make an election under section 6418(a) in order to claim the credit. The election may be made for the taxable year in which the equipment is placed in service, and will apply to the taxable year and the four subsequent taxable years.  The payment described in subsection (a) shall be treated as made on the later of the date that a return would be due under section 6033(a) if such government or subdivision were described in that section or the date on which such government or subdivision submits a claim for credit or refund.  The amount of the credit which an applicable entity may receive for a taxable year with respect to a facility or property shall be reduced by the amount of any excessive payment made by the entity with respect to the facility or property. An applicable entity may avoid this reduction if it can demonstrate to the satisfaction of the Secretary that the excessive payment resulted from reasonable cause.  The section amends the Internal Revenue Code to allow businesses to transfer certain tax credits to other businesses. The credit is reduced to zero for the purposes of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 2005 created a tax credit for businesses that make investments in eligible components for use in a trade or business. The credit is equal to 30% of the cost of the investment, and the taxpayer may elect to apply the credit against the tax liability for the taxable year in which the investment is made, or for any of the four succeeding taxable years. The taxpayer may also revoke the election at any time. The bill also allows businesses to elect to claim the renewable electricity production credit or the carbon capture equipment credit in lieu of the business energy investment tax credit.

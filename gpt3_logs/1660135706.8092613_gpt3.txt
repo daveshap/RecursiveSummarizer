@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+studies and other work needed to 17 prepare an eligible facility for activities described in 18 paragraph (1) or (2). 19 (c) APPLICATION.To be eligible to receive financial 20 assistance under subsection (b), an eligible entity shall sub21 mit to the Secretary an application at such time, in such 22 manner, and containing such information as the Secretary 23 may require, including the expected greenhouse gas emis24 sions reductions to be achieved by carrying out the project. 627  HR 5376 EAS 1 (d) PRIORITY.In providing financial assistance 2 under subsection (b), the Secretary shall give priority con3 sideration to projects on the basis of, as determined by the 4 Secretary 5 (1) the expected greenhouse gas emissions reduc6 tions to be achieved by carrying out the project; 7 (2) the extent to which the project would provide 8 the greatest benefit for the greatest number of people 9 within the area in which the eligible facility is lo10 cated; and 11 (3) whether the eligible entity participates or 12 would participate in a partnership with purchasers of 13 the output of the eligible facility. 14 (e) COST SHARE.The Secretary shall require an eli15 gible entity to provide not less than 50 percent of the cost 16 of a project carried out pursuant to this section. 17 (f) ADMINISTRATIVE COSTS.The Secretary shall re18 serve not more than $300,000,000 of amounts made avail19 able under subsection (a) for administrative costs of car20 rying out this section. 21 (g) DEFINITIONS.In this section: 22 (1) ADVANCED INDUSTRIAL TECHNOLOGY.The 23 term advanced industrial technology means a tech24 nology directly involved in an industrial process, as 25 described in any of paragraphs (1) through (6) of sec- 628  HR 5376 EAS 1 tion 454(c) of the Energy Independence and Security 2 Act of 2007 (42 U.S.C. 17113(c)), and designed to ac3 celerate greenhouse gas emissions reduction progress 4 to net-zero at an eligible facility, as determined by the 5 Secretary. 6 (2) ELIGIBLE
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill provides financial assistance to eligible entities to prepare for activities related to reducing greenhouse gas emissions. To be eligible, entities must submit an application to the Secretary containing information on the expected emissions reductions from the project. Priority consideration will be given to projects with the greatest expected emissions reductions, those that would provide the greatest benefit to the greatest number of people, and those with eligible entities that participate in partnerships with purchasers of the output of the eligible facility. The Secretary shall require an eligible entity to provide not less than 50 percent of the cost of a project carried out pursuant to this section. Not more than $300,000,000 of amounts made available under subsection (a) shall be reserved for administrative costs of carrying out this section.

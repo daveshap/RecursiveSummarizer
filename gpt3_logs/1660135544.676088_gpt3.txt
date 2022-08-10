@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and inserting 2031. 7 SEC. 21002. CONSERVATION TECHNICAL ASSISTANCE. 8 (a) APPROPRIATIONS.In addition to amounts other9 wise available (and subject to subsection (b)), there are ap10 propriated to the Secretary for fiscal year 2022, out of any 11 money in the Treasury not otherwise appropriated, to re12 main available until September 30, 2031 (subject to the con13 dition that no such funds may be disbursed after September 14 30, 2031) 15 (1) $1,000,000,000 to provide conservation tech16 nical assistance through the Natural Resources Con17 servation Service; and 18 (2) $300,000,000 to carry out a program to 19 quantify carbon sequestration and carbon dioxide, 20 methane, and nitrous oxide emissions, through which 21 the Natural Resources Conservation Service shall col22 lect field-based data to assess the carbon sequestration 23 and reduction in carbon dioxide, methane, and ni24 trous oxide emissions outcomes associated with activi25 ties carried out pursuant to this section and use the 546  HR 5376 EAS 1 data to monitor and track those carbon sequestration 2 and emissions trends through the Greenhouse Gas In3 ventory and Assessment Program of the Department 4 of Agriculture. 5 (b) CONDITIONS.The funds made available under 6 this section are subject to the conditions that the Secretary 7 shall not 8 (1) enter into any agreement 9 (A) that is for a term extending beyond 10 September 30, 2031; or 11 (B) under which any payment could be 12 outlaid or funds disbursed after September 30, 13 2031; 14 (2) use any other funds available to the Sec15 retary to satisfy obligations initially made under this 16 section; or 17 (3) interpret this section to authorize funds of 18 the Commodity Credit Corporation for activities 19 under this section if such funds are not expressly au20 thorized or currently expended for such purposes. 21 (c) ADMINISTRATIVE COSTS.In addition to amounts 22 otherwise available, there is appropriated to the Secretary 23 for fiscal year 2022,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill appropriates $1 billion for conservation technical assistance and $300 million for a program to quantify carbon sequestration and emissions of carbon dioxide, methane, and nitrous oxide. The funds are available until September 30, 2031, and are subject to the condition that no payments may be made after that date.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+such unit during 294  HR 5376 EAS 1 (I) in the case of an applicable 2 electric generating unit which was 3 originally placed in service more than 4 1 year prior to the date on which con5 struction of the carbon capture equip6 ment begins and on or after the date 7 which is 3 years prior to the date on 8 which construction of such equipment 9 begins, the period beginning on the 10 date such unit was placed in service 11 and ending on the date on which con12 struction of such equipment began, and 13 (II) in the case of an applicable 14 electric generating unit which was 15 originally placed in service more than 16 3 years prior to the date on which con17 struction of the carbon capture equip18 ment begins, the 3 years with the high19 est annual carbon oxide production 20 during the 12-year period preceding 21 the date on which construction of such 22 equipment began. 23 (ii) In the case of an applicable elec24 tric generating unit which 295  HR 5376 EAS 1 (I) as of the date on which con2 struction of the carbon capture equip3 ment begins, is not yet placed in serv4 ice, or 5 (II) was placed in service during 6 the 1-year period prior to the date on 7 which construction of the carbon cap8 ture equipment begins, 9 the designed annual carbon oxide produc10 tion, by mass, as determined based on an 11 assumed capacity factor of 60 percent. 12 (B) CAPACITY FACTOR.The term capac13 ity factor means the ratio (expressed as a per14 centage) of the actual electric output from the 15 applicable electric generating unit to the poten16 tial electric output from such unit.. 17 (B) CONFORMING AMENDMENT.Section 18 142(o)(1)(B) is amended by striking section 19 45Q(e)(1) and inserting section 45Q(e)(3). 20 (b) MODIFIED APPLICABLE DOLLAR AMOUNT.Sec21 tion 45Q(b)(1)(A) is amended 22 (1) in clause (i) 23 (A) in subclause (I), by striking the dollar 24 amount and all that follows through such pe25 riod and inserting $17, and 296  HR 5376 EAS 1
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Independence and Security Act of 2007 amends the Internal Revenue Code of 1986 to include a new section 45Q, which provides a tax credit for the capture and sequestration of carbon dioxide emissions from certain electric generating units. The credit is available for units that are originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins, and on or after the date which is 3 years prior to the date on which construction of such equipment begins. The credit is also available for units that are originally placed in service more than 3 years prior to the date on which construction of the carbon capture equipment begins, but only for the 3 years with the highest annual carbon oxide production during the 12-year period preceding the date on which construction of such equipment begins.

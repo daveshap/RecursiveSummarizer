@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+amendments made by, this section in fiscal 162  HR 5376 EAS 1 year 2022, and $7,500,000 to carry out the provisions of, 2 including the amendments made by, this section in each 3 of fiscal years 2023 through 2031, to remain available until 4 expended. 5 PART 3PART D IMPROVEMENTS AND MAXIMUM 6 OUT-OF-POCKET CAP FOR MEDICARE BENE7 FICIARIES 8 SEC. 11201. MEDICARE PART D BENEFIT REDESIGN. 9 (a) BENEFIT STRUCTURE REDESIGN.Section 10 1860D2(b) of the Social Security Act (42 U.S.C. 1395w 11 102(b)) is amended 12 (1) in paragraph (2) 13 (A) in subparagraph (A), in the matter pre14 ceding clause (i), by inserting for a year pre15 ceding 2025 and for costs above the annual de16 ductible specified in paragraph (1) and up to the 17 annual out-of-pocket threshold specified in para18 graph (4)(B) for 2025 and each subsequent year 19 after paragraph (3); 20 (B) in subparagraph (C) 21 (i) in clause (i), in the matter pre22 ceding subclause (I), by inserting for a 23 year preceding 2025, after paragraph 24 (4),; and 163  HR 5376 EAS 1 (ii) in clause (ii)(III), by striking 2 and each subsequent year and inserting 3 through 2024; and 4 (C) in subparagraph (D) 5 (i) in clause (i) 6 (I) in the matter preceding sub7 clause (I), by inserting for a year pre8 ceding 2025, after paragraph (4),; 9 and 10 (II) in subclause (I)(bb), by strik11 ing a year after 2018 and inserting 12 each of years 2019 through 2024; 13 and 14 (ii) in clause (ii)(V), by striking 2019 15 and each subsequent year and inserting 16 each of years 2019 through 2024; 17 (2) in paragraph (3)(A) 18 (A) in the matter preceding clause (i), by 19 inserting for a year preceding 2025, after 20 and (4),; and 21 (B) in clause (ii), by striking for a subse22 quent year and inserting for each of years 23 2007 through 2024; and 24 (3) in paragraph (4) 25 (A) in subparagraph (A) 164  HR 5376 EAS 1 (i) in clause (i) 2 (I) by redesignating subclauses (I) 3
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends section 1860D2(b) of the Social Security Act to redesign the Medicare Part D benefit structure for years preceding 2025. The annual deductible and out-of-pocket threshold will be increased for 2025 and each subsequent year.

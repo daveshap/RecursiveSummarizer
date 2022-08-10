@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+such corporation as an applicable cor11 poration. 12 The preceding sentence shall not apply to any 13 corporation if, after the Secretary makes the de14 termination described in clause (ii), such cor15 poration meets the average annual adjusted fi16 nancial statement income test of subparagraph 17 (B) for any taxable year beginning after the first 18 taxable year for which such determination ap19 plies. 20 (D) SPECIAL RULES FOR DETERMINING 21 APPLICABLE CORPORATION STATUS. 22 (i) IN GENERAL.Solely for purposes 23 of determining whether a corporation is an 24 applicable corporation under this para25 graph, all adjusted financial statement in- 6  HR 5376 EAS 1 come of persons treated as a single employer 2 with such corporation under subsection (a) 3 or (b) of section 52 (determined with the 4 modifications described in clause (ii)) shall 5 be treated as adjusted financial statement 6 income of such corporation, and adjusted fi7 nancial statement income of such corpora8 tion shall be determined without regard to 9 paragraphs (2)(D)(i) and (11) of section 10 56A(c). 11 (ii) MODIFICATIONS.For purposes 12 of this subparagraph 13 (I) section 52(a) shall be applied 14 by substituting component members 15 for members, and 16 (II) for purposes of applying sec17 tion 52(b), the term trade or business 18 shall include any activity treated as a 19 trade or business under paragraph (5) 20 or (6) of section 469(c) (determined 21 without regard to the phrase To the 22 extent provided in regulations in such 23 paragraph (6)). 24 (iii) COMPONENT MEMBER.For pur25 poses of this subparagraph, the term com- 7  HR 5376 EAS 1 ponent member has the meaning given such 2 term by section 1563(b), except that the de3 termination shall be made without regard to 4 section 1563(b)(2). 5 (E) OTHER SPECIAL RULES. 6 (i) CORPORATIONS IN EXISTENCE FOR 7 LESS THAN 3 YEARS.If the corporation 8 was in existence for less than 3-taxable 9 years, subparagraph (B) shall be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The preceding sentence shall not apply to any corporation if, after the Secretary makes the determination described in clause (ii), such corporation meets the average annual adjusted financial statement income test of subparagraph (B) for any taxable year beginning after the first taxable year for which such determination applies.

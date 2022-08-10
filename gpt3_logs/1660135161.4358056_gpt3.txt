@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+placed in service after De14 cember 31, 2024, with respect to which any of 15 the applicable critical minerals contained in the 16 battery of such vehicle (as described in subsection 17 (e)(1)(A)) were extracted, processed, or recycled 18 by a foreign entity of concern (as defined in sec19 tion 40207(a)(5) of the Infrastructure Investment 20 and Jobs Act (42 U.S.C. 18741(a)(5))), or 21 (B) any vehicle placed in service after De22 cember 31, 2023, with respect to which any of 23 the components contained in the battery of such 24 vehicle (as described in subsection (e)(2)(A)) 382  HR 5376 EAS 1 were manufactured or assembled by a foreign en2 tity of concern (as so defined).. 3 (f) SPECIAL RULES.Section 30D(f) is amended by 4 adding at the end the following: 5 (8) ONE CREDIT PER VEHICLE.In the case of 6 any vehicle, the credit described in subsection (a) 7 shall only be allowed once with respect to such vehicle, 8 as determined based upon the vehicle identification 9 number of such vehicle. 10 (9) VIN REQUIREMENT.No credit shall be al11 lowed under this section with respect to any vehicle 12 unless the taxpayer includes the vehicle identification 13 number of such vehicle on the return of tax for the 14 taxable year. 15 (10) LIMITATION BASED ON MODIFIED AD16 JUSTED GROSS INCOME. 17 (A) IN GENERAL.No credit shall be al18 lowed under subsection (a) for any taxable year 19 if 20 (i) the lesser of 21 (I) the modified adjusted gross 22 income of the taxpayer for such taxable 23 year, or 383  HR 5376 EAS 1 (II) the modified adjusted gross 2 income of the taxpayer for the pre3 ceding taxable year, exceeds 4 (ii) the threshold amount. 5 (B) THRESHOLD AMOUNT.For purposes 6 of subparagraph (A)(ii), the threshold amount 7 shall be 8 (i) in the case of a joint return or a 9 surviving spouse (as defined in section 10 2(a)), $300,000, 11 (ii) in the case of a head of household 12 (as defined in section 2(b)), $225,000, and 13 (iii) in the case
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The credit described in subsection (a) of Section 30D of the US Tax Code shall only be allowed once with respect to any vehicle, as determined based upon the vehicle identification number of such vehicle. No credit shall be allowed under this section with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year. The credit described in subsection (a) shall not be allowed for any taxable year if the modified adjusted gross income of the taxpayer for such taxable year exceeds the threshold amount.

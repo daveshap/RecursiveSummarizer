@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+CONFIDENTIALITY (a) Definition. Confidential Information means any Company proprietary information, technical data, trade secrets or know-how, including, but not limited to, research, product plans, products, services, customers, customer lists, markets, software, developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration information, marketing, finances or other business information disclosed to or accessed by Contractor either directly or indirectly in writing, orally or by drawings or inspection of parts or equipment. (b) Non-Use and Non-Disclosure. Contractor will not, during or subsequent to the term of this Agreement, use the Companys Confidential Information for any purpose whatsoever other than the performance of the Services on behalf of the Company or disclose the Companys Confidential Information to any third party. It is understood that all Confidential Information shall remain the sole property of the Company.
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+Confidential Information refers to any proprietary information or trade secrets belonging to the Company that the Contractor is privy to. This may include research data, product plans, customer lists, marketing strategies, software developments, etc. The Contractor is not allowed to use this information for any other purpose than performing the Services agreed upon, and must not disclose it to any third party. All Confidential Information remains the sole property of the Company.

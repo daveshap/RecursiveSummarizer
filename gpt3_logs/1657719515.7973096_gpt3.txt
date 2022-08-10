@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+or take away such employees, or attempt to solicit, induce, recruit, encourage, hire or take away employees of the Company, either for Contractor itself or for any other person or entity. Further, Contractor agrees that during the term and for a period of twenty-four (24) months after the termination of this Agreement, Contractor will not, either directly or indirectly, interfere with the Companys customer, vendor, or other relationships. 6. TERM AND TERMINATION (a) Term. This Agreement will commence on the date first written above and will continue until the earlier of (i) final completion of the Services or (ii) termination as provided below. 4 COMPANY CONFIDENTIAL (b) Termination. The Company may terminate this Agreement upon giving fourteen (14) days prior written notice thereof to Contractor. The Company may terminate this Agreement immediately and without prior notice if Contractor refuses to or is unable to perform the Services or is in breach of any material provision of this
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+This agreement is between the Company and the Contractor. The Contractor agrees to not interfere with the Company's relationships with customers, vendors, or other entities. The Agreement will commence on the date written above and will continue until the earlier of (i) final completion of the Services or (ii) termination as provided below. The Company may terminate this Agreement upon giving fourteen (14) days prior written notice thereof to Contractor. The Company may terminate this Agreement immediately and without prior notice if Contractor refuses to or is unable to perform the Services or is in breach of any material provision of this Agreement.

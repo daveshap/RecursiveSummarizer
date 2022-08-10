@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+DEDUCTION AMOUNT FOR CER25 TAIN PROPERTY. 355  HR 5376 EAS 1 (A) IN GENERAL.In the case of any 2 property which satisfies the requirements of sub3 paragraph (B), paragraph (2) shall be applied 4 by substituting $2.50 for $0.50, $.10 for 5 $.02, and $5.00 for $1.00. 6 (B) PROPERTY REQUIREMENTS.In the 7 case of any energy efficient commercial building 8 property, energy efficient building retrofit prop9 erty, or property installed pursuant to a quali10 fied retrofit plan, such property shall meet the 11 requirements of this subparagraph if  12 (i) installation of such property be13 gins prior to the date that is 60 days after 14 the Secretary publishes guidance with re15 spect to the requirements of paragraphs 16 (4)(A) and (5), or 17 (ii) installation of such property sat18 isfies the requirements of paragraphs (4)(A) 19 and (5). 20 (4) PREVAILING WAGE REQUIREMENTS. 21 (A) IN GENERAL.The requirements de22 scribed in this subparagraph with respect to any 23 property are that the taxpayer shall ensure that 24 any laborers and mechanics employed by the tax25 payer or any contractor or subcontractor in the 356  HR 5376 EAS 1 installation of any property shall be paid wages 2 at rates not less than the prevailing rates for 3 construction, alteration, or repair of a similar 4 character in the locality in which such property 5 is located as most recently determined by the 6 Secretary of Labor, in accordance with sub7 chapter IV of chapter 31 of title 40, United 8 States Code. 9 (B) CORRECTION AND PENALTY RELATED 10 TO FAILURE TO SATISFY WAGE REQUIRE11 MENTS.Rules similar to the rules of section 12 45(b)(7)(B) shall apply. 13 (5) APPRENTICESHIP REQUIREMENTS.Rules 14 similar to the rules of section 45(b)(8) shall apply. 15 (6) REGULATIONS.The Secretary shall issue 16 such regulations or other guidance as the Secretary 17 determines necessary to carry out the purposes of this 18 subsection, including regulations or other guidance 19
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the deduction amount for certain property, specifically energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan. The deduction amount is increased from $0.50 to $2.50, $.02 to $.10, and $1.00 to $5.00. In order for the property to qualify, the taxpayer must ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the installation of any property are paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such property is located as most recently determined by the Secretary of Labor.

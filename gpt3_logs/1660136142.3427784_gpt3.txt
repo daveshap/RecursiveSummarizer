@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the requirements of the Patient Protection and Affordable Care Act. Specifically, it amends sections 1860D2 and 1860D4 to increase the initial coverage limit and out-of-pocket threshold for 2025 and subsequent years, and amends section 1860D14 to eliminate the annual out-of-pocket threshold for 2024 and subsequent years. Finally, it amends section 1860D21 to repeal the annual out-of-pocket threshold for 2025 and subsequent years.  The Social Security Act is amended to provide discounts for prescription drugs dispensed under Medicare Part D for years 2011 through 2025. For 2025 and each subsequent year, any discount provided pursuant to section 1860D14C of the Social Security Act will apply.  The Social Security Act is amended to allow for a maximum monthly cap on cost-sharing payments under prescription drug plans and Medicare Advantage plans. This change will take effect in 2025 and will be implemented by program instruction or other forms of program guidance. Funding for this change will be provided out of any money in the Treasury not otherwise appropriated.  This section allows enrollees in a prescription drug plan or an MA plan to elect to pay their cost-sharing in monthly installments, capped at a maximum monthly amount. The maximum monthly amount is determined by the PDP sponsor or MA organization, and is based on the enrollee's annual out-of-pocket costs.  The graph indicates that enrollees in a prescription drug plan or an MAPD plan have the option to make an election prior to the beginning of the plan year or in any month during the plan year. PDP sponsors and MA organizations are responsible for informing enrollees of the option to make such an election and ensuring that enrollees are aware of the option when they incur out-of-pocket costs with respect to covered part D drugs. If an enrollee fails to pay the amount billed, the PDP sponsor or MA organization must have a financial reconciliation process in place to correct any inaccuracies in payments made
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The requirements of the Patient Protection and Affordable Care Act are amended to increase the initial coverage limit and out-of-pocket threshold for 2025 and subsequent years, and to eliminate the annual out-of-pocket threshold for 2024 and subsequent years. The Social Security Act is amended to provide discounts for prescription drugs dispensed under Medicare Part D for years 2011 through 2025, and to allow for a maximum monthly cap on cost-sharing payments under prescription drug plans and Medicare Advantage plans. This section allows enrollees in a prescription drug plan or an MA plan to elect to pay their cost-sharing in monthly installments, capped at a maximum monthly amount.

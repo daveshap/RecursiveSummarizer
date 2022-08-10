@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+similar types and categories 14 of transportation fuels based on the amount 15 of lifecycle greenhouse gas emissions (as de16 scribed in section 211(o)(1)(H) of the Clean 17 Air Act (42 U.S.C. 7545(o)(1)(H)), as in ef18 fect on the date of the enactment of this sec19 tion) for such fuels, expressed as kilograms 20 of CO2e per mmBTU, which a taxpayer 21 shall use for purposes of this section. 22 (ii) NON-AVIATION FUEL.In the case 23 of any transportation fuel which is not a 24 sustainable aviation fuel, the lifecycle green25 house gas emissions of such fuel shall be 495  HR 5376 EAS 1 based on the most recent determinations 2 under the Greenhouse gases, Regulated 3 Emissions, and Energy use in Transpor4 tation model developed by Argonne National 5 Laboratory, or a successor model (as deter6 mined by the Secretary). 7 (iii) AVIATION FUEL.In the case of 8 any transportation fuel which is a sustain9 able aviation fuel, the lifecycle greenhouse 10 gas emissions of such fuel shall be deter11 mined in accordance with 12 (I) the most recent Carbon Off13 setting and Reduction Scheme for 14 International Aviation which has been 15 adopted by the International Civil 16 Aviation Organization with the agree17 ment of the United States, or 18 (II) any similar methodology 19 which satisfies the criteria under sec20 tion 211(o)(1)(H) of the Clean Air Act 21 (42 U.S.C. 7545(o)(1)(H)), as in effect 22 on the date of enactment of this sec23 tion. 24 (C) ROUNDING OF EMISSIONS RATE. 496  HR 5376 EAS 1 (i) IN GENERAL.Subject to clause 2 (ii), the Secretary may round the emissions 3 rates under subparagraph (B) to the nearest 4 multiple of 5 kilograms of CO2e per 5 mmBTU. 6 (ii) EXCEPTION.In the case of an 7 emissions rate that is between 2.5 kilograms 8 of CO2e per mmBTU and -2.5 kilograms of 9 CO2e per mmBTU, the Secretary may 10 round such rate to zero. 11 (D) PROVISIONAL EMISSIONS RATE.In 12 the case of any transportation fuel for which an 13 emissions rate
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes the emissions rates for transportation fuels, expressed in terms of kilograms of CO2e per mmBTU. The rates are to be based on the most recent determinations under the Greenhouse gases, Regulated Emissions, and Energy use in Transportation model developed by Argonne National Laboratory, or a successor model. For aviation fuels, the rates are to be based on the most recent Carbon Offsetting and Reduction Scheme for International Aviation adopted by the International Civil Aviation Organization with the agreement of the United States, or a similar methodology. The rates may be rounded to the nearest multiple of 5 kilograms of CO2e per mmBTU, except in the case of an emissions rate that is between 2.5 and -2.5 kilograms of CO2e per mmBTU, which may be rounded to zero.

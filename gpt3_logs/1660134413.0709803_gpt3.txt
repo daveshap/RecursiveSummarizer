@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+applied on 10 the basis of the period during which such 11 corporation was in existence. 12 (ii) SHORT TAXABLE YEARS.Ad13 justed financial statement income for any 14 taxable year of less than 12 months shall be 15 annualized by multiplying the adjusted fi16 nancial statement income for the short pe17 riod by 12 and dividing the result by the 18 number of months in the short period. 19 (iii) TREATMENT OF PREDE20 CESSORS.Any reference in this subpara21 graph to a corporation shall include a ref22 erence to any predecessor of such corpora23 tion. 24 (2) SPECIAL RULE FOR FOREIGN-PARENTED 25 MULTINATIONAL GROUPS. 8  HR 5376 EAS 1 (A) IN GENERAL.If a corporation is a 2 member of a foreign-parented multinational 3 group for any taxable year, then, solely for pur4 poses of determining whether such corporation 5 meets the average annual adjusted financial 6 statement income test under paragraph 7 (1)(B)(ii)(I) for such taxable year, the adjusted 8 financial statement income of such corporation 9 for such taxable year shall include the adjusted 10 financial statement income of all members of 11 such group. Solely for purposes of this subpara12 graph, adjusted financial statement income shall 13 be determined without regard to paragraphs 14 (2)(D)(i), (3), (4), and (11) of section 56A(c). 15 (B) FOREIGN-PARENTED MULTINATIONAL 16 GROUP.For purposes of subparagraph (A), the 17 term foreign-parented multinational group 18 means, with respect to any taxable year, two or 19 more entities if 20 (i) at least one entity is a domestic 21 corporation and another entity is a foreign 22 corporation, 23 (ii) such entities are included in the 24 same applicable financial statement with 25 respect to such year, and 9  HR 5376 EAS 1 (iii) either 2 (I) the common parent of such 3 entities is a foreign corporation, or 4 (II) if there is no common par5 ent, the entities are treated as having 6 a common parent which is a foreign 7 corporation under subparagraph
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section explains the treatment of adjusted financial statement income for purposes of the average annual adjusted financial statement income test for foreign-parented multinational groups. Specifically, it provides that the adjusted financial statement income of a corporation for a taxable year shall include the adjusted financial statement income of all members of the corporation's foreign-parented multinational group.

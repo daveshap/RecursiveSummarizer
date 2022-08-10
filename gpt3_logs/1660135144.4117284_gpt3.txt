@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+locality in 21 which such residence is located as most recently 22 determined by the Secretary of Labor, in accord23 ance with subchapter IV of chapter 31 of title 40, 24 United States Code. 372  HR 5376 EAS 1 (B) CORRECTION AND PENALTY RELATED 2 TO FAILURE TO SATISFY WAGE REQUIRE3 MENTS.Rules similar to the rules of section 4 45(b)(7)(B) shall apply. 5 (3) REGULATIONS AND GUIDANCE.The Sec6 retary shall issue such regulations or other guidance 7 as the Secretary determines necessary to carry out the 8 purposes of this subsection, including regulations or 9 other guidance which provides for requirements for 10 recordkeeping or information reporting for purposes 11 of administering the requirements of this subsection.. 12 (e) BASIS ADJUSTMENT.Section 45L(e) is amended 13 by inserting after the first sentence the following: This sub14 section shall not apply for purposes of determining the ad15 justed basis of any building under section 42.. 16 (f) EFFECTIVE DATES. 17 (1) IN GENERAL.Except as provided in para18 graph (2), the amendments made by this section shall 19 apply to dwelling units acquired after December 31, 20 2022. 21 (2) EXTENSION OF CREDIT.The amendments 22 made by subsection (a) shall apply to dwelling units 23 acquired after December 31, 2021. 373  HR 5376 EAS 1 PART 4CLEAN VEHICLES 2 SEC. 13401. CLEAN VEHICLE CREDIT. 3 (a) PER VEHICLE DOLLAR LIMITATION.Section 4 30D(b) is amended by striking paragraphs (2) and (3) and 5 inserting the following: 6 (2) CRITICAL MINERALS.In the case of a vehi7 cle with respect to which the requirement described in 8 subsection (e)(1)(A) is satisfied, the amount deter9 mined under this paragraph is $3,750. 10 (3) BATTERY COMPONENTS.In the case of a 11 vehicle with respect to which the requirement de12 scribed in subsection (e)(2)(A) is satisfied, the amount 13 determined under this paragraph is $3,750.. 14 (b) FINAL ASSEMBLY.Section 30D(d) is amended 15 (1) in paragraph (1) 16 (A) in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Vehicle Credit is a tax credit for vehicles that meet certain fuel efficiency standards. The credit is limited to $3,750 per vehicle.

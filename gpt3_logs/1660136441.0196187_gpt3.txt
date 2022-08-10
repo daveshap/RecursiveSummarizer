@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+There are no cost-sharing or matching requirements for these funds.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The federal government will provide $100 million in funding to support the construction of broadband infrastructure in unserved and underserved areas. There are no cost-sharing or matching requirements for these funds.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+LABELING FOR CON15 STRUCTION MATERIALS. 16 (a) IN GENERAL.In addition to amounts otherwise 17 available, there is appropriated to the Administrator of the 18 Environmental Protection Agency for fiscal year 2022, out 19 of any money in the Treasury not otherwise appropriated, 20 $100,000,000, to remain available until September 30, 21 2026, for necessary administrative costs of the Adminis22 trator of the Environmental Protection Agency to carry out 23 this section and to develop and carry out a program, in 24 consultation with the Administrator of the Federal High25 way Administration for construction materials used in 698  HR 5376 EAS 1 transportation projects and the Administrator of General 2 Services for construction materials used for Federal build3 ings, to identify and label construction materials and prod4 ucts that have substantially lower levels of embodied green5 house gas emissions associated with all relevant stages of 6 production, use, and disposal, as compared to estimated in7 dustry averages of similar materials or products, as deter8 mined by the Administrator of the Environmental Protec9 tion Agency, based on 10 (1) environmental product declarations; or 11 (2) determinations by State agencies, as verified 12 by the Administrator of the Environmental Protection 13 Agency. 14 (b) DEFINITION OF GREENHOUSE GAS.In this sec15 tion, the term greenhouse gas means the air pollutants 16 carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, 17 perfluorocarbons, and sulfur hexafluoride. 18 Subtitle BHazardous Materials 19 SEC. 60201. ENVIRONMENTAL AND CLIMATE JUSTICE 20 BLOCK GRANTS. 21 The Clean Air Act is amended by inserting after sec22 tion 137, as added by subtitle A of this title, the following: 699  HR 5376 EAS 1 SEC. 138. ENVIRONMENTAL AND CLIMATE JUSTICE BLOCK 2 GRANTS. 3 (a) APPROPRIATION.In addition to amounts other4 wise available, there is appropriated to the Administrator 5 for fiscal year 2022, out of any money in the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Clean Air Act appropriates $100,000,000 to the Environmental Protection Agency for fiscal year 2022 to develop and carry out a program to identify and label construction materials and products that have lower levels of embodied greenhouse gas emissions.

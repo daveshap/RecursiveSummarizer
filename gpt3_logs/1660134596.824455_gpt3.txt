@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+construed as prohibiting 10 a PDP sponsor from removing such a se11 lected drug from a formulary if such re12 moval would be permitted under section 13 423.120(b)(5)(iv) of title 42, Code of Federal 14 Regulations (or any successor regulation).. 15 (F) INFORMATION FROM PRESCRIPTION 16 DRUG PLANS AND MAPD PLANS REQUIRED. 17 (i) PRESCRIPTION DRUG PLANS.Sec18 tion 1860D12(b) of the Social Security Act 19 (42 U.S.C. 1395w112(b)) is amended by 20 adding at the end the following new para21 graph: 22 (8) PROVISION OF INFORMATION RELATED TO 23 MAXIMUM FAIR PRICES.Each contract entered into 24 with a PDP sponsor under this part with respect to 25 a prescription drug plan offered by such sponsor shall 95  HR 5376 EAS 1 require the sponsor to provide information to the Sec2 retary as requested by the Secretary for purposes of 3 carrying out section 1194.. 4 (ii) MAPD PLANS.Section 5 1857(f)(3) of the Social Security Act (42 6 U.S.C. 1395w27(f)(3)) is amended by add7 ing at the end the following new subpara8 graph: 9 (E) PROVISION OF INFORMATION RELATED 10 TO MAXIMUM FAIR PRICES.Section 1860D 11 12(b)(8).. 12 (G) CONDITIONS FOR COVERAGE. 13 (i) MEDICARE PART D.Section 14 1860D43(c) of the Social Security Act (42 15 U.S.C. 1395w153(c)) is amended 16 (I) by redesignating paragraphs 17 (1) and (2) as subparagraphs (A) and 18 (B), respectively; 19 (II) by striking AGREEMENTS. 20 Subsection and inserting the fol21 lowing: AGREEMENTS. 22 (1) IN GENERAL.Subject to paragraph (2), 23 subsection; and 24 (III) by adding at the end the fol25 lowing new paragraph: 96  HR 5376 EAS 1 (2) EXCEPTION.Paragraph (1)(A) shall not 2 apply to a covered part D drug of a manufacturer for 3 any period described in section 5000D(c)(1) of the In4 ternal Revenue Code of 1986 with respect to the man5 ufacturer.. 6 (ii) MEDICAID AND MEDICARE PART 7 B.Section 1927(a)(3) of the Social Secu8 rity Act (42 U.S.C. 1396r8(a)(3)) is 9 amended by adding at the end the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to require prescription drug plans and Medicare Advantage plans to provide information on maximum fair prices for drugs to the Secretary of Health and Human Services. It also requires these plans to cover a drug manufacturer's products for a period of time during which the manufacturer is in violation of the Internal Revenue Code.

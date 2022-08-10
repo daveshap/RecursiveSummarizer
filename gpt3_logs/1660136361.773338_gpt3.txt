@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a manufacturing facility in the United States to produce advanced technology vehicles that emit low or zero exhaust emissions of greenhouse gases.  This section appropriates $2 billion for grants to encourage domestic production of efficient hybrid and electric vehicles, and $5 billion for energy infrastructure projects. It also allows the Secretary to guarantee loans for energy infrastructure projects up to $250 billion.  The Energy Infrastructure Reinvestment Financing Act enables the Secretary of Energy to provide guarantees for loans to projects that retool, repower, or replace energy infrastructure that has ceased operations, or that enable operating energy infrastructure to avoid, reduce, utilize, or sequester air pollutants or emissions of greenhouse gases. The term of an obligation shall require full repayment over a period not to exceed 30 years.  The electric 8 energy production, processing, and delivery of 10 fossil fuels, fuels derived from petroleum, or petro11 chemical feedstocks.. 12 (d) CONFORMING AMENDMENT.Section 1702(o)(3) of 13 the Energy Policy Act of 2005 (42 U.S.C. 16512(o)(3)) is 14 amended by inserting and projects described in section 15 1706(a) before the period at the end. 16 SEC. 50145. TRIBAL ENERGY LOAN GUARANTEE PROGRAM. 17 (a) APPROPRIATION.In addition to amounts other18 wise available, there is appropriated to the Secretary for 19 fiscal year 2022, out of any money in the Treasury not 20 otherwise appropriated, $75,000,000, to remain available 21 through September 30, 2028, to carry out section 2602(c) 22 of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)), sub23 ject to the limitations that apply to loan guarantees under 24 section 50141(d). 617 HR 5376 EAS 1 (b) DEPARTMENT OF ENERGY TRIBAL ENERGY LOAN 2 GUARANTEE PROGRAM.Section 2602(c) of the Energy 3 Policy Act of 1992 (25 U.S.C. 3502(c)) is amended 4 (1) in paragraph (1), by striking ) for an 5 amount equal to not more than 90 percent of and 6 inserting , except that a loan
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $2 billion for grants to encourage domestic production of efficient hybrid and electric vehicles, and $5 billion for energy infrastructure projects. It also allows the Secretary to guarantee loans for energy infrastructure projects up to $250 billion. The purpose of the bill is to enable the Secretary of Energy to provide guarantees for loans to projects that retool, repower, or replace energy infrastructure that has ceased operations, or that enable operating energy infrastructure to avoid, reduce, utilize, or sequester air pollutants or emissions of greenhouse gases.

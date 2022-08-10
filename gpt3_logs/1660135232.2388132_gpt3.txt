@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+8 section shall take effect on January 1, 2023. 9 SEC. 13502. ADVANCED MANUFACTURING PRODUCTION 10 CREDIT. 11 (a) IN GENERAL.Subpart D of part IV of subchapter 12 A of chapter 1, as amended by the preceding provisions of 13 this Act, is amended by adding at the end the following 14 new section: 15 SEC. 45X. ADVANCED MANUFACTURING PRODUCTION 16 CREDIT. 17 (a) IN GENERAL. 18 (1) ALLOWANCE OF CREDIT.For purposes of 19 section 38, the advanced manufacturing production 20 credit for any taxable year is an amount equal to the 21 sum of the credit amounts determined under sub22 section (b) with respect to each eligible component 23 which is 24 (A) produced by the taxpayer, and 421  HR 5376 EAS 1 (B) during the taxable year, sold by such 2 taxpayer to an unrelated person. 3 (2) PRODUCTION AND SALE MUST BE IN TRADE 4 OR BUSINESS.Any eligible component produced and 5 sold by the taxpayer shall be taken into account only 6 if the production and sale described in paragraph (1) 7 is in a trade or business of the taxpayer. 8 (3) UNRELATED PERSON. 9 (A) IN GENERAL.For purposes of this 10 subsection, a taxpayer shall be treated as selling 11 components to an unrelated person if such com12 ponent is sold to such person by a person related 13 to the taxpayer. 14 (B) ELECTION. 15 (i) IN GENERAL.At the election of 16 the taxpayer (in such form and manner as 17 the Secretary may prescribe), a sale of com18 ponents by such taxpayer to a related per19 son shall be deemed to have been made to an 20 unrelated person. 21 (ii) REQUIREMENT.As a condition 22 of, and prior to, any election described in 23 clause (i), the Secretary may require such 24 information or registration as the Secretary 25 deems necessary for purposes of preventing 422  HR 5376 EAS 1 duplication, fraud, or any improper or ex2 cessive amount determined under paragraph 3 (1). 4 (b) CREDIT AMOUNT. 5 (1) IN GENERAL.Subject to paragraph (3), the 6 amount determined under this subsection
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes the advanced manufacturing production credit for taxable years beginning on or after January 1, 2023. The credit is equal to the sum of the credit amounts determined under subsection (b) with respect to each eligible component which is produced by the taxpayer and sold to an unrelated person. The production and sale of the components must be in a trade or business of the taxpayer. The credit amount is determined based on the cost of labor and materials incurred by the taxpayer in producing the component, as well as the taxpayer's investment in qualifying advanced manufacturing property.

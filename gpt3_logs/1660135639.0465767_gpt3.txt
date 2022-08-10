@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+project for a household 7 (I) on behalf of which the eligible 8 entity is working; and 9 (II) the annual income of which is 10 not less than 80 percent and not great11 er than 150 percent of the area median 12 income; and 13 (ii) 100 percent of the cost of the quali14 fied electrification project for a household 15 (I) on behalf of which the eligible 16 entity is working; and 17 (II) the annual income of which is 18 less than 80 percent of the area median 19 income. 20 (5) AMOUNT FOR INSTALLATION OF UP21 GRADES. 22 (A) IN GENERAL.In the case of an eligible 23 entity described in subsection (d)(1)(C) that re24 ceives a rebate under the program and performs 25 the installation of the applicable qualified elec- 600  HR 5376 EAS 1 trification project, a State energy office or In2 dian Tribe shall provide to that eligible entity, 3 in addition to the rebate, an amount that 4 (i) does not exceed $500; and 5 (ii) is commensurate with the scale of 6 the upgrades installed as part of the quali7 fied electrification project, as determined by 8 the Secretary. 9 (B) TREATMENT.An amount received 10 under subparagraph (A) by an eligible entity de11 scribed in that subparagraph shall not be subject 12 to the requirement under paragraph (6). 13 (6) REQUIREMENT.An eligible entity described 14 in subparagraph (C) of subsection (d)(1) shall dis15 count the amount of a rebate received for a qualified 16 electrification project from any amount charged by 17 that eligible entity to the eligible entity described in 18 subparagraph (A) or (B) of that subsection on behalf 19 of which the qualified electrification project is carried 20 out. 21 (7) EXEMPTION.Activities carried out by a 22 State energy office using a grant provided under the 23 program shall not be subject to the expenditure prohi24 bitions and limitations described in section 420.18 of 25 title 10, Code of Federal Regulations. 601  HR 5376 EAS 1 (8) PROHIBITION ON COMBINING REBATES.A 2 rebate provided by a State
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section outlines the requirements for an eligible entity to receive a rebate for installing a qualified electrification project. The rebate may not exceed $500 and must be used to discount the amount charged by the eligible entity to the household on behalf of which the qualified electrification project is carried out. Activities carried out by a State energy office using a grant provided under the program are not subject to the expenditure prohibitions and limitations described in section 420.18 of title 10, Code of Federal Regulations.

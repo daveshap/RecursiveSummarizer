@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+received under the grant, to be derived 7 from non-Federal sources. 8 (b) COST-SHARING REQUIREMENT.Any partnership 9 agreements, including cooperative agreements and mutual 10 interest agreements, using funds made available under this 11 section shall be subject to a non-Federal cost-share require12 ment of not less than 20 percent of the project cost, which 13 may be waived at the discretion of the Secretary. 14 (c) LIMITATIONS.Nothing in this section shall be in15 terpreted to authorize funds of the Commodity Credit Cor16 poration for activities under this section if such funds are 17 not expressly authorized or currently expended for such pur18 poses. 19 SEC. 23003. STATE AND PRIVATE FORESTRY CONSERVATION 20 PROGRAMS. 21 (a) APPROPRIATIONS.In addition to amounts other22 wise available, there are appropriated to the Secretary for 23 fiscal year 2022, out of any money in the Treasury not 24 otherwise appropriated, to remain available until Sep25 tember 30, 2031 567  HR 5376 EAS 1 (1) $700,000,000 to provide competitive grants 2 to States through the Forest Legacy Program estab3 lished under section 7 of the Cooperative Forestry As4 sistance Act of 1978 (16 U.S.C. 2103c) for projects for 5 the acquisition of land and interests in land; and 6 (2) $1,500,000,000 to provide multiyear, pro7 grammatic, competitive grants to a State agency, a 8 local governmental entity, an agency or governmental 9 entity of the District of Columbia, an agency or gov10 ernmental entity of an insular area (as defined in 11 section 1404 of the National Agricultural Research, 12 Extension, and Teaching Policy Act of 1977 (7 U.S.C. 13 3103)), an Indian Tribe, or a nonprofit organization 14 through the Urban and Community Forestry Assist15 ance program established under section 9(c) of the Co16 operative Forestry Assistance Act of 1978 (16 U.S.C. 17 2105(c)) for tree planting and related activities. 18 (b) WAIVER.Any non-Federal cost-share requirement 19 otherwise applicable to projects
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes appropriations for fiscal year 2022 for the Forest Legacy Program and the Urban and Community Forestry Assistance program. It also waives the non-Federal cost-share requirement for projects under these programs.

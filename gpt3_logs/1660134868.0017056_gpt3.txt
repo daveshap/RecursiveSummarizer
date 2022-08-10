@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+for Disease Control and 12 Prevention.; and 13 (2) in subsection (c), by adding at the end the 14 following new paragraph: 15 (5) TREATMENT OF COST-SHARING FOR ADULT 16 VACCINES RECOMMENDED BY THE ADVISORY COM17 MITTEE ON IMMUNIZATION PRACTICES.The coverage 18 is in accordance with subsection (b)(8).. 19 (b) CONFORMING AMENDMENTS TO COST-SHARING FOR 20 LOW-INCOME INDIVIDUALS.Section 1860D14(a) of the 21 Social Security Act (42 U.S.C. 1395w114(a)), as amended 22 by section 11201, is amended 23 (1) in paragraph (1)(D), in each of clauses (ii) 24 and (iii), by striking In the case and inserting 25 Subject to paragraph (6), in the case; 217  HR 5376 EAS 1 (2) in paragraph (2) 2 (A) in subparagraph (B), by striking A re3 duction and inserting Subject to section 4 1860D2(b)(8), a reduction; 5 (B) in subparagraph (D), by striking The 6 substitution and inserting Subject to para7 graph (6), the substitution; and 8 (C) in subparagraph (E), by striking sub9 section (c) and inserting paragraph (6) of this 10 subsection and subsection (c); and 11 (3) by adding at the end the following new para12 graph: 13 (6) NO APPLICATION OF COST-SHARING OR DE14 DUCTIBLE FOR ADULT VACCINES RECOMMENDED BY 15 THE ADVISORY COMMITTEE ON IMMUNIZATION PRAC16 TICES.For plan years beginning on or after Janu17 ary 1, 2023, with respect to an adult vaccine rec18 ommended by the Advisory Committee on Immuniza19 tion Practices (as defined in section 1860D 20 2(b)(8)(B)) 21 (A) the deductible under section 1860D 22 2(b)(1) shall not apply; and 23 (B) there shall be no cost-sharing under 24 this section with respect to such vaccine.. 25 (c) TEMPORARY RETROSPECTIVE SUBSIDY. 218  HR 5376 EAS 1 (1) IN GENERAL.Section 1860D15 of the So2 cial Security Act (42 U.S.C. 1395w115) is amended 3 by adding at the end the following new subsection: 4 (h) TEMPORARY RETROSPECTIVE SUBSIDY FOR RE5 DUCTION IN COST-SHARING AND DEDUCTIBLE FOR ADULT 6 VACCINES
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended to provide coverage for adult vaccines recommended by the Advisory Committee on Immunization Practices, with no cost-sharing or deductible applying. A temporary retrospective subsidy is also established for plan years beginning on or after January 1, 2023.

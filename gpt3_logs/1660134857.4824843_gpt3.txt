@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+amount billed for a month as re18 quired under this subparagraph 19 (aa) the election of the en20 rollee pursuant to clause (i) shall 21 be terminated and the enrollee 22 shall pay the cost-sharing other23 wise applicable for any covered 24 part D drugs subsequently dis25 pensed to the enrollee up to the 211  HR 5376 EAS 1 annual out-of-pocket threshold 2 specified in paragraph (4)(B); 3 and 4 (bb) the PDP sponsor or 5 MA organization may preclude 6 the enrollee from making an elec7 tion pursuant to clause (i) in a 8 subsequent plan year. 9 (V) CLARIFICATION REGARDING 10 PAST DUE AMOUNTS.Nothing in this 11 subparagraph shall be construed as 12 prohibiting a PDP sponsor or an MA 13 organization from billing an enrollee 14 for an amount owed under this sub15 paragraph. 16 (VI) TREATMENT OF UNSETTLED 17 BALANCES.Any unsettled balances 18 with respect to amounts owed under 19 this subparagraph shall be treated as 20 plan losses and the Secretary shall not 21 be liable for any such balances outside 22 of those assumed as losses estimated in 23 plan bids.; and 24 (2) in paragraph (4) 212  HR 5376 EAS 1 (A) in subparagraph (C), by striking sub2 paragraph (E) and inserting subparagraph 3 (E) or subparagraph (F); and 4 (B) by adding at the end the following new 5 subparagraph: 6 (F) INCLUSION OF COSTS PAID UNDER 7 MAXIMUM MONTHLY CAP OPTION.In applying 8 subparagraph (A), with respect to an enrollee 9 who has made an election pursuant to clause (i) 10 of paragraph (2)(E), costs shall be treated as in11 curred if such costs are paid by a PDP sponsor 12 or an MA organization under the option pro13 vided under such paragraph.. 14 (b) APPLICATION TO ALTERNATIVE PRESCRIPTION 15 DRUG COVERAGE.Section 1860D2(c) of the Social Secu16 rity Act (42 U.S.C. 1395w102(c)) is amended by adding 17 at the end the following new paragraph: 18 (4) SAME MAXIMUM MONTHLY CAP ON COST19 SHARING.The maximum monthly cap on cost-shar20 ing payments shall apply to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to require prescription drug plans to offer a maximum monthly cap on cost-sharing payments for enrollees who elect to receive coverage under the plan. The maximum monthly cap may be applied to any combination of covered Part D drugs.

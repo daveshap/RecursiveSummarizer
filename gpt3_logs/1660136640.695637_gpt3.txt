@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+under this paragraph for 2030 and each subsequent year is the percent that the Secretary determines is necessary to ensure that the base beneficiary premium computed under paragraph (2) of such subsection does not exceed the base beneficiary premium computed under such paragraph for 2019.  The requirements of the Patient Protection and Affordable Care Act are amended to increase the initial coverage limit and out-of-pocket threshold for 2025 and subsequent years, and to eliminate the annual out-of-pocket threshold for 2024 and subsequent years. The Social Security Act is amended to provide discounts for prescription drugs dispensed under Medicare Part D for years 2011 through 2025, and to allow for a maximum monthly cap on cost-sharing payments under prescription drug plans and Medicare Advantage plans. This section allows enrollees in a prescription drug plan or an MA plan to elect to pay their cost-sharing in monthly installments, capped at a maximum monthly amount.  This bill requires prescription drug plans to offer a maximum monthly cap on cost-sharing payments for enrollees who elect to receive coverage under the plan. The maximum monthly cap may be applied to any combination of covered Part D drugs. The bill also appropriates $10 million for the Centers for Medicare and Medicaid Services to carry out the provisions of the bill. Finally, it requires Medicare Part D plans to cover adult vaccines recommended by the Advisory Committee on Immunization Practices.  The bill amends the Patient Protection and Affordable Care Act to treat cost-sharing for covered insulin products as meeting the deductible and out-of-pocket requirements for plan years 2023 and 2024. For plan years 2025 and subsequent plan years, cost-sharing for covered insulin products is only required prior to an individual reaching the out-of-pocket threshold. The copayment amount for such a drug is $35 per month during plan years 2023 through 2025, and the lesser of $35 or 25% of the maximum fair
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill amends the Patient Protection and Affordable Care Act to increase the initial coverage limit and out-of-pocket threshold for 2025 and subsequent years, and to eliminate the annual out-of-pocket threshold for 2024 and subsequent years. The Social Security Act is amended to provide discounts for prescription drugs dispensed under Medicare Part D for years 2011 through 2025, and to allow for a maximum monthly cap on cost-sharing payments under prescription drug plans and Medicare Advantage plans. This section allows enrollees in a prescription drug plan or an MA plan to elect to pay their cost-sharing in monthly installments, capped at a maximum monthly amount. The bill also appropriates $10 million for the Centers for Medicare and Medicaid Services to carry out the provisions of the bill. Finally, it requires Medicare Part D plans to cover adult vaccines recommended by the Advisory Committee on Immunization Practices.

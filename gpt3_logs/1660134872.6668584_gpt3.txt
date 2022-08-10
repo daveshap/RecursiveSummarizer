@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subparagraphs (A) and (B) 2 as clauses (i) and (ii) and moving such clauses 2 ems 3 to the right; 4 (3) by striking UNAVAILABLE.In the case 5 and inserting UNAVAILABLE. 6 (A) IN GENERAL.Subject to subpara7 graph (B), in the case; and 8 (4) by adding at the end the following new sub9 paragraph: 10 (B) LIMITATION ON PAYMENT AMOUNT FOR 11 BIOSIMILAR BIOLOGICAL PRODUCTS DURING INI12 TIAL PERIOD.In the case of a biosimilar bio13 logical product furnished on or after July 1, 14 2024, during the initial period described in sub15 paragraph (A) with respect to the biosimilar bio16 logical product, the amount payable under this 17 section for the biosimilar biological product is 18 the lesser of the following: 19 (i) The amount determined under 20 clause (ii) of such subparagraph for the bio21 similar biological product. 22 (ii) The amount determined under 23 subsection (b)(1)(B) for the reference bio24 logical product.. 221  HR 5376 EAS 1 SEC. 11403. TEMPORARY INCREASE IN MEDICARE PART B 2 PAYMENT FOR CERTAIN BIOSIMILAR BIO3 LOGICAL PRODUCTS. 4 Section 1847A(b)(8) of the Social Security Act (42 5 U.S.C. 1395w3a(b)(8)) is amended 6 (1) by redesignating subparagraphs (A) and (B) 7 as clauses (i) and (ii), respectively, and moving the 8 margin of each such redesignated clause 2 ems to the 9 right; 10 (2) by striking PRODUCT.The amount and 11 inserting the following: PRODUCT. 12 (A) IN GENERAL.Subject to subpara13 graph (B), the amount; and 14 (3) by adding at the end the following new sub15 paragraph: 16 (B) TEMPORARY PAYMENT INCREASE. 17 (i) IN GENERAL.In the case of a 18 qualifying biosimilar biological product 19 that is furnished during the applicable 5- 20 year period for such product, the amount 21 specified in this paragraph for such product 22 with respect to such period is the sum deter23 mined under subparagraph (A), except that 24 clause (ii) of such subparagraph shall be 25 applied by substituting 8 percent for 6 26
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to temporarily increase Medicare Part B payments for certain biosimilar biological products during a 5-year period.

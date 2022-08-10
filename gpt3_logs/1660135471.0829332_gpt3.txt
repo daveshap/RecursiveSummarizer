@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+alternative fuel ve4 hicle refueling property allowed under section 30C 5 which, pursuant to subsection (d)(1) of such section, 6 is treated as a credit listed in section 38(b). 7 (2) So much of the renewable electricity produc8 tion credit determined under section 45(a) as is at9 tributable to qualified facilities which are originally 10 placed in service after December 31, 2022. 11 (3) So much of the credit for carbon oxide se12 questration determined under section 45Q(a) as is at13 tributable to carbon capture equipment which is 14 originally placed in service after December 31, 2022. 15 (4) The zero-emission nuclear power production 16 credit determined under section 45U(a). 17 (5) So much of the credit for production of 18 clean hydrogen determined under section 45V(a) as is 19 attributable to qualified clean hydrogen production 20 facilities which are originally placed in service after 21 December 31, 2012. 22 (6) In the case of a tax-exempt entity described 23 in clause (i), (ii), or (iv) of section 168(h)(2)(A), the 24 credit for qualified commercial vehicles determined 507  HR 5376 EAS 1 under section 45W by reason of subsection (d)(3) 2 thereof. 3 (7) The credit for advanced manufacturing pro4 duction under section 45X(a). 5 (8) The clean electricity production credit de6 termined under section 45Y(a). 7 (9) The clean fuel production credit determined 8 under section 45Z(a). 9 (10) The energy credit determined under section 10 48. 11 (11) The qualifying advanced energy project 12 credit determined under section 48C. 13 (12) The clean electricity investment credit de14 termined under section 48E. 15 (c) APPLICATION TO PARTNERSHIPS AND S COR16 PORATIONS. 17 (1) IN GENERAL.In the case of any applicable 18 credit determined with respect to any facility or 19 property held directly by a partnership or S corpora20 tion, any election under subsection (a) shall be made 21 by such partnership or S corporation. If such part22 nership or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The section lists 12 credits that are allowed to be carried over to future tax years, including the renewable electricity production credit, the credit for carbon oxide sequestration, the zero-emission nuclear power production credit, and the credit for production of clean hydrogen.

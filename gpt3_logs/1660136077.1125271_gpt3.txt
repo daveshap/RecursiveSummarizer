@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+through which any business, financial operation, or venture is carried on. If a determination of high likelihood is made that a biosimilar biological product has not been licensed and marketed during the time period between the selected drug publication date on which the biological product would have been included on the list as a selected drug pursuant to subsection (a) but for sub paragraph (A) and the selected drug publication date with respect to the initial price applicability year that is 1 year after the initial price applicability year for which such biological product would have been included as a selected drug on such list, the Secretary shall delay the inclusion of the biological product as a selected drug on the list published under subsection (a) until such list is published with respect to the initial price applicability year that is 1 year after the initial price applicability year for which the biological product would have been included as a selected drug on such list.  The Secretary of Health and Human Services shall reevaluate whether there is a high likelihood that a biosimilar biological product will be licensed and marketed before the date that is 2 years after the selected drug publication date for which such biological product would have been included as a selected drug on such list published but for subparagraph (A). If the Secretary determines that there is not a high likelihood that such biosimilar biological product will be licensed and marketed as described in clause (i)(I) or there has not been a significant amount of progress as described in clause (i)(II), the manufacturer of such biosimilar biological product shall pay a rebate under paragraph (4) with respect to the year for which such manufacturer would have provided access to a maximum fair price for such biological product.  This section of the bill delays the inclusion of a biosimilar biological product on the list of selected drugs published under subsection (a) until the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill delays the inclusion of a biosimilar biological product on the list of selected drugs published under subsection (a) until the manufacturer of such biosimilar biological product pays a rebate under paragraph (4) with respect to the year for which such manufacturer would have provided access to a maximum fair price for such biological product.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+covered part D drugs in 18 the year that are equal to or exceed the 19 annual out-of-pocket threshold specified 20 in section 1860D2(b)(4)(B)(i) for the 21 year 22 (aa) for 2025, 99 percent; 23 (bb) for 2026, 98 percent; 24 (cc) for 2027, 95 percent; 25 (dd) for 2028, 92 percent; 189  HR 5376 EAS 1 (ee) for 2029, 90 percent; 2 (ff) for 2030, 85 percent; 3 and 4 (gg) for 2031 and each sub5 sequent year, 80 percent. 6 (D) TOTAL EXPENDITURES.For purposes 7 of this paragraph, the term total expenditures 8 includes, in the case of expenditures with respect 9 to part D, the total gross covered prescription 10 drug costs as defined in section 1860D15(b)(3). 11 The term total expenditures excludes, in the 12 case of expenditures with respect to part B, ex13 penditures for a drug or biological that are bun14 dled or packaged into the payment for another 15 service. 16 (E) SPECIAL CASE FOR CERTAIN 17 CLAIMS. 18 (i) CLAIMS SPANNING DEDUCTIBLE. 19 In the case where the entire amount of the 20 negotiated price of an individual claim for 21 an applicable drug with respect to an ap22 plicable beneficiary does not fall above the 23 annual deductible specified in section 24 1860D2(b)(1) for the year, the manufac25 turer of the applicable drug shall provide 190  HR 5376 EAS 1 the discounted price under this section on 2 only the portion of the negotiated price of 3 the applicable drug that falls above such an4 nual deductible. 5 (ii) CLAIMS SPANNING OUT-OF-POCK6 ET THRESHOLD.In the case where the en7 tire amount of the negotiated price of an in8 dividual claim for an applicable drug with 9 respect to an applicable beneficiary does not 10 fall entirely below or entirely above the an11 nual out-of-pocket threshold specified in sec12 tion 1860D2(b)(4)(B)(i) for the year, the 13 manufacturer of the applicable drug shall 14 provide the discounted price 15 (I) in accordance with subpara16 graph (A)(i) on the portion of the ne17 gotiated price of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Affordable Care Act requires drug manufacturers to provide discounts on certain covered drugs to Medicare Part D enrollees. The discounts are tiered, with the largest discounts available to those enrollees with the highest out-of-pocket costs. The law also requires manufacturers to provide discounts on drugs for beneficiaries who reach the Part D coverage gap.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Conforming amendments are made to section 25D(d)(3) of the Internal Revenue Code.  The Energy Efficient Commercial Buildings Deduction is being amended so that the maximum deduction is increased from $0.50 to $1.00 per square foot, and the deduction is only available for buildings certified to reduce energy and power costs by more than 25%.  This section of the bill deals with the deduction amount for certain property, specifically energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan. The deduction amount is increased from $0.50 to $2.50, $.02 to $.10, and $1.00 to $5.00. In order for the property to qualify, the taxpayer must ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the installation of any property are paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such property is located as most recently determined by the Secretary of Labor.  The Department of Energy is required to issue a final determination on energy efficiency standards for buildings and to extend the period for such standards to be met from two years to four years. Additionally, the allowance for a partial energy efficiency standard is eliminated.  The Energy Efficient Commercial Buildings Tax Deduction, created by the Energy Policy Act of 2005 and amended by the Energy Improvement and Extension Act of 2008, allows a tax deduction of up to $1.80 per square foot for energy efficient commercial building property installed on or in property owned by a specified tax-exempt entity. The deduction is available for both new construction and retrofit projects, and can be allocated to the person primarily responsible for designing the property in lieu of the owner.  The Energy Efficient Buildings Retrofit Tax Credit allows taxpayers to claim a credit for retrofitting
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Efficient Commercial Buildings Deduction is being amended to increase the maximum deduction from $0.50 to $1.00 per square foot, and to make the deduction only available for buildings certified to reduce energy and power costs by more than 25%.

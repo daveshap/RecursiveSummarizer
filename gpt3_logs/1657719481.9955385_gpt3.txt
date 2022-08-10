@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+obtain such rights and in order to assign and convey to the Company, its successors, assigns and nominees the sole and exclusive right, title and interest in and to such Work Product, and any copyrights, patents, mask work rights or other intellectual property rights relating thereto. Contractor further agrees that Contractors obligation to execute or cause to be executed, when it is in Contractors power to do so, any such instrument or papers shall continue after the termination of this Agreement. (c) Pre-Existing Materials. Contractor agrees that if in the course of performing the Services, Contractor incorporates into any Work Product developed hereunder any invention, improvement, development, concept, discovery or other proprietary information owned by Contractor or in which Contractor has an interest, (i) Contractor shall inform Company, in writing before incorporating such invention, improvement, development, concept, discovery or other proprietary information into any Work
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The contractor agrees to assign and convey to the company the sole and exclusive right, title, and interest in and to any work product developed, as well as any copyrights, patents, mask work rights, or other intellectual property rights relating thereto. The contractor further agrees that their obligation to execute or cause to be executed any such instrument or papers shall continue after the termination of this agreement. If the contractor incorporates any invention, improvement, development, concept, discovery, or other proprietary information owned by the contractor or in which the contractor has an interest into any work product developed during the course of performance of the services, the contractor shall inform the company in writing before incorporating such information into the work product.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+amount as increased 9 under this paragraph is not a multiple of 0.05 cent, 10 such amount shall be rounded to the nearest multiple 11 of 0.05 cent. If the 1.5 cent amount as increased 12 under this paragraph is not a multiple of 0.1 cent, 13 such amount shall be rounded to the nearest multiple 14 of 0.1 cent. 15 (2) ANNUAL COMPUTATION.The Secretary 16 shall, not later than April 1 of each calendar year, 17 determine and publish in the Federal Register the in18 flation adjustment factor for such calendar year in 19 accordance with this subsection. 20 (3) INFLATION ADJUSTMENT FACTOR.The 21 term inflation adjustment factor means, with respect 22 to a calendar year, a fraction the numerator of which 23 is the GDP implicit price deflator for the preceding 24 calendar year and the denominator of which is the 25 GDP implicit price deflator for the calendar year 455  HR 5376 EAS 1 1992. The term GDP implicit price deflator means 2 the most recent revision of the implicit price deflator 3 for the gross domestic product as computed and pub4 lished by the Department of Commerce before March 5 15 of the calendar year. 6 (d) CREDIT PHASE-OUT. 7 (1) IN GENERAL.The amount of the clean elec8 tricity production credit under subsection (a) for any 9 qualified facility the construction of which begins 10 during a calendar year described in paragraph (2) 11 shall be equal to the product of 12 (A) the amount of the credit determined 13 under subsection (a) without regard to this sub14 section, multiplied by 15 (B) the phase-out percentage under para16 graph (2). 17 (2) PHASE-OUT PERCENTAGE.The phase-out 18 percentage under this paragraph is equal to 19 (A) for a facility the construction of which 20 begins during the first calendar year following 21 the applicable year, 100 percent, 22 (B) for a facility the construction of which 23 begins during the second calendar year following 24 the applicable year, 75 percent, 456  HR 5376 EAS 1 (C) for a facility
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the inflation adjustment and credit phase-out for the clean electricity production credit. The credit is adjusted for inflation each year, and begins to phase out for facilities whose construction begins during the second calendar year after the applicable year.

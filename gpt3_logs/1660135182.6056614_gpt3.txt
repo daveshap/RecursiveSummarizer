@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subsection 21 (g)(2)(C) which has been provided to such 22 taxpayer., and 23 (B) in subsection (f) 24 (i) by striking paragraph (3), and 391  HR 5376 EAS 1 (ii) in paragraph (8), by inserting , 2 including any vehicle with respect to which 3 the taxpayer elects the application of sub4 section (g) before the period at the end. 5 (h) TERMINATION.Section 30D is amended by add6 ing at the end the following: 7 (h) TERMINATION.No credit shall be allowed under 8 this section with respect to any vehicle placed in service 9 after December 31, 2032.. 10 (i) ADDITIONAL CONFORMING AMENDMENTS. 11 (1) The heading of section 30D is amended by 12 striking NEW QUALIFIED PLUG-IN ELECTRIC 13 DRIVE MOTOR VEHICLES and inserting CLEAN 14 VEHICLE CREDIT. 15 (2) Section 30B is amended 16 (A) in subsection (h)(8), by striking , ex17 cept that no benefit shall be recaptured if such 18 property ceases to be eligible for such credit by 19 reason of conversion to a qualified plug-in elec20 tric drive motor vehicle, and 21 (B) by striking subsection (i). 22 (3) Section 38(b)(30) is amended by striking 23 qualified plug-in electric drive motor and inserting 24 clean. 392  HR 5376 EAS 1 (4) Section 6213(g)(2), as amended by the pre2 ceding provisions of this Act, is amended 3 (A) in subparagraph (R), by striking and 4 at the end, 5 (B) in subparagraph (S), by striking the 6 period at the end and inserting , and, and 7 (C) by inserting after subparagraph (S) the 8 following: 9 (T) an omission of a correct vehicle identi10 fication number required under section 30D(f)(9) 11 (relating to credit for new clean vehicles) to be 12 included on a return.. 13 (5) Section 6501(m) is amended by striking 14 30D(e)(4) and inserting 30D(f)(6). 15 (6) The table of sections for subpart B of part IV 16 of subchapter A of chapter 1 is amended by striking 17 the item relating to section 30D and inserting after 18 the item relating to section 30C the following
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Vehicle Credit is a tax credit for certain vehicles with clean burning engines. The credit is available for vehicles purchased after January 1, 2017 and before January 1, 2032. The credit is capped at $7,500 per vehicle.

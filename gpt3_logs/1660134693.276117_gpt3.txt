@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+nished during such calendar quarter 9 (I) with respect to which the 10 manufacturer provides a discount 11 under the program under section 340B 12 of the Public Health Service Act or a 13 rebate under section 1927; or 14 (II) that are packaged into the 15 payment amount for an item or service 16 and are not separately payable. 17 (C) DETERMINATION OF INFLATION-AD18 JUSTED PAYMENT AMOUNT.The inflation-ad19 justed payment amount determined under this 20 subparagraph for a part B rebatable drug for a 21 calendar quarter is 22 (i) the payment amount for the bill23 ing and payment code for such drug in the 24 payment amount benchmark quarter (as de25 fined in subparagraph (D)); increased by 134  HR 5376 EAS 1 (ii) the percentage by which the rebate 2 period CPIU (as defined in subparagraph 3 (F)) for the calendar quarter exceeds the 4 benchmark period CPIU (as defined in 5 subparagraph (E)). 6 (D) PAYMENT AMOUNT BENCHMARK QUAR7 TER.The term payment amount benchmark 8 quarter means the calendar quarter beginning 9 July 1, 2021. 10 (E) BENCHMARK PERIOD CPIU.The 11 term benchmark period CPIU means the con12 sumer price index for all urban consumers 13 (United States city average) for January 2021. 14 (F) REBATE PERIOD CPIU.The term 15 rebate period CPIU means, with respect to a 16 calendar quarter described in subparagraph (C), 17 the greater of the benchmark period CPIU and 18 the consumer price index for all urban con19 sumers (United States city average) for the first 20 month of the calendar quarter that is two cal21 endar quarters prior to such described calendar 22 quarter. 23 (G) REDUCTION OR WAIVER FOR SHORT24 AGES AND SEVERE SUPPLY CHAIN DISRUP25 TIONS.The Secretary shall reduce or waive the 135  HR 5376 EAS 1 amount under subparagraph (A) with respect to 2 a part B rebatable drug and a calendar quar3 ter 4 (i) in the case of a part B rebatable 5 drug that is described as currently in short6 age on the shortage list in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes the payment amount for Part B rebatable drugs for each calendar quarter. The payment amount is determined by the inflation-adjusted payment amount for the drug in the payment amount benchmark quarter (July 1, 2021), increased by the percentage by which the rebate period CPIU (as defined in subparagraph (F)) for the calendar quarter exceeds the benchmark period CPIU (as defined in subparagraph (E)). The Secretary may reduce or waive the amount under subparagraph (A) with respect to a part B rebatable drug and a calendar quarter in the case of a part B rebatable drug that is described as currently in shortage on the shortage list in

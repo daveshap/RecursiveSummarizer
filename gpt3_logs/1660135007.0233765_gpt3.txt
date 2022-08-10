@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(B) in subclause (II), by striking the dol2 lar amount and all that follows through such 3 period and inserting $12, and 4 (2) in clause (ii) 5 (A) in subclause (I), by striking $50 and 6 inserting $17, and 7 (B) in subclause (II), by striking $35 and 8 inserting $12. 9 (c) DETERMINATION OF APPLICABLE DOLLAR 10 AMOUNT. 11 (1) IN GENERAL.Section 45Q(b)(1), as amend12 ed by the preceding provisions of this Act, is amend13 ed 14 (A) by redesignating subparagraph (B) as 15 subparagraph (D), and 16 (B) by inserting after subparagraph (A) the 17 following new subparagraphs: 18 (B) SPECIAL RULE FOR DIRECT AIR CAP19 TURE FACILITIES.In the case of any qualified 20 facility described in subsection (d)(2)(A) which 21 is placed in service after December 31, 2022, the 22 applicable dollar amount shall be an amount 23 equal to the applicable dollar amount otherwise 24 determined with respect to such qualified facility 297  HR 5376 EAS 1 under subparagraph (A), except that such sub2 paragraph shall be applied 3 (i) by substituting $36 for $17 each 4 place it appears, and 5 (ii) by substituting $26 for $12 6 each place it appears. 7 (C) APPLICABLE DOLLAR AMOUNT FOR AD8 DITIONAL CARBON CAPTURE EQUIPMENT.In the 9 case of any qualified facility which is placed in 10 service before January 1, 2023, if any additional 11 carbon capture equipment is installed at such fa12 cility and such equipment is placed in service 13 after December 31, 2022, the applicable dollar 14 amount shall be an amount equal to the applica15 ble dollar amount otherwise determined under 16 this paragraph, except that subparagraph (B) 17 shall be applied 18 (i) by substituting before January 1, 19 2023 for after December 31, 2022, and 20 (ii) by substituting the additional 21 carbon capture equipment installed at such 22 qualified facility for such qualified facil23 ity.. 24 (2) CONFORMING AMENDMENTS. 298  HR 5376 EAS 1 (A) Section 45Q(b)(1)(A)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Internal Revenue Code to provide a tax credit for carbon capture and sequestration. The credit is equal to the applicable dollar amount for each metric ton of qualified carbon dioxide captured and disposed of in secure geological storage. The applicable dollar amount is $50 for facilities placed in service before January 1, 2024, and $35 for facilities placed in service after December 31, 2023. For facilities placed in service after December 31, 2022, the applicable dollar amount is $36.

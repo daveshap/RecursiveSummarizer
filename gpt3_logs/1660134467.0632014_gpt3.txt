@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+foreign corporation or a specified affiliate of 23 such applicable foreign corporation, for purposes of 24 this section 33  HR 5376 EAS 1 (A) such specified affiliate shall be treated 2 as a covered corporation with respect to such ac3 quisition, 4 (B) such acquisition shall be treated as a 5 repurchase of stock of a covered corporation by 6 such covered corporation, and 7 (C) the adjustment under subsection (c)(3) 8 shall be determined only with respect to stock 9 issued or provided by such specified affiliate to 10 employees of the specified affiliate. 11 (2) SURROGATE FOREIGN CORPORATIONS.In 12 the case of a repurchase of stock of a covered surrogate 13 foreign corporation by such covered surrogate foreign 14 corporation, or an acquisition of stock of a covered 15 surrogate foreign corporation by a specified affiliate 16 of such corporation, for purposes of this section 17 (A) the expatriated entity with respect to 18 such covered surrogate foreign corporation shall 19 be treated as a covered corporation with respect 20 to such repurchase or acquisition, 21 (B) such repurchase or acquisition shall be 22 treated as a repurchase of stock of a covered cor23 poration by such covered corporation, and 24 (C) the adjustment under subsection (c)(3) 25 shall be determined only with respect to stock 34  HR 5376 EAS 1 issued or provided by such expatriated entity to 2 employees of the expatriated entity. 3 (3) DEFINITIONS.For purposes of this sub4 section 5 (A) APPLICABLE FOREIGN CORPORA6 TION.The term applicable foreign corporation 7 means any foreign corporation the stock of which 8 is traded on an established securities market 9 (within the meaning of section 7704(b)(1)). 10 (B) COVERED SURROGATE FOREIGN COR11 PORATION.The term covered surrogate foreign 12 corporation means any surrogate foreign cor13 poration (as determined under section 14 7874(a)(2)(B) by substituting September 20, 15 2021 for March 4, 2003 each place it appears)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the treatment of foreign corporations for the purposes of the repurchase of stock by a covered corporation. A covered corporation is defined as a corporation that has either moved its headquarters out of the United States or has merged with a foreign corporation. A specified affiliate of a foreign corporation is also treated as a covered corporation for the purposes of this section. The adjustment under subsection (c)(3) shall be determined only with respect to stock issued or provided by such specified affiliate to employees of the specified affiliate.

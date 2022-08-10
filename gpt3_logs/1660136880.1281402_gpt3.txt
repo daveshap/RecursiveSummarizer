@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and subsequent years, and to eliminate the annual out-of-pocket threshold for 2024 and subsequent years. The Social Security Act is amended to provide discounts for prescription drugs dispensed under Medicare Part D for years 2011 through 2025, and to allow for a maximum monthly cap on cost-sharing payments under prescription drug plans and Medicare Advantage plans. This section allows enrollees in a prescription drug plan or an MA plan to elect to pay their cost-sharing in monthly installments, capped at a maximum monthly amount. The bill also appropriates $10 million for the Centers for Medicare and Medicaid Services to carry out the provisions of the bill. Finally, it requires Medicare Part D plans to cover adult vaccines recommended by the Advisory Committee on Immunization Practices.  This bill amends the Social Security Act to require that, for plan year 2023 and subsequent plan years, the copayment amount for a covered insulin product dispensed to a low-income individual may not exceed the applicable copayment amount for the product under the prescription drug plan or Medicare Advantage plan in which the individual is enrolled. The bill also limits the monthly coinsurance and adjusts the supplier payment under Medicare Part B for insulin furnished through durable medical equipment. Additionally, the bill extends and modifies the credit for electricity produced from certain renewable resources.  The Energy Policy Act of 2005 is amended to include microgrid controllers and qualified biogas property as eligible technologies for the energy investment tax credit. Energy storage technology is defined as property that receives, stores, and delivers energy for conversion to electricity, with a nameplate capacity of not less than 5 kilowatt hours. Thermal energy storage property is also included. Qualified biogas property means property comprising a system which converts biomass into a gas which consists of not less than 52 percent methane by volume, or is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill amends the Social Security Act to require that, for plan year 2023 and subsequent plan years, the copayment amount for a covered insulin product dispensed to a low-income individual may not exceed the applicable copayment amount for the product under the prescription drug plan or Medicare Advantage plan in which the individual is enrolled. The bill also limits the monthly coinsurance and adjusts the supplier payment under Medicare Part B for insulin furnished through durable medical equipment. Additionally, the bill extends and modifies the credit for electricity produced from certain renewable resources.

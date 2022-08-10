@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+50ADESIGNATED DRUGS. 13 (d) EFFECTIVE DATE.The amendments made by this 14 section shall apply to sales after the date of the enactment 15 of this Act. 16 SEC. 11004. FUNDING. 17 In addition to amounts otherwise available, there is 18 appropriated to the Centers for Medicare & Medicaid Serv19 ices, out of any money in the Treasury not otherwise appro20 priated, $3,000,000,000 for fiscal year 2022, to remain 21 available until expended, to carry out the provisions of, in22 cluding the amendments made by, this part. 128  HR 5376 EAS 1 PART 2PRESCRIPTION DRUG INFLATION 2 REBATES 3 SEC. 11101. MEDICARE PART B REBATE BY MANUFACTUR4 ERS. 5 (a) IN GENERAL.Section 1847A of the Social Secu6 rity Act (42 U.S.C. 1395w3a) is amended by redesignating 7 subsection (i) as subsection (j) and by inserting after sub8 section (h) the following subsection: 9 (i) REBATE BY MANUFACTURERS FOR SINGLE 10 SOURCE DRUGS AND BIOLOGICALS WITH PRICES INCREAS11 ING FASTER THAN INFLATION. 12 (1) REQUIREMENTS. 13 (A) SECRETARIAL PROVISION OF INFORMA14 TION.Not later than 6 months after the end of 15 each calendar quarter beginning on or after Jan16 uary 1, 2023, the Secretary shall, for each part 17 B rebatable drug, report to each manufacturer of 18 such part B rebatable drug the following for such 19 calendar quarter: 20 (i) Information on the total number 21 of units of the billing and payment code de22 scribed in subparagraph (A)(i) of para23 graph (3) with respect to such drug and cal24 endar quarter. 25 (ii) Information on the amount (if 26 any) of the excess average sales price in- 129  HR 5376 EAS 1 crease described in subparagraph (A)(ii) of 2 such paragraph for such drug and calendar 3 quarter. 4 (iii) The rebate amount specified 5 under such paragraph for such part B 6 rebatable drug and calendar quarter. 7 (B) MANUFACTURER REQUIREMENT.For 8 each calendar quarter beginning on or after Jan9 uary 1, 2023, the manufacturer of a part B 10 rebatable drug shall, for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill requires manufacturers of Medicare Part B rebatable drugs to pay a rebate to the Centers for Medicare & Medicaid Services (CMS) if the price of the drug increases faster than inflation. The bill appropriates $3,000,000,000 to CMS to carry out the provisions of the bill.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+that exceeds the cost-sharing applied by the prescription drug plan or MAPD plan at the point-of-sale for such months supply.  The Social Security Act is amended to require that, for plan year 2023 and subsequent plan years, the copayment amount for a covered insulin product dispensed to a low-income individual may not exceed the applicable copayment amount for the product under the prescription drug plan or Medicare Advantage plan in which the individual is enrolled.  The copayment amount for the product 13 under the MAPD 14 plan in which the individual is enrolled will be $1,500,000 for fiscal year 2022. This section also limits the monthly coinsurance and adjusts the supplier payment under Medicare Part B for insulin furnished through durable medical equipment.  This section amends the Social Security Act to allow for a safe harbor for high deductible health plans that don't have a deductible for selected insulin products.  This section amends the Internal Revenue Code of 1986 to extend the period during which subsidies are available to taxpayers whose household income exceeds 400 percent of the poverty line. The amendments made by this section shall apply to taxable years beginning after December 31, 2022.  This bill extends and modifies the credit for electricity produced from certain renewable resources. The base credit amount is reduced from 1.5 cents to 0.3 cents per kilowatt hour. The extension applies to facilities that begin construction before January 1, 2025.  The credit amount for a qualified facility is increased if the facility meets certain requirements. Prevailing wage requirements must be met for any laborers and mechanics employed in the construction or alteration of the facility.  The Secretary of Labor is responsible for ensuring that laborers and mechanics working on construction projects funded by the government are paid at least the prevailing wage rate. If a taxpayer fails to pay the prevailing wage, they may be subject to a penalty of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill amends the Social Security Act to require that, for plan year 2023 and subsequent plan years, the copayment amount for a covered insulin product dispensed to a low-income individual may not exceed the applicable copayment amount for the product under the prescription drug plan or Medicare Advantage plan in which the individual is enrolled. The bill also limits the monthly coinsurance and adjusts the supplier payment under Medicare Part B for insulin furnished through durable medical equipment. Additionally, the bill extends and modifies the credit for electricity produced from certain renewable resources.

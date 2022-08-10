@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of 1959 4 (former 12 U.S.C. 1701q), as such section existed 5 before the enactment of the Cranston-Gonzalez 6 National Affordable Housing Act; 7 (C) section 811 of the Cranston-Gonzalez 8 National Affordable Housing Act (42 U.S.C. 9 8013); 10 (D) section 8(b) of the United States Hous11 ing Act of 1937 (42 U.S.C. 1437f(b)); 12 (E) section 236 of the National Housing Act 13 (12 U.S.C. 1715z1); or 14 (F) a Housing Assistance Payments con15 tract for Project-Based Rental Assistance in fis16 cal year 2021. 17 (d) WAIVER.The Secretary may waive or specify al18 ternative requirements for any provision of subsection (c) 19 or (bb) of section 8 of the United States Housing Act of 20 1937 (42 U.S.C. 1437f(c), 1437f(bb)) upon a finding that 21 the waiver or alternative requirement is necessary to facili22 tate the use of amounts made available under this section. 23 (e) IMPLEMENTATION.The Secretary shall have the 24 authority to establish by notice any requirements that the 25 Secretary determines are necessary for timely and effective 572  HR 5376 EAS 1 implementation of the program and expenditure of funds 2 appropriated, which requirements shall take effect upon 3 issuance. 4 TITLE IVCOMMITTEE ON COM5 MERCE, SCIENCE, AND TRANS6 PORTATION 7 SEC. 40001. INVESTING IN COASTAL COMMUNITIES AND CLI8 MATE RESILIENCE. 9 (a) IN GENERAL.In addition to amounts otherwise 10 available, there is appropriated to the National Oceanic 11 and Atmospheric Administration for fiscal year 2022, out 12 of any money in the Treasury not otherwise appropriated, 13 $2,600,000,000, to remain available until September 30, 14 2026, to provide funding through direct expenditure, con15 tracts, grants, cooperative agreements, or technical assist16 ance to coastal states (as defined in paragraph (4) of section 17 304 of the Coastal Zone Management Act of 1972 (16 18 U.S.C. 1453(4))), the District of Columbia, Tribal Govern19 ments, nonprofit organizations, local governments, and in20 stitutions of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The National Oceanic and Atmospheric Administration is appropriated $2.6 billion for fiscal year 2022 to provide funding to coastal states, the District of Columbia, Tribal Governments, nonprofit organizations, local governments, and institutions of higher education to invest in coastal communities and climate resilience.

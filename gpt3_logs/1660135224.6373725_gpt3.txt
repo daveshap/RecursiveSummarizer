@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+45(b)(8) shall apply. 3 (7) DISCLOSURE OF ALLOCATIONS.The Sec4 retary shall, upon making a certification under this 5 subsection, publicly disclose the identity of the appli6 cant and the amount of the credit with respect to such 7 applicant.. 8 (b) MODIFICATION OF QUALIFYING ADVANCED ENERGY 9 PROJECTS.Section 48C(c)(1)(A) is amended 10 (1) by inserting , any portion of the qualified 11 investment of which is certified by the Secretary 12 under subsection (e) as eligible for a credit under this 13 section after means a project, 14 (2) in clause (i) 15 (A) by striking a manufacturing facility 16 for the production of and inserting an indus17 trial or manufacturing facility for the produc18 tion or recycling of, 19 (B) in clause (I), by inserting water, 20 after sun,, 21 (C) in clause (II), by striking an energy 22 storage system for use with electric or hybrid23 electric motor vehicles and inserting energy 24 storage systems and components, 417  HR 5376 EAS 1 (D) in clause (III), by striking grids to 2 support the transmission of intermittent sources 3 of renewable energy, including storage of such 4 energy and inserting grid modernization 5 equipment or components, 6 (E) in subclause (IV), by striking and se7 quester carbon dioxide emissions and inserting 8 , remove, use, or sequester carbon oxide emis9 sions, 10 (F) by striking subclause (V) and inserting 11 the following: 12 (V) equipment designed to refine, 13 electrolyze, or blend any fuel, chemical, 14 or product which is 15 (aa) renewable, or 16 (bb) low-carbon and low17 emission,, 18 (G) by striking subclause (VI), 19 (H) by redesignating subclause (VII) as 20 subclause (IX), 21 (I) by inserting after subclause (V) the fol22 lowing new subclauses: 23 (VI) property designed to 24 produce energy conservation tech- 418  HR 5376 EAS 1 nologies (including residential, com2 mercial, and industrial applications), 3 (VII) light-, medium-, or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amendment modifies section 48C of the tax code, relating to the disclosure of allocations for tax credits for certain investments in advanced energy projects. The amendment requires the Secretary of the Treasury to publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant when making a certification under subsection (e).

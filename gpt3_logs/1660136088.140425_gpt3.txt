@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Secretary of Health and Human Services. With respect to information that is required to be submitted to the Secretary of Health and Human Services under an agreement described in section 1193(a) of the Social Security Act, the period beginning on the date on which such Secretary certifies that such information  The "applicable percentage" for the Medicare coverage gap discount program is 65% for the first 90 days that a drug is on the market, 75% for the next 90 days, and 80% thereafter.  The excise tax on designated drugs manufactured or produced in the United States or entered into the United States for consumption, use, or warehousing is increased from 85 percent to 95 percent.  The bill requires manufacturers of Medicare Part B rebatable drugs to pay a rebate to the Centers for Medicare & Medicaid Services (CMS) if the price of the drug increases faster than inflation. The bill appropriates $3,000,000,000 to CMS to carry out the provisions of the bill.  This section of the bill deals with rebates for Part B drugs. Part B rebatable drugs are defined as single-source drugs or biologicals (including biosimilar products) for which payment is made under Part B, with the exception of vaccines or drugs/biologicals for which the average total allowed charges per year per individual user is less than $100 (as adjusted for inflation). For each Part B rebatable drug, manufacturers must provide the Secretary with information on the drug's price and market share, and must pay a rebate equal to the difference between the price of the drug and its benchmark price, as specified in the bill. There is a transition rule for reporting in 2023 and 2024, and the Secretary is authorized to delay the timeframe for reporting until 2025.  The amount specified in this paragraph for a part B rebatable drug assigned to a billing and payment code for a calendar quarter is, subject to subparagraphs (B) and (G) and paragraph (4), the estimated amount equal to the product of (i) the total
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with rebates for Part B drugs. Part B rebatable drugs are defined as single-source drugs or biologicals (including biosimilar products) for which payment is made under Part B, with the exception of vaccines or drugs/biologicals for which the average total allowed charges per year per individual user is less than $100 (as adjusted for inflation). For each Part B rebatable drug, manufacturers must provide the Secretary with information on the drug's price and market share, and must pay a rebate equal to the difference between the price of the drug and its benchmark price, as specified in the bill. There is a transition rule for reporting in 2023 and 2024, and the Secretary is authorized to delay the timeframe for reporting until 2025.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ENERGY AUDITS. 20 (A) DOLLAR LIMITATION.The amount of 21 the credit allowed under this section by reason of 22 subsection (a)(3) shall not exceed $150. 23 (B) SUBSTANTIATION REQUIREMENT.No 24 credit shall be allowed under this section by rea25 son of subsection (a)(3) unless the taxpayer in- 346  HR 5376 EAS 1 cludes with the taxpayers return of tax such in2 formation or documentation as the Secretary 3 may require.. 4 (3) HOME ENERGY AUDITS. 5 (A) IN GENERAL.Section 25C is amended 6 by redesignating subsections (e), (f), and (g), as 7 subsections (f), (g), and (h), respectively, and by 8 inserting after subsection (d) the following new 9 subsection: 10 (e) HOME ENERGY AUDITS.For purposes of this 11 section, the term home energy audit means an inspection 12 and written report with respect to a dwelling unit located 13 in the United States and owned or used by the taxpayer 14 as the taxpayers principal residence (within the meaning 15 of section 121) which 16 (1) identifies the most significant and cost-effec17 tive energy efficiency improvements with respect to 18 such dwelling unit, including an estimate of the en19 ergy and cost savings with respect to each such im20 provement, and 21 (2) is conducted and prepared by a home en22 ergy auditor that meets the certification or other re23 quirements specified by the Secretary in regulations 24 or other guidance (as prescribed by the Secretary not 347  HR 5376 EAS 1 later than 365 days after the date of the enactment 2 of this subsection).. 3 (B) CONFORMING AMENDMENT.Section 4 1016(a)(33) is amended by striking section 5 25C(f) and inserting section 25C(g). 6 (4) LACK OF SUBSTANTIATION TREATED AS 7 MATHEMATICAL OR CLERICAL ERROR.Section 8 6213(g)(2) is amended 9 (A) in subparagraph (P), by striking and 10 at the end, 11 (B) in subparagraph (Q), by striking the 12 period at the end and inserting , and, and 13 (C) by inserting after subparagraph (Q) the 14 following: 15 (R)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Audit tax credit allows taxpayers to receive a credit of up to $150 for the cost of a home energy audit. The audit must identify the most significant and cost-effective energy efficiency improvements for the dwelling, and include an estimate of the energy and cost savings with respect to each improvement. The credit is subject to the requirements specified by the Secretary in regulations or other guidance.

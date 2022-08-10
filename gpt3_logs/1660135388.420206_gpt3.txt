@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+qualified facility which 14 is located in an energy community (as defined in sec15 tion 45(b)(11)(B)), for purposes of determining the 16 amount of the credit under subsection (a) with respect 17 to any electricity produced by the taxpayer at such 18 facility during the taxable year, the applicable 19 amount under paragraph (2) of such subsection shall 20 be increased by an amount equal to 10 percent of the 21 amount otherwise in effect under such paragraph. 22 (8) CREDIT REDUCED FOR TAX-EXEMPT 23 BONDS.Rules similar to the rules of section 45(b)(3) 24 shall apply. 464  HR 5376 EAS 1 (9) WAGE REQUIREMENTS.Rules similar to 2 the rules of section 45(b)(7) shall apply. 3 (10) APPRENTICESHIP REQUIREMENTS.Rules 4 similar to the rules of section 45(b)(8) shall apply. 5 (11) DOMESTIC CONTENT BONUS CREDIT 6 AMOUNT. 7 (A) IN GENERAL.In the case of any 8 qualified facility which satisfies the requirement 9 under subparagraph (B)(i), the amount of the 10 credit determined under subsection (a) shall be 11 increased by an amount equal to 10 percent of 12 the amount so determined (as determined with13 out application of paragraph (7)). 14 (B) REQUIREMENT. 15 (i) IN GENERAL.The requirement 16 described in this subclause is satisfied with 17 respect to any qualified facility if the tax18 payer certifies to the Secretary (at such 19 time, and in such form and manner, as the 20 Secretary may prescribe) that any steel, 21 iron, or manufactured product which is a 22 component of such facility (upon completion 23 of construction) was produced in the United 24 States (as determined under section 661 of 25 title 49, Code of Federal Regulations). 465  HR 5376 EAS 1 (ii) STEEL AND IRON.In the case of 2 steel or iron, clause (i) shall be applied in 3 a manner consistent with section 661.5 of 4 title 49, Code of Federal Regulations. 5 (iii) MANUFACTURED PRODUCT.For 6 purposes of clause (i), the manufactured 7 products which are components of a quali8 fied facility
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the domestic content bonus credit for qualified facilities. The credit is increased by 10 percent if the taxpayer certifies that any steel, iron, or manufactured product used in the construction of the facility was produced in the United States.

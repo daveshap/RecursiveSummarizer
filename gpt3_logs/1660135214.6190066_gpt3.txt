@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+40, 13 United States Code. 14 (B) CORRECTION AND PENALTY RELATED 15 TO FAILURE TO SATISFY WAGE REQUIRE16 MENTS.Rules similar to the rules of section 17 45(b)(7)(B) shall apply. 18 (3) APPRENTICESHIP REQUIREMENTS.Rules 19 similar to the rules of section 45(b)(8) shall apply. 20 (4) REGULATIONS AND GUIDANCE.The Sec21 retary shall issue such regulations or other guidance 22 as the Secretary determines necessary to carry out the 23 purposes of this subsection, including regulations or 24 other guidance which provides for requirements for 411  HR 5376 EAS 1 recordkeeping or information reporting for purposes 2 of administering the requirements of this subsection.. 3 (e) ELIGIBLE CENSUS TRACTS.Subsection (c) of sec4 tion 30C, as amended by subsection (b)(3), is amended by 5 adding at the end the following: 6 (3) PROPERTY REQUIRED TO BE LOCATED IN 7 ELIGIBLE CENSUS TRACTS. 8 (A) IN GENERAL.Property shall not be 9 treated as qualified alternative fuel vehicle re10 fueling property unless such property is placed 11 in service in an eligible census tract. 12 (B) ELIGIBLE CENSUS TRACT. 13 (i) IN GENERAL.For purposes of 14 this paragraph, the term eligible census 15 tract means any population census tract 16 which 17 (I) is described in section 18 45D(e), or 19 (II) is not an urban area. 20 (ii) URBAN AREA.For purposes of 21 clause (i)(II), the term urban area means 22 a census tract (as defined by the Bureau of 23 the Census) which, according to the most re24 cent decennial census, has been designated 412  HR 5376 EAS 1 as an urban area by the Secretary of Com2 merce.. 3 (f) EFFECTIVE DATE. 4 (1) IN GENERAL.Except as provided in para5 graph (2), the amendments made by this section shall 6 apply to property placed in service after December 7 31, 2022. 8 (2) EXTENSION.The amendments made by sub9 section (a) shall apply to property placed in service 10 after December 31, 2021. 11 PART 5INVESTMENT IN CLEAN ENERGY 12 MANUFACTURING AND
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The rules in this section apply to property placed in service after December 31, 2022, with the exception of the amendments in subsection (a), which apply to property placed in service after December 31, 2021. The purpose of this section is to provide for investment in clean energy manufacturing and construction projects.

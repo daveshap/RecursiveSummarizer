@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+or indirectly, or to an attorney, and solely for the purpose of reporting or investigating a suspected violation of law; or (ii) in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. 3. OWNERSHIP (a) Assignment. Contractor agrees that all software and other work product developed or produced under this Agreement as well as all works of authorship and other copyrightable material, notes, records, drawings, designs, inventions, processes, improvements, developments, discoveries and trade secrets conceived, discovered, developed or reduced to practice by Contractor, solely or in collaboration with others, during the term of this Agreement which relate in any manner to the business of the Company that Contractor may be directed to undertake, investigate or experiment with, or which Contractor may become associated with in work, investigation or experimentation in the Companys line of business in performing the Services hereunder
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Contractor agrees that any software or other work product developed or produced under this Agreement, as well as any works of authorship, copyrightable material, notes, records, drawings, designs, inventions, processes, improvements, developments, discoveries, or trade secrets conceived, discovered, developed, or reduced to practice by the Contractor during the term of this Agreement, which relate in any manner to the business of the Company that the Contractor may be directed to undertake, investigate, or experiment with, or which the Contractor may become associated with in work, investigation, or experimentation in the Company's line of business in performing the Services under this Agreement, shall be the sole and exclusive property of the Company. The Contractor further agrees that he/she will not disclose any such confidential information to any third party, except as may be required by law.

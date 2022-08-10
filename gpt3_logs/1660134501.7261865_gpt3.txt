@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+selected drug with respect to such year and each 17 subsequent year beginning before the first year that 18 begins at least 9 months after the date on which the 19 Secretary determines at least one drug or biological 20 product 21 (A) is approved or licensed (as applica22 ble) 23 (i) under section 505(j) of the Federal 24 Food, Drug, and Cosmetic Act using such 25 drug as the listed drug; or 52  HR 5376 EAS 1 (ii) under section 351(k) of the Public 2 Health Service Act using such drug as the 3 reference product; and 4 (B) is marketed pursuant to such approval 5 or licensure. 6 (2) CLARIFICATION.A negotiation-eligible 7 drug 8 (A) that is included on the list published 9 under subsection (a) with respect to an initial 10 price applicability year; and 11 (B) for which the Secretary makes a deter12 mination described in paragraph (1) before or 13 during the negotiation period with respect to 14 such initial price applicability year; 15 shall not be subject to the negotiation process under 16 section 1194 with respect to such negotiation period 17 and shall continue to be considered a selected drug 18 under this part with respect to the number of negotia19 tion-eligible drugs published on the list under sub20 section (a) with respect to such initial price applica21 bility year. 22 (d) NEGOTIATION-ELIGIBLE DRUG. 23 (1) IN GENERAL.For purposes of this part, 24 subject to paragraph (2), the term negotiation-eligible 25 drug means, with respect to the selected drug publica- 53  HR 5376 EAS 1 tion date with respect to an initial price applicability 2 year, a qualifying single source drug, as defined in 3 subsection (e), that is described in either of the fol4 lowing subparagraphs (or, with respect to the initial 5 price applicability year 2026 or 2027, that is de6 scribed in subparagraph (A)): 7 (A) PART D HIGH SPEND DRUGS.The 8 qualifying single source drug is, determined in 9 accordance with subsection (e)(2), among the 50 10 qualifying
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The drug negotiation process under this bill would apply to a selected drug with respect to the initial price applicability year and each subsequent year. A selected drug is a drug that is approved or licensed under the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act and is marketed pursuant to such approval or licensure. A negotiation-eligible drug is a qualifying single source drug that is among the 50 highest spending drugs in Medicare Part D based on total cost per year.

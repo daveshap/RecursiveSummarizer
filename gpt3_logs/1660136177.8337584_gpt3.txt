@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+facilities placed in service in connection with low-income communities. The credit is increased by 2 percentage points for solar projects and 10 percentage points for wind projects. The amendments apply to property placed in service after December 31, 2021.  This section deals with solar and wind energy tax credits for low-income communities. The credit is increased for facilities located in low-income communities or on Indian land.  The Energy Policy Act of 2005 provides a tax credit for certain qualified low-income residential and economic benefit projects. To be eligible, the project must be part of a qualified low-income residential building project or a qualified low-income economic benefit project, and at least 50% of the financial benefits of the electricity produced by the facility must be provided to households with income below 200% of the poverty line or 80% of area median gross income.  The Secretary of Energy will establish a program to allocate environmental justice solar and wind capacity limitation to qualified solar and wind facilities. The amount of environmental justice solar and wind capacity limitation allocated by the Secretary under this program shall not exceed the annual capacity limitation with respect to such year. The annual capacity limitation for any calendar year shall not exceed 1.8 gigawatts of direct current capacity for each of calendar years 2023 and 2024, and zero thereafter. If the annual capacity limitation for any calendar year exceeds the aggregate amount allocated for such year under this program, such limitation for the succeeding calendar year shall be increased by the amount of such excess.  The amendments made by this section extend and modify the credit for carbon dioxide sequestration. The credit is now available for carbon capture requirements at qualified facilities, which are defined as any industrial gasification facility, any integrated gasification combined cycle facility, or any other industrial facility
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Energy Policy Act of 2005 provides tax credits for solar and wind energy facilities placed in service in connection with low-income communities. The credit is increased by 2 percentage points for solar projects and 10 percentage points for wind projects. The amendments apply to property placed in service after December 31, 2021.

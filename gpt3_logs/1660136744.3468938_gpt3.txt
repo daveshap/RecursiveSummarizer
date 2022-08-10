@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+meet the zero energy provisions in the 2021 International Energy Conservation Code for both residential and commercial buildings. The plan for full compliance with the code must include active training and enforcement programs, as well as measurement of the rate of compliance each year.  This section of the bill appropriates $2 billion for grants to encourage domestic production of efficient hybrid and electric vehicles, and $5 billion for energy infrastructure projects. It also allows the Secretary to guarantee loans for energy infrastructure projects up to $250 billion. The purpose of the bill is to enable the Secretary of Energy to provide guarantees for loans to projects that retool, repower, or replace energy infrastructure that has ceased operations, or that enable operating energy infrastructure to avoid, reduce, utilize, or sequester air pollutants or emissions of greenhouse gases.  This section authorizes the Secretary of Energy to provide grants to non-federal entities for the construction or modification of electric transmission facilities designated by the Secretary to be necessary in the national interest. The grants may not exceed 80 percent of the project costs, and must be repaid with interest. The Department of Energy may award grants to state and local governments for activities related to the siting of covered transmission projects. These activities include studies of project impacts, examination of alternate siting corridors, and participation in regulatory proceedings. Grants may also be awarded for economic development activities in communities affected by the construction and operation of a covered transmission project. The Secretary of Energy is authorized to provide grants to siting authorities for activities related to the siting or permitting of covered transmission projects. The Federal share of the cost of these activities shall not exceed 50 percent. Grant funds may only be disbursed for economic development activities related to a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $2 billion for grants to encourage domestic production of efficient hybrid and electric vehicles, and $5 billion for energy infrastructure projects. It also allows the Secretary to guarantee loans for energy infrastructure projects up to $250 billion. The purpose of the bill is to enable the Secretary of Energy to provide guarantees for loans to projects that retool, repower, or replace energy infrastructure that has ceased operations, or that enable operating energy infrastructure to avoid, reduce, utilize, or sequester air pollutants or emissions of greenhouse gases.

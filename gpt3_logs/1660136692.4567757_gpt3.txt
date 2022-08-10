@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the tax credit, provided that they are purified to a minimum purity of 99 percent. The minerals include arsenic, bismuth, erbium, gallium, hafnium, holmium, iridium, lanthanum, lutetium, magnesium, palladium, platinum, praseodymium, rhodium, rubidium, ruthenium, samarium, scandium, tantalum, terbium, thulium, titanium, ytterbium, zinc, and zirconium. The section also includes special rules for related persons and for sales of integrated components. This section amends the Internal Revenue Code to extend and adjust the hazardous substance Superfund financing rate, and to authorize advances under the Superfund. It also incentivizes clean electricity production and clean transportation. The clean electricity production credit is a tax credit for any taxable year equal to the product of the kilowatt hours of electricity produced by the taxpayer at a qualified facility and sold by the taxpayer to an unrelated person during the taxable year, multiplied by the applicable amount with respect to such qualified facility. The applicable amount is 0.3 cents per kilowatt hour for qualified facilities that are not described in clause (i) or (ii) of subparagraph (B) and do not satisfy the requirements described in clause (iii) of such subparagraph, and 1.5 cents per kilowatt hour for qualified facilities described in clause (i), (ii), or (iii) of subparagraph (B). The qualified facility credit is a credit for facilities used to generate electricity that are placed in service after December 31, 2024, and have a greenhouse gas emissions rate that does not exceed zero. The credit is only available for the 10-year period beginning on the date the facility was originally placed in service. The Clean Air Act Amendments of 2018 establish emissions rates for facilities producing electricity, to be used for purposes of the tax credit for carbon capture and sequestration. The emissions rates are to be published  The "Greenhouse Gas Emission Reduction for New and Existing Power Plants" rule
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "Greenhouse Gas Emission Reduction for New and Existing Power Plants" rule incentivizes clean electricity production and clean transportation by providing a tax credit for any taxable year equal to the product of the kilowatt hours of electricity produced by the taxpayer at a qualified facility and sold by the taxpayer to an unrelated person during the taxable year, multiplied by the applicable amount with respect to such qualified facility. The applicable amount is 0.3 cents per kilowatt hour for qualified facilities that are not described in clause (i) or (ii) of subparagraph (B) and do not satisfy the requirements described in clause (iii) of such subparagraph, and 1.5 cents per kilowatt hour for qualified facilities described in clause (i), (ii), or (iii) of subparagraph (B).

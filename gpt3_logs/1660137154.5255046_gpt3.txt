@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+advanced energy project credit, and the clean electricity investment credit. The bill also allows businesses to elect to claim the renewable electricity production credit or the carbon capture equipment credit in lieu of the business energy investment tax credit. The bill also amends the Internal Revenue Code to allow for a three-year carryback of certain business tax credits and extends the tax rate for certain taxpayers to taxable years beginning after December 31, 2021. Finally, the Act reinstates the deduction for state and local taxes through 2026. The Energy Act of 2020 appropriates funds for various clean energy initiatives.  The Clean Air Act appropriates funds for various activities related to reducing greenhouse gas emissions, including a Low Emissions Electricity Program, consumer and industry outreach and education, technical assistance and partnerships with state, tribal and local governments, and assessment of anticipated reductions in emissions. Additionally, the EPA is appropriated $850,000,000 for fiscal year 2022 to remain available until September 30, 2028 for grants, rebates, contracts, loans, and other activities related to reducing methane emissions from petroleum and natural gas systems. This section also imposes a charge on methane emissions that exceed an applicable waste emissions threshold from an owner or operator of an applicable facility that reports more than 25,000 metric tons of carbon dioxide equivalent of greenhouse gases emitted per year. The Climate Resilience and Livable Communities Act authorizes various programs to help communities adapt to climate change and provides funding for infrastructure to support them. Additionally, it appropriates funds for oversight of these programs and for climate resilience and adaptation programs for Indian Tribes.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Act of 2020 and the Clean Air Act appropriate funds for various clean energy initiatives and programs to reduce greenhouse gas emissions. The Climate Resilience and Livable Communities Act authorizes various programs to help communities adapt to climate change and provides funding for infrastructure to support them.

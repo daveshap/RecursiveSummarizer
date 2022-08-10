@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the same as the amount for a cal2 endar quarter under paragraph (3)(A)(ii)(I) of 3 section 1847A(i), under the system under this 4 subsection, in lieu of calculation of the copay5 ment amount and the amount of payment other6 wise applicable under this subsection (other than 7 the application of the limitation described in 8 subparagraph (C)), the provisions of section 9 1847A(i)(5) and paragraph (1)(EE) of sub10 section (a), shall, as determined appropriate by 11 the Secretary, apply under this subsection in the 12 same manner as such provisions of section 13 1847A(i)(5) and subsection (a) apply under such 14 section and subsection.. 15 (c) CONFORMING AMENDMENTS. 16 (1) TO PART B ASP CALCULATION.Section 17 1847A(c)(3) of the Social Security Act (42 U.S.C. 18 1395w3a(c)(3)) is amended by inserting subsection 19 (i) or before section 1927. 20 (2) EXCLUDING PART B DRUG INFLATION RE21 BATE FROM BEST PRICE.Section 22 1927(c)(1)(C)(ii)(I) of the Social Security Act (42 23 U.S.C. 1396r8(c)(1)(C)(ii)(I)) is amended by insert24 ing or section 1847A(i) after this section. 143  HR 5376 EAS 1 (3) COORDINATION WITH MEDICAID REBATE IN2 FORMATION DISCLOSURE.Section 1927(b)(3)(D)(i) 3 of the Social Security Act (42 U.S.C. 1396r 4 8(b)(3)(D)(i)) is amended by inserting and the re5 bate after the payment amount. 6 (4) EXCLUDING PART B DRUG INFLATION RE7 BATES FROM AVERAGE MANUFACTURER PRICE.Sec8 tion 1927(k)(1)(B)(i) of the Social Security Act (42 9 U.S.C. 1396r8(k)(1)(B)(i)), as amended by section 10 11001(b)(3), is amended 11 (A) in subclause (V), by striking and at 12 the end; 13 (B) in subclause (VI), by striking the period 14 at the end and inserting a semicolon; and 15 (C) by adding at the end the following new 16 subclause: 17 (VII) rebates paid by manufac18 turers under section 1847A(i); and. 19 (d) FUNDING.In addition to amounts otherwise 20 available, there are appropriated to the Centers for Medi21 care & Medicaid Services, out
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to include provisions related to the calculation of copayments for Part B drugs under the Medicare program. It also includes provisions for the disclosure of rebate information to Medicaid programs, and excludes Part B drug rebates from the calculation of the Average Manufacturer Price. Finally, it appropriates additional funds to the Centers for Medicare & Medicaid Services to cover the costs associated with these changes.

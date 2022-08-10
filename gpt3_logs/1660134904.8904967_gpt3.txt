@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+shall be considered to be made to a section 7 or other provision of the Internal Revenue Code of 1986. 8 PART 1CLEAN ELECTRICITY AND REDUCING 9 CARBON EMISSIONS 10 SEC. 13101. EXTENSION AND MODIFICATION OF CREDIT 11 FOR ELECTRICITY PRODUCED FROM CERTAIN 12 RENEWABLE RESOURCES. 13 (a) IN GENERAL.The following provisions of section 14 45(d) are each amended by striking January 1, 2022 15 each place it appears and inserting January 1, 2025: 16 (1) Paragraph (2)(A). 17 (2) Paragraph (3)(A). 18 (3) Paragraph (6). 19 (4) Paragraph (7). 20 (5) Paragraph (9). 21 (6) Paragraph (11)(B). 22 (b) BASE CREDIT AMOUNT.Section 45 is amended 23 (1) in subsection (a)(1), by striking 1.5 cents 24 and inserting 0.3 cents, and 242  HR 5376 EAS 1 (2) in subsection (b)(2), by striking 1.5 cent 2 and inserting 0.3 cent. 3 (c) APPLICATION OF EXTENSION TO GEOTHERMAL AND 4 SOLAR.Section 45(d)(4) is amended by striking and 5 which and all that follows through January 1, 2022 and 6 inserting and the construction of which begins before Jan7 uary 1, 2025. 8 (d) EXTENSION OF ELECTION TO TREAT QUALIFIED 9 FACILITIES AS ENERGY PROPERTY.Section 10 48(a)(5)(C)(ii) is amended by striking January 1, 2022 11 and inserting January 1, 2025. 12 (e) APPLICATION OF EXTENSION TO WIND FACILI13 TIES. 14 (1) IN GENERAL.Section 45(d)(1) is amended 15 by striking January 1, 2022 and inserting Janu16 ary 1, 2025. 17 (2) APPLICATION OF PHASEOUT PERCENTAGE. 18 (A) RENEWABLE ELECTRICITY PRODUCTION 19 CREDIT.Section 45(b)(5) is amended by insert20 ing which is placed in service before January 21 1, 2022 after using wind to produce elec22 tricity. 23 (B) ENERGY CREDIT.Section 48(a)(5)(E) 24 is amended by inserting placed in service before 243  HR 5376 EAS 1 January 1, 2022, and before treated as energy 2 property. 3 (3) QUALIFIED OFFSHORE WIND FACILITIES 4 UNDER ENERGY CREDIT.Section 48(a)(5)(F)(i) is 5 amended by striking offshore wind
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill extends and modifies the credit for electricity produced from certain renewable resources. The base credit amount is reduced from 1.5 cents to 0.3 cents per kilowatt hour. The extension applies to facilities that begin construction before January 1, 2025.

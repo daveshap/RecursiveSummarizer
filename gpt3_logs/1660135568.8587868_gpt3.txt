@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+U.S.C. 3361). 22 (e) DISCRIMINATION FINANCIAL ASSISTANCE.In 23 addition to amounts otherwise available, there is appro24 priated to the Secretary of Agriculture for fiscal year 2022, 25 to remain available until September 30, 2031, out of any 558  HR 5376 EAS 1 money in the Treasury not otherwise appropriated, 2 $2,200,000,000 for a program to provide financial assist3 ance, including the cost of any financial assistance, to 4 farmers, ranchers, or forest landowners determined to have 5 experienced discrimination prior to January 1, 2021, in 6 Department of Agriculture farm lending programs, under 7 which the amount of financial assistance provided to a re8 cipient may be not more than $500,000, as determined to 9 be appropriate based on any consequences experienced from 10 the discrimination, which program shall be administered 11 through 1 or more qualified nongovernmental entities se12 lected by the Secretary subject to standards set and enforced 13 by the Secretary. 14 (f) ADMINISTRATIVE COSTS.In addition to amounts 15 otherwise available, there is appropriated to the Secretary 16 of Agriculture for fiscal year 2022, to remain available 17 until September 30, 2031, out of any money in the Treasury 18 not otherwise appropriated, $24,000,000 for administrative 19 costs, including training employees, of the agencies and of20 fices of the Department of Agriculture to carry out this sec21 tion. 22 (g) LIMITATION.The funds made available under 23 this section are subject to the condition that the Secretary 24 shall not 559  HR 5376 EAS 1 (1) enter into any agreement under which any 2 payment could be outlaid or funds disbursed after 3 September 30, 2031; or 4 (2) use any other funds available to the Sec5 retary to satisfy obligations initially made under this 6 section.. 7 SEC. 22008. REPEAL OF FARM LOAN ASSISTANCE. 8 Section 1005 of the American Rescue Plan Act of 2021 9 (7 U.S.C. 1921 note; Public Law 1172) is repealed. 10 Subtitle DForestry 11
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $2,200,000,000 for a program to provide financial assistance to farmers, ranchers, or forest landowners who experienced discrimination prior to January 1, 2021, in Department of Agriculture farm lending programs. The funds are to be used for administrative costs, including training employees, of the agencies and offices of the Department of Agriculture to carry out this section. This section also repeals Section 1005 of the American Rescue Plan Act of 2021.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+an electric heat pump clothes 7 dryer. 8 (B) NONAPPLIANCE UPGRADES.The 9 amount of a rebate provided under a high-effi10 ciency electric home rebate program for the pur11 chase of a nonappliance upgrade under a quali12 fied electrification project shall be 13 (i) not more than $4,000 for an electric 14 load service center upgrade; 15 (ii) not more than $1,600 for insula16 tion, air sealing, and ventilation; and 17 (iii) not more than $2,500 for electric 18 wiring. 19 (C) MAXIMUM REBATE.An eligible entity 20 receiving multiple rebates under this section may 21 receive not more than a total of $14,000 in re22 bates. 23 (4) LIMITATIONS.A rebate provided using 24 funding under this section shall not exceed 598  HR 5376 EAS 1 (A) in the case of an eligible entity de2 scribed in subsection (d)(1)(A) 3 (i) 50 percent of the cost of the quali4 fied electrification project for a household 5 the annual income of which is not less than 6 80 percent and not greater than 150 percent 7 of the area median income; and 8 (ii) 100 percent of the cost of the quali9 fied electrification project for a household 10 the annual income of which is less than 80 11 percent of the area median income; 12 (B) in the case of an eligible entity de13 scribed in subsection (d)(1)(B) 14 (i) 50 percent of the cost of the quali15 fied electrification project for a multifamily 16 building not less than 50 percent of the resi17 dents of which are households the annual 18 income of which is not less than 80 percent 19 and not greater than 150 percent of the 20 area median income; and 21 (ii) 100 percent of the cost of the quali22 fied electrification project for a multifamily 23 building not less than 50 percent of the resi24 dents of which are households the annual 599  HR 5376 EAS 1 income of which is less than 80 percent of 2 the area median income; or 3 (C) in the case of an eligible entity de4 scribed in subsection (d)(1)(C) 5 (i) 50 percent of the cost of the quali6 fied electrification
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides for rebates for the purchase of high-efficiency electric home appliances and upgrades to non-appliance electrification projects. The maximum rebate is $14,000.

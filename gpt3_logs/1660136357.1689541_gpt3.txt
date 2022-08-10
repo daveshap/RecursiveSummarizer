@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+approved State energy conservation plan. Funds may be used to reduce the cost of training contractor employees, to provide testing and certification of contractors trained and educated under a State program, and to partner with nonprofit organizations to develop and implement a State program.  The Energy Policy and Conservation Act provides funding for grants to assist States and units of local government in adopting and implementing building energy codes. The codes must meet or exceed the 2021 International Energy Conservation Code for residential buildings, the ANSI/ASHRAE/IES Standard 90.12019 for commercial buildings, or achieve equivalent or greater energy savings. The codes must also meet the zero energy provisions in the 2021 International Energy Conservation Code for both residential and commercial buildings. The plan for full compliance with the code must include active training and enforcement programs, as well as measurement of the rate of compliance each year.  The Department of Energy may provide loan guarantees for eligible projects under the Energy Policy Act of 2005, up to a total of $40 billion. Of this amount, $3.6 billion is appropriated for fiscal year 2022 for the costs of guarantees. Up to 3 percent of the amount appropriated may be used for administrative expenses.  This section of the Energy Policy Act of 2005 authorizes the use of loan guarantees for certain energy projects, subject to the provisions of the act. Specifically, the loan guarantees may be used for projects benefitting from Federal tax benefits, projects located on Federal land, or electric generation projects using transmission facilities owned or operated by a Federal Power Marketing Administration or the Tennessee Valley Authority.  The Energy Policy Act of 2005 is amended by adding a section on advanced technology vehicle manufacturing. This section appropriates $3,000,000,000 to the Secretary for fiscal year 2022 to provide loans for reequipping, expanding, or establishing
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy and Conservation Act provides funding for grants to assist States and units of local government in adopting and implementing building energy codes. The codes must meet or exceed the 2021 International Energy Conservation Code for residential buildings, the ANSI/ASHRAE/IES Standard 90.12019 for commercial buildings, or achieve equivalent or greater energy savings. The codes must also meet the zero energy provisions in the 2021 International Energy Conservation Code for both residential and commercial buildings. The plan for full compliance with the code must include active training and enforcement programs, as well as measurement of the rate of compliance each year.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+responsibilities. These include coordinating and supporting the Department's preparedness, response, and recovery efforts; overseeing the development and implementation of Department-wide policies and programs related to readiness; and serving as the primary advisor to the Secretary on all matters relating to readiness. This section also appropriates $500 million to the Department of Homeland Security for sustainability and environmental programs, $1.29 billion to the United States Postal Service for the purchase of zero-emission delivery vehicles, and $1.71 billion for the purchase, design, and installation of infrastructure to support zero-emission delivery vehicles. Additionally, it appropriates $15 million to the Office of Inspector General of the United States Postal Service and $25 million to the Comptroller General of the United States for oversight.  This section of the bill appropriates $220 million for Indian Tribe climate resilience and adaptation programs, $10 million for fish hatchery operations and maintenance programs of the Bureau of Indian Affairs, and $5 million for the administrative costs of carrying out this section. These funds are to be available until September 30, 2031 and are not subject to cost-sharing or matching requirements.  The federal government will provide $100 million in funding to support the construction of broadband infrastructure in unserved and underserved areas. There are no cost-sharing or matching requirements for these funds.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates funds for sustainability and environmental programs, the purchase of zero-emission delivery vehicles, and infrastructure to support them. Additionally, it appropriates funds for oversight of these programs and for climate resilience and adaptation programs for Indian Tribes.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Commonwealth of Puerto Rico; 14 (3) Guam; 15 (4) American Samoa; 16 (5) the United States Virgin Islands; and 17 (6) the Commonwealth of the Northern Mariana 18 Islands.. 19 (B) EXCLUSIONS.Section 18 of the Outer 20 Continental Shelf Lands Act (43 U.S.C. 1344) is 21 amended by adding at the end the following: 22 (i) APPLICATION.This section shall 23 not apply to the scheduling of any lease sale 24 in an area of the outer Continental Shelf 25 that is adjacent to the Commonwealth of 640  HR 5376 EAS 1 Puerto Rico, Guam, American Samoa, the 2 United States Virgin Islands, or the Com3 monwealth of the Northern Mariana Is4 lands.. 5 (2) WIND LEASE SALES FOR AREAS OF THE 6 OUTER CONTINENTAL SHELF.The Outer Continental 7 Shelf Lands Act (43 U.S.C. 1331 et seq.) is amended 8 by adding at the end the following: 9 SEC. 33. WIND LEASE SALES FOR AREAS OF THE OUTER 10 CONTINENTAL SHELF OFFSHORE OF TERRI11 TORIES OF THE UNITED STATES. 12 (a) WIND LEASE SALES OFF COASTS OF TERRI13 TORIES OF THE UNITED STATES. 14 (1) CALL FOR INFORMATION AND NOMINA15 TIONS. 16 (A) IN GENERAL.The Secretary shall 17 issue calls for information and nominations for 18 proposed wind lease sales for areas of the outer 19 Continental Shelf described in paragraph (2) 20 that are determined to be feasible. 21 (B) INITIAL CALL.Not later than Sep22 tember 30, 2025, the Secretary shall issue an ini23 tial call for information and nominations under 24 this paragraph. 641  HR 5376 EAS 1 (2) CONDITIONAL WIND LEASE SALES.The 2 Secretary may conduct wind lease sales in each area 3 within the exclusive economic zone of the United 4 States adjacent to the Commonwealth of Puerto Rico, 5 Guam, American Samoa, the United States Virgin Is6 lands, or the Commonwealth of the Northern Mariana 7 Islands that meets each of the following criteria: 8 (A) The Secretary has concluded that a 9 wind lease sale in the area is feasible. 10 (B) The Secretary has determined that 11 there is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Outer Continental Shelf Lands Act is amended to allow for wind lease sales in areas adjacent to Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands. The sales are subject to the condition that the area is determined to be feasible and there is sufficient interest from qualified bidders.

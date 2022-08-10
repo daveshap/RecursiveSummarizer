@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+REQUIREMENT. 5 The amendments made by subsection (g) shall apply 6 to property placed in service after December 31, 2024. 7 SEC. 13302. RESIDENTIAL CLEAN ENERGY CREDIT. 8 (a) EXTENSION OF CREDIT. 9 (1) IN GENERAL.Section 25D(h) is amended by 10 striking December 31, 2023 and inserting Decem11 ber 31, 2034. 12 (2) APPLICATION OF PHASEOUT.Section 13 25D(g) is amended 14 (A) in paragraph (2), by striking before 15 January 1, 2023, 26 percent, and and inserting 16 before January 1, 2022, 26 percent,, and 17 (B) by striking paragraph (3) and by in18 serting after paragraph (2) the following new 19 paragraphs: 20 (3) in the case of property placed in service 21 after December 31, 2021, and before January 1, 2033, 22 30 percent, 23 (4) in the case of property placed in service 24 after December 31, 2032, and before January 1, 2034, 25 26 percent, and 352  HR 5376 EAS 1 (5) in the case of property placed in service 2 after December 31, 2033, and before January 1, 2035, 3 22 percent.. 4 (b) RESIDENTIAL CLEAN ENERGY CREDIT FOR BAT5 TERY STORAGE TECHNOLOGY; CERTAIN EXPENDITURES 6 DISALLOWED. 7 (1) ALLOWANCE OF CREDIT.Paragraph (6) of 8 section 25D(a) is amended to read as follows: 9 (6) the qualified battery storage technology ex10 penditures,. 11 (2) DEFINITION OF QUALIFIED BATTERY STOR12 AGE TECHNOLOGY EXPENDITURE.Paragraph (6) of 13 section 25D(d) is amended to read as follows: 14 (6) QUALIFIED BATTERY STORAGE TECHNOLOGY 15 EXPENDITURE.The term qualified battery storage 16 technology expenditure means an expenditure for bat17 tery storage technology which 18 (A) is installed in connection with a dwell19 ing unit located in the United States and used 20 as a residence by the taxpayer, and 21 (B) has a capacity of not less than 3 kilo22 watt hours.. 23 (c) CONFORMING AMENDMENTS. 353  HR 5376 EAS 1 (1) Section 25D(d)(3) is amended by inserting , 2 without regard to subparagraph (D) thereof after 3 section 48(c)(1). 4
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Residential Clean Energy Credit is extended through 2034 and expanded to include battery storage technology expenditures. Conforming amendments are made to section 25D(d)(3) of the Internal Revenue Code.

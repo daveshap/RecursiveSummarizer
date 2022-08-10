@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+60503. USE OF LOW-CARBON MATERIALS. 13 (a) APPROPRIATION.In addition to amounts other14 wise available, there is appropriated for fiscal year 2022, 15 out of any money in the Treasury not otherwise appro16 priated, $2,150,000,000, to remain available until Sep17 tember 30, 2026, to be deposited in the Federal Buildings 18 Fund established under section 592 of title 40, United 19 States Code, to acquire and install materials and products 20 for use in the construction or alteration of buildings under 21 the jurisdiction, custody, and control of the General Services 22 Administration that have substantially lower levels of em23 bodied greenhouse gas emissions associated with all relevant 24 stages of production, use, and disposal as compared to esti25 mated industry averages of similar materials or products, 712  HR 5376 EAS 1 as determined by the Administrator of the Environmental 2 Protection Agency. 3 (b) DEFINITION OF GREENHOUSE GAS.In this sec4 tion, the term greenhouse gas means the air pollutants 5 carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, 6 perfluorocarbons, and sulfur hexafluoride. 7 SEC. 60504. GENERAL SERVICES ADMINISTRATION EMERG8 ING TECHNOLOGIES. 9 In addition to amounts otherwise available, there is 10 appropriated to the Administrator of General Services for 11 fiscal year 2022, out of any money in the Treasury not 12 otherwise appropriated, $975,000,000, to remain available 13 until September 30, 2026, to be deposited in the Federal 14 Buildings Fund established under section 592 of title 40, 15 United States Code, for emerging and sustainable tech16 nologies, and related sustainability and environmental pro17 grams. 18 SEC. 60505. ENVIRONMENTAL REVIEW IMPLEMENTATION 19 FUNDS. 20 (a) IN GENERAL.Chapter 1 of title 23, United States 21 Code, is further amended by adding at the end the following: 22  178. Environmental review implementation funds 23 (a) ESTABLISHMENT.In addition to amounts other24 wise available, for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides for the appropriation of $2.15 billion to the Federal Buildings Fund for the purchase and installation of low-carbon materials for use in buildings under the jurisdiction of the General Services Administration. It also appropriates $975 million to the General Services Administration for emerging and sustainable technologies. Additionally, it establishes the Environmental Review Implementation Fund to help cover the costs of environmental reviews required by the National Environmental Policy Act.

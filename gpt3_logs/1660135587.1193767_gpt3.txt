@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+carried out under this sec20 tion may be waived at the discretion of the Secretary. 21 SEC. 23004. LIMITATION. 22 The funds made available under this subtitle are sub23 ject to the condition that the Secretary shall not 24 (1) enter into any agreement 568  HR 5376 EAS 1 (A) that is for a term extending beyond 2 September 30, 2031; or 3 (B) under which any payment could be 4 outlaid or funds disbursed after September 30, 5 2031; or 6 (2) use any other funds available to the Sec7 retary to satisfy obligations initially made under this 8 subtitle. 9 SEC. 23005. ADMINISTRATIVE COSTS. 10 In addition to amounts otherwise available, there is 11 appropriated to the Secretary for fiscal year 2022, out of 12 any money in the Treasury not otherwise appropriated, 13 $100,000,000 to remain available until September 30, 2031, 14 for administrative costs of the agencies and offices of the 15 Department of Agriculture for costs related to implementing 16 this subtitle. 17 TITLE IIICOMMITTEE ON BANK18 ING, HOUSING, AND URBAN 19 AFFAIRS 20 SEC. 30001. ENHANCED USE OF DEFENSE PRODUCTION ACT 21 OF 1950. 22 In addition to amounts otherwise available, there is 23 appropriated for fiscal year 2022, out of any money in the 24 Treasury not otherwise appropriated, $500,000,000, to re- 569  HR 5376 EAS 1 main available until September 30, 2024, to carry out the 2 Defense Production Act of 1950 (50 U.S.C. 4501 et seq.). 3 SEC. 30002. IMPROVING ENERGY EFFICIENCY OR WATER EF4 FICIENCY OR CLIMATE RESILIENCE OF AF5 FORDABLE HOUSING. 6 (a) APPROPRIATION.In addition to amounts other7 wise available, there is appropriated to the Secretary of 8 Housing and Urban Development (in this section referred 9 to as the Secretary) for fiscal year 2022, out of any 10 money in the Treasury not otherwise appropriated 11 (1) $837,500,000, to remain available until Sep12 tember 30, 2028, for the cost of providing direct loans, 13 the costs of modifying such loans, and for grants, as 14 provided for and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes appropriations for the Department of Housing and Urban Development (HUD) to improve energy efficiency, water efficiency, and climate resilience in affordable housing. It also allows HUD to waive certain requirements at the discretion of the Secretary.

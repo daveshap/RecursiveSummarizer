@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ginning on the date of enactment of the Act 4 titled An Act to provide for reconciliation 5 pursuant to title II of S. Con. Res. 14, 162 6 3 percent in amount or value of the pro7 duction removed or sold from the lease be8 fore the period at the end; and (B) by striking 121 9 2 per centum each place it appears and inserting 162 10 3 percent. 11 (2) CONDITIONS FOR REINSTATEMENT.Section 12 31(e)(3) of the Mineral Leasing Act (30 U.S.C. 188(e)(3)) is amended by striking 162 13 3 each place 14 it appears and inserting 20. 15 (b) OIL AND GAS MINIMUM BID.Section 17(b) of the 16 Mineral Leasing Act (30 U.S.C. 226(b)) is amended 17 (1) in paragraph (1)(B), in the first sentence, by 18 striking $2 per acre for a period of 2 years from the 19 date of enactment of the Federal Onshore Oil and Gas 20 Leasing Reform Act of 1987. and inserting $10 per 21 acre during the 10-year period beginning on the date 22 of enactment of the Act titled An Act to provide for 23 reconciliation pursuant to title II of S. Con. Res. 24 14.; and 644  HR 5376 EAS 1 (2) in paragraph (2)(C), by striking $2 per 2 acre and inserting $10 per acre. 3 (c) FOSSIL FUEL RENTAL RATES. 4 (1) ANNUAL RENTALS.Section 17(d) of the 5 Mineral Leasing Act (30 U.S.C. 226(d)) is amended, 6 in the first sentence, by striking $1.50 per acre and 7 all that follows through the period at the end and in8 serting $3 per acre per year during the 2-year pe9 riod beginning on the date the lease begins for new 10 leases, and after the end of that 2-year period, $5 per 11 acre per year for the following 6-year period, and not 12 less than $15 per acre per year thereafter, or, in the 13 case of a lease issued during the 10-year period begin14 ning on the date of enactment of the Act titled An 15 Act to provide for reconciliation pursuant to title II 16 of S. Con. Res. 14, $3 per acre per year during the 17 2-year period beginning on the date the lease begins, 18 and after the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Mineral Leasing Act is amended to increase the rental rates for fossil fuel leases, and to increase the minimum bid for oil and gas leases.

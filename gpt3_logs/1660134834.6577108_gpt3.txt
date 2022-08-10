@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+paragraph (2) for a month in 2030 is equal to 15 the lesser of 16 (i) the base beneficiary premium com17 puted under paragraph (8)(A)(vi) for a 18 month in 2029 increased by 6 percent; or 19 (ii) the base beneficiary premium 20 computed under paragraph (2) for a month 21 in 2030 that would have applied if this 22 paragraph had not been enacted. 23 (B) FLOOR.The percent specified under 24 subparagraph (A) may not be less than 20 per25 cent.. 199  HR 5376 EAS 1 (3) CONFORMING AMENDMENTS. 2 (A) Section 1854(b)(2)(B) of the Social Se3 curity Act 42 U.S.C. 1395w24(b)(2)(B)) is 4 amended by striking section 1860D13(a)(2) 5 and inserting paragraph (2) or (8) (as applica6 ble) of section 1860D13(a). 7 (B) Section 1860D11(g)(6) of the Social 8 Security Act (42 U.S.C. 1395w111(g)(6)) is 9 amended by inserting (or, for 2030 and each 10 subsequent year, the percent specified under sec11 tion 1860D13(a)(9)) after 25.5 percent. 12 (C) Section 1860D13(a)(7)(B)(i) of the So13 cial Security Act (42 U.S.C. 1395w 14 113(a)(7)(B)(i)) is amended 15 (i) in subclause (I), by inserting (or, 16 for 2030 and each subsequent year, the per17 cent specified under paragraph (9)) after 18 25.5 percent; and 19 (ii) in subclause (II), by inserting 20 (or, for 2030 and each subsequent year, the 21 percent specified under paragraph (9)) 22 after 25.5 percent. 23 (D) Section 1860D15(a) of the Social Se24 curity Act (42 U.S.C. 1395w115(a)) is amend25 ed 200  HR 5376 EAS 1 (i) in the matter preceding paragraph 2 (1), by inserting (or, for each of 2024 3 through 2029, the percent applicable as a 4 result of the application of section 1860D 5 13(a)(8), or, for 2030 and each subsequent 6 year, 100 percent minus the percent speci7 fied under section 1860D13(a)(9)) after 8 74.5 percent; and 9 (ii) in paragraph (1)(B), by striking 10 paragraph (2) of section 1860D13(a) 11 and inserting paragraph (2) or (8) of sec12 tion 1860D13(a) (as
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Social Security Act outlines how the base beneficiary premium for Medicare Part D will be determined for the years 2030 and beyond. The base beneficiary premium will be equal to 15 percent of the lesser of (i) the base beneficiary premium for 2029 increased by 6 percent; or (ii) the base beneficiary premium for 2030 that would have applied if this section had not been enacted. This percentage may not be less than 20 percent.

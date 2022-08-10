@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Treasury not 6 otherwise appropriated 7 (1) $2,800,000,000 to remain available until 8 September 30, 2026, to award grants for the activities 9 described in subsection (b); and 10 (2) $200,000,000 to remain available until Sep11 tember 30, 2026, to provide technical assistance to eli12 gible entities related to grants awarded under this 13 section. 14 (b) GRANTS. 15 (1) IN GENERAL.The Administrator shall use 16 amounts made available under subsection (a)(1) to 17 award grants for periods of up to 3 years to eligible 18 entities to carry out activities described in paragraph 19 (2) that benefit disadvantaged communities, as de20 fined by the Administrator. 21 (2) ELIGIBLE ACTIVITIES.An eligible entity 22 may use a grant awarded under this subsection for 23 (A) community-led air and other pollution 24 monitoring, prevention, and remediation, and 25 investments in low- and zero-emission and resil26 ient technologies and related infrastructure and 700  HR 5376 EAS 1 workforce development that help reduce green2 house gas emissions and other air pollutants; 3 (B) mitigating climate and health risks 4 from urban heat islands, extreme heat, wood 5 heater emissions, and wildfire events; 6 (C) climate resiliency and adaptation; 7 (D) reducing indoor toxics and indoor air 8 pollution; or 9 (E) facilitating engagement of disadvan10 taged communities in State and Federal advi11 sory groups, workshops, rulemakings, and other 12 public processes. 13 (3) ELIGIBLE ENTITIES.In this subsection, 14 the term eligible entity means 15 (A) a partnership between 16 (i) an Indian tribe, a local govern17 ment, or an institution of higher education; 18 and 19 (ii) a community-based nonprofit or20 ganization; 21 (B) a community-based nonprofit organi22 zation; or 23 (C) a partnership of community-based 24 nonprofit organizations. 701  HR 5376 EAS 1 (c) ADMINISTRATIVE COSTS.The Administrator 2 shall reserve 7 percent of the amounts made available
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides funding for grants to be awarded to eligible entities for activities related to reducing greenhouse gas emissions and other air pollutants, mitigating climate and health risks, climate resiliency and adaptation, and reducing indoor toxics and indoor air pollution.

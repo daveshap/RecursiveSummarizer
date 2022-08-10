@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+facility and all 6 that follows and inserting the following: offshore 7 wind facility, subparagraph (E) shall not apply.. 8 (f) WAGE AND APPRENTICESHIP REQUIREMENTS. 9 Section 45(b) is amended by adding at the end the following 10 new paragraphs: 11 (6) INCREASED CREDIT AMOUNT FOR QUALI12 FIED FACILITIES. 13 (A) IN GENERAL.In the case of any 14 qualified facility which satisfies the requirements 15 of subparagraph (B), the amount of the credit 16 determined under subsection (a) (determined 17 after the application of paragraphs (1) through 18 (5) and without regard to this paragraph) shall 19 be equal to such amount multiplied by 5. 20 (B) QUALIFIED FACILITY REQUIRE21 MENTS.A qualified facility meets the require22 ments of this subparagraph if it is one of the fol23 lowing: 244  HR 5376 EAS 1 (i) A facility with a maximum net 2 output of less than 1 megawatt (as meas3 ured in alternating current). 4 (ii) A facility the construction of 5 which begins prior to the date that is 60 6 days after the Secretary publishes guidance 7 with respect to the requirements of para8 graphs (7)(A) and (8). 9 (iii) A facility which satisfies the re10 quirements of paragraphs (7)(A) and (8). 11 (7) PREVAILING WAGE REQUIREMENTS. 12 (A) IN GENERAL.The requirements de13 scribed in this subparagraph with respect to any 14 qualified facility are that the taxpayer shall en15 sure that any laborers and mechanics employed 16 by the taxpayer or any contractor or subcon17 tractor in 18 (i) the construction of such facility, 19 and 20 (ii) with respect to any taxable year, 21 for any portion of such taxable year which 22 is within the period described in subsection 23 (a)(2)(A)(ii), the alteration or repair of 24 such facility, 245  HR 5376 EAS 1 shall be paid wages at rates not less than the 2 prevailing rates for construction, alteration, or 3 repair of a similar character in the locality in 4 which such facility is located as most recently 5 determined by the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The credit amount for a qualified facility is increased if the facility meets certain requirements. Prevailing wage requirements must be met for any laborers and mechanics employed in the construction or alteration of the facility.

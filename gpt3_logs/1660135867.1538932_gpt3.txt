@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+cost of an activity carried out under this sec17 tion by an eligible entity may be satisfied using funds 18 made available to the eligible entity under any other 19 Federal, State, or local grant program. 20 (c) DEFINITIONS.In this section: 21 (1) ADMINISTRATOR.The term Adminis22 trator means the Administrator of the Federal High23 way Administration. 24 (2) ELIGIBLE ENTITY.The term eligible enti25 ty means 715  HR 5376 EAS 1 (A) a State; 2 (B) a unit of local government; 3 (C) a political subdivision of a State; 4 (D) a territory of the United States; 5 (E) an entity described in section 6 207(m)(1)(E); 7 (F) a recipient of funds under section 203; 8 or 9 (G) a metropolitan planning organization 10 (as defined in section 134(b)(2)). 11 (3) ENVIRONMENTAL REVIEW PROCESS.The 12 term environmental review process has the meaning 13 given the term in section 139(a)(5). 14 (4) PROPOSED PROJECT.The term proposed 15 project means a surface transportation project for 16 which an environmental review process is required.. 17 (b) CLERICAL AMENDMENT.The analysis for chapter 18 1 of title 23, United States Code, is further amended by 19 adding at the end the following: 178. Environmental review implementation funds.. 20 SEC. 60506. LOW-CARBON TRANSPORTATION MATERIALS 21 GRANTS. 22 (a) IN GENERAL.Chapter 1 of title 23, United States 23 Code, is further amended by adding at the end the following: 716  HR 5376 EAS 1  179. Low-carbon transportation materials grants 2 (a) FEDERAL HIGHWAY ADMINISTRATION APPRO3 PRIATION.In addition to amounts otherwise available, 4 there is appropriated for fiscal year 2022, out of any money 5 in the Treasury not otherwise appropriated, 6 $2,000,000,000, to remain available until September 30, 7 2026, to the Administrator to reimburse or provide incen8 tives to eligible recipients for the use, in projects, of con9 struction materials and products that have substantially 10 lower levels of embodied
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes the use of funds from any other Federal, State, or local grant program to satisfy the cost of an activity carried out under this section. An eligible entity is defined as a State, unit of local government, political subdivision of a State, territory of the United States, metropolitan planning organization, or recipient of funds under section 203. A proposed project is defined as a surface transportation project for which an environmental review process is required. This section also appropriates $2,000,000,000 for fiscal year 2022 to the Administrator of the Federal Highway Administration to reimburse or provide incentives to eligible recipients for the use of construction materials and products that have lower levels of embodied carbon.

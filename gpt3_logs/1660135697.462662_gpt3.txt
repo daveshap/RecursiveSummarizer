@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+to reach a final decision 8 on the application relating to the siting or permitting 9 of the applicable covered transmission project not 10 later than 2 years after the date on which such grant 11 is provided, unless the Secretary authorizes an exten12 sion for good cause. 13 (2) FEDERAL SHARE.The Federal share of the 14 cost of an activity described in subparagraph (C) or 15 (D) of subsection (b)(1) shall not exceed 50 percent. 16 (3) ECONOMIC DEVELOPMENT.The Secretary 17 may only disburse grant funds for economic develop18 ment activities under subsection (b)(2) 19 (A) to a siting authority upon approval by 20 the siting authority of the applicable covered 21 transmission project; and 22 (B) to any other State, local, or Tribal gov23 ernmental entity upon commencement of con24 struction of the applicable covered transmission 622  HR 5376 EAS 1 project in the area under the jurisdiction of the 2 entity. 3 (d) RETURNING FUNDS.If a siting authority that re4 ceives a grant for an activity described in subsection (b)(1) 5 fails to use all grant funds within 2 years of receipt, the 6 siting authority shall return to the Secretary any such un7 used funds. 8 (e) DEFINITIONS.In this section: 9 (1) COVERED TRANSMISSION PROJECT.The 10 term covered transmission project means a high11 voltage interstate or offshore electricity transmission 12 line 13 (A) that is proposed to be constructed and 14 to operate 15 (i) at a minimum of 275 kilovolts of 16 either alternating-current or direct-current 17 electric energy by an entity; or 18 (ii) offshore and at a minimum of 200 19 kilovolts of either alternating-current or di20 rect-current electric energy by an entity; 21 and 22 (B) for which such entity has applied, or 23 informed a siting authority of such entitys in24 tent to apply, for regulatory approval. 623  HR 5376 EAS 1 (2) SITING AUTHORITY.The term siting au2 thority means a State, local, or Tribal governmental 3 entity with authority to make a final
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Energy is authorized to provide grants to siting authorities for activities related to the siting or permitting of covered transmission projects. The Federal share of the cost of these activities shall not exceed 50 percent. Grant funds may only be disbursed for economic development activities related to a covered transmission project upon approval by the siting authority or commencement of construction of the project in the area under the jurisdiction of the entity. If a siting authority that receives a grant for an activity related to a covered transmission project fails to use all grant funds within two years, the siting authority shall return the unused funds to the Secretary.

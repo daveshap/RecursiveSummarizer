@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of any money in the Treasury 22 not otherwise appropriated, $80,000,000 for fiscal year 23 2022, including $12,500,000 to carry out the provisions of, 24 including the amendments made by, this section in fiscal 25 year 2022, and $7,500,000 to carry out the provisions of, 144  HR 5376 EAS 1 including the amendments made by, this section in each 2 of fiscal years 2023 through 2031, to remain available until 3 expended. 4 SEC. 11102. MEDICARE PART D REBATE BY MANUFACTUR5 ERS. 6 (a) IN GENERAL.Part D of title XVIII of the Social 7 Security Act is amended by inserting after section 1860D 8 14A (42 U.S.C. 1395w114a) the following new section: 9 SEC. 1860D14B. MANUFACTURER REBATE FOR CERTAIN 10 DRUGS WITH PRICES INCREASING FASTER 11 THAN INFLATION. 12 (a) REQUIREMENTS. 13 (1) SECRETARIAL PROVISION OF INFORMA14 TION.Not later than 9 months after the end of each 15 applicable period (as defined in subsection (g)(7)), 16 subject to paragraph (3), the Secretary shall, for each 17 part D rebatable drug, report to each manufacturer of 18 such part D rebatable drug the following for such pe19 riod: 20 (A) The amount (if any) of the excess an21 nual manufacturer price increase described in 22 subsection (b)(1)(A)(ii) for each dosage form and 23 strength with respect to such drug and period. 145  HR 5376 EAS 1 (B) The rebate amount specified under 2 subsection (b) for each dosage form and strength 3 with respect to such drug and period. 4 (2) MANUFACTURER REQUIREMENTS.For each 5 applicable period, the manufacturer of a part D 6 rebatable drug, for each dosage form and strength 7 with respect to such drug, not later than 30 days after 8 the date of receipt from the Secretary of the informa9 tion described in paragraph (1) for such period, shall 10 provide to the Secretary a rebate that is equal to the 11 amount specified in subsection (b) for such dosage 12 form and strength with respect to such drug for such 13 period. 14 (3) TRANSITION RULE FOR
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section requires drug manufacturers to provide rebates to the Secretary for drugs that have prices that increase faster than inflation. The rebates must be equal to the amount specified in subsection (b) for each dosage form and strength of the drug. This section applies to drugs covered under Part D of the Social Security Act.

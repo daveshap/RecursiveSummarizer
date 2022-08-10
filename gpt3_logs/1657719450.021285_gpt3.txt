@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+Contractor further agrees to take all reasonable precautions to prevent any unauthorized disclosure of such Confidential Information. Confidential Information does not include information which (i) is known to Contractor on a non-confidential basis at the time of disclosure to Contractor by the Company as evidenced by written records of Contractor, (ii) has become publicly known and made generally available through no breach by Contractor of this Agreement nor any other wrongful act of Contractor, or (iii) has been rightfully received by Contractor on a non-confidential basis from a third party who is authorized to make such disclosure. Without the Companys prior written approval, Contractor will not directly or indirectly disclose to anyone the existence or terms and conditions of this Agreement or the fact that Contractor has this arrangement with the Company. (c) Third Party Confidential Information. Contractor recognizes that the Company has received and in the future will receive
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The contractor agrees to take all reasonable precautions to prevent the unauthorized disclosure of confidential information. Confidential information does not include information that is already known to the contractor, that becomes publicly known, or that is rightfully received from a third party. The contractor will not disclose the existence or terms of this agreement to anyone without the company's prior written approval.

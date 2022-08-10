@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subparagraph (E) and by in14 serting after subparagraph (C) the following new sub15 paragraph: 16 (D) LINEAR GENERATOR ASSEMBLY.The 17 term linear generator assembly does not include 18 any assembly which contains rotating parts.. 19 (h) DYNAMIC GLASS.Section 48(a)(3)(A)(ii) is 20 amended by inserting , or electrochromic glass which uses 21 electricity to change its light transmittance properties in 22 order to heat or cool a structure, after sunlight. 23 (i) COORDINATION WITH LOW INCOME HOUSING TAX 24 CREDIT.Paragraph (3) of section 50(c) is amended 274  HR 5376 EAS 1 (1) by striking and at the end of subpara2 graph (A), 3 (2) by striking the period at the end of subpara4 graph (B) and inserting , and, and 5 (3) by adding at the end the following new sub6 paragraph: 7 (C) paragraph (1) shall not apply for pur8 poses of determining eligible basis under section 9 42.. 10 (j) INTERCONNECTION PROPERTY.Section 48(a), as 11 amended by the preceding provisions of this Act, is amended 12 by adding at the end the following new paragraph: 13 (8) INTERCONNECTION PROPERTY. 14 (A) IN GENERAL.For purposes of deter15 mining the credit under subsection (a), energy 16 property shall include amounts paid or incurred 17 by the taxpayer for qualified interconnection 18 property in connection with the installation of 19 energy property (as defined in paragraph (3)) 20 which has a maximum net output of not greater 21 than 5 megawatts (as measured in alternating 22 current), to provide for the transmission or dis23 tribution of the electricity produced or stored by 24 such property, and which are properly charge25 able to the capital account of the taxpayer. 275  HR 5376 EAS 1 (B) QUALIFIED INTERCONNECTION PROP2 ERTY.The term qualified interconnection 3 property means, with respect to an energy 4 project which is not a microgrid controller, any 5 tangible property 6 (i) which is part of an addition, 7 modification, or upgrade to a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill amends the Internal Revenue Code to allow for a tax credit for qualified energy property, including qualified interconnection property, which is used to provide for the transmission or distribution of electricity produced or stored by such property.

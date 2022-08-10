@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+paragraph 12 (3)(A)(ii)(I) of such section (or, in the case of a 13 part B rebatable drug that is a selected drug (as 14 defined in section 1192(c) for which, the pay15 ment amount described in section 16 1847A(b)(1)(B)) for such drug for such quarter 17 exceeds the inflation-adjusted payment under 18 paragraph (3)(A)(ii)(II) of such section for such 19 quarter, the amounts paid shall be equal to the 20 percent of the payment amount under paragraph 21 (3)(A)(ii)(I) of such section or section 22 1847A(b)(1)(B), as applicable, that equals the 23 difference between (i) 100 percent, and (ii) the 24 percent applied under section 1847A(i)(5)(B); 141  HR 5376 EAS 1 (2) in subsection (i), by adding at the end the 2 following new paragraph: 3 (9) In the case of a part B rebatable drug (as defined 4 in paragraph (2) of section 1847A(i)) for which payment 5 under this subsection is not packaged into a payment for 6 a service furnished on or after April 1, 2023, under the re7 vised payment system under this subsection, in lieu of cal8 culation of coinsurance and the amount of payment other9 wise applicable under this subsection, the provisions of sec10 tion 1847A(i)(5) and paragraph (1)(EE) of subsection (a), 11 shall, as determined appropriate by the Secretary, apply 12 under this subsection in the same manner as such provi13 sions of section 1847A(i)(5) and subsection (a) apply under 14 such section and subsection.; and 15 (3) in subsection (t)(8), by adding at the end the 16 following new subparagraph: 17 (F) PART B REBATABLE DRUGS.In the 18 case of a part B rebatable drug (as defined in 19 paragraph (2) of section 1847A(i), except if such 20 drug does not have a copayment amount as a re21 sult of application of subparagraph (E)) for 22 which payment under this part is not packaged 23 into a payment for a covered OPD service (or 24 group of services) furnished on or after April 1, 25 2023, and the payment for such drug under this 142  HR 5376 EAS 1 subsection is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to require the payment for certain drugs under Medicare Part B to be equal to the inflation-adjusted payment under Part B for such drugs.

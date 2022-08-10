@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+FACTURER PRICE.In this part, the term average 77  HR 5376 EAS 1 non-Federal average manufacturer price means the 2 average of the non-Federal average manufacturer 3 price (as defined in section 8126(h)(5) of title 38, 4 United States Code) for the 4 calendar quarters of the 5 year involved. 6 (d) TEMPORARY FLOOR FOR SMALL BIOTECH 7 DRUGS.In the case of a selected drug that is a qualifying 8 single source drug described in section 1192(d)(2) and with 9 respect to which the first initial price applicability year 10 of the price applicability period with respect to such drug 11 is 2029 or 2030, the maximum fair price negotiated under 12 this section for such drug for such initial price applicability 13 year may not be less than 66 percent of the average non14 Federal average manufacturer price for such drug (as de15 fined in subsection (c)(6)) for 2021 (or, in the case that 16 there is not an average non-Federal average manufacturer 17 price available for such drug for 2021, for the first full year 18 following the market entry for such drug), increased by the 19 percentage increase in the consumer price index for all 20 urban consumers (all items; United States city average) 21 from September 2021 (or December of such first full year 22 following the market entry), as applicable, to September of 23 the year prior to the selected drug publication date with 24 respect to the initial price applicability year. 78  HR 5376 EAS 1 (e) FACTORS.For purposes of negotiating the max2 imum fair price of a selected drug under this part with 3 the manufacturer of the drug, the Secretary shall consider 4 the following factors, as applicable to the drug, as the basis 5 for determining the offers and counteroffers under sub6 section (b) for the drug: 7 (1) MANUFACTURER-SPECIFIC DATA.The fol8 lowing data, with respect to such selected drug, as 9 submitted by the manufacturer: 10 (A) Research and development costs of the 11 manufacturer for the drug and the extent to 12
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The average manufacturer price for a selected drug is determined by the average of the non-Federal manufacturer prices for the drug for the four calendar quarters of the year involved. For a qualifying single source drug with an initial price applicability year of 2029 or 2030, the maximum fair price negotiated under this section for such drug for such initial price applicability year may not be less than 66 percent of the average non-Federal average manufacturer price for such drug for 2021. The Secretary shall consider the following manufacturer-specific data when determining the offers and counteroffers for the selected drug: research and development costs of the manufacturer for the drug, historical sales volume of the drug, and other factors as determined by the Secretary.

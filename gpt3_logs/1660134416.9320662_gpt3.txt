@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(D). 8 (C) FOREIGN CORPORATIONS ENGAGED IN 9 A TRADE OR BUSINESS WITHIN THE UNITED 10 STATES.For purposes of this paragraph, if a 11 foreign corporation is engaged in a trade or 12 business within the United States, such trade or 13 business shall be treated as a separate domestic 14 corporation that is wholly owned by the foreign 15 corporation. 16 (D) OTHER RULES.The Secretary shall, 17 applying the principles of this section, prescribe 18 rules for the application of this paragraph, in19 cluding rules for the determination of 20 (i) the entities (if any) which are to 21 be to be treated under subparagraph 22 (B)(iii)(II) as having a common parent 23 which is a foreign corporation, 24 (ii) the entities to be included in a 25 foreign-parented multinational group, and 10  HR 5376 EAS 1 (iii) the common parent of a foreign2 parented multinational group. 3 (3) REGULATIONS OR OTHER GUIDANCE.The 4 Secretary shall provide regulations or other guidance 5 for the purposes of carrying out this subsection, in6 cluding regulations or other guidance 7 (A) providing a simplified method for de8 termining whether a corporation meets the re9 quirements of paragraph (1), and 10 (B) addressing the application of this sub11 section to a corporation that experiences a 12 change in ownership.. 13 (3) REDUCTION FOR BASE EROSION AND ANTI14 ABUSE TAX.Section 55(a)(2) is amended by insert15 ing plus, in the case of an applicable corporation, 16 the tax imposed by section 59A before the period at 17 the end. 18 (4) CONFORMING AMENDMENTS. 19 (A) Section 55(a) is amended by striking 20 In the case of a taxpayer other than a corpora21 tion, there and inserting There. 22 (B)(i) Section 55(b)(1) is amended 23 (I) by striking so much as precedes 24 subparagraph (A) and inserting the fol25 lowing: 11  HR 5376 EAS 1 (1) NONCORPORATE TAXPAYERS.In the case of 2 a taxpayer other than a corporation, and 3 (II) by adding at the end the following 4 new
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act amends the tax code to create a new tax on foreign-owned corporations doing business in the United States. The tax is imposed at a rate of 20 percent on the corporation's income from its U.S. operations. The tax is in addition to the existing corporate income tax and is not deductible against it. The tax applies to corporations with annual revenue of at least $500 million from their U.S. operations.

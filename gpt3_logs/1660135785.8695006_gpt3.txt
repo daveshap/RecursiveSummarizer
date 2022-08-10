@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+integrate, and operate air quality sensors in low20 income and disadvantaged communities. 21 (d) EMISSIONS FROM WOOD HEATERS.In addition 22 to amounts otherwise available, there is appropriated to the 23 Administrator of the Environmental Protection Agency for 24 fiscal year 2022, out of any money in the Treasury not 25 otherwise appropriated, $15,000,000, to remain available 674  HR 5376 EAS 1 until September 30, 2031, for grants and other activities 2 authorized under subsections (a) through (c) of section 103 3 and section 105 of the Clean Air Act (42 U.S.C. 7403(a) 4 (c), 7405) for testing and other agency activities to address 5 emissions from wood heaters. 6 (e) METHANE MONITORING.In addition to amounts 7 otherwise available, there is appropriated to the Adminis8 trator of the Environmental Protection Agency for fiscal 9 year 2022, out of any money in the Treasury not otherwise 10 appropriated, $20,000,000, to remain available until Sep11 tember 30, 2031, for grants and other activities authorized 12 under subsections (a) through (c) of section 103 and section 13 105 of the Clean Air Act (42 U.S.C. 7403(a)(c), 7405) for 14 monitoring emissions of methane. 15 (f) CLEAN AIR ACT GRANTS.In addition to amounts 16 otherwise available, there is appropriated to the Adminis17 trator of the Environmental Protection Agency for fiscal 18 year 2022, out of any money in the Treasury not otherwise 19 appropriated, $25,000,000, to remain available until Sep20 tember 30, 2031, for grants and other activities authorized 21 under subsections (a) through (c) of section 103 and section 22 105 of the Clean Air Act (42 U.S.C. 7403(a)(c), 7405). 23 (g) GREENHOUSE GAS AND ZERO-EMISSION STAND24 ARDS FOR MOBILE SOURCES.In addition to amounts oth25 erwise available, there is appropriated to the Administrator 675  HR 5376 EAS 1 of the Environmental Protection Agency for fiscal year 2 2022, out of any money in the Treasury not otherwise ap3 propriated, $5,000,000, to remain
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill appropriates $5 million to the EPA for fiscal year 2022 to integrate and operate air quality sensors in low-income and disadvantaged communities. The sensors will monitor emissions of methane and other pollutants.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+such drug, not later 11 than 30 days after the date of receipt from the 12 Secretary of the information described in sub13 paragraph (A) for such calendar quarter, provide 14 to the Secretary a rebate that is equal to the 15 amount specified in paragraph (3) for such drug 16 for such calendar quarter. 17 (C) TRANSITION RULE FOR REPORTING. 18 The Secretary may, for each part B rebatable 19 drug, delay the timeframe for reporting the in20 formation described in subparagraph (A) for cal21 endar quarters beginning in 2023 and 2024 22 until not later than September 30, 2025. 23 (2) PART B REBATABLE DRUG DEFINED. 24 (A) IN GENERAL.In this subsection, the 25 term part B rebatable drug means a single 130  HR 5376 EAS 1 source drug or biological (as defined in subpara2 graph (D) of subsection (c)(6)), including a bio3 similar biological product (as defined in sub4 paragraph (H) of such subsection) but excluding 5 a qualifying biosimilar biological product (as de6 fined in subsection (b)(8)(B)(iii)), for which 7 payment is made under this part, except such 8 term shall not include such a drug or biologi9 cal 10 (i) if, as determined by the Secretary, 11 the average total allowed charges for such 12 drug or biological under this part for a year 13 per individual that uses such a drug or bio14 logical are less than, subject to subpara15 graph (B), $100; or 16 (ii) that is a vaccine described in sub17 paragraph (A) or (B) of section 1861(s)(10). 18 (B) INCREASE.The dollar amount ap19 plied under subparagraph (A)(i) 20 (i) for 2024, shall be the dollar 21 amount specified under such subparagraph 22 for 2023, increased by the percentage in23 crease in the consumer price index for all 24 urban consumers (United States city aver- 131  HR 5376 EAS 1 age) for the 12-month period ending with 2 June of the previous year; and 3 (ii) for a subsequent year, shall be the 4 dollar amount specified in this clause (or 5 clause (i)) for the previous year (without 6
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with rebates for Part B drugs. Part B rebatable drugs are defined as single-source drugs or biologicals (including biosimilar products) for which payment is made under Part B, with the exception of vaccines or drugs/biologicals for which the average total allowed charges per year per individual user is less than $100 (as adjusted for inflation). For each Part B rebatable drug, manufacturers must provide the Secretary with information on the drug's price and market share, and must pay a rebate equal to the difference between the price of the drug and its benchmark price, as specified in the bill. There is a transition rule for reporting in 2023 and 2024, and the Secretary is authorized to delay the timeframe for reporting until 2025.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a report to purchasers containing information on the vehicle's fuel economy.  The Tax Cuts and Jobs Act amends the Internal Revenue Code to provide a tax credit for new clean vehicles, including electric vehicles and fuel cell vehicles. The credit is available for vehicles purchased after December 31, 2017 and is capped at $7,500. The credit is phased out for each manufacturer after 200,000 qualifying vehicles are sold.  The requirements for mineral and battery components for electric vehicles are that a certain percentage of the value of the critical minerals contained in the battery must be extracted or processed in the United States or in a country with which the United States has a free trade agreement, or recycled in North America. The applicable percentage increases each year from 40 percent in 2024 to 80 percent in 2026.  This section amends the Clean Air Act to require that a certain percentage of the value of components in a new clean vehicle battery be manufactured or assembled in North America in order for the vehicle to qualify for certain emissions credits. The applicable percentage will increase over time, reaching 100 percent by 2028. The Secretary of Transportation will issue regulations or other guidance as necessary to carry out the requirements of this section.  The credit described in subsection (a) of Section 30D of the US Tax Code shall only be allowed once with respect to any vehicle, as determined based upon the vehicle identification number of such vehicle. No credit shall be allowed under this section with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year. The credit described in subsection (a) shall not be allowed for any taxable year if the modified adjusted gross income of the taxpayer for such taxable year exceeds the threshold amount.  This section of the bill establishes a tax credit for the purchase of a new clean vehicle. The credit is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes a tax credit for the purchase of a new clean vehicle. The credit is available for vehicles purchased after December 31, 2017 and is capped at $7,500. The credit is phased out for each manufacturer after 200,000 qualifying vehicles are sold. To qualify for the credit, a certain percentage of the value of the critical minerals contained in the battery must be extracted or processed in the United States or in a country with which the United States has a free trade agreement, or recycled in North America. The applicable percentage increases each year from 40 percent in 2024 to 80 percent in 2026.

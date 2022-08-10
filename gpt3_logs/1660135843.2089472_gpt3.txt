@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+until September 30, 2026, 18 for necessary administrative expenses associated with car19 rying out this section. 20 Subtitle DCouncil on 21 Environmental Quality 22 SEC. 60401. ENVIRONMENTAL AND CLIMATE DATA COLLEC23 TION. 24 In addition to amounts otherwise available, there is 25 appropriated to the Chair of the Council on Environmental 703  HR 5376 EAS 1 Quality for fiscal year 2022, out of any money in the Treas2 ury not otherwise appropriated, $32,500,000, to remain 3 available until September 30, 2026 4 (1) to support data collection efforts relating 5 to 6 (A) disproportionate negative environ7 mental harms and climate impacts; and 8 (B) cumulative impacts of pollution and 9 temperature rise; 10 (2) to establish, expand, and maintain efforts to 11 track disproportionate burdens and cumulative im12 pacts and provide academic and workforce support 13 for analytics and informatics infrastructure and data 14 collection systems; and 15 (3) to support efforts to ensure that any map16 ping or screening tool is accessible to community17 based organizations and community members. 18 SEC. 60402. COUNCIL ON ENVIRONMENTAL QUALITY EFFI19 CIENT AND EFFECTIVE ENVIRONMENTAL RE20 VIEWS. 21 In addition to amounts otherwise available, there is 22 appropriated to the Chair of the Council on Environmental 23 Quality for fiscal year 2022, out of any money in the Treas24 ury not otherwise appropriated, $30,000,000, to remain 25 available until September 30, 2026, to carry out the Council 704  HR 5376 EAS 1 on Environmental Qualitys functions and for the purposes 2 of training personnel, developing programmatic environ3 mental documents, and developing tools, guidance, and 4 techniques to improve stakeholder and community engage5 ment. 6 Subtitle ETransportation and 7 Infrastructure 8 SEC. 60501. NEIGHBORHOOD ACCESS AND EQUITY GRANT 9 PROGRAM. 10 (a) IN GENERAL.Chapter 1 of title 23, United States 11 Code, is amended by adding at the end the following: 12  177.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $32.5 million to the Chair of the Council on Environmental Quality for data collection efforts relating to environmental harms and climate impacts, and $30 million to the Chair of the Council on Environmental Quality for efficient and effective environmental reviews.

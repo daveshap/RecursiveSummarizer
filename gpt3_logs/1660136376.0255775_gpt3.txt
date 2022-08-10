@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+out pursuant to this section. Not more than $300,000,000 of amounts made available under subsection (a) shall be reserved for administrative costs of carrying out this section.  The Department of Energy is allocating funds for infrastructure projects related to high energy physics, fusion energy science, and nuclear physics.  This section authorizes $163 million for advanced scientific computing research facilities, $294 million for basic energy sciences projects, and $157 million for isotope research and development facilities. Additionally, $150 million is appropriated for infrastructure and general plant projects carried out by the Office of Fossil Energy and Carbon Management, the Office of Nuclear Energy, and the Office of Energy Efficiency and Renewable Energy, respectively. Finally, $100 million is appropriated to carry out program elements related to the production of high-assay low-enriched uranium.  The Energy Act of 2020 appropriates $500 million to the Department of Energy for programs to support the availability of high-assay low-enriched uranium for civilian domestic research, development, demonstration, and commercial use, and $100 million for activities to support the availability of high-assay low-enriched uranium for civilian domestic research, development, demonstration, and commercial use.  This section provides funding for conservation, ecosystem, and habitat restoration projects on lands administered by the National Park Service and Bureau of Land Management. The funds are to be used for hiring employees to serve in units of the National Park System, and for deferred maintenance projects within the boundaries of the National Park System.  This section authorizes appropriations for the design, study, and implementation of projects to cover water conveyance facilities with solar panels to generate renewable energy, or for other solar projects associated with Bureau of Reclamation projects that increase water efficiency and assist in the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Act of 2020 appropriates $500 million to the Department of Energy for programs related to high-assay low-enriched uranium, $100 million of which is specifically for research, development, demonstration, and commercial use. Additionally, the act provides funding for solar energy projects on water conveyance facilities managed by the Bureau of Reclamation.

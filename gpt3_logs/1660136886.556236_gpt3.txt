@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+placed in service before the date of enactment of this section. The Nuclear Energy Production Tax Credit is a tax credit for taxpayers who produce electricity from nuclear power facilities. The credit is available for facilities that come into operation after December 31, 2020. This section extends the incentives for biodiesel, renewable diesel and alternative fuels through 2024. It also extends the tax credit for qualified second generation biofuel through 2025. In addition, this section establishes a sustainable aviation fuel  The Clean Air Act provides tax credits for the production of sustainable aviation fuel and clean hydrogen. The credit for sustainable aviation fuel is $1.25 per gallon of fuel used in a qualified mixture, with a supplementary amount for each type of fuel. The credit for clean hydrogen is $0.60 per kilogram of qualified clean hydrogen produced, multiplied by the applicable percentage. The applicable percentage is determined according to the lifecycle greenhouse gas emissions rate. The Credit for Hydrogen Production Act of 2020 amends the Internal Revenue Code to provide a credit for the production of hydrogen. The credit is available for property placed in service after December 31, 2022, and is recaptured if production falls below expectations. The credit is scheduled to terminate on December 31, 2023.  The Energy Audit tax credit allows taxpayers to receive a credit of up to $150 for the cost of a home energy audit. The credit is subject to the requirements specified by the Secretary in regulations or other guidance. The Energy Improvement and Extension Act of 2008 extends and modifies the energy efficient home improvement credit. The credit is now available for an additional two years, through 2021, for qualifying energy efficient property placed in service. The credit is also expanded to include certain qualified energy property placed in service after December 31, 2021. Finally, the Act requires that taxpayers include a product
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Nuclear Energy Production Tax Credit is a tax credit for taxpayers who produce electricity from nuclear power facilities. The credit is available for facilities that come into operation after December 31, 2020. This section also extends the tax credit for qualified second generation biofuel through 2025. In addition, this section establishes a sustainable aviation fuel tax credit and a clean hydrogen production tax credit.

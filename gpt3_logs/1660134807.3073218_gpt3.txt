@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+1860D2(b)(4)(C), 4 for covered part D drugs in the year 5 that are equal to or exceed the annual 6 out-of-pocket threshold specified in sec7 tion 1860D2(b)(4)(B)(i) for the 8 year 9 (aa) for 2025, 99 percent; 10 (bb) for 2026, 98 percent; 11 (cc) for 2027, 95 percent; 12 (dd) for 2028, 92 percent; 13 (ee) for 2029, 90 percent; 14 (ff) for 2030, 85 percent; 15 and 16 (gg) for 2031 and each sub17 sequent year, 80 percent. 18 (C) PHASE-IN FOR SPECIFIED SMALL MAN19 UFACTURERS. 20 (i) IN GENERAL.In the case of an 21 applicable drug of a specified small manu22 facturer (as defined in clause (ii)) that is 23 marketed as of the date of enactment of this 24 subparagraph and dispensed for an appli25 cable beneficiary, the term discounted price 185  HR 5376 EAS 1 means the specified small manufacturer per2 cent (as defined in clause (iii)) of the nego3 tiated price of the applicable drug of the 4 manufacturer. 5 (ii) SPECIFIED SMALL MANUFAC6 TURER. 7 (I) IN GENERAL.In this sub8 paragraph, subject to subclause (III), 9 the term specified small manufacturer 10 means a manufacturer of an applicable 11 drug for which, in 2021 12 (aa) the manufacturer is a 13 specified manufacturer (as defined 14 in subparagraph (B)(ii)); and 15 (bb) the total expenditures 16 under part D for any one of the 17 specified small manufacturer 18 drugs of the manufacturer that 19 are covered by the agreement or 20 agreements under section 1860D 21 14A of such manufacturer for such 22 year and covered under this part 23 during such year are equal to or 24 more than 80 percent of the total 25 expenditures under this part for 186  HR 5376 EAS 1 all specified small manufacturer 2 drugs of the manufacturer that 3 are covered by such agreement or 4 agreements for such year and cov5 ered under this part during such 6 year. 7 (II) SPECIFIED SMALL MANUFAC8 TURER DRUGS. 9 (aa) IN GENERAL.For 10 purposes of this clause, the term 11 specified small manufacturer 12
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The term "discounted price" means the specified small manufacturer percentage of the negotiated price of the applicable drug of the manufacturer. The term "specified small manufacturer" means a manufacturer of an applicable drug for which, in 2021, the manufacturer is a specified manufacturer (as defined in subparagraph (B)(ii)) and the total expenditures under part D for any one of the specified small manufacturer drugs of the manufacturer that are covered by the agreement or agreements under section 1860D 14A of such manufacturer for such year and covered under this part during such year are equal to or more than 80 percent of the total expenditures under this part for all specified small manufacturer drugs of the manufacturer that are covered by such agreement or agreements for such year and covered under this part during such year.

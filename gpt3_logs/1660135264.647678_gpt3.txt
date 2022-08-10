@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+strate or absorber layer of one or more 23 photovoltaic cells. 24 (iii) POLYMERIC BACKSHEET.The 25 term polymeric backsheet means a sheet on 433  HR 5376 EAS 1 the back of a solar module which acts as an 2 electric insulator and protects the inner 3 components of such module from the sur4 rounding environment. 5 (iv) SOLAR GRADE POLYSILICON. 6 The term solar grade polysilicon means 7 silicon which is 8 (I) suitable for use in photo9 voltaic manufacturing, and 10 (II) purified to a minimum pu11 rity of 99.999999 percent silicon by 12 mass. 13 (v) SOLAR MODULE.The term solar 14 module means the connection and lamina15 tion of photovoltaic cells into an environ16 mentally protected final assembly which 17 is 18 (I) suitable to generate electricity 19 when exposed to sunlight, and 20 (II) ready for installation with21 out an additional manufacturing proc22 ess. 23 (vi) SOLAR TRACKER.The term 24 solar tracker means a mechanical system 25 that moves solar modules according to the 434  HR 5376 EAS 1 position of the sun and to increase energy 2 output. 3 (vii) SOLAR TRACKER COMPO4 NENTS. 5 (I) TORQUE TUBE.The term 6 torque tube means a structural steel 7 support element (including longitu8 dinal purlins) which 9 (aa) is part of a solar 10 tracker, 11 (bb) is of any cross-sectional 12 shape, 13 (cc) may be assembled from 14 individually manufactured seg15 ments, 16 (dd) spans longitudinally 17 between foundation posts, 18 (ee) supports solar panels 19 and is connected to a mounting 20 attachment for solar panels (with 21 or without separate module inter22 face rails), and 23 (ff) is rotated by means of a 24 drive system. 435  HR 5376 EAS 1 (II) STRUCTURAL FASTENER. 2 The term structural fastener means a 3 component which is used 4 (aa) to connect the mechan5 ical and drive system components 6 of a solar tracker to the founda7 tion of such solar tracker, 8 (bb) to connect torque tubes 9 to drive assemblies, or 10
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Polymeric Backsheet is a sheet on the back of a solar module which acts as an electric insulator and protects the inner components of such module from the surrounding environment. The Solar Grade Polysilicon is silicon which is purified to a minimum purity of 99.999999 percent silicon by mass and is suitable for use in photovoltaic manufacturing. The Solar Module is the connection and lamination of photovoltaic cells into an environmentally protected final assembly which is suitable to generate electricity when exposed to sunlight and ready for installation without an additional manufacturing process. The Solar Tracker is a mechanical system that moves solar modules according to the position of the sun and to increase energy output.

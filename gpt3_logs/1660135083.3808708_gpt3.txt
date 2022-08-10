@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+redesig21 nating subparagraphs (E), (F), and (G) as subpara22 graphs (D), (E), and (F), respectively. 23 (2) CONFORMING AMENDMENT.Section 24 6426(e)(2) is amended by striking (F) and insert25 ing (E). 338  HR 5376 EAS 1 (3) EFFECTIVE DATE.The amendments made 2 by this subsection shall apply to fuel sold or used 3 after December 31, 2022. 4 PART 3CLEAN ENERGY AND EFFICIENCY 5 INCENTIVES FOR INDIVIDUALS 6 SEC. 13301. EXTENSION, INCREASE, AND MODIFICATIONS 7 OF NONBUSINESS ENERGY PROPERTY CRED8 IT. 9 (a) EXTENSION OF CREDIT.Section 25C(g)(2) is 10 amended by striking December 31, 2021 and inserting 11 December 31, 2032. 12 (b) ALLOWANCE OF CREDIT.Section 25C(a) is 13 amended to read as follows: 14 (a) ALLOWANCE OF CREDIT.In the case of an indi15 vidual, there shall be allowed as a credit against the tax 16 imposed by this chapter for the taxable year an amount 17 equal to 30 percent of the sum of 18 (1) the amount paid or incurred by the tax19 payer for qualified energy efficiency improvements in20 stalled during such taxable year, and 21 (2) the amount of the residential energy prop22 erty expenditures paid or incurred by the taxpayer 23 during such taxable year.. 339  HR 5376 EAS 1 (c) APPLICATION OF ANNUAL LIMITATION IN LIEU OF 2 LIFETIME LIMITATION.Section 25C(b) is amended to read 3 as follows: 4 (b) LIMITATIONS. 5 (1) IN GENERAL.The credit allowed under 6 this section with respect to any taxpayer for any tax7 able year shall not exceed $1,200. 8 (2) ENERGY PROPERTY.The credit allowed 9 under this section by reason of subsection (a)(2) with 10 respect to any taxpayer for any taxable year shall not 11 exceed, with respect to any item of qualified energy 12 property, $600. 13 (3) WINDOWS.The credit allowed under this 14 section by reason of subsection (a)(1) with respect to 15 any taxpayer for any taxable year shall not exceed, 16 in the aggregate with respect to all exterior windows 17 and skylights, $600. 18 (4)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act extends, increases, and modifies the nonbusiness energy property credit. The credit is extended through 2032 and the annual limitation is increased to $1,200. The credit is also expanded to include qualified energy efficiency improvements and residential energy property expenditures.

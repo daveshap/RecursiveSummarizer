@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+section 50(d) is amended 15 (A) by adding after the first sentence the 16 following new sentence: At the election of a tax17 payer, this paragraph shall not apply to any en18 ergy storage technology (as defined in section 19 48(c)(6)), provided, and 20 (B) by adding the following new subpara21 graphs: 22 (A) no election under this paragraph shall 23 be permitted if the making of such election is 24 prohibited by a State or political subdivision 25 thereof, by any agency or instrumentality of the 272  HR 5376 EAS 1 United States, or by a public service or public 2 utility commission or other similar body of any 3 State or political subdivision that regulates pub4 lic utilities as described in section 5 7701(a)(33)(A), 6 (B) an election under this paragraph shall 7 be made separately with respect to each energy 8 storage technology by the due date (including ex9 tensions) of the Federal tax return for the taxable 10 year in which the energy storage technology is 11 placed in service by the taxpayer, and once 12 made, may be revoked only with the consent of 13 the Secretary, and 14 (C) an election shall not apply with re15 spect to any energy storage technology if such en16 ergy storage technology has a maximum capacity 17 equal to or less than 500 kilowatt hours.. 18 (g) FUEL CELLS USING ELECTROMECHANICAL PROC19 ESSES. 20 (1) IN GENERAL.Section 48(c)(1) is amend21 ed 22 (A) in subparagraph (A)(i) 23 (i) by inserting or electromechanical 24 after electrochemical, and 273  HR 5376 EAS 1 (ii) by inserting (1 kilowatt in the 2 case of a fuel cell power plant with a linear 3 generator assembly) after 0.5 kilowatt, 4 and 5 (B) in subparagraph (C) 6 (i) by inserting , or linear generator 7 assembly, after a fuel cell stack assem8 bly, and 9 (ii) by inserting or 10 electromechanical after electrochemical. 11 (2) LINEAR GENERATOR ASSEMBLY LIMITA12 TION.Section 48(c)(1) is amended by redesignating 13 subparagraph (D) as
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends section 50(d) of the tax code to allow taxpayers to elect to exempt energy storage technology from the requirements of the section. The election must be made on the taxpayer's federal tax return for the year in which the technology is placed in service, and can only be revoked with the consent of the IRS. The exemption does not apply to energy storage technology with a maximum capacity of 500 kilowatt hours or less.

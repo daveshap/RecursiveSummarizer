@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+State, territory of the United States, metropolitan planning organization, or recipient of funds under section 203. A proposed project is defined as a surface transportation project for which an environmental review process is required. This section also appropriates $2,000,000,000 for fiscal year 2022 to the Administrator of the Federal Highway Administration to reimburse or provide incentives to eligible recipients for the use of construction materials and products that have lower levels of embodied carbon.  The federal government will reimburse or provide incentives to eligible recipients who use low-embodied carbon construction materials and products on federally-funded projects. The reimbursement or incentive amount will be equal to the incrementally higher cost of using such materials relative to the cost of using traditional materials, as determined by the eligible recipient and verified by the Administrator.  This section of the bill establishes the position of Chief Readiness Support Officer within the Department of Homeland Security, and outlines the Officer's responsibilities. These include coordinating and supporting the Department's preparedness, response, and recovery efforts; overseeing the development and implementation of Department-wide policies and programs related to readiness; and serving as the primary advisor to the Secretary on all matters pertaining to readiness.  This section appropriates $500 million to the Department of Homeland Security for sustainability and environmental programs, $1.29 billion to the United States Postal Service for the purchase of zero-emission delivery vehicles, and $1.71 billion for the purchase, design, and installation of infrastructure to support zero-emission delivery vehicles. Additionally, it appropriates $15 million to the Office of Inspector General of the United States Postal Service and $25 million to the Comptroller General of the United States for oversight.  The Government Accountability Office is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes the position of Chief Readiness Support Officer within the Department of Homeland Security, and outlines the Officer's responsibilities. These include coordinating and supporting the Department's preparedness, response, and recovery efforts; overseeing the development and implementation of Department-wide policies and programs related to readiness; and serving as the primary advisor to the Secretary on all matters relating to readiness. This section also appropriates $500 million to the Department of Homeland Security for sustainability and environmental programs, $1.29 billion to the United States Postal Service for the purchase of zero-emission delivery vehicles, and $1.71 billion for the purchase, design, and installation of infrastructure to support zero-emission delivery vehicles. Additionally, it appropriates $15 million to the Office of Inspector General of the United States Postal Service and $25 million to the Comptroller General of the United States for oversight.

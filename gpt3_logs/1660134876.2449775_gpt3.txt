@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+percent. 222  HR 5376 EAS 1 (ii) APPLICABLE 5-YEAR PERIOD. 2 For purposes of clause (i), the applicable 5- 3 year period for a qualifying biosimilar bio4 logical product is 5 (I) in the case of such a product 6 for which payment was made under 7 this paragraph as of September 30, 8 2022, the 5-year period beginning on 9 October 1, 2022; and 10 (II) in the case of such a product 11 for which payment is first made under 12 this paragraph during a calendar 13 quarter during the period beginning 14 October 1, 2022, and ending December 15 31, 2027, the 5-year period beginning 16 on the first day of such calendar quar17 ter during which such payment is first 18 made. 19 (iii) QUALIFYING BIOSIMILAR BIO20 LOGICAL PRODUCT DEFINED.For purposes 21 of this subparagraph, the term qualifying 22 biosimilar biological product means a bio23 similar biological product described in 24 paragraph (1)(C) with respect to which 223  HR 5376 EAS 1 (I) in the case of a product de2 scribed in clause (ii)(I), the average 3 sales price under paragraph (8)(A)(i) 4 for a calendar quarter during the 5- 5 year period described in such clause is 6 not more than the average sales price 7 under paragraph (4)(A) for such quar8 ter for the reference biological product; 9 and 10 (II) in the case of a product de11 scribed in clause (ii)(II), the average 12 sales price under paragraph (8)(A)(i) 13 for a calendar quarter during the 5- 14 year period described in such clause is 15 not more than the average sales price 16 under paragraph (4)(A) for such quar17 ter for the reference biological prod18 uct.. 19 SEC. 11404. EXPANDING ELIGIBILITY FOR LOW-INCOME 20 SUBSIDIES UNDER PART D OF THE MEDICARE 21 PROGRAM. 22 Section 1860D14(a) of the Social Security Act (42 23 U.S.C. 1395w114(a)), as amended by sections 11201 and 24 11401, is amended 224  HR 5376 EAS 1 (1) in the subsection heading, by striking INDI2 VIDUALS and all that follows through LINE and 3 inserting CERTAIN
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Affordable Care Act expands eligibility for low-income subsidies under Part D of the Medicare program, making it easier for people to afford their prescription drugs. The new law also requires drug makers to provide rebates to Medicare and Medicaid, and requires drug companies to pay a fee to help support the cost of the program.

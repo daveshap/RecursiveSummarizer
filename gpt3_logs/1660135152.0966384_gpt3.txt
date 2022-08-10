@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+MINERAL AND BATTERY COMPONENT RE15 QUIREMENTS. 16 (1) IN GENERAL.Section 30D, as amended by 17 the preceding provisions of this section, is amended by 18 inserting after subsection (d) the following: 19 (e) CRITICAL MINERAL AND BATTERY COMPONENT 20 REQUIREMENTS. 21 (1) CRITICAL MINERALS REQUIREMENT. 22 (A) IN GENERAL.The requirement de23 scribed in this subparagraph with respect to a 24 vehicle is that, with respect to the battery from 25 which the electric motor of such vehicle draws 378  HR 5376 EAS 1 electricity, the percentage of the value of the ap2 plicable critical minerals (as defined in section 3 45X(c)(6)) contained in such battery that were 4 (i) extracted or processed 5 (I) in the United States, or 6 (II) in any country with which 7 the United States has a free trade 8 agreement in effect, or 9 (ii) recycled in North America, 10 is equal to or greater than the applicable per11 centage (as certified by the qualified manufac12 turer, in such form or manner as prescribed by 13 the Secretary). 14 (B) APPLICABLE PERCENTAGE.For pur15 poses of subparagraph (A), the applicable per16 centage shall be 17 (i) in the case of a vehicle placed in 18 service after the date on which the proposed 19 guidance described in paragraph (3)(B) is 20 issued by the Secretary and before January 21 1, 2024, 40 percent, 22 (ii) in the case of a vehicle placed in 23 service during calendar year 2024, 50 per24 cent, 379  HR 5376 EAS 1 (iii) in the case of a vehicle placed in 2 service during calendar year 2025, 60 per3 cent, 4 (iv) in the case of a vehicle placed in 5 service during calendar year 2026, 70 per6 cent, and 7 (v) in the case of a vehicle placed in 8 service after December 31, 2026, 80 percent. 9 (2) BATTERY COMPONENTS. 10 (A) IN GENERAL.The requirement de11 scribed in this subparagraph with respect to a 12 vehicle is that, with respect to the battery from 13 which the electric motor of such vehicle draws 14 electricity, the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The requirements for mineral and battery components for electric vehicles are that a certain percentage of the value of the critical minerals contained in the battery must be extracted or processed in the United States or in a country with which the United States has a free trade agreement, or recycled in North America. The applicable percentage increases each year from 40 percent in 2024 to 80 percent in 2026.

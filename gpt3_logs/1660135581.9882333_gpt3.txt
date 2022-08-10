@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+resilience, subject to the condition that sub16 section (h) of that section shall not apply; 17 (3) $100,000,000 for the competitive grant pro18 gram under section 13A of the Cooperative Forestry 19 Assistance Act of 1978 (16 U.S.C. 2109a) for pro20 viding through that program grants to support the 21 participation of forest landowners who own less than 22 2,500 acres of forest land in emerging private markets 23 for climate mitigation or forest resilience, subject to 24 the condition that subsection (h) of that section shall 25 not apply; 565  HR 5376 EAS 1 (4) $50,000,000 for the competitive grant pro2 gram under section 13A of the Cooperative Forestry 3 Assistance Act of 1978 (16 U.S.C. 2109a) to provide 4 grants to states and other eligible entities to provide 5 payments to owners of private forest land for imple6 mentation of forestry practices on private forest land, 7 that are determined by the Secretary, based on the 8 best available science, to provide measurable increases 9 in carbon sequestration and storage beyond customary 10 practices on comparable land, subject to the condi11 tions that 12 (A) those payments shall not preclude land13 owners from participation in other public and 14 private sector financial incentive programs; and 15 (B) subsection (h) of that section shall not 16 apply; and 17 (5) $100,000,000 to provide grants under the 18 wood innovation grant program under section 8643 of 19 the Agriculture Improvement Act of 2018 (7 U.S.C. 20 7655d), including for the construction of new facili21 ties that advance the purposes of the program and for 22 the hauling of material removed to reduce hazardous 23 fuels to locations where that material can be utilized, 24 subject to the conditions that 566  HR 5376 EAS 1 (A) the amount of such a grant shall be not 2 more than $5,000,000; and 3 (B) notwithstanding subsection (d) of that 4 section, a recipient of such a grant shall provide 5 funds equal to not less than 50 percent of the 6 amount
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill provides $3.5 billion in funding for programs to support forestry and land management, including resilience to climate change and increased carbon sequestration. The funding is to be used for grants to states, forest landowners, and other eligible entities.

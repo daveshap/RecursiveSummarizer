@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+tinental Shelf (OCS), Oil and Gas Lease Sale 257 11 (86 Fed. Reg. 50160 (September 7, 2021)), and is the 12 subject of the final notice of sale entitled Gulf of 13 Mexico Outer Continental Shelf Oil and Gas Lease 14 Sale 257 (86 Fed. Reg. 54728 (October 4, 2021)). 15 (2) LEASE SALE 258.The term Lease Sale 16 258 means the lease sale numbered 258 described in 17 the 20172022 Outer Continental Shelf Oil and Gas 18 Leasing Proposed Final Program published on No19 vember 18, 2016, and approved by the Secretary in 20 the Record of Decision issued on January 17, 2017, 21 described in the notice of availability entitled Record 22 of Decision for the 20172022 Outer Continental 23 Shelf Oil and Gas Leasing Program Final Pro24 grammatic Environmental Impact Statement; 651  HR 5376 EAS 1 MMAA104000 (82 Fed. Reg. 6643 (January 19, 2 2017)). 3 (3) LEASE SALE 259.The term Lease Sale 4 259 means the lease sale numbered 259 described in 5 the 20172022 Outer Continental Shelf Oil and Gas 6 Leasing Proposed Final Program published on No7 vember 18, 2016, and approved by the Secretary in 8 the Record of Decision issued on January 17, 2017, 9 described in the notice of availability entitled Record 10 of Decision for the 20172022 Outer Continental 11 Shelf Oil and Gas Leasing Program Final Pro12 grammatic Environmental Impact Statement; 13 MMAA104000 (82 Fed. Reg. 6643 (January 19, 14 2017)). 15 (4) LEASE SALE 261.The term Lease Sale 16 261 means the lease sale numbered 261 described in 17 the 20172022 Outer Continental Shelf Oil and Gas 18 Leasing Proposed Final Program published on No19 vember 18, 2016, and approved by the Secretary in 20 the Record of Decision issued on January 17, 2017, 21 described in the notice of availability entitled Record 22 of Decision for the 20172022 Outer Continental 23 Shelf Oil and Gas Leasing Program Final Pro24 grammatic Environmental Impact Statement; 652  HR 5376 EAS 1 MMAA104000 (82 Fed. Reg. 6643 (January
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Outer Continental Shelf (OCS) Oil and Gas Lease Sales 257, 258, and 259 are scheduled to occur on September 7, 2021, and October 4, 2021, respectively. These lease sales are part of the 2017-2022 Outer Continental Shelf Oil and Gas Leasing Program and will be conducted in accordance with the program's final environmental impact statement.

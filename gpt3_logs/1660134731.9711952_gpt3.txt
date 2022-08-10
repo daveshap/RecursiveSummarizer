@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+respect to 11 a part D rebatable drug and an applicable pe12 riod 13 (i) in the case of a part D rebatable 14 drug that is described as currently in short15 age on the shortage list in effect under sec16 tion 506E of the Federal Food, Drug, and 17 Cosmetic Act at any point during the appli18 cable period; 19 (ii) in the case of a generic part D 20 rebatable drug (described in subsection 21 (g)(1)(C)(ii)) or a biosimilar (defined as a 22 biological product licensed under section 23 351(k) of the Public Health Service Act), 24 when the Secretary determines there is a se25 vere supply chain disruption during the ap- 148  HR 5376 EAS 1 plicable period, such as that caused by a 2 natural disaster or other unique or unex3 pected event; and 4 (iii) in the case of a generic Part D 5 rebatable drug (as so described), if the Sec6 retary determines that without such reduc7 tion or waiver, the drug is likely to be de8 scribed as in shortage on such shortage list 9 during a subsequent applicable period. 10 (2) DETERMINATION OF ANNUAL MANUFAC11 TURER PRICE.The annual manufacturer price de12 termined under this paragraph for a dosage form and 13 strength, with respect to a part D rebatable drug and 14 an applicable period, is the sum of the products of 15 (A) the average manufacturer price (as de16 fined in subsection (g)(6)) of such dosage form 17 and strength, as calculated for a unit of such 18 drug, with respect to each of the calendar quar19 ters of such period; and 20 (B) the ratio of 21 (i) the total number of units of such 22 dosage form and strength reported under 23 section 1927 with respect to each such cal24 endar quarter of such period; to 149  HR 5376 EAS 1 (ii) the total number of units of such 2 dosage form and strength reported under 3 section 1927 with respect to such period, as 4 determined by the Secretary. 5 (3) DETERMINATION OF INFLATION-ADJUSTED 6 PAYMENT AMOUNT.The inflation-adjusted payment 7 amount determined under this paragraph
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill reduces or waives the manufacturer price of a Part D rebatable drug for a period of time if the drug is in short supply or if there is a severe supply chain disruption. The annual manufacturer price is determined by the average manufacturer price for each calendar quarter of the applicable period, multiplied by the total number of units of the drug reported for that quarter.

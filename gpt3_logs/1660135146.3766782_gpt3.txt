@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subparagraph (E), by striking and 17 at the end, 18 (B) in subparagraph (F)(ii), by striking the 19 period at the end and inserting , and, and 20 (C) by adding at the end the following: 21 (G) the final assembly of which occurs 22 within North America., 23 (2) by adding at the end the following: 24 (5) FINAL ASSEMBLY.For purposes of para25 graph (1)(G), the term final assembly means the 26 process by which a manufacturer produces a new 374  HR 5376 EAS 1 clean vehicle at, or through the use of, a plant, fac2 tory, or other place from which the vehicle is delivered 3 to a dealer or importer with all component parts nec4 essary for the mechanical operation of the vehicle in5 cluded with the vehicle, whether or not the component 6 parts are permanently installed in or on the vehicle.. 7 (c) DEFINITION OF NEW CLEAN VEHICLE. 8 (1) IN GENERAL.Section 30D(d), as amended 9 by the preceding provisions of this section, is amend10 ed 11 (A) in the heading, by striking QUALIFIED 12 PLUG-IN ELECTRIC DRIVE MOTOR and insert13 ing CLEAN, 14 (B) in paragraph (1) 15 (i) in the matter preceding subpara16 graph (A), by striking qualified plug-in 17 electric drive motor and inserting clean, 18 (ii) in subparagraph (C), by inserting 19 qualified before manufacturer, 20 (iii) in subparagraph (F) 21 (I) in clause (i), by striking 4 22 and inserting 7, and 23 (II) in clause (ii), by striking 24 and at the end, 375  HR 5376 EAS 1 (iv) in subparagraph (G), by striking 2 the period at the end and inserting , and, 3 and 4 (v) by adding at the end the following: 5 (H) for which the person who sells any ve6 hicle to the taxpayer furnishes a report to the 7 taxpayer and to the Secretary, at such time and 8 in such manner as the Secretary shall provide, 9 containing 10 (i) the name and taxpayer identifica11 tion number of the taxpayer, 12 (ii) the vehicle identification number 13 of the vehicle, unless, in accordance with 14
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Clean Air Act to include a definition of "new clean vehicle" and to require manufacturers to provide a report to purchasers containing information on the vehicle's fuel economy.

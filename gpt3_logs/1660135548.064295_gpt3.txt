@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+appropriated, 14 for eligible projects under section 9007 of the Farm Security 15 and Rural Investment Act of 2002 (7 U.S.C. 8107), and 16 notwithstanding section 9007(c)(3)(A) of that Act, the 17 amount of a grant shall not exceed 50 percent of the cost 18 of the activity carried out using the grant funds 19 (1) $820,250,000 for fiscal year 2022, to remain 20 available until September 30, 2031; and 21 (2) $180,276,500 for each of fiscal years 2023 22 through 2027, to remain available until September 23 30, 2031. 24 (b) UNDERUTILIZED RENEWABLE ENERGY TECH25 NOLOGIES.In addition to amounts otherwise available, 549  HR 5376 EAS 1 there is appropriated to the Secretary, out of any money 2 in the Treasury not otherwise appropriated, to provide 3 grants and loans guaranteed by the Secretary (including 4 the costs of such loans) under the program described in sub5 section (a) relating to underutilized renewable energy tech6 nologies, and to provide technical assistance for applying 7 to the program described in subsection (a), including for 8 underutilized renewable energy technologies, notwith9 standing section 9007(c)(3)(A) of the Farm Security and 10 Rural Investment Act of 2002 (7 U.S.C. 8107(c)(3)(A)), the 11 amount of a grant shall not exceed 50 percent of the cost 12 of the activity carried out using the grant funds, and to 13 the extent the following amounts remain available at the 14 end of each fiscal year, the Secretary shall use such amounts 15 in accordance with subsection (a) 16 (1) $144,750,000 for fiscal year 2022, to remain 17 available until September 30, 2031; and 18 (2) $31,813,500 for each of fiscal years 2023 19 through 2027, to remain available until September 20 30, 2031. 21 (c) LIMITATION.The Secretary shall not enter into, 22 pursuant to this section 23 (1) any loan agreement that may result in a dis24 bursement after September 30, 2031; or 550  HR 5376 EAS 1 (2) any grant agreement that may result in any 2 outlay after September 30, 2031.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section appropriates funds for the Farm Security and Rural Investment Act of 2002 and sets a limit on the amount of grants that can be awarded under the act.

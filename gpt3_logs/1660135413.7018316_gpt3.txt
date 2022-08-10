@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+IN19 CREASE.For purposes of clause (i), the 20 applicable credit rate increase shall be an 21 amount equal to 22 (I) in the case of any qualified 23 investment with respect to a qualified 24 facility described in paragraph 25 (2)(A)(i) or with respect to energy stor- 474  HR 5376 EAS 1 age technology described in paragraph 2 (2)(B)(i), 2 percentage points, and 3 (II) in the case of any qualified 4 investment with respect to a qualified 5 facility described in paragraph 6 (2)(A)(ii) or with respect to energy 7 storage technology described in para8 graph (2)(B)(ii), 10 percentage points. 9 (B) DOMESTIC CONTENT.Rules similar 10 to the rules of section 48(a)(12) shall apply. 11 (b) QUALIFIED INVESTMENT WITH RESPECT TO A 12 QUALIFIED FACILITY. 13 (1) IN GENERAL.For purposes of subsection 14 (a), the qualified investment with respect to any 15 qualified facility for any taxable year is the sum of 16 (A) the basis of any qualified property 17 placed in service by the taxpayer during such 18 taxable year which is part of a qualified facility, 19 plus 20 (B) the amount of any expenditures which 21 are 22 (i) paid or incurred by the taxpayer 23 for qualified interconnection property 24 (I) in connection with a quali25 fied facility which has a maximum net 475  HR 5376 EAS 1 output of not greater than 5 megawatts 2 (as measured in alternating current), 3 and 4 (II) placed in service during the 5 taxable year of the taxpayer, and 6 (ii) properly chargeable to capital ac7 count of the taxpayer. 8 (2) QUALIFIED PROPERTY.For purposes of 9 this section, the term qualified property means prop10 erty 11 (A) which is 12 (i) tangible personal property, or 13 (ii) other tangible property (not in14 cluding a building or its structural compo15 nents), but only if such property is used as 16 an integral part of the qualified facility, 17 (B) with respect to which depreciation (or 18 amortization in lieu of depreciation) is allow19 able, and 20
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The qualified investment with respect to any qualified facility for any taxable year is the sum of the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of a qualified facility, plus the amount of any expenditures which are paid or incurred by the taxpayer for qualified interconnection property in connection with a qualified facility which has a maximum net output of not greater than 5 megawatts (as measured in alternating current), and placed in service during the taxable year of the taxpayer.

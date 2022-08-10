@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+amended by in5 serting every person producing or importing 6 sustainable aviation fuel (as defined in section 7 40B), before and every person producing sec8 ond generation biofuel. 9 (D) The table of sections for subpart D of 10 subchapter A of chapter 1 is amended by insert11 ing after the item relating to section 40A the fol12 lowing new item: Sec. 40B. Sustainable aviation fuel credit.. 13 (e) AMOUNT OF CREDIT INCLUDED IN GROSS IN14 COME.Section 87 is amended by striking and in para15 graph (1), by striking the period at the end of paragraph 16 (2) and inserting , and, and by adding at the end the 17 following new paragraph: 18 (3) the sustainable aviation fuel credit deter19 mined with respect to the taxpayer for the taxable 20 year under section 40B(a).. 21 (f) EFFECTIVE DATE.The amendments made by this 22 section shall apply to fuel sold or used after December 31, 23 2022. 322  HR 5376 EAS 1 SEC. 13204. CLEAN HYDROGEN. 2 (a) CREDIT FOR PRODUCTION OF CLEAN HYDRO3 GEN. 4 (1) IN GENERAL.Subpart D of part IV of sub5 chapter A of chapter 1, as amended by the preceding 6 provisions of this Act, is amended by adding at the 7 end the following new section: 8 SEC. 45V. CREDIT FOR PRODUCTION OF CLEAN HYDRO9 GEN. 10 (a) AMOUNT OF CREDIT.For purposes of section 38, 11 the clean hydrogen production credit for any taxable year 12 is an amount equal to the product of 13 (1) the kilograms of qualified clean hydrogen 14 produced by the taxpayer during such taxable year at 15 a qualified clean hydrogen production facility during 16 the 10-year period beginning on the date such facility 17 was originally placed in service, multiplied by 18 (2) the applicable amount (as determined under 19 subsection (b)) with respect to such hydrogen. 20 (b) APPLICABLE AMOUNT. 21 (1) IN GENERAL.For purposes of subsection 22 (a)(2), the applicable amount shall be an amount 23 equal to the applicable percentage of $0.60. If any 24 amount as determined
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Hydrogen Production Credit is a tax credit for any taxable year equal to the product of the kilograms of qualified clean hydrogen produced by the taxpayer during such taxable year at a qualified clean hydrogen production facility during the 10-year period beginning on the date such facility was originally placed in service, multiplied by the applicable amount (as determined under subsection (b)) with respect to such hydrogen. The applicable amount shall be an amount equal to the applicable percentage of $0.60.

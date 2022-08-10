@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+complexity) of 24 developing and running a free direct efile tax re25 turn system, including costs to build and admin- 40  HR 5376 EAS 1 ister each release, with a focus on multi-lingual 2 and mobile-friendly features and safeguards for 3 taxpayer data; (II) taxpayer opinions, expecta4 tions, and level of trust, based on surveys, for 5 such a free direct efile system; and (III) the 6 opinions of an independent third-party on the 7 overall feasibility, approach, schedule, cost, orga8 nizational design, and Internal Revenue Service 9 capacity to deliver such a direct efile tax return 10 system, $15,000,000, to remain available until 11 September 30, 2023: Provided, That these 12 amounts shall be in addition to amounts other13 wise available for such purposes. 14 (2) TREASURY INSPECTOR GENERAL FOR TAX 15 ADMINISTRATION.For necessary expenses of the 16 Treasury Inspector General for Tax Administration 17 in carrying out the Inspector General Act of 1978, as 18 amended, including purchase and hire of passenger 19 motor vehicles (31 U.S.C. 1343(b)); and services au20 thorized by 5 U.S.C. 3109, at such rates as may be 21 determined by the Inspector General for Tax Admin22 istration, $403,000,000, to remain available until 23 September 30, 2031: Provided, That these amounts 24 shall be in addition to amounts otherwise available 25 for such purposes. 41  HR 5376 EAS 1 (3) OFFICE OF TAX POLICY.For necessary ex2 penses of the Office of Tax Policy of the Department 3 of the Treasury to carry out functions related to pro4 mulgating regulations under the Internal Revenue 5 Code of 1986, $104,533,803, to remain available until 6 September 30, 2031: Provided, That these amounts 7 shall be in addition to amounts otherwise available 8 for such purposes. 9 (4) UNITED STATES TAX COURT.For necessary 10 expenses of the United States Tax Court, including 11 contract reporting and other services as authorized by 12 5 U.S.C. 3109; $153,000,000, to remain available 13 until September
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of the Treasury is allocated $15,000,000 to develop and run a free direct efile tax return system, with a focus on multi-lingual and mobile-friendly features and safeguards for taxpayer data. The Treasury Inspector General for Tax Administration is allocated $403,000,000 to carry out the Inspector General Act of 1978, as amended. The Office of Tax Policy is allocated $104,533,803 to carry out functions related to promulgating regulations under the Internal Revenue Code of 1986. The United States Tax Court is allocated $153,000,000 to carry out its functions.

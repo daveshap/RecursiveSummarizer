@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+fiscal year 2022, there is appropriated 25 to the Administrator, out of any money in the Treasury 713  HR 5376 EAS 1 not otherwise appropriated, $100,000,000, to remain avail2 able until September 30, 2026, for the purpose of facili3 tating the development and review of documents for the en4 vironmental review process for proposed projects through 5 (1) the provision of guidance, technical assist6 ance, templates, training, or tools to facilitate an effi7 cient and effective environmental review process for 8 surface transportation projects and any administra9 tive expenses of the Federal Highway Administration 10 to conduct activities described in this section; and 11 (2) providing funds made available under this 12 subsection to eligible entities 13 (A) to build capacity of such eligible enti14 ties to conduct environmental review processes; 15 (B) to facilitate the environmental review 16 process for proposed projects by 17 (i) defining the scope or study areas; 18 (ii) identifying impacts, mitigation 19 measures, and reasonable alternatives; 20 (iii) preparing planning and envi21 ronmental studies and other documents 22 prior to and during the environmental re23 view process, for potential use in the envi24 ronmental review process in accordance 25 with applicable statutes and regulations; 714  HR 5376 EAS 1 (iv) conducting public engagement ac2 tivities; and 3 (v) carrying out permitting or other 4 activities, as the Administrator determines 5 to be appropriate, to support the timely 6 completion of an environmental review 7 process required for a proposed project; and 8 (C) for administrative expenses of the eli9 gible entity to conduct any of the activities de10 scribed in subparagraphs (A) and (B). 11 (b) COST SHARE. 12 (1) IN GENERAL.The Federal share of the cost 13 of an activity carried out under this section by an el14 igible entity shall be not more than 80 percent. 15 (2) SOURCE OF FUNDS.The non-Federal share 16 of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill appropriates $100,000,000 to the Administrator of the Federal Highway Administration for fiscal year 2022 to facilitate the development and review of documents for the environmental review process for proposed projects. The funds may be used for activities such as providing guidance and technical assistance, preparing planning and environmental studies, conducting public engagement activities, and carrying out permitting or other activities to support the timely completion of an environmental review process. The Federal share of the cost of activities carried out under the bill by an eligible entity shall be not more than 80 percent.

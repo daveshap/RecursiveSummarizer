@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+applicable period, the manufacturer shall be subject to 17 a civil money penalty in an amount equal to 125 percent 18 of the amount specified in subsection (b) for such drug for 19 such period. The provisions of section 1128A (other than 20 subsections (a) (with respect to amounts of penalties or ad21 ditional assessments) and (b)) shall apply to a civil money 22 penalty under this subsection in the same manner as such 23 provisions apply to a penalty or proceeding under section 24 1128A(a). 155  HR 5376 EAS 1 (f) LIMITATION ON ADMINISTRATIVE OR JUDICIAL 2 REVIEW.There shall be no administrative or judicial re3 view of any of the following: 4 (1) The determination of units under this sec5 tion. 6 (2) The determination of whether a drug is a 7 part D rebatable drug under this section. 8 (3) The calculation of the rebate amount under 9 this section. 10 (g) DEFINITIONS.In this section: 11 (1) PART D REBATABLE DRUG. 12 (A) IN GENERAL.Except as provided in 13 subparagraph (B), the term part D rebatable 14 drug means, with respect to an applicable pe15 riod, a drug or biological described in subpara16 graph (C) that is a covered part D drug (as such 17 term is defined under section 1860D2(e)). 18 (B) EXCLUSION. 19 (i) IN GENERAL.Such term shall, 20 with respect to an applicable period, not in21 clude a drug or biological if the average an22 nual total cost under this part for such pe23 riod per individual who uses such a drug or 24 biological, as determined by the Secretary, 25 is less than, subject to clause (ii), $100, as 156  HR 5376 EAS 1 determined by the Secretary using the most 2 recent data available or, if data is not 3 available, as estimated by the Secretary. 4 (ii) INCREASE.The dollar amount 5 applied under clause (i) 6 (I) for the applicable period be7 ginning October 1, 2023, shall be the 8 dollar amount specified under such 9 clause for the applicable period begin10 ning October 1, 2022, increased by the 11 percentage
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The manufacturer shall be subject to a civil money penalty in an amount equal to 125 percent of the amount specified in subsection (b) for such drug for such period. The provisions of section 1128A shall apply to a civil money penalty under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1128A(a). There shall be no administrative or judicial review of any of the following: (1) The determination of units under this section. (2) The determination of whether a drug is a part D rebatable drug under this section. (3) The calculation of the rebate amount under this section.

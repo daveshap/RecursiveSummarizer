@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+$163,791,000 to carry out activities for ad23 vanced scientific computing research facilities; 24 (6) $294,500,000 to carry out activities for basic 25 energy sciences projects; and 630  HR 5376 EAS 1 (7) $157,813,000 to carry out activities for iso2 tope research and development facilities. 3 (b) OFFICE OF FOSSIL ENERGY AND CARBON MANAGE4 MENT.In addition to amounts otherwise available, there 5 is appropriated to the Secretary for fiscal year 2022, out 6 of any money in the Treasury not otherwise appropriated, 7 $150,000,000, to remain available through September 30, 8 2027, to carry out activities for infrastructure and general 9 plant projects carried out by the Office of Fossil Energy 10 and Carbon Management. 11 (c) OFFICE OF NUCLEAR ENERGY.In addition to 12 amounts otherwise available, there is appropriated to the 13 Secretary for fiscal year 2022, out of any money in the 14 Treasury not otherwise appropriated, $150,000,000, to re15 main available through September 30, 2027, to carry out 16 activities for infrastructure and general plant projects car17 ried out by the Office of Nuclear Energy. 18 (d) OFFICE OF ENERGY EFFICIENCY AND RENEWABLE 19 ENERGY.In addition to amounts otherwise available, 20 there is appropriated to the Secretary for fiscal year 2022, 21 out of any money in the Treasury not otherwise appro22 priated, $150,000,000, to remain available through Sep23 tember 30, 2027, to carry out activities for infrastructure 24 and general plant projects carried out by the Office of En25 ergy Efficiency and Renewable Energy. 631  HR 5376 EAS 1 SEC. 50173. AVAILABILITY OF HIGH-ASSAY LOW-ENRICHED 2 URANIUM. 3 (a) APPROPRIATIONS.In addition to amounts other4 wise available, there is appropriated to the Secretary of for 5 fiscal year 2022, out of any money in the Treasury not 6 otherwise appropriated, to remain available through Sep7 tember 30, 2026 8 (1) $100,000,000 to carry out the program ele9 ments described in subparagraphs (A) through (C) of 10
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes $163 million for advanced scientific computing research facilities, $294 million for basic energy sciences projects, and $157 million for isotope research and development facilities. Additionally, $150 million is appropriated for infrastructure and general plant projects carried out by the Office of Fossil Energy and Carbon Management, the Office of Nuclear Energy, and the Office of Energy Efficiency and Renewable Energy, respectively. Finally, $100 million is appropriated to carry out program elements related to the production of high-assay low-enriched uranium.

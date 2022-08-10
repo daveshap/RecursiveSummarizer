@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+single source drugs with the highest 11 total expenditures under part D of title XVIII, 12 as determined by the Secretary in accordance 13 with paragraph (3), during the most recent 12- 14 month period for which data are available prior 15 to such selected drug publication date (but end16 ing no later than October 31 of the year prior 17 to the year of such drug publication date). 18 (B) PART B HIGH SPEND DRUGS.The 19 qualifying single source drug is, determined in 20 accordance with subsection (e)(2), among the 50 21 qualifying single source drugs with the highest 22 total expenditures under part B of title XVIII, 23 as determined by the Secretary in accordance 24 with paragraph (3), during such most recent 12- 25 month period, as described in subparagraph (A). 54  HR 5376 EAS 1 (2) EXCEPTION FOR SMALL BIOTECH DRUGS. 2 (A) IN GENERAL.Subject to subpara3 graph (C), the term negotiation-eligible drug 4 shall not include, with respect to the initial price 5 applicability years 2026, 2027, and 2028, a 6 qualifying single source drug that meets either of 7 the following: 8 (i) PART D DRUGS.The total ex9 penditures for the qualifying single source 10 drug under part D of title XVIII, as deter11 mined by the Secretary in accordance with 12 paragraph (3)(B), during 2021 13 (I) are equal to or less than 1 14 percent of the total expenditures under 15 such part D, as so determined, for all 16 covered part D drugs (as defined in 17 section 1860D2(e)) during such year; 18 and 19 (II) are equal to at least 80 per20 cent of the total expenditures under 21 such part D, as so determined, for all 22 covered part D drugs for which the 23 manufacturer of the drug has an agree24 ment in effect under section 1860D 25 14A during such year. 55  HR 5376 EAS 1 (ii) PART B DRUGS.The total ex2 penditures for the qualifying single source 3 drug under part B of title XVIII, as deter4 mined by the Secretary in accordance with 5 paragraph (3)(B), during 2021 6 (I)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes exceptions for small biotech drugs from the definition of "negotiation-eligible drug." A qualifying single source drug is not considered a negotiation-eligible drug if it meets either of the following criteria: (1) for Part D drugs, the total expenditures for the qualifying single source drug under Part D of title XVIII are equal to or less than 1 percent of the total expenditures under such Part D for all covered Part D drugs during the year; or (2) for Part B drugs, the total expenditures for the qualifying single source drug under Part B of title XVIII are equal to or less than 1 percent of the total expenditures under such Part B for all covered Part B drugs during the year.

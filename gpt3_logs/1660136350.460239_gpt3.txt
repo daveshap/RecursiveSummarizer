@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+allocated based on the State Energy Program formula in effect on January 1, 2022, and will be redistributed to State energy offices every two years. Up to 3 percent of the total funds may be used for administrative expenses and technical assistance.  The HOMES Rebate Program provides rebates to homeowners and aggregators for whole-house energy saving retrofits. The amount of the rebate is based on the modeled energy system savings achieved by the retrofit. Rebates are available for retrofits begun on or after the date of enactment of this Act and completed by September 30, 2031.  This section outlines the payments that may be made for energy efficiency upgrades carried out by individuals, building owners, and aggregators. For single family homes, the payment is either $2,000 per kilowatt hour saved or 50% of the project cost, whichever is less. For multifamily buildings, the payment is either $2,000 per dwelling unit or 50% of the project cost, whichever is less. For low- or moderate-income households, the payment is either $2,000 per kilowatt hour saved or 50% of the project cost, whichever is less.  This section describes the Homeowner Rebate Program, which provides rebates to homeowners who achieve energy savings of 20-35%. Low- and moderate-income households may receive increased rebates. Up to 20% of the grant amount may be used for planning, administration, or technical assistance related to the program.  The Department of Energy will provide $4,275,000,000 in grants to State energy offices to develop and implement high-efficiency electric home rebate programs. The programs must be in accordance with guidelines set forth in the text, and the funds will remain available through September 30, 2022.  The Department of Energy will award grants to Indian Tribes to develop and implement a high-efficiency electric home rebate program. Funds will be distributed to participating State energy offices and Indian Tribes if their applications are approved. A portion of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy will provide $4,275,000,000 in grants to State energy offices to develop and implement high-efficiency electric home rebate programs. The programs must be in accordance with guidelines set forth in the text, and the funds will remain available through September 30, 2022.

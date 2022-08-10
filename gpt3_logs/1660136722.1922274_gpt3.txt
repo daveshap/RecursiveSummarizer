@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+by subtitle A. The credit is allowed for fuel sold after December 31, 2027. The term applicable credit means the credit for producing electricity from certain renewable resources, the credit for energy property, and the credit for refined coal production property. The section lists 12 credits that are allowed to be carried over to future tax years, including the renewable electricity production credit, the credit for carbon oxide sequestration, the zero-emission nuclear power production credit, and the credit for production of clean hydrogen. If the taxpayer makes the election, they will be treated as an applicable entity for purposes of this section for the taxable year, but only with respect to the credit for which they made the election.  The Energy Policy Act of 2005 created a tax credit for businesses that make investments in eligible components for use in a trade or business. The credit is equal to 30% of the cost of the investment, and the taxpayer may elect to apply the credit against the tax liability for the taxable year in which the investment is made, or for any of the four succeeding taxable years. The taxpayer may also revoke the election at any time. The bill also allows businesses to elect to claim the renewable electricity production credit or the carbon capture equipment credit in lieu of the business energy investment tax credit.  This bill deals with the transfer of tax credits from one taxpayer to another. The bill allows for the transfer of tax credits related to certain facilities or property from an eligible taxpayer to a transferee taxpayer. The transferee taxpayer will be treated as the taxpayer for purposes of this title with respect to such credit. The bill also provides that any payments made by the transferee taxpayer to the eligible taxpayer as consideration for the transfer of the credit will be required to be paid in cash, will not be includible in gross income of the eligible taxpayer, and will not be deductible by the transferee
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 2005 created a tax credit for businesses that make investments in eligible components for use in a trade or business. The credit is equal to 30% of the cost of the investment, and the taxpayer may elect to apply the credit against the tax liability for the taxable year in which the investment is made, or for any of the four succeeding taxable years. The taxpayer may also revoke the election at any time. The bill also allows businesses to elect to claim the renewable electricity production credit or the carbon capture equipment credit in lieu of the business energy investment tax credit.

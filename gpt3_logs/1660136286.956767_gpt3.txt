@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+The amount of the tax credit for qualified facilities that elect to use it will be replaced with the value of the credit multiplied by the applicable percentage. For qualified facilities that satisfy certain requirements, the applicable percentage will be 100 percent. For other qualified facilities, the applicable percentage will be phased down from 100 percent to 0 percent depending on when construction of the facility began. Exceptions may be made if the inclusion of domestically produced steel, iron, or manufactured products would increase the overall costs of construction by more than 25 percent or if relevant domestically produced products are not available in sufficient quantities or of a satisfactory quality.  The Clean Electricity Investment Credit is a tax credit for qualified investments in clean electricity facilities and energy storage technologies. The credit is equal to 6 percent of the investment for qualified facilities and energy storage technologies. The credit is available for facilities placed in service after December 31, 2024.  The Energy Independence and Security Act of 2007 establishes tax credits for investments in certain energy storage technologies and facilities. The credit is 6 percent for technologies with a capacity of less than 1 megawatt, and 30 percent for technologies that meet certain requirements. The credit is increased by the applicable credit rate increase for investments in qualified facilities or energy storage technologies within an energy community.  The qualified investment with respect to any qualified facility for any taxable year is the sum of the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of a qualified facility, plus the amount of any expenditures which are paid or incurred by the taxpayer for qualified interconnection property in connection with a qualified facility which has a maximum net output of not greater than 5 megawatts (as measured in alternating
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Electricity Investment Credit is a tax credit for qualified investments in clean electricity facilities and energy storage technologies. The credit is equal to 6 percent of the investment for qualified facilities and energy storage technologies. The credit is available for facilities placed in service after December 31, 2024.

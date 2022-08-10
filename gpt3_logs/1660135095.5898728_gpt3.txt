@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+2021 Energy 15 Star efficiency criteria, and 16 (II) is rated by the manufacturer 17 for use with fuel blends at least 20 per18 cent of the volume of which consists of 19 an eligible fuel, or 20 (ii) is placed in service after Decem21 ber 31, 2026, and 22 (I) achieves an annual fuel utili23 zation efficiency rate of not less than 24 90, and 344  HR 5376 EAS 1 (II) is rated by the manufacturer 2 for use with fuel blends at least 50 per3 cent of the volume of which consists of 4 an eligible fuel. 5 (D) Any improvement to, or replacement 6 of, a panelboard, sub-panelboard, branch cir7 cuits, or feeders which 8 (i) is installed in a manner consistent 9 with the National Electric Code, 10 (ii) has a load capacity of not less 11 than 200 amps, 12 (iii) is installed in conjunction 13 with 14 (I) any qualified energy effi15 ciency improvements, or 16 (II) any qualified energy prop17 erty described in subparagraphs (A) 18 through (C) for which a credit is al19 lowed under this section for expendi20 tures with respect to such property, 21 and 22 (iv) enables the installation and use 23 of any property described in subclause (I) 24 or (II) of clause (iii). 345  HR 5376 EAS 1 (3) ELIGIBLE FUEL.For purposes of para2 graph (2), the term eligible fuel means 3 (A) biodiesel and renewable diesel (within 4 the meaning of section 40A), and 5 (B) second generation biofuel (within the 6 meaning of section 40).. 7 (f) HOME ENERGY AUDITS. 8 (1) IN GENERAL.Section 25C(a), as amended 9 by subsection (b), is amended by striking and at 10 the end of paragraph (1), by striking the period at the 11 end of paragraph (2) and inserting , and, and by 12 adding at the end the following new paragraph: 13 (3) the amount paid or incurred by the tax14 payer during the taxable year for home energy au15 dits.. 16 (2) LIMITATION.Section 25C(b), as amended 17 by subsection (c), is amended adding at the end the 18 following new paragraph: 19 (6) HOME
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The 2021 Energy 15 Star efficiency criteria rates products by the manufacturer for use with fuel blends of eligible fuels. The 16 (II) rating is for use with fuel blends at least 20 per cent of which consists of an eligible fuel, or the 17 (ii) rating is for use with fuel blends at least 50 per cent of which consists of an eligible fuel. Products must be installed in a manner consistent with the National Electric Code and have a load capacity of not less than 200 amps to qualify for the credit.

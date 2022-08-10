@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+thereof, shall be free of any third party claims with respect to intellectual property or other proprietary rights and shall be free of any third party liens, encumbrances, security interests, or any similar restrictions; (v) unless provided by Company, Contractor will provide all necessary personnel, facilities, and materials to facilitate efficient and effective completion of the Services; (vi) Contractor will exert Contractors best efforts to use a repeatable and proven process to design, develop, test, deliver, and document the Work Product, or any part thereof; and (vii) Contractor has full power and authority to enter into this Agreement, to carry out its obligations under this Agreement and to grant the rights granted to Company hereunder. 5. CONFLICTING OBLIGATIONS AND RESTRICTIONS (a) Contractor certifies that Contractor has no outstanding agreement or obligation that is in conflict with any of the provisions of this Agreement, or that would preclude Contractor from complying
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Contractor hereby certifies that they have no outstanding agreements or obligations that would conflict with any provisions of this Agreement, or that would preclude the Contractor from complying with their obligations under this Agreement. The Contractor further agrees to use their best efforts to repeatably and effectively design, develop, test, deliver, and document the Work Product, or any part thereof.

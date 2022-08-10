@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+HR 5376 EAS 1 otherwise ceases to be investment credit property 2 with respect to the eligible taxpayer, before the 3 close of the recapture period (as described in sub4 section (a)(1) of such section) 5 (i) such eligible taxpayer shall pro6 vide notice of such occurrence to the trans7 feree taxpayer (in such form and manner as 8 the Secretary shall prescribe), and 9 (ii) the transferee taxpayer shall pro10 vide notice of the recapture amount (as de11 fined in subsection (c)(2) of such section), if 12 any, to the eligible taxpayer (in such form 13 and manner as the Secretary shall pre14 scribe). 15 (4) PROHIBITION ON ELECTION OR TRANSFER 16 WITH RESPECT TO PROGRESS EXPENDITURES.This 17 section shall not apply with respect to any amount of 18 an eligible credit which is allowed pursuant to rules 19 similar to the rules of subsections (c)(4) and (d) of 20 section 46 (as in effect on the day before the date of 21 the enactment of the Revenue Reconciliation Act of 22 1990). 23 (h) REGULATIONS.The Secretary shall issue such 24 regulations or other guidance as may be necessary to carry 25 out the purposes of this section, including regulations or 531  HR 5376 EAS 1 other guidance providing rules for determining a partners 2 distributive share of the tax exempt income described in 3 subsection (c)(1).. 4 (c) REAL ESTATE INVESTMENT TRUSTS.Section 5 50(d) is amended by adding at the end the following: In 6 the case of a real estate investment trust making an election 7 under section 6418, paragraphs (1)(B) and (2)(B) of the 8 section 46(e) referred to in paragraph (1) of this subsection 9 shall not apply to any investment credit property of such 10 real estate investment trust to which such election applies.. 11 (d) 3-YEAR CARRYBACK FOR APPLICABLE CREDITS. 12 Section 39(a) is amended by adding at the end the fol13 lowing: 14 (4) 3-YEAR CARRYBACK FOR APPLICABLE CRED15 ITS.Notwithstanding subsection (d), in the case of 16 any applicable credit (as
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The HR 5376 EAS 1 bill amends the Internal Revenue Code to allow for a three-year carryback of certain business tax credits. The bill also prohibits the transfer of investment credit property after the recapture period has ended.

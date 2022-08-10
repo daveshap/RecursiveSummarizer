@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+1860D2(b)(4)(B)(i) for the year, 90 20 percent of the negotiated price of such drug; 21 and 22 (ii) who has incurred such costs, as so 23 determined, in the year that are equal to or 24 exceed such threshold for the year, 80 per25 cent of the negotiated price of such drug. 180  HR 5376 EAS 1 (B) PHASE-IN FOR CERTAIN DRUGS DIS2 PENSED TO LIS BENEFICIARIES. 3 (i) IN GENERAL.In the case of an 4 applicable drug of a specified manufacturer 5 (as defined in clause (ii)) that is marketed 6 as of the date of enactment of this subpara7 graph and dispensed for an applicable bene8 ficiary who is a subsidy eligible individual 9 (as defined in section 1860D14(a)(3)), the 10 term discounted price means the specified 11 LIS percent (as defined in clause (iii)) of 12 the negotiated price of the applicable drug 13 of the manufacturer. 14 (ii) SPECIFIED MANUFACTURER. 15 (I) IN GENERAL.In this sub16 paragraph, subject to subclause (II), 17 the term specified manufacturer 18 means a manufacturer of an applicable 19 drug for which, in 2021 20 (aa) the manufacturer had 21 a coverage gap discount agree22 ment under section 1860D14A; 23 (bb) the total expenditures 24 for all of the specified drugs of the 25 manufacturer covered by such 181  HR 5376 EAS 1 agreement or agreements for such 2 year and covered under this part 3 during such year represented less 4 than 1.0 percent of the total ex5 penditures under this part for all 6 covered Part D drugs during such 7 year; and 8 (cc) the total expenditures 9 for all of the specified drugs of the 10 manufacturer that are single 11 source drugs and biological prod12 ucts for which payment may be 13 made under part B during such 14 year represented less than 1.0 per15 cent of the total expenditures 16 under part B for all drugs or bio17 logical products for which pay18 ment may be made under such 19 part during such year. 20 (II) SPECIFIED DRUGS. 21 (aa) IN GENERAL.For 22 purposes of this clause, the term 23
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Affordable Care Act requires drug manufacturers to provide a discount on drugs to low-income seniors who fall into the "coverage gap." This discount is phased in over time, starting at 50% in 2011 and reaching 75% by 2020. In 2021, the discount will be based on the "specified LIS percent" of the negotiated price of the drug.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+for 9 which such manufacturer would have pro10 vided access to a maximum fair price for 11 such biological product but for this sub12 section. 13 (D) LIMITATIONS ON DELAYS. 14 (i) LIMITED TO 2 YEARS.In no case 15 shall the Secretary delay the inclusion of a 16 biological product on the list published 17 under subsection (a) for more than 2 years. 18 (ii) EXCLUSION OF BIOLOGICAL 19 PRODUCTS THAT TRANSITIONED TO A LONG20 MONOPOLY DRUG DURING THE DELAY.In 21 the case of a biological product for which 22 the inclusion on the list published pursuant 23 to subsection (a) was delayed by 1 year 24 under subparagraph (A) and for which 25 there would have been a change in status to 111  HR 5376 EAS 1 a long-monopoly drug (as defined in section 2 1194(c)(5)) if such biological product had 3 been a selected drug, in no case may the 4 Secretary provide for a second 1-year delay 5 under subparagraph (B)(iii). 6 (iii) EXCLUSION OF BIOLOGICAL 7 PRODUCTS IF MORE THAN 1 YEAR SINCE LI8 CENSURE.In no case shall the Secretary 9 delay the inclusion of a biological product 10 on the list published under subsection (a) if 11 more than 1 year has elapsed since the bio12 similar biological product has been licensed 13 under section 351(k) of the Public Health 14 Service Act and marketing has not com15 menced for such biosimilar biological prod16 uct. 17 (iv) CERTAIN MANUFACTURERS OF 18 BIOSIMILAR BIOLOGICAL PRODUCTS EX19 CLUDED.In no case shall the Secretary 20 delay the inclusion of a biological product 21 as a selected drug on the list published 22 under subsection (a) if Secretary deter23 mined that the manufacturer of the bio24 similar biological product described in 25 paragraph (1)(A) 112  HR 5376 EAS 1 (I) is the same as the manufac2 turer of the reference product described 3 in such paragraph or is treated as 4 being the same pursuant to paragraph 5 (1)(C); or 6 (II) has, based on information 7 from items described in paragraph 8 (1)(B)(ii)(I)(bb), entered into
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services is authorized to delay the inclusion of a biological product on the list of selected drugs published under subsection (a) for no more than two years. In no case may the Secretary delay the inclusion of a biological product on the list published under subsection (a) if more than one year has elapsed since the biosimilar biological product has been licensed under section 351(k) of the Public Health Service Act and marketing has not commenced for such biosimilar biological product.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+described in section 1192(c)(1) of such Act with 8 respect to such designated drug. 9 (2) The period beginning on the November 2nd 10 immediately following the March 1st described in 11 paragraph (1) (or, in the case of initial price appli12 cability year 2026, the August 2nd immediately fol13 lowing the October 2nd described in such paragraph) 14 and ending on the earlier of 15 (A) the first date on which the manufac16 turer of such designated drug and the Secretary 17 of Health and Human Services have agreed to a 18 maximum fair price under an agreement de19 scribed in section 1193(a) of the Social Security 20 Act, or 21 (B) the date that the Secretary of Health 22 and Human Services has made a determination 23 described in section 1192(c)(1) of such Act with 24 respect to such designated drug. 123  HR 5376 EAS 1 (3) In the case of any designated drug which is 2 a selected drug (as defined in section 1192(c) of the 3 Social Security Act) that the Secretary of Health and 4 Human Services has selected for renegotiation under 5 section 1194(f) of such Act, the period beginning on 6 the November 2nd of the year that begins 2 years 7 prior to the first initial price applicability year of 8 the price applicability period for which the maximum 9 fair price established pursuant to such renegotiation 10 applies and ending on the earlier of 11 (A) the first date on which the manufac12 turer of such designated drug has agreed to a re13 negotiated maximum fair price under such 14 agreement, or 15 (B) the date that the Secretary of Health 16 and Human Services has made a determination 17 described in section 1192(c)(1) of such Act with 18 respect to such designated drug. 19 (4) With respect to information that is required 20 to be submitted to the Secretary of Health and 21 Human Services under an agreement described in sec22 tion 1193(a) of the Social Security Act, the period be23 ginning on the date on which such Secretary certifies 24 that such information
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Affordable Care Act establishes a process for setting maximum fair prices for certain designated drugs. This process applies to drugs that are selected for renegotiation by the Secretary of Health and Human Services. With respect to information that is required to be submitted to the Secretary of Health and Human Services under an agreement described in section 1193(a) of the Social Security Act, the period beginning on the date on which such Secretary certifies that such information

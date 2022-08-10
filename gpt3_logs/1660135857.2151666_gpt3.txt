@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+percent. 22 (g) TECHNICAL ASSISTANCE.In addition to 23 amounts otherwise available, there is appropriated for fiscal 24 year 2022, out of any money in the Treasury not otherwise 25 appropriated, $50,000,000, to remain available until Sep- 710  HR 5376 EAS 1 tember 30, 2026, to the Administrator of the Federal High2 way Administration for 3 (1) guidance, technical assistance, templates, 4 training, or tools to facilitate efficient and effective 5 contracting, design, and project delivery by units of 6 local government; 7 (2) subgrants to units of local government to 8 build capacity of such units of local government to as9 sume responsibilities to deliver surface transportation 10 projects; and 11 (3) operations and administration of the Fed12 eral Highway Administration. 13 (h) LIMITATIONS.Amounts made available under 14 this section shall not 15 (1) be subject to any restriction or limitation 16 on the total amount of funds available for implemen17 tation or execution of programs authorized for Fed18 eral-aid highways; and 19 (2) be used for a project for additional through 20 travel lanes for single-occupant passenger vehicles.. 21 (b) CLERICAL AMENDMENT.The analysis for chapter 22 1 of title 23, United States Code, is amended by adding 23 at the end the following: 177. Neighborhood access and equity grant program.. 711  HR 5376 EAS 1 SEC. 60502. ASSISTANCE FOR FEDERAL BUILDINGS. 2 In addition to amounts otherwise available, there is 3 appropriated for fiscal year 2022, out of any money in the 4 Treasury not otherwise appropriated, $250,000,000, to re5 main available until September 30, 2031, to be deposited 6 in the Federal Buildings Fund established under section 7 592 of title 40, United States Code, for measures necessary 8 to convert facilities of the Administrator of General Services 9 to high-performance green buildings (as defined in section 10 401 of the Energy Independence and Security Act of 2007 11 (42 U.S.C. 17061)). 12 SEC.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section appropriates $250,000,000 for fiscal year 2022 to be deposited in the Federal Buildings Fund to convert facilities of the Administrator of General Services to high-performance green buildings.

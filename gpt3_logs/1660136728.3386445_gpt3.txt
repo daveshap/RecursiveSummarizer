@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+taxpayer. Finally, the bill provides that in the case of any eligible credit determined with respect to any facility or property held directly by a partnership or S corporation, if such partnership or S corporation makes an election under this section with respect to such credit, any amount received as consideration for a transfer described in such subsection shall be treated as tax exempt income for purposes of sections 705 and 1366, and a partners distributive share of such tax exempt income shall be based on such partners distributive share of the otherwise eligible credit for each taxable year.  The Tax Cuts and Jobs Act allows for the transfer of certain tax credits relating to clean energy production to eligible taxpayers. The eligible credits include the clean fuel production credit, the energy credit, the qualifying advanced energy project credit, and the clean electricity investment credit. The bill also amends the Internal Revenue Code to allow for a three-year carryback of certain business tax credits and extends the tax rate for certain taxpayers to taxable years beginning after December 31, 2021. Finally, the Act reinstates the deduction for state and local taxes through 2026.  This bill extends the deduction for state and local taxes through 2027 and allows adjusted financial statement income of corporations to be determined without regard to certain provisions of the code. Additionally, the bill appropriates funds to the Department of Agriculture for conservation programs. This section of the bill authorizes funding for the Credit Corporation and the Commodity Credit Corporation to support conservation easements and regional conservation partnerships. The bill also appropriates $1 billion for conservation technical assistance and $300 million for a program to quantify carbon sequestration and emissions of carbon dioxide, methane, and nitrous oxide.  This section of the Farm Security and Rural Investment Act of 2002 provides for USDA assistance to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act allows for the transfer of certain tax credits relating to clean energy production to eligible taxpayers. The eligible credits include the clean fuel production credit, the energy credit, the qualifying advanced energy project credit, and the clean electricity investment credit. The bill also amends the Internal Revenue Code to allow for a three-year carryback of certain business tax credits and extends the tax rate for certain taxpayers to taxable years beginning after December 31, 2021. Finally, the Act reinstates the deduction for state and local taxes through 2026.

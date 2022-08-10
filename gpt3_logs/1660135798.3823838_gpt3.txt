@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+U.S.C. 7545(o)) to support investments 20 in advanced biofuels. 21 (c) DEFINITION OF GREENHOUSE GAS.In this sec22 tion, the term greenhouse gas means the air pollutants 23 carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, 24 perfluorocarbons, and sulfur hexafluoride. 680  HR 5376 EAS 1 SEC. 60109. FUNDING FOR IMPLEMENTATION OF THE AMER2 ICAN INNOVATION AND MANUFACTURING 3 ACT. 4 (a) APPROPRIATIONS. 5 (1) IN GENERAL.In addition to amounts other6 wise available, there is appropriated to the Adminis7 trator of the Environmental Protection Agency for fis8 cal year 2022, out of any money in the Treasury not 9 otherwise appropriated, $20,000,000, to remain avail10 able until September 30, 2026, to carry out sub11 sections (a) through (i) and subsection (k) of section 12 103 of division S of Public Law 116260 (42 U.S.C. 13 7675). 14 (2) IMPLEMENTATION AND COMPLIANCE 15 TOOLS.In addition to amounts otherwise available, 16 there is appropriated to the Administrator of the En17 vironmental Protection Agency for fiscal year 2022, 18 out of any money in the Treasury not otherwise ap19 propriated, $3,500,000, to remain available until 20 September 30, 2026, to deploy new implementation 21 and compliance tools to carry out subsections (a) 22 through (i) and subsection (k) of section 103 of divi23 sion S of Public Law 116260 (42 U.S.C. 7675). 24 (3) COMPETITIVE GRANTS.In addition to 25 amounts otherwise available, there is appropriated to 26 the Administrator of the Environmental Protection 681  HR 5376 EAS 1 Agency for fiscal year 2022, out of any money in the 2 Treasury not otherwise appropriated, $15,000,000, to 3 remain available until September 30, 2026, for com4 petitive grants for reclaim and innovative destruction 5 technologies under subsections (a) through (i) and 6 subsection (k) of section 103 of division S of Public 7 Law 116260 (42 U.S.C. 7675). 8 (b) ADMINISTRATION OF FUNDS.Of the funds made 9 available pursuant to subsection (a)(3), the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $20,000,000 to the Environmental Protection Agency for fiscal year 2022, to be used for implementing the American Innovation and Manufacturing Act. Additionally, $3,500,000 is appropriated for implementing and compliance tools, and $15,000,000 is appropriated for competitive grants for reclaim and innovative destruction technologies.

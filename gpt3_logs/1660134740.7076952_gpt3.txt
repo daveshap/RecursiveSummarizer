@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+applied as if the 4 term benchmark period CPIU were defined 5 under subsection (g)(4) as if the reference to 6 January 2021 under such subsection were a ref7 erence to January of the first year beginning 8 after the date on which the drug was first mar9 keted. 10 (B) TREATMENT OF NEW FORMULA11 TIONS. 12 (i) IN GENERAL.In the case of a 13 part D rebatable drug that is a line exten14 sion of a part D rebatable drug that is an 15 oral solid dosage form, the Secretary shall 16 establish a formula for determining the re17 bate amount under paragraph (1) and the 18 inflation adjusted payment amount under 19 paragraph (3) with respect to such part D 20 rebatable drug and an applicable period, 21 consistent with the formula applied under 22 subsection (c)(2)(C) of section 1927 for de23 termining a rebate obligation for a rebate 24 period under such section. 152  HR 5376 EAS 1 (ii) LINE EXTENSION DEFINED.In 2 this subparagraph, the term line extension 3 means, with respect to a part D rebatable 4 drug, a new formulation of the drug, such 5 as an extended release formulation, but does 6 not include an abuse-deterrent formulation 7 of the drug (as determined by the Sec8 retary), regardless of whether such abuse-de9 terrent formulation is an extended release 10 formulation. 11 (C) SELECTED DRUGS.In the case of a 12 part D rebatable drug that is a selected drug (as 13 defined in section 1192(c)) with respect to a 14 price applicability period (as defined in section 15 1191(b)(2)), in the case such drug is no longer 16 considered to be a selected drug under section 17 1192(c), for each applicable period (as defined 18 under subsection (g)(7)) beginning after the price 19 applicability period with respect to such drug, 20 subparagraphs (A) and (B) of paragraph (4) 21 shall be applied as if the term payment amount 22 benchmark period were defined under subsection 23 (g)(3) as the last year beginning during such 24 price applicability period with respect to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes a formula for determining the rebate amount and inflation-adjusted payment amount for certain drugs. The formula is applied as if the CPIU were defined as if the reference to January 2021 were a reference to January of the first year after the date on which the drug was first marketed. For drugs that are line extensions of other drugs, the formula is applied consistent with the formula used for determining rebate obligations under section 1927. For selected drugs that are no longer considered selected drugs, the payment amount benchmark period is the last year during the price applicability period.

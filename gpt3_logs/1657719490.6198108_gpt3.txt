@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+Product; and (ii) the Company is hereby granted and shall have a nonexclusive, royalty-free, perpetual, irrevocable, transferrable, sublicensable, worldwide license to use, perform, display, make, reproduce, make derivative works, import, sell, offer for sale, license, distribute, and otherwise dispose of such invention, improvement, development, concept, discovery or other proprietary information as part of or in connection with such Work Product, with the right to license such rights to others. Contractor shall not incorporate any third-party product, software (including, without limitation, open source software and freeware) or work of authorship nor any invention, process, improvement, development, concept, discovery or trade secret or other confidential or proprietary information owned by any third party into any Work Product without Companys prior written permission. (d) Attorney in Fact. Contractor agrees that if the Company is unable because of Contractors unavailability,
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Company hereby grants the Contractor a nonexclusive, royalty-free, perpetual, irrevocable, transferrable, sublicensable, worldwide license to use, perform, display, make, reproduce, make derivative works, import, sell, offer for sale, license, distribute, and otherwise dispose of such invention, improvement, development, concept, discovery or other proprietary information as part of or in connection with such Work Product, with the right to license such rights to others. Contractor shall not incorporate any third-party product, software (including, without limitation, open source software and freeware) or work of authorship nor any invention, process, improvement, development, concept, discovery or trade secret or other confidential or proprietary information owned by any third party into any Work Product without Companys prior written permission.

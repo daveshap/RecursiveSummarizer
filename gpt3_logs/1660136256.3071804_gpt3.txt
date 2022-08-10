@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+$2000 for residential systems and $50,000 for commercial systems. The credit is available for solar modules, photovoltaic cells, photovoltaic wafers, solar grade polysilicon, torque tubes or structural fasteners, and polymeric backsheets.  The Polymeric Backsheet is a sheet on the back of a solar module which acts as an electric insulator and protects the inner components of such module from the surrounding environment. The Solar Grade Polysilicon is silicon which is purified to a minimum purity of 99.999999 percent silicon by mass and is suitable for use in photovoltaic manufacturing. The Solar Module is the connection and lamination of photovoltaic cells into an environmentally protected final assembly which is suitable to generate electricity when exposed to sunlight and ready for installation without an additional manufacturing process. The Solar Tracker is a mechanical system that moves solar modules according to the position of the sun and to increase energy output.  This section defines the term "wind energy component" and provides a list of associated components. It also defines the term "qualifying battery component" and provides a list of associated components.  This passage discusses the various solvents, additives, and electrolyte salts that contribute to the electrochemical processes necessary for energy storage, as well as the definitions of "battery cell" and "battery module." It also lists the six critical minerals that are necessary for the production of batteries, including aluminum, antimony, barite, beryllium, cerium, and cobalt.  The above listed materials must be purified to a minimum purity of 99 percent by mass in order to be used in the production of certain goods.  The bill would allow for the import of certain metals and alloys, including indium, lithium, manganese, neodymium, nickel, niobium, tellurium, tin, tungsten, vanadium, and yttrium, provided that they are purified to a minimum purity of 99 percent by mass.  The "Other Minerals"
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This passage defines the terms "solar module," "solar grade polysilicon," and "solar tracker," and lists the six critical minerals necessary for the production of batteries. It also allows for the import of certain metals and alloys, provided that they are purified to a minimum purity of 99 percent by mass.

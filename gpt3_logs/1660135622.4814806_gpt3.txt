@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+normalized energy 586  HR 5376 EAS 1 use of a home before and after the implementation of 2 a home energy efficiency retrofit, for purposes of 3 measured performance home rebates; 4 (3) to value savings based on time, location, or 5 greenhouse gas emissions; 6 (4) for quality monitoring to ensure that each 7 home energy efficiency retrofit for which a rebate is 8 provided is documented in a certificate that 9 (A) is provided by the contractor and cer10 tified by a third party to the homeowner; and 11 (B) details the work performed, the equip12 ment and materials installed, and the projected 13 energy savings or energy generation to support 14 accurate valuation of the retrofit; 15 (5) to provide a contractor performing a home 16 energy efficiency retrofit or an aggregator who has the 17 right to claim a rebate $200 for each home located in 18 a disadvantaged community that receives a home en19 ergy efficiency retrofit for which a rebate is provided 20 under the program; and 21 (6) to ensure that a homeowner or aggregator 22 does not receive a rebate for the same upgrade through 23 both a HOMES rebate program and any other Fed24 eral grant or rebate program, pursuant to subsection 25 (c)(7). 587  HR 5376 EAS 1 (c) HOMES REBATE PROGRAM. 2 (1) IN GENERAL.A HOMES rebate program 3 carried out by a State energy office receiving a grant 4 pursuant to this section shall provide rebates to home5 owners and aggregators for whole-house energy saving 6 retrofits begun on or after the date of enactment of 7 this Act and completed by not later than September 8 30, 2031. 9 (2) AMOUNT OF REBATE.Subject to paragraph 10 (3), under a HOMES rebate program, the amount of 11 a rebate shall not exceed 12 (A) for individuals and aggregators car13 rying out energy efficiency upgrades of single14 family homes 15 (i) in the case of a retrofit that 16 achieves modeled energy system savings of 17 not less than 20 percent but less than 35 18 percent, the lesser of 19 (I) $2,000; and 20
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The HOMES Rebate Program provides rebates to homeowners and aggregators for whole-house energy saving retrofits. The amount of the rebate is based on the modeled energy system savings achieved by the retrofit. Rebates are available for retrofits begun on or after the date of enactment of this Act and completed by September 30, 2031.

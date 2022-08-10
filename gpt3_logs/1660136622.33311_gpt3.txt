@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+source drug with an initial price applicability year of 2029 or 2030, the maximum fair price negotiated under this section for such drug for such initial price applicability year may not be less than 66 percent of the average non-Federal average manufacturer price for such drug for 2021. The Secretary of Health and Human Services must select a drug for negotiation in order to secure the best possible price for the drug, taking into account the following factors: the manufacturer's research and development costs, the current unit costs of production and distribution, prior Federal financial support for novel therapeutic discovery and development, data on pending and approved patent applications and exclusivities, market data and revenue and sales volume data. In addition, the Secretary must consider evidence about alternative treatments, including the extent to which the drug  This section of the bill establishes a process for the renegotiation of maximum fair prices for certain drugs. The process is to be consistent with the methodology and process established under subsection (b) and in accordance with subsections (c), (d), and (e). A drug for which the Secretary makes a determination described in section 1192(c)(1) before or during the period of renegotiation shall not be subject to the renegotiation process.  This section of the Social Security Act establishes civil monetary penalties for drug manufacturers who do not provide access to a maximum fair price for a selected drug to eligible individuals, or who overcharge for drugs covered by Medicaid. The penalties are $10,000 per unit of the overpriced drug, $1,000,000 per day for violating terms of an agreement with Medicaid, and $100,000,000 for each item of false information provided to Medicaid. The bill also limits administrative and judicial review of certain determinations related to drug pricing, and applies the maximum fair price to payments under Medicare and Medicaid.  The Secretary of Health and Human
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Social Security Act establishes a process for the renegotiation of maximum fair prices for certain drugs. A drug for which the Secretary makes a determination described in section 1192(c)(1) before or during the period of renegotiation shall not be subject to the renegotiation process. This section also establishes civil monetary penalties for drug manufacturers who do not provide access to a maximum fair price for a selected drug to eligible individuals, or who overcharge for drugs covered by Medicaid.

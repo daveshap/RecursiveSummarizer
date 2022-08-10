@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+3109, at 3 such rates as may be determined by the 4 Commissioner, $45,637,400,000, to remain 5 available until September 30, 2031: Pro6 vided, That these amounts shall be in addi7 tion to amounts otherwise available for such 8 purposes. 9 (iii) OPERATIONS SUPPORT.For nec10 essary expenses of the Internal Revenue 11 Service to support taxpayer services and en12 forcement programs, including rent pay13 ments; facilities services; printing; postage; 14 physical security; headquarters and other 15 IRS-wide administration activities; re16 search and statistics of income; tele17 communications; information technology de18 velopment, enhancement, operations, main19 tenance, and security; the hire of passenger 20 motor vehicles (31 U.S.C. 1343(b)); the op21 erations of the Internal Revenue Service 22 Oversight Board; and other services as au23 thorized by 5 U.S.C. 3109, at such rates as 24 may be determined by the Commissioner, 25 $25,326,400,000, to remain available until 39  HR 5376 EAS 1 September 30, 2031: Provided, That these 2 amounts shall be in addition to amounts 3 otherwise available for such purposes. 4 (iv) BUSINESS SYSTEMS MODERNIZA5 TION.For necessary expenses of the Inter6 nal Revenue Services business systems mod7 ernization program, including development 8 of callback technology and other technology 9 to provide a more personalized customer 10 service but not including the operation and 11 maintenance of legacy systems, 12 $4,750,700,000, to remain available until 13 September 30, 2031: Provided, That these 14 amounts shall be in addition to amounts 15 otherwise available for such purposes. 16 (B) TASK FORCE TO DESIGN AN IRS-RUN 17 FREE DIRECT EFILE TAX RETURN SYSTEM. 18 For necessary expenses of the Internal Revenue 19 Service to deliver to Congress, within nine 20 months following the date of the enactment of 21 this Act, a report on (I) the cost (including op22 tions for differential coverage based on taxpayer 23 adjusted gross income and return
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Internal Revenue Service is allocated $45,637,400,000 for operations and $25,326,400,000 for enforcement and administration. Additionally, $4,750,700,000 is allocated for business systems modernization.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+energy system savings of 24 not less than 20 percent but less than 35 25 percent, the lesser of 590  HR 5376 EAS 1 (I) $4,000 per single-family home 2 or dwelling unit; and 3 (II) 80 percent of the project cost; 4 (ii) in the case of a retrofit that 5 achieves modeled energy system savings of 6 not less than 35 percent, the lesser of 7 (I) $8,000 per single-family home 8 or dwelling unit; and 9 (II) 80 percent of the project cost; 10 and 11 (iii) for measured energy savings, in 12 the case of a single-family home, multi13 family building, or portfolio of single-fam14 ily homes or multifamily buildings that 15 achieves energy savings of not less than 15 16 percent 17 (I) a payment rate per kilowatt 18 hour saved, or kilowatt hour-equivalent 19 saved, equal to $4,000 for a 20 percent 20 reduction of energy use per single-fam21 ily home or dwelling unit, as applica22 ble, for the average single-family home 23 or multifamily building in the State; 24 or 25 (II) 80 percent of the project cost. 591  HR 5376 EAS 1 (3) REBATES TO LOW- OR MODERATE-INCOME 2 HOUSEHOLDS.On approval from the Secretary, not3 withstanding paragraph (2), a State energy office 4 carrying out a HOMES rebate program using a 5 grant awarded pursuant to this section may increase 6 rebate amounts for low- or moderate-income house7 holds. 8 (4) USE OF FUNDS.A State energy office that 9 receives a grant pursuant to this section may use not 10 more than 20 percent of the grant amount for plan11 ning, administration, or technical assistance related 12 to a HOMES rebate program. 13 (5) DATA ACCESS GUIDELINES.The Secretary 14 shall develop and publish guidelines for States relat15 ing to residential electric and natural gas energy 16 data sharing. 17 (6) EXEMPTION.Activities carried out by a 18 State energy office using a grant awarded pursuant 19 to this section shall not be subject to the expenditure 20 prohibitions and limitations described in section 21 420.18 of title 10, Code of Federal
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section describes the Homeowner Rebate Program, which provides rebates to homeowners who achieve energy savings of 20-35%. Low- and moderate-income households may receive increased rebates. Up to 20% of the grant amount may be used for planning, administration, or technical assistance related to the program.

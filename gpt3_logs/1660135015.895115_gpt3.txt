@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+SATISFY WAGE REQUIRE18 MENTS.Rules similar to the rules of section 19 45(b)(7)(B) shall apply. 20 (4) APPRENTICESHIP REQUIREMENTS.Rules 21 similar to the rules of section 45(b)(8) shall apply. 22 (5) REGULATIONS AND GUIDANCE.The Sec23 retary shall issue such regulations or other guidance 24 as the Secretary determines necessary to carry out the 25 purposes of this subsection, including regulations or 302  HR 5376 EAS 1 other guidance which provides for requirements for 2 recordkeeping or information reporting for purposes 3 of administering the requirements of this subsection.. 4 (e) CREDIT REDUCED FOR TAX-EXEMPT BONDS.Sec5 tion 45Q(f) is amended 6 (1) by striking the second paragraph (3), as 7 added at the end of such section by section 80402(e) 8 of the Infrastructure Investment and Jobs Act (Public 9 Law 117-58), and 10 (2) by adding at the end the following new para11 graph: 12 (8) CREDIT REDUCED FOR TAX-EXEMPT 13 BONDS.Rules similar to the rule under section 14 45(b)(3) shall apply for purposes of this section.. 15 (f) APPLICATION OF SECTION FOR CERTAIN CARBON 16 CAPTURE EQUIPMENT.Section 45Q(g) is amended by in17 serting the earlier of January 1, 2023, and before the 18 end of the calendar year. 19 (g) ELECTION.Section 45Q(f), as amended by sub20 section (e), is amended by adding at the end the following 21 new paragraph: 22 (9) ELECTION.For purposes of paragraphs 23 (3) and (4) of subsection (a), a person described in 24 paragraph (3)(A)(ii) may elect, at such time and in 25 such manner as the Secretary may prescribe, to have 303  HR 5376 EAS 1 the 12year period begin on the first day of the first 2 taxable year in which a credit under this section is 3 claimed with respect to carbon capture equipment 4 which is originally placed in service at a qualified fa5 cility on or after the date of the enactment of the Bi6 partisan Budget Act of 2018 (after application of 7 paragraph (6), where applicable) if 8 (A) no taxpayer
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act amends the Internal Revenue Code to create a new section 45Q, which provides a tax credit for carbon capture and sequestration. The credit is equal to $50 per metric ton of qualified carbon dioxide captured and stored in a qualified facility, and is available for 12 years. There are several requirements that must be met in order to qualify for the credit, including wage, apprenticeship, and recordkeeping requirements. The credit is reduced for tax-exempt bonds, and the Secretary of the Treasury is authorized to issue regulations or other guidance as necessary to carry out the purposes of the section.

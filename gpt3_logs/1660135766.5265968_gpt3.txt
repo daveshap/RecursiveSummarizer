@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+charging or 21 other equipment needed to charge, fuel, or main22 tain zero-emission vehicles, to individuals or en23 tities that own, lease, license, or contract for 24 service an eligible vehicle; or 662  HR 5376 EAS 1 (B) to arrange financing for such a sale, 2 lease, license, or contract for service. 3 (2) ELIGIBLE RECIPIENT.The term eligible 4 recipient means 5 (A) a State; 6 (B) a municipality; 7 (C) an Indian tribe; or 8 (D) a nonprofit school transportation asso9 ciation. 10 (3) ELIGIBLE VEHICLE.The term eligible ve11 hicle means a Class 6 or Class 7 heavy-duty vehicle 12 as defined in section 1037.801 of title 40, Code of 13 Federal Regulations (as in effect on the date of enact14 ment of this section). 15 (4) GREENHOUSE GAS.The term greenhouse 16 gas means the air pollutants carbon dioxide, 17 hydrofluorocarbons, methane, nitrous oxide, 18 perfluorocarbons, and sulfur hexafluoride. 19 (5) ZERO-EMISSION VEHICLE.The term zero20 emission vehicle means a vehicle that has a 21 drivetrain that produces, under any possible oper22 ational mode or condition, zero exhaust emissions 23 of 663  HR 5376 EAS 1 (A) any air pollutant that is listed pursu2 ant to section 108(a) (or any precursor to such 3 an air pollutant); and 4 (B) any greenhouse gas.. 5 SEC. 60102. GRANTS TO REDUCE AIR POLLUTION AT PORTS. 6 The Clean Air Act is amended by inserting after sec7 tion 132 of such Act, as added by section 60101 of this Act, 8 the following: 9 SEC. 133. GRANTS TO REDUCE AIR POLLUTION AT PORTS. 10 (a) APPROPRIATIONS. 11 (1) GENERAL ASSISTANCE.In addition to 12 amounts otherwise available, there is appropriated to 13 the Administrator for fiscal year 2022, out of any 14 money in the Treasury not otherwise appropriated, 15 $2,250,000,000, to remain available until September 16 30, 2027, to award rebates and grants to eligible re17 cipients on a competitive basis 18 (A) to purchase or install zero-emission 19 port equipment or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes the appropriation of $2.25 billion for grants to reduce air pollution at ports by purchasing or installing zero-emission port equipment or charging stations for electric vehicles. Eligible recipients include states, municipalities, Indian tribes, and nonprofit school transportation associations.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+current), and placed in service during the taxable year of the taxpayer.  The qualified investment with respect to any qualified facility shall not be less than the sum of: (1) the credit allowable under section 48 for such facility for the taxable year; and (2) the credit allowable under this section for such facility for the taxable year.  This section allows for a credit with respect to qualified investments in certain energy property. The credit is equal to the lesser of $50,000 or 30% of the basis of the property. The credit is phased out for property placed in service after December 31, 2016.  The clean electricity investment credit under subsection (a) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of (A) the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by (B) the phase-out percentage under paragraph (2).  The Investment Credit Property section of the bill allows for a credit to be given for any property that is part of a facility that is placed in service in connection with a low-income community. The credit is given as a percentage of the investment in the property, and the percentage is increased for facilities located in low-income communities or on Indian land.  The Energy Policy Act of 1992 provides tax credits for certain renewable energy facilities. To qualify for the credit, the facility must be part of a qualified low-income residential building project or a qualified low-income economic benefit project.  The "environmental justice capacity limitation" is a limit on the amount of direct current capacity that can be allocated by the Secretary of Energy to applicable facilities in any given year. The annual capacity limitation for calendar year 2025 is 1.8 gigawatts, and it is zero thereafter. If the annual capacity limitation for any
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section allows for a credit with respect to qualified investments in certain energy property. The credit is equal to the lesser of $50,000 or 30% of the basis of the property. The credit is phased out for property placed in service after December 31, 2016.

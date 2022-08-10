@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+any amount excluded from gross income 3 under section 911, 931, or 933. 4 (c) DEFINITIONS.For purposes of this section 5 (1) PREVIOUSLY-OWNED CLEAN VEHICLE.The 6 term previously-owned clean vehicle means, with re7 spect to a taxpayer, a motor vehicle 8 (A) the model year of which is at least 2 9 years earlier than the calendar year in which the 10 taxpayer acquires such vehicle, 11 (B) the original use of which commences 12 with a person other than the taxpayer, 13 (C) which is acquired by the taxpayer in 14 a qualified sale, and 15 (D) which 16 (i) meets the requirements of subpara17 graphs (C), (D), (E), (F), and (H) (except 18 for clause (iv) thereof) of section 30D(d)(1), 19 or 20 (ii) is a motor vehicle which 21 (I) satisfies the requirements 22 under subparagraphs (A) and (B) of 23 section 30B(b)(3), and 24 (II) has a gross vehicle weight 25 rating of less than 14,000 pounds. 397  HR 5376 EAS 1 (2) QUALIFIED SALE.The term qualified sale 2 means a sale of a motor vehicle 3 (A) by a dealer (as defined in section 4 30D(g)(8)), 5 (B) for a sale price which does not exceed 6 $25,000, and 7 (C) which is the first transfer since the 8 date of the enactment of this section to a quali9 fied buyer other than the person with whom the 10 original use of such vehicle commenced. 11 (3) QUALIFIED BUYER.The term qualified 12 buyer means, with respect to a sale of a motor vehi13 cle, a taxpayer 14 (A) who is an individual, 15 (B) who purchases such vehicle for use and 16 not for resale, 17 (C) with respect to whom no deduction is 18 allowable with respect to another taxpayer under 19 section 151, and 20 (D) who has not been allowed a credit 21 under this section for any sale during the 3-year 22 period ending on the date of the sale of such ve23 hicle. 24 (4) MOTOR VEHICLE; CAPACITY.The terms 25 motor vehicle and capacity have the meaning given 398  HR 5376 EAS 1 such terms in paragraphs (2) and (4) of section 2
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The qualified plug-in electric drive motor vehicle credit is a tax credit for up to $7,500 for the purchase of a new or used plug-in electric drive motor vehicle. The credit is available for vehicles acquired after December 31, 2009.

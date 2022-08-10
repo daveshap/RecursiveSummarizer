@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+who fail to ensure that laborers and mechanics employed in the construction of qualified carbon capture equipment are paid prevailing wages.  The Tax Cuts and Jobs Act amends the Internal Revenue Code to create a new section 45Q, which provides a tax credit for carbon capture and sequestration. The credit is equal to $50 per metric ton of qualified carbon dioxide captured and stored in a qualified facility, and is available for 12 years. There are several requirements that must be met in order to qualify for the credit, including wage, apprenticeship, and recordkeeping requirements. The credit is reduced for tax-exempt bonds, and the Secretary of the Treasury is authorized to issue regulations or other guidance as necessary to carry out the purposes of the section.  The amendments made by this section will apply to facilities or equipment placed in service after December 31, 2022, with the exception of the carbon capture requirements (which will apply to facilities or equipment the construction of which begins after the date of enactment of this Act), and the amendments made by subsection (f) (which will take effect on the date of enactment of this Act).  The Zero-Emission Nuclear Power Production Credit is a credit for taxpayers who produce electricity using nuclear energy. The credit is equal to the difference between the amount of electricity produced and the reduction amount, which is equal to 16 percent of the gross receipts from the electricity produced. The credit is only available for nuclear facilities that are placed in service before the date of enactment of this section.  The Nuclear Energy Production Tax Credit is a tax credit for taxpayers who produce electricity from nuclear power facilities. The credit is equal to 0.3 cents per kilowatt hour of electricity produced, and is capped at $125 million per year. The credit is available for facilities that come into operation after December 31, 2020.  The Inflation Adjustment Factor for the calendar year in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act amends the Internal Revenue Code to create a new section 45Q, which provides a tax credit for carbon capture and sequestration. The credit is available for 12 years and there are several requirements that must be met in order to qualify, including wage, apprenticeship, and recordkeeping requirements. The amendments made by this section will apply to facilities or equipment placed in service after December 31, 2022. The Zero-Emission Nuclear Power Production Credit is a credit for taxpayers who produce electricity using nuclear energy. The credit is available for nuclear facilities that are placed in service before the date of enactment of this section. The Nuclear Energy Production Tax Credit is a tax credit for taxpayers who produce electricity from nuclear power facilities. The credit is available for facilities that come into operation after December 31, 2020.

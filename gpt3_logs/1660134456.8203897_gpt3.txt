@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+or accrued (for Federal 11 income tax purposes) by each such con12 trolled foreign corporation, or 13 (ii) the product of the amount of the 14 adjustment under section 56A(c)(3) and the 15 percentage specified in section 16 55(b)(2)(A)(i), and 17 (B) in the case of an applicable corpora18 tion that is a domestic corporation, the amount 19 of income, war profits, and excess profits taxes 20 (within the meaning of section 901) imposed by 21 any foreign country or possession of the United 22 States to the extent such taxes are 23 (i) taken into account on the applica24 ble corporations applicable financial state25 ment, and 28  HR 5376 EAS 1 (ii) paid or accrued (for Federal in2 come tax purposes) by the applicable cor3 poration. 4 (2) CARRYOVER OF EXCESS TAX PAID.For 5 any taxable year for which an applicable corporation 6 chooses to have the benefits of subpart A of part III 7 of subchapter N, the excess of the amount described in 8 paragraph (1)(A)(i) over the amount described in 9 paragraph (1)(A)(ii) shall increase the amount de10 scribed in paragraph (1)(A)(i) in any of the first 5 11 succeeding taxable years to the extent not taken into 12 account in a prior taxable year. 13 (3) REGULATIONS OR OTHER GUIDANCE.The 14 Secretary shall provide for such regulations or other 15 guidance as is necessary to carry out the purposes of 16 this subsection.. 17 (d) TREATMENT OF GENERAL BUSINESS CREDIT. 18 Section 38(c)(6)(E) is amended to read as follows: 19 (E) CORPORATIONS.In the case of a cor20 poration 21 (i) the first sentence of paragraph (1) 22 shall be applied by substituting 25 percent 23 of the taxpayers net income tax as exceeds 24 $25,000 for the greater of and all that fol25 lows, 29  HR 5376 EAS 1 (ii) paragraph (2)(A) shall be applied 2 without regard to clause (ii)(I) thereof, and 3 (iii) paragraph (4)(A) shall be ap4 plied without regard to clause (ii)(I) there5 of.. 6 (e) CREDIT FOR PRIOR YEAR MINIMUM TAX LIABIL7 ITY. 8
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act amends the tax code to provide a credit for corporations that have paid or accrued income, war profits, and excess profits taxes to any foreign country or possession of the United States. The credit is available for taxable years beginning after December 31, 2017, and before January 1, 2026. The credit is equal to the lesser of the amount of taxes paid or accrued, or the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i). The credit is carryoverable for five succeeding taxable years.

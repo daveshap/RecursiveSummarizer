@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+MATCH.The State cost share requirement 6 under the item relating to Department of EnergyEnergy 7 Conservation in title II of the Department of the Interior 8 and Related Agencies Appropriations Act, 1985 (42 U.S.C. 9 6323a; 98 Stat. 1861), shall not apply to assistance pro10 vided under this section. 11 (e) ADMINISTRATIVE COSTS.Of the amounts made 12 available under this section, the Secretary shall reserve not 13 more than 5 percent for administrative costs necessary to 14 carry out this section. 15 PART 4DOE LOAN AND GRANT PROGRAMS 16 SEC. 50141. FUNDING FOR DEPARTMENT OF ENERGY LOAN 17 PROGRAMS OFFICE. 18 (a) COMMITMENT AUTHORITY.In addition to com19 mitment authority otherwise available and previously pro20 vided, the Secretary may make commitments to guarantee 21 loans for eligible projects under section 1703 of the Energy 22 Policy Act of 2005 (42 U.S.C. 16513), up to a total prin23 cipal amount of $40,000,000,000, to remain available 24 through September 30, 2026. 609  HR 5376 EAS 1 (b) APPROPRIATION.In addition to amounts other2 wise available and previously provided, there is appro3 priated to the Secretary for fiscal year 2022, out of any 4 money in the Treasury not otherwise appropriated, 5 $3,600,000,000, to remain available through September 30, 6 2026, for the costs of guarantees made under section 1703 7 of the Energy Policy Act of 2005 (42 U.S.C. 16513), using 8 the loan guarantee authority provided under subsection (a) 9 of this section. 10 (c) ADMINISTRATIVE EXPENSES.Of the amount 11 made available under subsection (b), the Secretary shall re12 serve not more than 3 percent for administrative expenses 13 to carry out title XVII of the Energy Policy Act of 2005 14 and for carrying out section 1702(h)(3) of such Act (42 15 U.S.C. 16512(h)(3)). 16 (d) LIMITATIONS. 17 (1) CERTIFICATION.None of the amounts made 18 available under this section for loan guarantees shall 19 be available for any project unless the President has 20 certified in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy may provide loan guarantees for eligible projects under the Energy Policy Act of 2005, up to a total of $40 billion. Of this amount, $3.6 billion is appropriated for fiscal year 2022 for the costs of guarantees. Up to 3 percent of the amount appropriated may be used for administrative expenses.

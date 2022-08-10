@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+compliance with the program.  The Secretary of Health and Human Services may negotiate with drug manufacturers to set a maximum fair price for selected drugs, and these agreements may be renewed. Information submitted by manufacturers is confidential and will only be used by the Secretary or the Comptroller General. If a manufacturer has an agreement with a covered entity under the 340B program, the manufacturer is not required to provide the maximum fair price to the covered entity if the ceiling price is lower than the maximum fair price.  The Secretary of Health and Human Services shall negotiate a maximum fair price for a selected drug with the manufacturer during the negotiation period. If the drug is a renegotiation-eligible drug, the Secretary shall renegotiate the maximum fair price for the drug during the renegotiation period.  The manufacturer of a selected drug will be given an initial offer by the government, which the manufacturer can either accept or counter. If the manufacturer counters, the government will respond in writing, and all negotiations must end before November 1st. The maximum fair price for the selected drug cannot exceed the lower of the two amounts specified in subparagraphs B and C of this section.  This section of the bill deals with the payment amount for covered drugs under Medicare Part D. For drugs covered under Part D, the payment amount will be the sum of the plan-specific enrollment weighted amounts for each prescription drug plan or MAPD plan. For drugs covered under Part B, the payment amount will be the amount specified in section 1847A(b)(4) of the Social Security Act.  The average non-Federal manufacturer price for a drug will be increased by the percentage increase in the consumer price index from the year prior to the year of the drug's publication date. The plan specific enrollment weighted amount for a prescription drug plan or an MAPD plan will be the negotiated price of the drug for the most recent year, multiplied
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the payment amount for covered drugs under Medicare Part D. For drugs covered under Part D, the payment amount will be the sum of the plan-specific enrollment weighted amounts for each prescription drug plan or MAPD plan. For drugs covered under Part B, the payment amount will be the amount specified in section 1847A(b)(4) of the Social Security Act.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Social Security Act (42 U.S.C. 1396r8(b)(3)(D)(i)) is 18 amended by striking or to carry out section 1847B and 19 inserting or to carry out section 1847B or section 1192(f), 20 including rebates under paragraph (4) of such section. 21 (c) IMPLEMENTATION FOR 2026 THROUGH 2028.The 22 Secretary of Health and Human Services shall implement 23 this section, including the amendments made by this sec24 tion, for 2026, 2027, and 2028 by program instruction or 25 other forms of program guidance. 121  HR 5376 EAS 1 SEC. 11003. EXCISE TAX IMPOSED ON DRUG MANUFACTUR2 ERS DURING NONCOMPLIANCE PERIODS. 3 (a) IN GENERAL.Subtitle D of the Internal Revenue 4 Code of 1986 is amended by adding at the end the following 5 new chapter: 6 CHAPTER 50ADESIGNATED DRUGS Sec. 5000D. Designated drugs during noncompliance periods. 7 SEC. 5000D. DESIGNATED DRUGS DURING NONCOMPLI8 ANCE PERIODS. 9 (a) IN GENERAL.There is hereby imposed on the 10 sale by the manufacturer, producer, or importer of any des11 ignated drug during a day described in subsection (b) a 12 tax in an amount such that the applicable percentage is 13 equal to the ratio of 14 (1) such tax, divided by 15 (2) the sum of such tax and the price for which 16 so sold. 17 (b) NONCOMPLIANCE PERIODS.A day is described 18 in this subsection with respect to a designated drug if it 19 is a day during one of the following periods: 20 (1) The period beginning on the March 1st (or, 21 in the case of initial price applicability year 2026, 22 the October 2nd) immediately following the date on 23 which such drug is included on the list published 24 under section 1192(a) of the Social Security Act and 25 ending on the earlier of 122  HR 5376 EAS 1 (A) the first date on which the manufac2 turer of such designated drug has in place an 3 agreement described in section 1193(a) of such 4 Act with respect to such drug, or 5 (B) the date that the Secretary of Health 6 and Human Services has made a determination 7
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended by adding a new chapter on designated drugs during noncompliance periods. This chapter imposes a tax on the sale of any designated drug during a day when the manufacturer does not have an agreement in place with the Secretary of Health and Human Services.

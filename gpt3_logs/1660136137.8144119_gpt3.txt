@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+prescription drug plans or Medicare Advantage plans that cover drugs that would be applicable drugs (as defined in section 1860D14C(g)(2)) but for the application of subparagraph (B) of such section. The subsidy will be provided to the plan on a periodic and timely basis, and will be used to offset the costs incurred by the plan for the drug.  The Medicare Coverage Gap Discount Program is set to expire on January 1, 2025. The program provided discounts on drugs for Medicare recipients. After the expiration, agreements under the program will also be terminated.  This section of the bill establishes premium stabilization for prescription drug plans under Medicare from 2024-2029. The base beneficiary premium for a given year will be equal to the lesser of (1) the base beneficiary premium from the previous year increased by 6 percent, or (2) the base beneficiary premium that would have applied if this section had not been enacted.  The base beneficiary premium for 2030 and subsequent years shall be computed under paragraph (2) or (8) of subsection (a) of the Social Security Act (42 U.S.C. 1395w113(a)), as amended by this paragraph, without regard to this paragraph. The percent specified under this paragraph for 2030 and each subsequent year is the percent that the Secretary determines is necessary to ensure that the base beneficiary premium computed under paragraph (2) of such subsection does not exceed the base beneficiary premium computed under such paragraph for 2019.  This section of the Social Security Act outlines how the base beneficiary premium for Medicare Part D will be determined for the years 2030 and beyond. The base beneficiary premium will be equal to 15 percent of the lesser of (i) the base beneficiary premium for 2029 increased by 6 percent; or (ii) the base beneficiary premium for 2030 that would have applied if this section had not been enacted. This percentage may not be less than 20 percent.  This section amends the Social Security Act to conform to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes premium stabilization for prescription drug plans under Medicare from 2024-2029. The base beneficiary premium for a given year will be equal to the lesser of (1) the base beneficiary premium from the previous year increased by 6 percent, or (2) the base beneficiary premium that would have applied if this section had not been enacted. The base beneficiary premium for 2030 and subsequent years shall be computed under paragraph (2) or (8) of subsection (a) of the Social Security Act (42 U.S.C. 1395w113(a)), as amended by this paragraph, without regard to this paragraph. The percent specified under this paragraph for 2030 and each subsequent year is the percent that the Secretary determines is necessary to ensure that the base beneficiary premium computed under paragraph (2) of such subsection does not exceed the base beneficiary premium computed under such paragraph for 2019.

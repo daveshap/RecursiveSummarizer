@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+dwelling unit 2 is acquired. 3 (3) MULTI-FAMILY HOME REQUIREMENTS.A 4 dwelling unit meets the requirements of this para5 graph if 6 (A) such dwelling unit meets the most re7 cent Energy Star Multifamily New Construction 8 National Program Requirements (as in effect on 9 either January 1, 2023, or January 1 of three 10 calendar years prior to the date the dwelling was 11 acquired, whichever is later), and 12 (B) such dwelling unit meets the most re13 cent Energy Star Multifamily New Construction 14 Regional Program Requirements applicable to 15 the location of such dwelling unit (as in effect on 16 either January 1, 2023, or January 1 of three 17 calendar years prior to the date the dwelling was 18 acquired, whichever is later).. 19 (d) PREVAILING WAGE REQUIREMENT.Section 45L 20 is amended by redesignating subsection (g) as subsection 21 (h) and by inserting after subsection (f) the following new 22 subsection: 23 (g) PREVAILING WAGE REQUIREMENT. 24 (1) IN GENERAL.In the case of a qualifying 25 residence described in subsection (a)(2)(B) meeting 371  HR 5376 EAS 1 the prevailing wage requirements of paragraph 2 (2)(A), the credit amount allowed with respect to such 3 residence shall be 4 (A) $2,500 in the case of a residence which 5 meets the requirements of subparagraph (A) of 6 subsection (c)(1) (and which does not meet the 7 requirements of subparagraph (B) of such sub8 section), and 9 (B) $5,000 in the case of a residence which 10 meets the requirements of subsection (c)(1)(B). 11 (2) PREVAILING WAGE REQUIREMENTS. 12 (A) IN GENERAL.The requirements de13 scribed in this subparagraph with respect to any 14 qualified residence are that the taxpayer shall 15 ensure that any laborers and mechanics em16 ployed by the taxpayer or any contractor or sub17 contractor in the construction of such residence 18 shall be paid wages at rates not less than the 19 prevailing rates for construction, alteration, or 20 repair of a similar character in the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Star Multifamily New Construction National Program Requirements and the Energy Star Multifamily New Construction Regional Program Requirements must be met in order for a dwelling unit to be acquired. The prevailing wage requirements must also be met in order for the credit amount to be allowed.

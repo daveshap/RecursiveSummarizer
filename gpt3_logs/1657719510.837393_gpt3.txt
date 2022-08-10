@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+with the provisions hereof, and further certifies that Contractor will not enter into any such conflicting agreement during the term of this Agreement. (b) In view of Contractors access to the Companys trade secrets and proprietary know-how, Contractor further agrees that Contractor will not, without Companys prior written consent, design identical or substantially similar designs or work product as those developed under this Agreement, for itself or for any third party during the term of this Agreement and for a period of twelve (12) months after the termination of this Agreement. Contractor acknowledges that the obligations in this Section 5 are ancillary to Contractors nondisclosure obligations under Section 2. (c) During the term and for a period of twelve (12) months after the termination of this Agreement, Contractor agrees that it will not, either directly or indirectly, solicit, induce, recruit or encourage any of the Companys employees to leave their employment, or hire
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The agreement between the company and the contractor includes a clause that the contractor will not enter into any agreements that would conflict with this agreement. The contractor also agrees not to design anything similar to what they develop for the company during or after the agreement, and not to try and recruit any of the company's employees.

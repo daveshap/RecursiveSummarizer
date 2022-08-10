@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+certain energy efficiency requirements. The Energy Efficient Homes Credit is extended through 2032 and the credit amount is increased for certain energy efficient dwelling units. The Clean Vehicle Credit is a tax credit for vehicles that meet certain fuel efficiency standards.  This section of the bill establishes a tax credit for the purchase of a new clean vehicle. The credit is available for vehicles purchased after December 31, 2017 and is capped at $7,500. The credit is phased out for each manufacturer after 200,000 qualifying vehicles are sold. To qualify for the credit, a certain percentage of the value of the critical minerals contained in the battery must be extracted or processed in the United States or in a country with which the United States has a free trade agreement, or recycled in North America. The applicable percentage increases each year from 40 percent in 2024 to 80 percent in 2026.  The Clean Vehicle Credit is a tax credit for certain vehicles with clean burning engines. The credit is available for vehicles purchased after January 1, 2017 and before January 1, 2032. The credit is capped at $7,500 per vehicle.  This section of the bill amends the Internal Revenue Code to allow for tax credits for the purchase of certain types of vehicles. The credit for previously-owned clean vehicles is equal to the lesser of $2,500 or 10 percent of the cost of the vehicle. The credit for qualified commercial clean vehicles is equal to the lesser of 15 percent of the basis of the vehicle or the incremental cost of the vehicle, up to a maximum of $7,500 for vehicles with a gross vehicle weight rating of less than 14,000 pounds or $40,000 for other vehicles. The credit is available for vehicles acquired after December 31, 2022.  The Energy Security Act extends the Alternative Fuel Tax Credit through 2032 and increases the credit limit from $30,000 to $100,000. It also includes bidirectional charging equipment as qualified alternative fuel vehicle refueling
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Security Act extends the Alternative Fuel Tax Credit through 2032 and increases the credit limit from $30,000 to $100,000. It also includes bidirectional charging equipment as qualified alternative fuel vehicle refueling. The Clean Vehicle Credit is a tax credit for vehicles that meet certain fuel efficiency standards. The credit is available for vehicles purchased after December 31, 2017 and is capped at $7,500. The credit is phased out for each manufacturer after 200,000 qualifying vehicles are sold.

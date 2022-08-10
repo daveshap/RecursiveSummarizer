@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+provisions of this Agreement, the prevailing party will be entitled to reasonable attorneys fees, in addition to any other relief to which that party may be entitled. This Agreement is the entire agreement of the parties and supersedes any prior agreements between them, whether written or oral, with respect to the subject matter hereof. No waiver, alteration, or modification of any of the provisions of this Agreement shall be binding unless in writing and signed by duly authorized representatives of the parties hereto. Each party agrees that if any provision of this Agreement is held to be illegal, invalid or unenforceable, such provision shall be enforced to the maximum extent permissible so as to give effect to the intent of the parties, and such provision shall otherwise be severed from this Agreement and the validity, legality and enforceability of the remaining provisions of this Agreement will not in any way be affected or impaired thereby. Neither this Agreement nor any right
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+-The provisions of this Agreement stipulate that the prevailing party is entitled to reasonable attorneys fees, in addition to any other relief to which that party may be entitled. -This Agreement is the entire agreement of the parties and supersedes any prior agreements between them, whether written or oral, with respect to the subject matter hereof. -No waiver, alteration, or modification of any of the provisions of this Agreement shall be binding unless in writing and signed by duly authorized representatives of the parties hereto. -Each party agrees that if any provision of this Agreement is held to be illegal, invalid or unenforceable, such provision shall be enforced to the maximum extent permissible so as to give effect to the intent of the parties, and such provision shall otherwise be severed from this Agreement and the validity, legality and enforceability of the remaining provisions of this Agreement will not in any way be affected or impaired thereby.

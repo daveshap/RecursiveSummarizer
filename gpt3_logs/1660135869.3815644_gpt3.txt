@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+greenhouse gas emissions associated 11 with all relevant stages of production, use, and disposal as 12 compared to estimated industry averages of similar mate13 rials or products, as determined by the Administrator of 14 the Environmental Protection Agency, and for the oper15 ations and administration of the Federal Highway Admin16 istration to carry out this section. 17 (b) REIMBURSEMENT OF INCREMENTAL COSTS; IN18 CENTIVES. 19 (1) IN GENERAL.The Administrator shall, 20 subject to the availability of funds, either reimburse 21 or provide incentives to eligible recipients that use 22 low-embodied carbon construction materials and 23 products on a project funded under this title. 24 (2) REIMBURSEMENT AND INCENTIVE 25 AMOUNTS. 717  HR 5376 EAS 1 (A) INCREMENTAL AMOUNT.The amount 2 of reimbursement under paragraph (1) shall be 3 equal to the incrementally higher cost of using 4 such materials relative to the cost of using tradi5 tional materials, as determined by the eligible re6 cipient and verified by the Administrator. 7 (B) INCENTIVE AMOUNT.The amount of 8 an incentive under paragraph (1) shall be equal 9 to 2 percent of the cost of using low-embodied 10 carbon construction materials and products on a 11 project funded under this title. 12 (3) FEDERAL SHARE.If a reimbursement or 13 incentive is provided under paragraph (1), the total 14 Federal share payable for the project for which the re15 imbursement or incentive is provided shall be up to 16 100 percent. 17 (4) LIMITATIONS. 18 (A) IN GENERAL.The Administrator 19 shall only provide a reimbursement or incentive 20 under paragraph (1) for a project on a 21 (i) Federal-aid highway; 22 (ii) tribal transportation facility; 23 (iii) Federal lands transportation fa24 cility; or 718  HR 5376 EAS 1 (iv) Federal lands access transpor2 tation facility. 3 (B) OTHER RESTRICTIONS.Amounts 4 made available under this section shall not be 5 subject to any restriction or limitation on the 6
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The federal government will reimburse or provide incentives to eligible recipients who use low-embodied carbon construction materials and products on federally-funded projects. The reimbursement or incentive amount will be equal to the incrementally higher cost of using such materials relative to the cost of using traditional materials, as determined by the eligible recipient and verified by the Administrator.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+The Senate has passed a bill that would amend the Internal Revenue Code to provide for corporate tax reform. The bill would impose a new corporate alternative minimum tax, and would exempt certain corporations from the tax. The bill would also allow for a corporate AMT foreign tax credit.  This clause amends the tax code to include a new section (56A) on adjusted financial statement income. Adjusted financial statement income is defined as the net income or loss of a corporation set forth on the corporation's applicable financial statement for the taxable year, adjusted as provided in this section. The section goes on to specify what an applicable financial statement is and how to make adjustments for consolidated financial statements and for dividends and other amounts. If a taxpayer is a shareholder of one or more controlled foreign corporations, the taxpayer's adjusted financial statement income with respect to such controlled foreign corporation shall be adjusted to also take into account the taxpayer's pro rata share of items taken into account in computing the corporation's net income or loss.  This section of the code deals with the taxation of income from mortgage servicing contracts. It stipulates that such income may not be included in gross income under any other provision of the code until it is actually received. Additionally, the Secretary of the Treasury is authorized to promulgate regulations to prevent the avoidance of taxes on amounts not representing reasonable compensation for services rendered under the contract. Finally, this section provides for special adjustments to be made to income from defined benefit pension plans for tax purposes.  The Tax Cuts and Jobs Act amends the tax code to provide a credit for corporations that have paid or accrued income, war profits, and excess profits taxes to any foreign country or possession of the United States. The credit is available for taxable years beginning after December 31, 2017, and before January
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Senate has passed a bill that would amend the Internal Revenue Code to provide for corporate tax reform. The bill would impose a new corporate alternative minimum tax, and would exempt certain corporations from the tax. The bill would also allow for a corporate AMT foreign tax credit.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+diesel fuel (as de23 fined in section 4083(a)(3)), or ker24 osene, and 407  HR 5376 EAS 1 (II) at least 20 percent of the 2 volume of which consists of biodiesel 3 (as so defined) determined without re4 gard to any kerosene in such mixture. 5 (iii) Electricity. 6 (2) BIDIRECTIONAL CHARGING EQUIPMENT. 7 Property shall not fail to be treated as qualified alter8 native fuel vehicle refueling property solely because 9 such property 10 (A) is capable of charging the battery of a 11 motor vehicle propelled by electricity, and 12 (B) allows discharging electricity from 13 such battery to an electric load external to such 14 motor vehicle.. 15 (c) CERTAIN ELECTRIC CHARGING STATIONS IN16 CLUDED AS QUALIFIED ALTERNATIVE FUEL VEHICLE RE17 FUELING PROPERTY.Section 30C is amended by redesig18 nating subsections (f) and (g) as subsections (g) and (h), 19 respectively, and by inserting after subsection (e) the fol20 lowing: 21 (f) SPECIAL RULE FOR ELECTRIC CHARGING STA22 TIONS FOR CERTAIN VEHICLES WITH 2 OR 3 WHEELS. 23 For purposes of this section 24 (1) IN GENERAL.The term qualified alter25 native fuel vehicle refueling property includes any 408  HR 5376 EAS 1 property described in subsection (c) for the recharging 2 of a motor vehicle described in paragraph (2), but 3 only if such property 4 (A) meets the requirements of subsection 5 (a)(2), and 6 (B) is of a character subject to deprecia7 tion. 8 (2) MOTOR VEHICLE.A motor vehicle is de9 scribed in this paragraph if the motor vehicle 10 (A) is manufactured primarily for use on 11 public streets, roads, or highways (not including 12 a vehicle operated exclusively on a rail or rails), 13 (B) has 2 or 3 wheels, and 14 (C) is propelled by electricity.. 15 (d) WAGE AND APPRENTICESHIP REQUIREMENTS. 16 Section 30C, as amended by this section, is further amended 17 by redesignating subsections (g) and (h) as subsections (h) 18 and (i) and by inserting after subsection (f) the following 19 new
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "qualified alternative fuel vehicle refueling property" tax credit is amended to include electric charging stations for certain vehicles with 2 or 3 wheels, as well as to extend the credit to biodiesel fuel mixtures.

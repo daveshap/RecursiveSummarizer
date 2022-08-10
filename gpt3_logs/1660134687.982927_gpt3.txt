@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+application of subparagraph (C)), increased 7 by the percentage increase in the consumer 8 price index for all urban consumers (United 9 States city average) for the 12-month period 10 ending with June of the previous year. 11 (C) ROUNDING.Any dollar amount deter12 mined under subparagraph (B) that is not a 13 multiple of $10 shall be rounded to the nearest 14 multiple of $10. 15 (3) REBATE AMOUNT. 16 (A) IN GENERAL.For purposes of para17 graph (1), the amount specified in this para18 graph for a part B rebatable drug assigned to a 19 billing and payment code for a calendar quarter 20 is, subject to subparagraphs (B) and (G) and 21 paragraph (4), the estimated amount equal to 22 the product of 23 (i) the total number of units deter24 mined under subparagraph (B) for the bill25 ing and payment code of such drug; and 132  HR 5376 EAS 1 (ii) the amount (if any) by which 2 (I) the amount equal to 3 (aa) in the case of a part B 4 rebatable drug described in para5 graph (1)(B) of subsection (b), 6 106 percent of the amount deter7 mined under paragraph (4) of 8 such section for such drug during 9 the calendar quarter; or 10 (bb) in the case of a part B 11 rebatable drug described in para12 graph (1)(C) of such subsection, 13 the payment amount under such 14 paragraph for such drug during 15 the calendar quarter; exceeds 16 (II) the inflation-adjusted pay17 ment amount determined under sub18 paragraph (C) for such part B 19 rebatable drug during the calendar 20 quarter. 21 (B) TOTAL NUMBER OF UNITS.For pur22 poses of subparagraph (A)(i), the total number of 23 units for the billing and payment code with re24 spect to a part B rebatable drug furnished dur- 133  HR 5376 EAS 1 ing a calendar quarter described in subpara2 graph (A) is equal to 3 (i) the number of units for the billing 4 and payment code of such drug furnished 5 during such calendar quarter, minus 6 (ii) the number of units for such bill7 ing and payment code of such drug fur8
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amount specified in this paragraph for a part B rebatable drug assigned to a billing and payment code for a calendar quarter is, subject to subparagraphs (B) and (G) and paragraph (4), the estimated amount equal to the product of (i) the total number of units determined under subparagraph (B) for the billing and payment code of such drug; and (ii) the amount (if any) by which (I) the amount equal to (aa) in the case of a part B rebatable drug described in paragraph (1)(B) of subsection (b), 106 percent of the amount determined under paragraph (4) of such section for such drug during the calendar quarter; or (bb) in the case of a part B rebatable drug described in paragraph (1)(C) of such subsection, the payment amount under such paragraph for such drug during the calendar quarter; exceeds (II) the inflation-adjusted payment amount determined under subparagraph (C) for such part B rebatable drug during the calendar quarter.

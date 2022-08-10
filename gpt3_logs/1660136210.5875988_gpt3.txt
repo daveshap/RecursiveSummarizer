@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+facility. The amendment also denies the production tax credit for any taxable year with respect to any specified clean hydrogen production facility or any carbon capture equipment included at such facility.  The Credit for Hydrogen Production Act of 2020 amends the Internal Revenue Code to provide a credit for the production of hydrogen. The credit is available for property placed in service after December 31, 2022, and is recaptured if production falls below expectations. The credit is scheduled to terminate on December 31, 2023.  The Tax Cuts and Jobs Act extends, increases, and modifies the nonbusiness energy property credit. The credit is extended through 2032 and the annual limitation is increased to $1,200. The credit is also expanded to include qualified energy efficiency improvements and residential energy property expenditures.  The credit allowed under this section for any taxpayer for any taxable year shall not exceed $250 for any exterior door, and $500 in the aggregate for all exterior doors. The credit allowed under this section for any taxpayer for any taxable year shall not, in the aggregate, exceed $2,000 with respect to amounts paid or incurred for property described in clauses (i) and (ii) of subsection (d)(2)(A) and in subsection (d)(2)(B).  The Modification of Residential Energy Property Expenditures allows taxpayers to deduct the cost of qualified energy property, including labor costs, that is installed on their residence. Qualified energy property includes certain electric and natural gas heat pumps, central air conditioners, water heaters, furnaces, and boilers.  The 2021 Energy 15 Star efficiency criteria rates products by the manufacturer for use with fuel blends of eligible fuels. The 16 (II) rating is for use with fuel blends at least 20 per cent of which consists of an eligible fuel, or the 17 (ii) rating is for use with fuel blends at least 50 per cent of which consists of an eligible fuel. Products must be installed in a manner
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Credit for Hydrogen Production Act of 2020 amends the Internal Revenue Code to provide a credit for the production of hydrogen. The credit is available for property placed in service after December 31, 2022, and is recaptured if production falls below expectations. The credit is scheduled to terminate on December 31, 2023. The Tax Cuts and Jobs Act extends, increases, and modifies the nonbusiness energy property credit. The credit is extended through 2032 and the annual limitation is increased to $1,200. The credit is also expanded to include qualified energy efficiency improvements and residential energy property expenditures. The Modification of Residential Energy Property Expenditures allows taxpayers to deduct the cost of qualified energy property, including labor costs, that is installed on their residence. Qualified energy property includes certain electric and natural gas heat pumps, central air conditioners, water heaters, furnaces, and boilers.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+governments, metropolitan planning organizations, and nonprofit or educational organizations.  This section provides for grants to be awarded to economically disadvantaged or underserved communities for projects that address air pollution, noise, stormwater, or other burdens. The Federal share of the cost of these projects shall not exceed 80 percent.  This section appropriates $250,000,000 for fiscal year 2022 to be deposited in the Federal Buildings Fund to convert facilities of the Administrator of General Services to high-performance green buildings.  This section provides for the appropriation of $2.15 billion to the Federal Buildings Fund for the purchase and installation of low-carbon materials for use in buildings under the jurisdiction of the General Services Administration. It also appropriates $975 million to the General Services Administration for emerging and sustainable technologies. Additionally, it establishes the Environmental Review Implementation Fund to help cover the costs of environmental reviews required by the National Environmental Policy Act.  The bill appropriates $100,000,000 to the Administrator of the Federal Highway Administration for fiscal year 2022 to facilitate the development and review of documents for the environmental review process for proposed projects. The funds may be used for activities such as providing guidance and technical assistance, preparing planning and environmental studies, conducting public engagement activities, and carrying out permitting or other activities to support the timely completion of an environmental review process. The Federal share of the cost of activities carried out under the bill by an eligible entity shall be not more than 80 percent.  This section authorizes the use of funds from any other Federal, State, or local grant program to satisfy the cost of an activity carried out under this section. An eligible entity is defined as a State, unit of local government, political subdivision of a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill provides for grants to be awarded to economically disadvantaged or underserved communities for projects that address air pollution, noise, stormwater, or other burdens. The Federal share of the cost of these projects shall not exceed 80 percent. Additionally, the bill appropriates funds for the purchase and installation of low-carbon materials for use in buildings under the jurisdiction of the General Services Administration and for emerging and sustainable technologies. The bill also establishes the Environmental Review Implementation Fund to help cover the costs of environmental reviews required by the National Environmental Policy Act.

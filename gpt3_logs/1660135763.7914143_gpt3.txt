@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+appropriated, 3 $400,000,000, to remain available until September 4 30, 2031, to make awards under this section to eligi5 ble recipients and to eligible contractors that propose 6 to replace eligible vehicles to serve 1 or more commu7 nities located in an air quality area designated pur8 suant to section 107 as nonattainment for any air 9 pollutant. 10 (3) RESERVATION.Of the funds appropriated 11 by paragraph (1), the Administrator shall reserve 3 12 percent for administrative costs necessary to carry 13 out this section. 14 (b) PROGRAM.Beginning not later than 180 days 15 after the date of enactment of this section, the Adminis16 trator shall implement a program to make awards of grants 17 and rebates to eligible recipients, and to make awards of 18 contracts to eligible contractors for providing rebates, for 19 up to 100 percent of costs for 20 (1) the incremental costs of replacing an eligible 21 vehicle that is not a zero-emission vehicle with a zero22 emission vehicle, as determined by the Administrator 23 based on the market value of the vehicles; 661  HR 5376 EAS 1 (2) purchasing, installing, operating, and 2 maintaining infrastructure needed to charge, fuel, or 3 maintain zero-emission vehicles; 4 (3) workforce development and training to sup5 port the maintenance, charging, fueling, and oper6 ation of zero-emission vehicles; and 7 (4) planning and technical activities to support 8 the adoption and deployment of zero-emission vehi9 cles. 10 (c) APPLICATIONS.To seek an award under this sec11 tion, an eligible recipient or eligible contractor shall submit 12 to the Administrator an application at such time, in such 13 manner, and containing such information as the Adminis14 trator shall prescribe. 15 (d) DEFINITIONS.For purposes of this section: 16 (1) ELIGIBLE CONTRACTOR.The term eligible 17 contractor means a contractor that has the capac18 ity 19 (A) to sell, lease, license, or contract for 20 service zero-emission vehicles, or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses a program that provides grants and rebates to encourage the replacement of older, polluting vehicles with newer, cleaner vehicles. The program is administered by the Environmental Protection Agency, and funds are appropriated by Congress.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+September 30, 2031, to carry 11 out a program to award grants to State energy offices 12 to develop and implement a HOMES rebate program. 13 (2) ALLOCATION OF FUNDS. 14 (A) IN GENERAL.The Secretary shall re15 serve funds made available under paragraph (1) 16 for each State energy office 17 (i) in accordance with the allocation 18 formula for the State Energy Program in 19 effect on January 1, 2022; and 20 (ii) to be distributed to a State energy 21 office if the application of the State energy 22 office under subsection (b) is approved. 23 (B) ADDITIONAL FUNDS.Not earlier than 24 2 years after the date of enactment of this Act, 25 any money reserved under subparagraph (A) but 26 not distributed under clause (ii) of that subpara- 585  HR 5376 EAS 1 graph shall be redistributed to the State energy 2 offices operating a HOMES rebate program 3 using a grant received under this section in pro4 portion to the amount distributed to those State 5 energy offices under subparagraph (A)(ii). 6 (3) ADMINISTRATIVE EXPENSES.Of the funds 7 made available under paragraph (1), the Secretary 8 shall use not more than 3 percent for 9 (A) administrative purposes; and 10 (B) providing technical assistance relating 11 to activities carried out under this section. 12 (b) APPLICATION.A State energy office seeking a 13 grant under this section shall submit to the Secretary an 14 application that includes a plan to implement a HOMES 15 rebate program, including a plan 16 (1) to use procedures, as approved by the Sec17 retary, for determining the reductions in home energy 18 use resulting from the implementation of a home en19 ergy efficiency retrofit that are calibrated to historical 20 energy usage for a home consistent with BPI 2400, 21 for purposes of modeled performance home rebates; 22 (2) to use open-source advanced measurement 23 and verification software, as approved by the Sec24 retary, for determining and documenting the monthly 25 and hourly (if available) weather-
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The HOMES Rebate Program will award grants to State energy offices to develop and implement programs that provide rebates for home energy efficiency retrofits. Funds for the program will be allocated based on the State Energy Program formula in effect on January 1, 2022, and will be redistributed to State energy offices every two years. Up to 3 percent of the total funds may be used for administrative expenses and technical assistance.

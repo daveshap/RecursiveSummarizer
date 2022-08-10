@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+applicable drug 18 that falls below such threshold; and 19 (II) in accordance with subpara20 graph (A)(ii) on the portion of such 21 price of such drug that falls at or 22 above such threshold. 23 (5) MANUFACTURER.The term manufacturer 24 means any entity which is engaged in the production, 25 preparation, propagation, compounding, conversion, 191  HR 5376 EAS 1 or processing of prescription drug products, either di2 rectly or indirectly by extraction from substances of 3 natural origin, or independently by means of chem4 ical synthesis, or by a combination of extraction and 5 chemical synthesis. Such term does not include a 6 wholesale distributor of drugs or a retail pharmacy li7 censed under State law. 8 (6) NEGOTIATED PRICE.The term negotiated 9 price has the meaning given such term for purposes 10 of section 1860D2(d)(1)(B), and, with respect to an 11 applicable drug, such negotiated price shall include 12 any dispensing fee and, if applicable, any vaccine ad13 ministration fee for the applicable drug. 14 (7) QUALIFIED RETIREE PRESCRIPTION DRUG 15 PLAN.The term qualified retiree prescription drug 16 plan has the meaning given such term in section 17 1860D22(a)(2). 18 SEC. 1860D14D. SELECTED DRUG SUBSIDY PROGRAM. 19 With respect to covered part D drugs that would be 20 applicable drugs (as defined in section 1860D14C(g)(2)) 21 but for the application of subparagraph (B) of such section, 22 the Secretary shall provide a process whereby, in the case 23 of an applicable beneficiary (as defined in section 1860D 24 14C(g)(1)) who, with respect to a year, is enrolled in a pre25 scription drug plan or is enrolled in an MAPD plan, has 192  HR 5376 EAS 1 not incurred costs that are equal to or exceed the annual 2 out-of-pocket threshold specified in section 1860D 3 2(b)(4)(B)(i), and is dispensed such a drug, the Secretary 4 (periodically and on a timely basis) provides the PDP 5 sponsor or the MA organization offering the plan, a subsidy 6
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services will provide a subsidy to prescription drug plans or Medicare Advantage plans that cover drugs that would be applicable drugs (as defined in section 1860D14C(g)(2)) but for the application of subparagraph (B) of such section. The subsidy will be provided to the plan on a periodic and timely basis, and will be used to offset the costs incurred by the plan for the drug.

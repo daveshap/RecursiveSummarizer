@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+guidance regarding implementation of 14 this section.. 15 (b) CONFORMING AMENDMENTS. 16 (1) Section 46, as amended by section 107(d) of 17 the CHIPS Act of 2022, is amended 18 (A) in paragraph (5), by striking and at 19 the end, 20 (B) in paragraph (6), by striking the period 21 at the end and inserting , and, and 22 (C) by adding at the end the following: 23 (7) the clean electricity investment credit.. 24 (2) Section 49(a)(1)(C), as amended by section 25 107(d) of the CHIPS Act of 2022, is amended 489  HR 5376 EAS 1 (A) by striking and at the end of clause 2 (v), 3 (B) by striking the period at the end of 4 clause (vi) and inserting a comma, and 5 (C) by adding at the end the following new 6 clauses: 7 (vii) the basis of any qualified prop8 erty which is part of a qualified facility 9 under section 48E, and 10 (viii) the basis of any energy storage 11 technology under section 48E.. 12 (3) Section 50(a)(2)(E), as amended by section 13 107(d) of the CHIPS Act of 2022, is amended by 14 striking or 48D(b)(5) and inserting 48D(b)(5), or 15 48E(e). 16 (4) Section 50(c)(3) is amended by inserting or 17 clean electricity investment credit after In the case 18 of any energy credit. 19 (5) The table of sections for subpart E of part IV 20 of subchapter A of chapter 1, as amended by section 21 107(d) of the CHIPS Act of 2022, is amended by in22 serting after the item relating to section 48D the fol23 lowing new item: 48E. Clean electricity investment credit.. 490  HR 5376 EAS 1 (c) EFFECTIVE DATE.The amendments made by this 2 section shall apply to property placed in service after De3 cember 31, 2024. 4 SEC. 13703. COST RECOVERY FOR QUALIFIED FACILITIES, 5 QUALIFIED PROPERTY, AND ENERGY STOR6 AGE TECHNOLOGY. 7 (a) IN GENERAL.Section 168(e)(3)(B) is amended 8 (1) in clause (vi)(III), by striking and at the 9 end, 10 (2) in clause (vii), by striking the period at the 11 end and inserting , and, and 12 (3) by inserting
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The CHIPS Act of 2022 amends the Internal Revenue Code to provide guidance on the implementation of the clean electricity investment credit. The credit is available for qualified facilities, qualified property, and energy storage technology placed in service after December 31, 2024. The credit is equal to 30% of the basis of the qualified property.

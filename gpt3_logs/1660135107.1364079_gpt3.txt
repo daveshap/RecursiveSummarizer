@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+an omission of information or docu16 mentation required under section 25C(b)(6)(B) 17 (relating to home energy audits) to be included 18 on a return.. 19 (g) IDENTIFICATION NUMBER REQUIREMENT. 20 (1) IN GENERAL.Section 25C, as amended by 21 this section, is amended by redesignating subsection 22 (h) as subsection (i) and by inserting after subsection 23 (g) the following new subsection: 24 (h) PRODUCT IDENTIFICATION NUMBER REQUIRE25 MENT. 348  HR 5376 EAS 1 (1) IN GENERAL.No credit shall be allowed 2 under subsection (a) with respect to any item of spec3 ified property placed in service after December 31, 4 2024, unless 5 (A) such item is produced by a qualified 6 manufacturer, and 7 (B) the taxpayer includes the qualified 8 product identification number of such item on 9 the return of tax for the taxable year. 10 (2) QUALIFIED PRODUCT IDENTIFICATION NUM11 BER.For purposes of this section, the term qualified 12 product identification number means, with respect to 13 any item of specified property, the product identifica14 tion number assigned to such item by the qualified 15 manufacturer pursuant to the methodology referred to 16 in paragraph (3). 17 (3) QUALIFIED MANUFACTURER.For purposes 18 of this section, the term qualified manufacturer 19 means any manufacturer of specified property which 20 enters into an agreement with the Secretary which 21 provides that such manufacturer will 22 (A) assign a product identification number 23 to each item of specified property produced by 24 such manufacturer utilizing a methodology that 25 will ensure that such number (including any al- 349  HR 5376 EAS 1 phanumeric) is unique to each such item (by uti2 lizing numbers or letters which are unique to 3 such manufacturer or by such other method as 4 the Secretary may provide), 5 (B) label such item with such number in 6 such manner as the Secretary may provide, and 7 (C) make periodic written reports to the 8 Secretary (at such times and in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "product identification number requirement" stipulates that, in order to be eligible for the tax credit under section 25C of the Internal Revenue Code, an item of specified property must be produced by a qualified manufacturer and the taxpayer must include the qualified product identification number of such item on their tax return. A qualified product identification number is a unique number assigned to an item of specified property by the qualified manufacturer pursuant to a methodology approved by the Internal Revenue Service. A qualified manufacturer is a manufacturer of specified property who enters into an agreement with the IRS which provides that the manufacturer will assign a product identification number to each item of specified property produced, label such item with the number, and make periodic written reports to the IRS.

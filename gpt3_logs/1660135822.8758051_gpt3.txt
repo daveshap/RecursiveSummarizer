@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+calendar 12 year 2026 and each year thereafter. 13 (f) WASTE EMISSIONS THRESHOLD. 14 (1) PETROLEUM AND NATURAL GAS PRODUC15 TION.With respect to imposing and collecting the 16 charge under subsection (c) for an applicable facility 17 in an industry segment listed in paragraph (1) or (2) 18 of subsection (d), the Administrator shall impose and 19 collect the charge on the reported metric tons of meth20 ane emissions from such facility that exceed 21 (A) 0.20 percent of the natural gas sent to 22 sale from such facility; or 23 (B) 10 metric tons of methane per million 24 barrels of oil sent to sale from such facility, if 25 such facility sent no natural gas to sale. 690  HR 5376 EAS 1 (2) NONPRODUCTION PETROLEUM AND NATURAL 2 GAS SYSTEMS.With respect to imposing and col3 lecting the charge under subsection (c) for an applica4 ble facility in an industry segment listed in para5 graph (3), (6), (7), or (8) of subsection (d), the Ad6 ministrator shall impose and collect the charge on the 7 reported metric tons of methane emissions that exceed 8 0.05 percent of the natural gas sent to sale from or 9 through such facility. 10 (3) NATURAL GAS TRANSMISSION.With re11 spect to imposing and collecting the charge under sub12 section (c) for an applicable facility in an industry 13 segment listed in paragraph (4), (5), or (9) of sub14 section (d), the Administrator shall impose and collect 15 the charge on the reported metric tons of methane 16 emissions that exceed 0.11 percent of the natural gas 17 sent to sale from or through such facility. 18 (4) COMMON OWNERSHIP OR CONTROL.In cal19 culating the total emissions charge obligation for fa20 cilities under common ownership or control, the Ad21 ministrator shall allow for the netting of emissions by 22 reducing the total obligation to account for facility 23 emissions levels that are below the applicable thresh24 olds within and across all applicable segments identi25 fied in subsection (d). 691  HR 5376 EAS
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Administrator shall impose and collect the charge on the reported metric tons of methane emissions from such facility that exceed the thresholds specified in subsection (c). With respect to imposing and collecting the charge under subsection (c) for an applicable facility in an industry segment listed in paragraph (1) or (2) of subsection (d), the Administrator shall impose and collect the charge on the reported metric tons of methane emissions from such facility that exceed 0.20 percent of the natural gas sent to sale from such facility; or 10 metric tons of methane per million barrels of oil sent to sale from such facility, if such facility sent no natural gas to sale.

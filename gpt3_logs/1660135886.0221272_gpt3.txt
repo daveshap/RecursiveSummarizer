@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of Indian Af16 fairs for fiscal year 2022, out of any money in the Treasury 17 not otherwise appropriated, $220,000,000, to remain avail18 able until September 30, 2031, for Tribal climate resilience 19 and adaptation programs. 20 (b) BUREAU OF INDIAN AFFAIRS FISH HATCH21 ERIES.In addition to amounts otherwise available, there 22 is appropriated to the Director of the Bureau of Indian Af23 fairs for fiscal year 2022, out of any money in the Treasury 24 not otherwise appropriated, $10,000,000, to remain avail25 able until September 30, 2031, for fish hatchery operations 26 and maintenance programs of the Bureau of Indian Affairs. 724  HR 5376 EAS 1 (c) ADMINISTRATION.In addition to amounts other2 wise available, there is appropriated to the Director of the 3 Bureau of Indian Affairs for fiscal year 2022, out of any 4 money in the Treasury not otherwise appropriated, 5 $5,000,000, to remain available until September 30, 2031, 6 for the administrative costs of carrying out this section. 7 (d) COST-SHARING AND MATCHING REQUIREMENTS. 8 None of the funds provided by this section shall be subject 9 to cost-sharing or matching requirements. 10 (e) SMALL AND NEEDY PROGRAM.Amounts made 11 available under this section shall be excluded from the cal12 culation of funds received by those Tribal governments that 13 participate in the Small and Needy program. 14 (f) DISTRIBUTION; USE OF FUNDS.Amounts made 15 available under this section that are distributed to Indian 16 Tribes and Tribal organizations for services pursuant to a 17 self-determination contract (as defined in subsection (j) of 18 section 4 of the Indian Self-Determination and Education 19 Assistance Act (25 U.S.C. 5304(j))) or a self-governance 20 compact entered into pursuant to subsection (a) of section 21 404 of the Indian Self-Determination and Education As22 sistance Act (25 U.S.C. 5364(a)) 23 (1) shall be distributed on a 1-time basis; 24 (2) shall not be part of the amount required by 25 subsections
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section appropriated $220 million for Indian Tribe climate resilience and adaptation programs, $10 million for fish hatchery operations and maintenance programs of the Bureau of Indian Affairs, and $5 million for the administrative costs of carrying out this section. These funds are to be available until September 30, 2031 and are not subject to cost-sharing or matching requirements.

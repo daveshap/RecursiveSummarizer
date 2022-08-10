@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+GENERAL.In the case of a tax12 payer making an election under section 6417 13 with respect to a credit under this section, the 14 amount of such credit shall be replaced with 15 (i) the value of such credit (deter16 mined without regard to this paragraph), 17 multiplied by 18 (ii) the applicable percentage. 19 (B) 100 PERCENT APPLICABLE PERCENT20 AGE FOR CERTAIN QUALIFIED FACILITIES.In 21 the case of any qualified facility 22 (i) which satisfies the requirements 23 under paragraph (11)(B), or 468  HR 5376 EAS 1 (ii) with a maximum net output of 2 less than 1 megawatt (as measured in alter3 nating current), 4 the applicable percentage shall be 100 percent. 5 (C) PHASED DOMESTIC CONTENT RE6 QUIREMENT.Subject to subparagraph (D), in 7 the case of any qualified facility which is not de8 scribed in subparagraph (B), the applicable per9 centage shall be 10 (i) if construction of such facility 11 began before January 1, 2024, 100 percent, 12 (ii) if construction of such facility 13 began in calendar year 2024, 90 percent, 14 (iii) if construction of such facility 15 began in calendar year 2025, 85 percent, 16 and 17 (iv) if construction of such facility 18 began after December 31, 2025, 0 percent. 19 (D) EXCEPTION. 20 (i) IN GENERAL.For purposes of 21 this paragraph, the Secretary shall provide 22 exceptions to the requirements under this 23 paragraph if 24 (I) the inclusion of steel, iron, or 25 manufactured products which are pro- 469  HR 5376 EAS 1 duced in the United States increases 2 the overall costs of construction of 3 qualified facilities by more than 25 4 percent, or 5 (II) relevant steel, iron, or man6 ufactured products are not produced in 7 the United States in sufficient and rea8 sonably available quantities or of a 9 satisfactory quality. 10 (ii) APPLICABLE PERCENTAGE.In 11 any case in which the Secretary provides an 12 exception pursuant to clause (i), the appli13 cable percentage shall be 100 percent.. 14 (b)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The amount of the tax credit for qualified facilities that elect to use it will be replaced with the value of the credit multiplied by the applicable percentage. For qualified facilities that satisfy certain requirements, the applicable percentage will be 100 percent. For other qualified facilities, the applicable percentage will be phased down from 100 percent to 0 percent depending on when construction of the facility began. Exceptions may be made if the inclusion of domestically produced steel, iron, or manufactured products would increase the overall costs of construction by more than 25 percent or if relevant domestically produced products are not available in sufficient quantities or of a satisfactory quality.

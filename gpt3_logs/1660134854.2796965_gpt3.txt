@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+graph: 6 (I) SECRETARIAL RESPONSIBIL7 ITIES.The Secretary shall provide in8 formation to part D eligible individ9 uals on the option to make such elec10 tion through educational materials, in11 cluding through the notices provided 12 under section 1804(a). 13 (II) TIMING OF ELECTION.An 14 enrollee in a prescription drug plan or 15 an MAPD plan may make such an 16 election 17 (aa) prior to the beginning 18 of the plan year; or 19 (bb) in any month during 20 the plan year. 21 (III) PDP SPONSOR AND MA OR22 GANIZATION RESPONSIBILITIES.Each 23 PDP sponsor offering a prescription 24 drug plan or MA organization offering 25 an MAPD plan 209  HR 5376 EAS 1 (aa) may not limit the op2 tion for an enrollee to make such 3 an election to certain covered part 4 D drugs; 5 (bb) shall, prior to the plan 6 year, notify prospective enrollees 7 of the option to make such an 8 election in promotional materials; 9 (cc) shall include informa10 tion on such option in enrollee 11 educational materials; 12 (dd) shall have in place a 13 mechanism to notify a pharmacy 14 during the plan year when an en15 rollee incurs out-of-pocket costs 16 with respect to covered part D 17 drugs that make it likely the en18 rollee may benefit from making 19 such an election; 20 (ee) shall provide that a 21 pharmacy, after receiving a noti22 fication described in item (dd) 23 with respect to an enrollee, in24 forms the enrollee of such notifica25 tion; 210  HR 5376 EAS 1 (ff) shall ensure that such 2 an election by an enrollee has no 3 effect on the amount paid to phar4 macies (or the timing of such pay5 ments) with respect to covered 6 part D drugs dispensed to the en7 rollee; and 8 (gg) shall have in place a fi9 nancial reconciliation process to 10 correct inaccuracies in payments 11 made by an enrollee under this 12 subparagraph with respect to cov13 ered part D drugs during the plan 14 year. 15 (IV) FAILURE TO PAY AMOUNT 16 BILLED.If an enrollee fails to pay 17 the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The graph indicates that enrollees in a prescription drug plan or an MAPD plan have the option to make an election prior to the beginning of the plan year or in any month during the plan year. PDP sponsors and MA organizations are responsible for informing enrollees of the option to make such an election and ensuring that enrollees are aware of the option when they incur out-of-pocket costs with respect to covered part D drugs. If an enrollee fails to pay the amount billed, the PDP sponsor or MA organization must have a financial reconciliation process in place to correct any inaccuracies in payments made by the enrollee during the plan year.

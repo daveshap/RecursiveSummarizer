@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+in accordance with subsection (b)(9).. 20 (b) CONFORMING AMENDMENTS TO COST-SHARING FOR 21 LOW-INCOME INDIVIDUALS.Section 1860D14(a) of the 22 Social Security Act (42 U.S.C. 1395w114(a)), as amended 23 by sections 11201, 11401, and 11404, is amended 24 (1) in paragraph (1) 234  HR 5376 EAS 1 (A) in subparagraph (D)(iii), by adding at 2 the end the following new sentence: For plan 3 year 2023 and subsequent plan years, the copay4 ment amount applicable under the preceding 5 sentence to a months supply of a covered insulin 6 product (as defined in section 1860D2(b)(9)(C)) 7 dispensed to the individual may not exceed the 8 applicable copayment amount for the product 9 under the prescription drug plan or MAPD 10 plan in which the individual is enrolled.; and 11 (B) in subparagraph (E), by inserting the 12 following before the period at the end: or under 13 section 1860D2(b)(9) in the case of a covered 14 insulin product (as defined in subparagraph (C) 15 of such section); and 16 (2) in paragraph (2) 17 (A) in subparagraph (B), by striking sec18 tion 1860D2(b)(8) and inserting paragraphs 19 (8) and (9) of section 1860D2(b); 20 (B) in subparagraph (D), by adding at the 21 end the following new sentence: For plan year 22 2023, the amount of the coinsurance applicable 23 under the preceding sentence to a months supply 24 of a covered insulin product (as defined in sec25 tion 1860D2(b)(9)(C)) dispensed to the indi- 235  HR 5376 EAS 1 vidual may not exceed the applicable copayment 2 amount for the product under the prescription 3 drug plan or MAPD plan in which the indi4 vidual is enrolled.; and 5 (C) in subparagraph (E), by adding at the 6 end the following new sentence: For plan year 7 2023, the amount of the copayment or coinsur8 ance applicable under the preceding sentence to 9 a months supply of a covered insulin product 10 (as defined in section 1860D2(b)(9)(C)) dis11 pensed to the individual may not exceed the ap12 plicable
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended to require that, for plan year 2023 and subsequent plan years, the copayment amount for a covered insulin product dispensed to a low-income individual may not exceed the applicable copayment amount for the product under the prescription drug plan or Medicare Advantage plan in which the individual is enrolled.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+under the preceding sentence is 25 not a multiple of 0.1 cent, such amount shall be 26 rounded to the nearest multiple of 0.1 cent. 323  HR 5376 EAS 1 (2) APPLICABLE PERCENTAGE.For purposes 2 of paragraph (1), the applicable percentage shall be 3 determined as follows: 4 (A) In the case of any qualified clean hy5 drogen which is produced through a process that 6 results in a lifecycle greenhouse gas emissions 7 rate of 8 (i) not greater than 4 kilograms of 9 CO2e per kilogram of hydrogen, and 10 (ii) not less than 2.5 kilograms of 11 CO2e per kilogram of hydrogen, 12 the applicable percentage shall be 20 percent. 13 (B) In the case of any qualified clean hy14 drogen which is produced through a process that 15 results in a lifecycle greenhouse gas emissions 16 rate of 17 (i) less than 2.5 kilograms of CO2e 18 per kilogram of hydrogen, and 19 (ii) not less than 1.5 kilograms of 20 CO2e per kilogram of hydrogen, 21 the applicable percentage shall be 25 percent. 22 (C) In the case of any qualified clean hy23 drogen which is produced through a process that 24 results in a lifecycle greenhouse gas emissions 25 rate of 324  HR 5376 EAS 1 (i) less than 1.5 kilograms of CO2e 2 per kilogram of hydrogen, and 3 (ii) not less than 0.45 kilograms of 4 CO2e per kilogram of hydrogen, 5 the applicable percentage shall be 33.4 percent. 6 (D) In the case of any qualified clean hy7 drogen which is produced through a process that 8 results in a lifecycle greenhouse gas emissions 9 rate of less than 0.45 kilograms of CO2e per kilo10 gram of hydrogen, the applicable percentage shall 11 be 100 percent. 12 (3) INFLATION ADJUSTMENT.The $0.60 13 amount in paragraph (1) shall be adjusted by multi14 plying such amount by the inflation adjustment fac15 tor (as determined under section 45(e)(2), determined 16 by substituting 2022 for 1992 in subparagraph (B) 17 thereof) for the calendar year in which the qualified 18 clean hydrogen is produced. If any amount as
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section describes the applicable percentage for the production of qualified clean hydrogen, which is determined according to the lifecycle greenhouse gas emissions rate. The amount is adjusted for inflation each year.

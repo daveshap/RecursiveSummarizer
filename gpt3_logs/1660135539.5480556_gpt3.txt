@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Credit Corporation, the agri8 cultural conservation easement program under sub9 title H of title XII of that Act (16 U.S.C. 3865 10 through 3865d) for easements or interests in land that 11 will most reduce, capture, avoid, or sequester carbon 12 dioxide, methane, or nitrous oxide emissions associ13 ated with land eligible for the program 14 (A) $100,000,000 for fiscal year 2023; 15 (B) $200,000,000 for fiscal year 2024; 16 (C) $500,000,000 for fiscal year 2025; and 17 (D) $600,000,000 for fiscal year 2026; and 18 (4) to carry out, using the facilities and authori19 ties of the Commodity Credit Corporation, the re20 gional conservation partnership program under sub21 title I of title XII of that Act (16 U.S.C. 3871 through 22 3871f) 23 (A)(i) $250,000,000 for fiscal year 2023; 24 (ii) $800,000,000 for fiscal year 2024; 542  HR 5376 EAS 1 (iii) $1,500,000,000 for fiscal year 2025; 2 and 3 (iv) $2,400,000,000 for fiscal year 2026; 4 and 5 (B) subject to the conditions on the use of 6 the funds that 7 (i) section 1271C(d)(2)(B) of the Food 8 Security Act of 1985 (16 U.S.C. 9 3871c(d)(2)(B)) shall not apply; and 10 (ii) the Secretary shall prioritize part11 nership agreements under section 1271C(d) 12 of the Food Security Act of 1985 (16 U.S.C. 13 3871c(d)) that support the implementation 14 of conservation projects that assist agricul15 tural producers and nonindustrial private 16 forestland owners in directly improving soil 17 carbon, reducing nitrogen losses, or reduc18 ing, capturing, avoiding, or sequestering 19 carbon dioxide, methane, or nitrous oxide 20 emissions, associated with agricultural pro21 duction. 22 (b) CONDITIONS.The funds made available under 23 subsection (a) are subject to the conditions that the Sec24 retary shall not 25 (1) enter into any agreement 543  HR 5376 EAS 1 (A) that is for a term extending beyond 2 September 30, 2031; or 3 (B) under which any payment could be 4 outlaid or funds disbursed after September 30, 5 2031; or 6 (2) use
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section authorizes funding for the Credit Corporation and the Commodity Credit Corporation to support conservation easements and regional conservation partnerships. Funds are authorized for fiscal years 2023-2026, and are to be used to support projects that improve soil carbon, reduce nitrogen losses, or reduce emissions of carbon dioxide, methane, or nitrous oxide.

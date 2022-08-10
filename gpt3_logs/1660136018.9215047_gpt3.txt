@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+means the taxable income of the taxpayer for the taxable year, determined with the adjustments provided in section 56 and section 58, and increased by the amount of the items of tax preference described in section 57. If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).  This clause amends the tax code to include a new section (56A) on adjusted financial statement income. Adjusted financial statement income is defined as the net income or loss of a corporation set forth on the corporation's applicable financial statement for the taxable year, adjusted as provided in this section. The section goes on to specify what an applicable financial statement is and how to make adjustments for consolidated financial statements and for dividends and other amounts.  If a taxpayer is a shareholder of one or more controlled foreign corporations, the taxpayer's adjusted financial statement income with respect to such controlled foreign corporation shall be adjusted to also take into account the taxpayer's pro rata share of items taken into account in computing the corporation's net income or loss.  The Foreign Investment in Real Property Tax Act of 1980 (the "Act") imposes a tax on the sale or exchange of certain foreign real property interests. The tax is imposed on the gain realized from the sale or exchange. The tax is imposed at a rate of 10 percent of the gain if the property is held for more than one year, and at a rate of 15 percent if the property is held for less than one year.  This section describes the treatment of current and deferred taxes for purposes of determining adjusted financial statement income. It also includes a special rule for cooperatives and a rule for disregarding income from entities owned by the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This clause amends the tax code to include a new section (56A) on adjusted financial statement income. Adjusted financial statement income is defined as the net income or loss of a corporation set forth on the corporation's applicable financial statement for the taxable year, adjusted as provided in this section. The section goes on to specify what an applicable financial statement is and how to make adjustments for consolidated financial statements and for dividends and other amounts. If a taxpayer is a shareholder of one or more controlled foreign corporations, the taxpayer's adjusted financial statement income with respect to such controlled foreign corporation shall be adjusted to also take into account the taxpayer's pro rata share of items taken into account in computing the corporation's net income or loss.

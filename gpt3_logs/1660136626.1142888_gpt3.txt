@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Services may delay the inclusion of a biosimilar biological product on the list of extended-monopoly drugs if the manufacturer requests a delay and it is determined that there is a high likelihood that the biosimilar product will be licensed and marketed before the selected drug's expiration date. The manufacturer must submit to the Secretary of Health and Human Services information and documents necessary for the Secretary to make determinations under this subsection, as specified by the Secretary and including, to the extent available, items described in subclause (III).  This section of the bill delays the inclusion of a biosimilar biological product on the list of selected drugs published under subsection (a) until the manufacturer of such biosimilar biological product pays a rebate under paragraph (4) with respect to the year for which such manufacturer would have provided access to a maximum fair price for such biological product.  The Secretary of Health and Human Services is authorized to delay the inclusion of a biological product on the list of selected drugs published under subsection (a) for no more than two years. In no case may the Secretary delay the inclusion of a biological product on the list published under subsection (a) if more than one year has elapsed since the biosimilar biological product has been licensed under section 351(k) of the Public Health Service Act and marketing has not commenced for such biosimilar biological product.  This section of the bill establishes the maximum fair price for a biological product and the amount of the rebate for such product. The fair price is increased as described in section 1195(b)(1)(A), and the number of units of the product is increased as well. If the product qualifies as a long-monopoly drug, the amount of the rebate is increased by 65 percent.  This section of the bill deals with rebates for Part B drugs. Part B rebatable drugs are defined as single-source drugs or biologicals (including biosimilar
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill delays the inclusion of a biosimilar biological product on the list of extended-monopoly drugs if the manufacturer requests a delay and it is determined that there is a high likelihood that the biosimilar product will be licensed and marketed before the expiration date of the selected drug. The manufacturer must submit information and documents to the Secretary of Health and Human Services to make determinations. This section also establishes the maximum fair price for a biological product and the amount of the rebate for such product.

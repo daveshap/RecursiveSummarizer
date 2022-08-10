@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Secretary of the 16 Interior for a new round of competitive bidding under that 17 subsection.; and 18 (C) by striking subsection (e) and inserting 19 the following: 20 (e) TERM OF LEASE. 21 (1) IN GENERAL.Any lease issued under this 22 section, including a lease for tar sand areas, shall be 23 for a primary term of 10 years. 24 (2) CONTINUATION OF LEASE.A lease de25 scribed in paragraph (1) shall continue after the pri- 647  HR 5376 EAS 1 mary term of the lease for any period during which 2 oil or gas is produced in paying quantities. 3 (3) ADDITIONAL EXTENSIONS.Any lease 4 issued under this section for land on which, or for 5 which under an approved cooperative or unit plan of 6 development or operation, actual drilling operations 7 were commenced and diligently prosecuted prior to 8 the end of the primary term of the lease shall be ex9 tended for 2 years and for any period thereafter dur10 ing which oil or gas is produced in paying quan11 tities.. 12 (2) CONFORMING AMENDMENTS.Section 31 of 13 the Mineral Leasing Act (30 U.S.C. 188) is amend14 ed 15 (A) in subsection (d)(1), in the first sen16 tence, by striking or section 17(c) of this Act; 17 (B) in subsection (e) 18 (i) in paragraph (2) 19 (I) by striking either; and 20 (II) by striking or the inclusion 21 and all that follows through , all; 22 and 23 (ii) in paragraph (3) 24 (I) in subparagraph (A), by add25 ing and after the semicolon; 648  HR 5376 EAS 1 (II) by striking subparagraph 2 (B); and 3 (III) by striking (3)(A) pay4 ment and inserting the following: 5 (3) payment; 6 (C) in subsection (g) 7 (i) in paragraph (1), by striking as a 8 competitive and all that follows through 9 of this Act and inserting in the same 10 manner as the original lease issued pursu11 ant to section 17; 12 (ii) by striking paragraph (2); 13 (iii) by redesignating paragraphs (3) 14 and (4) as paragraphs (2) and (3), respec15 tively; and 16 (iv) in paragraph (2) (as so
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Mineral Leasing Act is being amended so that leases issued under the Act will be for a primary term of 10 years, with the possibility of extensions if oil or gas is produced in paying quantities. Additionally, any lease for land on which drilling operations were commenced prior to the end of the primary term will be extended for 2 years.

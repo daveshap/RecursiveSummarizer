@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+that has been permanently shut-in and plugged in the 22 previous year in accordance with all applicable clo23 sure requirements, as determined by the Adminis24 trator. 693  HR 5376 EAS 1 (g) PERIOD.The charge under subsection (c) shall 2 be imposed and collected beginning with respect to emis3 sions reported for calendar year 2024 and for each year 4 thereafter. 5 (h) REPORTING.Not later than 2 years after the 6 date of enactment of this section, the Administrator shall 7 revise the requirements of subpart W of part 98 of title 40, 8 Code of Federal Regulations, to ensure the reporting under 9 such subpart, and calculation of charges under subsections 10 (e) and (f) of this section, are based on empirical data, in11 cluding data collected pursuant to subsection (a)(4), accu12 rately reflect the total methane emissions and waste emis13 sions from the applicable facilities, and allow owners and 14 operators of applicable facilities to submit empirical emis15 sions data, in a manner to be prescribed by the Adminis16 trator, to demonstrate the extent to which a charge under 17 subsection (c) is owed. 18 (i) DEFINITION OF GREENHOUSE GAS.In this sec19 tion, the term greenhouse gas means the air pollutants car20 bon dioxide, hydrofluorocarbons, methane, nitrous oxide, 21 perfluorocarbons, and sulfur hexafluoride.. 22 SEC. 60114. CLIMATE POLLUTION REDUCTION GRANTS. 23 The Clean Air Act is amended by inserting after sec24 tion 136 of such Act, as added by section 60113 of this Act, 25 the following: 694  HR 5376 EAS 1 SEC. 137. GREENHOUSE GAS AIR POLLUTION PLANS AND 2 IMPLEMENTATION GRANTS. 3 (a) APPROPRIATIONS. 4 (1) GREENHOUSE GAS AIR POLLUTION PLAN5 NING GRANTS.In addition to amounts otherwise 6 available, there is appropriated to the Administrator 7 for fiscal year 2022, out of any amounts in the Treas8 ury not otherwise appropriated, $250,000,000, to re9 main available until September 30, 2031, to carry 10 out subsection (b). 11 (2) GREENHOUSE
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Clean Air Act is amended by adding a new section, 137, which establishes greenhouse gas air pollution planning grants and implementation grants. $250 million is appropriated for fiscal year 2022 to carry out the program.

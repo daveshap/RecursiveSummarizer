@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+hereunder or interest herein may be assigned or transferred by Contractor without the express written consent of the Company. Any notice shall be addressed to the party being notified at the address set forth in this Agreement or such other address as either party may notify the other of and shall be deemed given upon delivery if personally delivered or transmitted via facsimile or reliable and recognized international carrier service with tracking capability (such as FedEx). This Agreement is in the English language only, and the English language version shall control in all respects. In the event that this Agreement is translated into another language, such translation shall not be binding upon the parties. This Agreement may be executed in counterparts, each of which will be deemed an original, but all of which taken together will constitute the same instrument. The Agreement may be executed and delivered by facsimile or PDF, which will have the same force and effect as original
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+This document is a contract between a company and a contractor. The contractor agrees not to assign or transfer any interest in this contract without the company's written consent. Any notice required by this contract must be sent to the party being notified at the address specified in the contract, and will be considered given once delivered or transmitted via facsimile or reliable international carrier service with tracking capability. This contract is only valid in the English language, and any translations of this document will not be binding on the parties. This contract may be executed in counterparts, each of which will be considered an original, but all of which taken together will constitute the same document. This contract may be executed and delivered by facsimile or PDF, which will have the same force and effect as an original.

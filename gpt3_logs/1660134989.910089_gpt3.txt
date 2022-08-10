@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(A) is part of a facility described in sec12 tion 45(d)(1) for which an election was made 13 under subsection (a)(5), or 14 (B) is described in clause (i) or (vi) of sub15 section (a)(3)(A), 16 including energy storage technology (as described in 17 subsection (a)(3)(A)(ix)) installed in connection with 18 such energy property. 19 (4) ALLOCATIONS. 20 (A) IN GENERAL.Not later than 180 21 days after the date of enactment of this sub22 section, the Secretary shall establish a program 23 to allocate amounts of environmental justice 24 solar and wind capacity limitation to qualified 25 solar and wind facilities. In establishing such 289  HR 5376 EAS 1 program and to carry out the purposes of this 2 subsection, the Secretary shall provide procedures 3 to allow for an efficient allocation process, in4 cluding, when determined appropriate, consider5 ation of multiple projects in a single application 6 if such projects will be placed in service by a sin7 gle taxpayer. 8 (B) LIMITATION.The amount of environ9 mental justice solar and wind capacity limita10 tion allocated by the Secretary under subpara11 graph (A) during any calendar year shall not 12 exceed the annual capacity limitation with re13 spect to such year. 14 (C) ANNUAL CAPACITY LIMITATION.For 15 purposes of this paragraph, the term annual ca16 pacity limitation means 1.8 gigawatts of direct 17 current capacity for each of calendar years 2023 18 and 2024, and zero thereafter. 19 (D) CARRYOVER OF UNUSED LIMITA20 TION.If the annual capacity limitation for any 21 calendar year exceeds the aggregate amount allo22 cated for such year under this paragraph, such 23 limitation for the succeeding calendar year shall 24 be increased by the amount of such excess. No 25 amount may be carried under the preceding sen- 290  HR 5376 EAS 1 tence to any calendar year after 2024 except as 2 provided in section 48E(h)(4)(D)(ii). 3 (E) PLACED IN SERVICE DEADLINE. 4 (i) IN GENERAL.Paragraph (1) 5 shall not
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Energy will establish a program to allocate environmental justice solar and wind capacity limitation to qualified solar and wind facilities. The amount of environmental justice solar and wind capacity limitation allocated by the Secretary under this program shall not exceed the annual capacity limitation with respect to such year. The annual capacity limitation for any calendar year shall not exceed 1.8 gigawatts of direct current capacity for each of calendar years 2023 and 2024, and zero thereafter. If the annual capacity limitation for any calendar year exceeds the aggregate amount allocated for such year under this program, such limitation for the succeeding calendar year shall be increased by the amount of such excess.

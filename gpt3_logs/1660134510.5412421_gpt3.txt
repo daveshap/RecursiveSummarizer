@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+are equal to or less than 1 7 percent of the total expenditures under 8 such part B, as so determined, for all 9 qualifying single source drugs for 10 which payment may be made under 11 such part B during such year; and 12 (II) are equal to at least 80 per13 cent of the total expenditures under 14 such part B, as so determined, for all 15 qualifying single source drugs of the 16 manufacturer for which payment may 17 be made under such part B during 18 such year. 19 (B) CLARIFICATIONS RELATING TO MANU20 FACTURERS. 21 (i) AGGREGATION RULE.All persons 22 treated as a single employer under sub23 section (a) or (b) of section 52 of the Inter24 nal Revenue Code of 1986 shall be treated 56  HR 5376 EAS 1 as one manufacturer for purposes of this 2 paragraph. 3 (ii) LIMITATION.A drug shall not be 4 considered to be a qualifying single source 5 drug described in clause (i) or (ii) of sub6 paragraph (A) if the manufacturer of such 7 drug is acquired after 2021 by another 8 manufacturer that does not meet the defini9 tion of a specified manufacturer under sec10 tion 1860D14C(g)(4)(B)(ii), effective at the 11 beginning of the plan year immediately fol12 lowing such acquisition or, in the case of an 13 acquisition before 2025, effective January 1, 14 2025. 15 (C) DRUGS NOT INCLUDED AS SMALL 16 BIOTECH DRUGS.A new formulation, such as 17 an extended release formulation, of a qualifying 18 single source drug shall not be considered a 19 qualifying single source drug described in sub20 paragraph (A). 21 (3) CLARIFICATIONS AND DETERMINATIONS. 22 (A) PREVIOUSLY SELECTED DRUGS AND 23 SMALL BIOTECH DRUGS EXCLUDED.In apply24 ing subparagraphs (A) and (B) of paragraph 25 (1), the Secretary shall not consider or count 57  HR 5376 EAS 1 (i) drugs that are already selected 2 drugs; and 3 (ii) for initial price applicability 4 years 2026, 2027, and 2028, qualifying sin5 gle source drugs described in paragraph 6 (2)(A). 7 (B) USE OF DATA.In determining 8 whether
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill clarifies that certain drugs will not be counted towards the total number of qualifying single source drugs for a manufacturer, and that the Secretary shall use data from the previous year to determine whether a manufacturer meets the requirements for selection.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(37), by striking the pe16 riod at the end and inserting , plus, and 17 (C) by adding at the end the following new 18 paragraph: 19 (38) the advanced manufacturing production 20 credit determined under section 45X(a).. 21 (2) The table of sections for subpart D of part 22 IV of subchapter A of chapter 1, as amended by the 23 preceding provisions of this Act, is amended by add24 ing at the end the following new item: Sec. 45X. Advanced manufacturing production credit.. 447  HR 5376 EAS 1 (c) EFFECTIVE DATE.The amendments made by this 2 section shall apply to components produced and sold after 3 December 31, 2022. 4 PART 6SUPERFUND 5 SEC. 13601. REINSTATEMENT OF SUPERFUND. 6 (a) HAZARDOUS SUBSTANCE SUPERFUND FINANCING 7 RATE. 8 (1) EXTENSION.Section 4611 is amended by 9 striking subsection (e). 10 (2) ADJUSTMENT FOR INFLATION. 11 (A) Section 4611(c)(2)(A) is amended by 12 striking 9.7 cents and inserting 16.4 cents. 13 (B) Section 4611(c) is amended by adding 14 at the end the following: 15 (3) ADJUSTMENT FOR INFLATION. 16 (A) IN GENERAL.In the case of a year 17 beginning after 2023, the amount in paragraph 18 (2)(A) shall be increased by an amount equal 19 to 20 (i) such amount, multiplied by 21 (ii) the cost-of-living adjustment de22 termined under section 1(f)(3) for the cal23 endar year, determined by substituting cal24 endar year 2022 for calendar year 2016 25 in subparagraph (A)(ii) thereof. 448  HR 5376 EAS 1 (B) ROUNDING.If any amount as ad2 justed under subparagraph (A) is not a multiple 3 of $0.01, such amount shall be rounded to the 4 next lowest multiple of $0.01.. 5 (b) AUTHORITY FOR ADVANCES.Section 6 9507(d)(3)(B) is amended by striking December 31, 1995 7 and inserting December 31, 2032. 8 (c) EFFECTIVE DATE.The amendments made by this 9 section shall take effect on January 1, 2023. 10 PART 7INCENTIVES FOR CLEAN ELECTRICITY 11 AND CLEAN TRANSPORTATION 12 SEC. 13701. CLEAN ELECTRICITY PRODUCTION
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Internal Revenue Code to extend and adjust the hazardous substance Superfund financing rate, and to authorize advances under the Superfund. It also incentivizes clean electricity production and clean transportation.

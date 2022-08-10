@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the reported metric tons of methane emissions from such facility that exceed the thresholds specified in subsection (c). With respect to imposing and collecting the charge under subsection (c) for an applicable facility in an industry segment listed in paragraph (1) or (2) of subsection (d), the Administrator shall impose and collect the charge on the reported metric tons of methane emissions from such facility that exceed 0.20 percent of the natural gas sent to sale from such facility; or 10 metric tons of methane per million barrels of oil sent to sale from such facility, if such facility sent no natural gas to sale.  The proposed rule would exempt emissions that exceed the waste emissions threshold if they are caused by unreasonable delay in environmental permitting of gathering or transmission infrastructure necessary for offtake of increased volume as a result of methane emissions mitigation implementation. Additionally, the proposed rule would exempt an applicable facility from the charge if the facility is subject to and in compliance with methane emissions requirements and if compliance with those requirements will result in equivalent or greater emissions reductions. Finally, the proposed rule would exempt emissions from any well that has been plugged in accordance with applicable regulations.  The Clean Air Act is amended by adding a new section, 137, which establishes greenhouse gas air pollution planning grants and implementation grants. $250 million is appropriated for fiscal year 2022 to carry out the program.  The Gas Air Pollution Implementation Grants program appropriates $4.75 billion to the EPA for grants to states to develop and implement plans to reduce greenhouse gas air pollution. The program includes provisions for technical assistance, modeling, and administrative costs.  The EPA will receive $40 million to improve its permitting and approval processes, with the goal of reducing greenhouse gas emissions by 24% in total and by 25% in low-
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The proposed rule would exempt emissions that exceed the waste emissions threshold if they are caused by unreasonable delay in environmental permitting of gathering or transmission infrastructure necessary for offtake of increased volume as a result of methane emissions mitigation implementation. Additionally, the proposed rule would exempt an applicable facility from the charge if the facility is subject to and in compliance with methane emissions requirements and if compliance with those requirements will result in equivalent or greater emissions reductions. Finally, the proposed rule would exempt emissions from any well that has been plugged in accordance with applicable regulations.

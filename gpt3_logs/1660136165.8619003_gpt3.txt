@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+increases the overall costs of construction of qualified facilities by more than 25 percent. Relevant steel, iron, or manufactured products must be produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality. If the Secretary provides an exception, the applicable percentage shall be 100 percent. In the case of a qualified facility which is located in an energy community, the credit determined under subsection (a) shall be increased by an amount equal to 10 percent of the amount so determined.  The electric generating unit has been retired, or which is directly adjoining to any census tract described in subclause (I). The credit determined under subsection (a) with respect to any facility for any taxable year shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of 15 percent or a fraction (A) the numerator of which is the sum, for the taxable year and all prior taxable years, of proceeds of an issue of any obligations the interest on which is exempt from tax under section 103 and which is used to provide financing for the qualified facility, and (B) the denominator of which is the aggregate amount of additions to the capital account for the qualified facility for the taxable year and all prior taxable years. If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.  The energy credit is extended and modified by this section. The credit is extended to facilities placed in service after December 31, 2025. The credit is further extended for certain energy property.  This section amends section 48(a) of the Internal Revenue Code to phase out the credit for certain energy property and to reduce the credit
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends section 48(a) of the Internal Revenue Code to phase out the credit for certain energy property and to reduce the credit. The credit is extended to facilities placed in service after December 31, 2025. The credit is further extended for certain energy property.

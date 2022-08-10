@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+percentage of the value of the com15 ponents contained in such battery that were 16 manufactured or assembled in North America is 17 equal to or greater than the applicable percent18 age (as certified by the qualified manufacturer, 19 in such form or manner as prescribed by the Sec20 retary). 21 (B) APPLICABLE PERCENTAGE.For pur22 poses of subparagraph (A), the applicable per23 centage shall be 24 (i) in the case of a vehicle placed in 25 service after the date on which the proposed 380  HR 5376 EAS 1 guidance described in paragraph (3)(B) is 2 issued by the Secretary and before January 3 1, 2024, 50 percent, 4 (ii) in the case of a vehicle placed in 5 service during calendar year 2024 or 2025, 6 60 percent, 7 (iii) in the case of a vehicle placed in 8 service during calendar year 2026, 70 per9 cent, 10 (iv) in the case of a vehicle placed in 11 service during calendar year 2027, 80 per12 cent, 13 (v) in the case of a vehicle placed in 14 service during calendar year 2028, 90 per15 cent, 16 (vi) in the case of a vehicle placed in 17 service after December 31, 2028, 100 per18 cent. 19 (3) REGULATIONS AND GUIDANCE. 20 (A) IN GENERAL.The Secretary shall 21 issue such regulations or other guidance as the 22 Secretary determines necessary to carry out the 23 purposes of this subsection, including regulations 24 or other guidance which provides for require25 ments for recordkeeping or information reporting 381  HR 5376 EAS 1 for purposes of administering the requirements of 2 this subsection. 3 (B) DEADLINE FOR PROPOSED GUID4 ANCE.Not later than December 31, 2022, the 5 Secretary shall issue proposed guidance with re6 spect to the requirements under this subsection.. 7 (2) EXCLUDED ENTITIES.Section 30D(d), as 8 amended by the preceding provisions of this section, 9 is amended by adding at the end the following: 10 (7) EXCLUDED ENTITIES.For purposes of this 11 section, the term new clean vehicle shall not in12 clude 13 (A) any vehicle
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Clean Air Act to require that a certain percentage of the value of components in a new clean vehicle battery be manufactured or assembled in North America in order for the vehicle to qualify for certain emissions credits. The applicable percentage will increase over time, reaching 100 percent by 2028. The Secretary of Transportation will issue regulations or other guidance as necessary to carry out the requirements of this section.

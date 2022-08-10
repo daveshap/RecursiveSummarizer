@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+pro16 duced in the United States increases 17 the overall costs of construction of 18 qualified facilities by more than 25 19 percent, or 20 (II) relevant steel, iron, or man21 ufactured products are not produced in 22 the United States in sufficient and rea23 sonably available quantities or of a 24 satisfactory quality. 258  HR 5376 EAS 1 (ii) APPLICABLE PERCENTAGE.In 2 any case in which the Secretary provides an 3 exception pursuant to clause (i), the appli4 cable percentage shall be 100 percent. 5 (11) SPECIAL RULE FOR QUALIFIED FACILITY 6 LOCATED IN ENERGY COMMUNITY. 7 (A) IN GENERAL.In the case of a quali8 fied facility which is located in an energy com9 munity, the credit determined under subsection 10 (a) (determined after the application of para11 graphs (1) through (10), without the application 12 of paragraph (9)) shall be increased by an 13 amount equal to 10 percent of the amount so de14 termined. 15 (B) ENERGY COMMUNITY.For purposes 16 of this paragraph, the term energy community 17 means 18 (i) a brownfield site (as defined in 19 subparagraphs (A), (B), and (D)(ii)(III) of 20 section 101(39) of the Comprehensive Envi21 ronmental Response, Compensation, and Li22 ability Act of 1980 (42 U.S.C. 9601(39))), 23 (ii) a metropolitan statistical area or 24 non-metropolitan statistical area which 259  HR 5376 EAS 1 (I) has (or, at any time during 2 the period beginning after December 3 31, 2009, had) 0.17 percent or greater 4 direct employment or 25 percent or 5 greater local tax revenues related to the 6 extraction, processing, transport, or 7 storage of coal, oil, or natural gas (as 8 determined by the Secretary), and 9 (II) has an unemployment rate 10 at or above the national average unem11 ployment rate for the previous year (as 12 determined by the Secretary), or 13 (iii) a census tract 14 (I) in which 15 (aa) after December 31, 16 1999, a coal mine has closed, or 17 (bb) after December 31, 18 2009, a coal-fired
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Credit for Production of Advanced Energy Property in the United States increases the overall costs of construction of qualified facilities by more than 25 percent. Relevant steel, iron, or manufactured products must be produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality. If the Secretary provides an exception, the applicable percentage shall be 100 percent. In the case of a qualified facility which is located in an energy community, the credit determined under subsection (a) shall be increased by an amount equal to 10 percent of the amount so determined.

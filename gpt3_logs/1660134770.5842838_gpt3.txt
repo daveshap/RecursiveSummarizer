@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+16 such allowable reinsurance costs attributable 17 to that portion of gross covered prescription 18 drug costs as specified in paragraph (3) in19 curred in the coverage year after such indi20 vidual has incurred costs that exceed the an21 nual out-of-pocket threshold specified in sec22 tion 1860D2(b)(4)(B).; 23 (2) in paragraph (2) 24 (A) by striking COSTS.For purposes 25 and inserting COSTS. 169  HR 5376 EAS 1 (A) IN GENERAL.Subject to subpara2 graph (B), for purposes; and 3 (B) by adding at the end the following new 4 subparagraph: 5 (B) INCLUSION OF MANUFACTURER DIS6 COUNTS ON APPLICABLE DRUGS.For purposes 7 of applying subparagraph (A), the term allow8 able reinsurance costs shall include the portion 9 of the negotiated price (as defined in section 10 1860D14C(g)(6)) of an applicable drug (as de11 fined in section 1860D14C(g)(2)) that was paid 12 by a manufacturer under the manufacturer dis13 count program under section 1860D14C.; and 14 (3) in paragraph (3) 15 (A) in the first sentence, by striking For 16 purposes and inserting Subject to paragraph 17 (2)(B), for purposes; and 18 (B) in the second sentence, by inserting 19 (or, with respect to 2025 and subsequent years, 20 in the case of an applicable drug, as defined in 21 section 1860D14C(g)(2), by a manufacturer) 22 after by the individual or under the plan. 23 (c) MANUFACTURER DISCOUNT PROGRAM. 24 (1) IN GENERAL.Part D of title XVIII of the 25 Social Security Act (42 U.S.C. 1395w101 through 170  HR 5376 EAS 1 42 U.S.C. 1395w153), as amended by section 11102, 2 is amended by inserting after section 1860D14B the 3 following new sections: 4 SEC. 1860D14C. MANUFACTURER DISCOUNT PROGRAM. 5 (a) ESTABLISHMENT.The Secretary shall establish 6 a manufacturer discount program (in this section referred 7 to as the program). Under the program, the Secretary shall 8 enter into agreements described in subsection (b) with man9 ufacturers and provide for the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The manufacturer discount program is established in order to provide discounts on applicable drugs to individuals who have incurred costs that exceed the annual out-of-pocket threshold. Under the program, manufacturers will agree to provide the discounts and the Secretary will make payments to the manufacturers for the difference between the negotiated price and the applicable drug's retail price.

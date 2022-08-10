@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(as determined under sub15 paragraph (C)) of the total costs of all such 16 manufactured products of such facility are 17 attributable to manufactured products (in18 cluding components) which are mined, pro19 duced, or manufactured in the United 20 States. 21 (C) ADJUSTED PERCENTAGE. 22 (i) IN GENERAL.Subject to sub23 clause (ii), for purposes of subparagraph 24 (B)(iii), the adjusted percentage shall be 40 25 percent. 256  HR 5376 EAS 1 (ii) OFFSHORE WIND FACILITY.For 2 purposes of subparagraph (B)(iii), in the 3 case of a qualified facility which is an off4 shore wind facility, the adjusted percentage 5 shall be 20 percent. 6 (10) PHASEOUT FOR ELECTIVE PAYMENT. 7 (A) IN GENERAL.In the case of a tax8 payer making an election under section 6417 9 with respect to a credit under this section, the 10 amount of such credit shall be replaced with 11 (i) the value of such credit (deter12 mined without regard to this paragraph), 13 multiplied by 14 (ii) the applicable percentage. 15 (B) 100 PERCENT APPLICABLE PERCENT16 AGE FOR CERTAIN QUALIFIED FACILITIES.In 17 the case of any qualified facility 18 (i) which satisfies the requirements 19 under paragraph (9)(B), or 20 (ii) with a maximum net output of 21 less than 1 megawatt (as measured in alter22 nating current), 23 the applicable percentage shall be 100 percent. 24 (C) PHASED DOMESTIC CONTENT RE25 QUIREMENT.Subject to subparagraph (D), in 257  HR 5376 EAS 1 the case of any qualified facility which is not de2 scribed in subparagraph (B), the applicable per3 centage shall be 4 (i) if construction of such facility 5 began before January 1, 2024, 100 percent, 6 and 7 (ii) if construction of such facility 8 began in calendar year 2024, 90 percent. 9 (D) EXCEPTION. 10 (i) IN GENERAL.For purposes of 11 this paragraph, the Secretary shall provide 12 exceptions to the requirements under this 13 paragraph if 14 (I) the inclusion of steel, iron, or 15 manufactured products which are
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill deals with the tax credit for certain qualified facilities. The credit is equal to 30% of the costs of the facility, and is phased out for facilities that do not have a certain percentage of their components manufactured in the United States.

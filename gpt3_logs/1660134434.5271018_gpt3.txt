@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+treatment of current and deferred taxes for purposes 8 of this paragraph, including the time at which such 9 taxes are properly taken into account. 10 (6) ADJUSTMENT WITH RESPECT TO DIS11 REGARDED ENTITIES.Adjusted financial statement 12 income shall be adjusted to take into account any ad13 justed financial statement income of a disregarded en14 tity owned by the taxpayer. 15 (7) SPECIAL RULE FOR COOPERATIVES.In the 16 case of a cooperative to which section 1381 applies, 17 the adjusted financial statement income (determined 18 without regard to this paragraph) shall be reduced by 19 the amounts referred to in section 1382(b) (relating to 20 patronage dividends and per-unit retain allocations) 21 to the extent such amounts were not otherwise taken 22 into account in determining adjusted financial state23 ment income. 19  HR 5376 EAS 1 (8) RULES FOR ALASKA NATIVE CORPORA2 TIONS.Adjusted financial statement income shall be 3 appropriately adjusted to allow 4 (A) cost recovery and depletion attrib5 utable to property the basis of which is deter6 mined under section 21(c) of the Alaska Native 7 Claims Settlement Act (43 U.S.C. 1620(c)), and 8 (B) deductions for amounts payable made 9 pursuant to section 7(i) or section 7(j) of such 10 Act (43 U.S.C. 1606(i) and 1606(j)) only at such 11 time as the deductions are allowed for tax pur12 poses. 13 (9) AMOUNTS ATTRIBUTABLE TO ELECTIONS 14 FOR DIRECT PAYMENT OF CERTAIN CREDITS.Ad15 justed financial statement income shall be appro16 priately adjusted to disregard any amount treated as 17 a payment against the tax imposed by subtitle A pur18 suant to an election under section 48D(d) or 6417, to 19 the extent such amount was not otherwise taken into 20 account under paragraph (5). 21 (10) CONSISTENT TREATMENT OF MORTGAGE 22 SERVICING INCOME OF TAXPAYER OTHER THAN A 23 REGULATED INVESTMENT COMPANY. 24 (A) IN GENERAL.Adjusted financial 25 statement income shall be adjusted so as not to 20  HR 5376 EAS 1
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section describes the treatment of current and deferred taxes for purposes of determining adjusted financial statement income. It also includes a special rule for cooperatives and a rule for disregarding income from entities owned by the taxpayer.

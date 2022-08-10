@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+this section. 8 SEC. 60105. FUNDING TO ADDRESS AIR POLLUTION. 9 (a) FENCELINE AIR MONITORING AND SCREENING AIR 10 MONITORING.In addition to amounts otherwise available, 11 there is appropriated to the Administrator of the Environ12 mental Protection Agency for fiscal year 2022, out of any 13 money in the Treasury not otherwise appropriated, 14 $117,500,000, to remain available until September 30, 15 2031, for grants and other activities authorized under sub16 sections (a) through (c) of section 103 and section 105 of 17 the Clean Air Act (42 U.S.C. 7403(a)(c), 7405) to deploy, 18 integrate, support, and maintain fenceline air monitoring, 19 screening air monitoring, national air toxics trend stations, 20 and other air toxics and community monitoring. 21 (b) MULTIPOLLUTANT MONITORING STATIONS.In 22 addition to amounts otherwise available, there is appro23 priated to the Administrator of the Environmental Protec24 tion Agency for fiscal year 2022, out of any money in the 25 Treasury not otherwise appropriated, $50,000,000, to re- 673  HR 5376 EAS 1 main available until September 30, 2031, for grants and 2 other activities authorized under subsections (a) through (c) 3 of section 103 and section 105 of the Clean Air Act (42 4 U.S.C. 7403(a)(c), 7405) 5 (1) to expand the national ambient air quality 6 monitoring network with new multipollutant moni7 toring stations; and 8 (2) to replace, repair, operate, and maintain ex9 isting monitors. 10 (c) AIR QUALITY SENSORS IN LOW-INCOME AND DIS11 ADVANTAGED COMMUNITIES.In addition to amounts oth12 erwise available, there is appropriated to the Administrator 13 of the Environmental Protection Agency for fiscal year 14 2022, out of any money in the Treasury not otherwise ap15 propriated, $3,000,000, to remain available until Sep16 tember 30, 2031, for grants and other activities authorized 17 under subsections (a) through (c) of section 103 and section 18 105 of the Clean Air Act (42 U.S.C. 7403(a)(c), 7405) to 19 deploy,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $117,500,000 for fenceline air monitoring and screening air monitoring, $50,000,000 for multipollutant monitoring stations, and $3,000,000 for air quality sensors in low-income and disadvantaged communities.

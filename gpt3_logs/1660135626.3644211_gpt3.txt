@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(II) 50 percent of the project cost; 21 (ii) in the case of a retrofit that 22 achieves modeled energy system savings of 23 not less than 35 percent, the lesser of 24 (I) $4,000; and 588  HR 5376 EAS 1 (II) 50 percent of the project cost; 2 and 3 (iii) for measured energy savings, in 4 the case of a home or portfolio of homes that 5 achieves energy savings of not less than 15 6 percent 7 (I) a payment rate per kilowatt 8 hour saved, or kilowatt hour-equivalent 9 saved, equal to $2,000 for a 20 percent 10 reduction of energy use for the average 11 home in the State; or 12 (II) 50 percent of the project cost; 13 (B) for multifamily building owners and 14 aggregators carrying out energy efficiency up15 grades of multifamily buildings 16 (i) in the case of a retrofit that 17 achieves modeled energy system savings of 18 not less than 20 percent but less than 35 19 percent, $2,000 per dwelling unit, with a 20 maximum of $200,000 per multifamily 21 building; 22 (ii) in the case of a retrofit that 23 achieves modeled energy system savings of 24 not less than 35 percent, $4,000 per dwell- 589  HR 5376 EAS 1 ing unit, with a maximum of $400,000 per 2 multifamily building; or 3 (iii) for measured energy savings, in 4 the case of a multifamily building or port5 folio of multifamily buildings that achieves 6 energy savings of not less than 15 percent 7 (I) a payment rate per kilowatt 8 hour saved, or kilowatt hour-equivalent 9 saved, equal to $2,000 for a 20 percent 10 reduction of energy use per dwelling 11 unit for the average multifamily build12 ing in the State; or 13 (II) 50 percent of the project cost; 14 and 15 (C) for individuals and aggregators car16 rying out energy efficiency upgrades of a single17 family home occupied by a low- or moderate-in18 come household or a multifamily building not 19 less than 50 percent of the dwelling units of 20 which are occupied by low- or moderate-income 21 households 22 (i) in the case of a retrofit that 23 achieves modeled
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section outlines the payments that may be made for energy efficiency upgrades carried out by individuals, building owners, and aggregators. For single family homes, the payment is either $2,000 per kilowatt hour saved or 50% of the project cost, whichever is less. For multifamily buildings, the payment is either $2,000 per dwelling unit or 50% of the project cost, whichever is less. For low- or moderate-income households, the payment is either $2,000 per kilowatt hour saved or 50% of the project cost, whichever is less.

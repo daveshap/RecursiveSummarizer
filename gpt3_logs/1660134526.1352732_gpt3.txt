@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+order for the manufacturer to provide ac21 cess to such price 22 (A) to maximum fair price eligible indi23 viduals who with respect to such drug are de24 scribed in subparagraph (A) of section 25 1191(c)(2) and are dispensed such drug (and to 63  HR 5376 EAS 1 pharmacies, mail order services, and other dis2 pensers, with respect to such maximum fair 3 price eligible individuals who are dispensed such 4 drugs) during, subject to paragraph (2), the 5 price applicability period; and 6 (B) to hospitals, physicians, and other 7 providers of services and suppliers with respect 8 to maximum fair price eligible individuals who 9 with respect to such drug are described in sub10 paragraph (B) of such section and are furnished 11 or administered such drug during, subject to 12 paragraph (2), the price applicability period; 13 (2) the Secretary and the manufacturer shall, 14 in accordance with section 1194, renegotiate (and, by 15 not later than the last date of the period of renegoti16 ation, agree to) the maximum fair price for such 17 drug, in order for the manufacturer to provide access 18 to such maximum fair price (as so renegotiated) 19 (A) to maximum fair price eligible indi20 viduals who with respect to such drug are de21 scribed in subparagraph (A) of section 22 1191(c)(2) and are dispensed such drug (and to 23 pharmacies, mail order services, and other dis24 pensers, with respect to such maximum fair 25 price eligible individuals who are dispensed such 64  HR 5376 EAS 1 drugs) during any year during the price appli2 cability period (beginning after such renegoti3 ation) with respect to such selected drug; and 4 (B) to hospitals, physicians, and other 5 providers of services and suppliers with respect 6 to maximum fair price eligible individuals who 7 with respect to such drug are described in sub8 paragraph (B) of such section and are furnished 9 or administered such drug during any year de10 scribed in subparagraph (A); 11 (3) subject to subsection
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill requires manufacturers to provide access to maximum fair prices for drugs to certain eligible individuals and entities during the price applicability period. The Secretary of Health and Human Services and the manufacturer must renegotiate the maximum fair price for the drug at the end of the period, in order for the manufacturer to provide access to the newly negotiated price during the following year.

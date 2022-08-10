@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Regulations. 22 (7) PROHIBITION ON COMBINING REBATES.A 23 rebate provided by a State energy office under a 24 HOMES rebate program may not be combined with 25 any other Federal grant or rebate, including a rebate 592  HR 5376 EAS 1 provided under a high-efficiency electric home rebate 2 program (as defined in section 50122(d)), for the 3 same single upgrade. 4 (d) DEFINITIONS.In this section: 5 (1) DISADVANTAGED COMMUNITY.The term 6 disadvantaged community means a community 7 that the Secretary determines, based on appropriate 8 data, indices, and screening tools, is economically, so9 cially, or environmentally disadvantaged. 10 (2) HOMES REBATE PROGRAM.The term 11 HOMES rebate program means a Home Owner 12 Managing Energy Savings rebate program established 13 by a State energy office as part of an approved State 14 energy conservation plan under the State Energy 15 Program. 16 (3) LOW- OR MODERATE-INCOME HOUSEHOLD. 17 The term low- or moderate-income household means 18 an individual or family the total annual income of 19 which is less than 80 percent of the median income 20 of the area in which the individual or family resides, 21 as reported by the Department of Housing and Urban 22 Development, including an individual or family that 23 has demonstrated eligibility for another Federal pro24 gram with income restrictions equal to or below 80 25 percent of area median income. 593  HR 5376 EAS 1 SEC. 50122. HIGH-EFFICIENCY ELECTRIC HOME REBATE 2 PROGRAM. 3 (a) APPROPRIATIONS. 4 (1) FUNDS TO STATE ENERGY OFFICES AND IN5 DIAN TRIBES.In addition to amounts otherwise 6 available, there is appropriated to the Secretary for 7 fiscal year 2022, out of any money in the Treasury 8 not otherwise appropriated, to carry out a program 9 (A) to award grants to State energy offices 10 to develop and implement a high-efficiency elec11 tric home rebate program in accordance with 12 subsection (c), $4,275,000,000, to remain avail13 able through September 30,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Energy will provide $4,275,000,000 in grants to State energy offices to develop and implement high-efficiency electric home rebate programs. The programs must be in accordance with guidelines set forth in the text, and the funds will remain available through September 30, 2022.

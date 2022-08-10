@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Revenue Code of 1986 shall be treated as one manufacturer. A manufacturer described in this clause shall not be considered a "specified manufacturer" if such manufacturer is acquired after 2021 by another manufacturer that is not a specified manufacturer. The "specified LIS percent" is the percentage of applicable drugs dispensed to low-income subsidy (LIS) beneficiaries that are produced by specified manufacturers.  The term "discounted price" means the specified small manufacturer percentage of the negotiated price of the applicable drug of the manufacturer. The term "specified small manufacturer" means a manufacturer of an applicable drug for which, in 2021, the manufacturer is a specified manufacturer (as defined in subparagraph (B)(ii)) and the total expenditures under part D for any one of the specified small manufacturer drugs of the manufacturer that are covered by the agreement or agreements under section 1860D 14A of such manufacturer for such year and covered under this part during such year are equal to or more than 80 percent of the total expenditures under this part for all specified small manufacturer drugs of the manufacturer that are covered by such agreement or agreements for such year and covered under this part during such year.  This section defines "drugs" for purposes of the Medicare Part D prescription drug benefit, and establishes a percentage threshold for specified small manufacturers. The threshold is used to determine whether a manufacturer's drugs will be subject to price controls under the benefit.  The Affordable Care Act requires drug manufacturers to provide discounts on certain covered drugs to Medicare Part D enrollees. The discounts are tiered, with the largest discounts available to those enrollees with the highest out-of-pocket costs. The law also requires manufacturers to provide discounts on drugs for beneficiaries who reach the Part D coverage gap.  The Secretary of Health and Human Services will provide a subsidy to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the Revenue Code of 1986 defines "drugs" for purposes of the Medicare Part D prescription drug benefit and establishes a percentage threshold for specified small manufacturers. The threshold is used to determine whether a manufacturer's drugs will be subject to price controls under the benefit.

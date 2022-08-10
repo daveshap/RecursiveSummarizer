@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of the duties de2 scribed in subsection (c). 3 (2) LIMITATION.In providing for the imple4 mentation of this section, the Secretary shall not re5 ceive or distribute any funds of a manufacturer under 6 the program. 7 (e) CIVIL MONEY PENALTY. 8 (1) IN GENERAL.A manufacturer that fails to 9 provide discounted prices for applicable drugs of the 10 manufacturer dispensed to applicable beneficiaries in 11 accordance with an agreement in effect under this sec12 tion shall be subject to a civil money penalty for each 13 such failure in an amount the Secretary determines 14 is equal to the sum of 15 (A) the amount that the manufacturer 16 would have paid with respect to such discounts 17 under the agreement, which will then be used to 18 pay the discounts which the manufacturer had 19 failed to provide; and 20 (B) 25 percent of such amount. 21 (2) APPLICATION.The provisions of section 22 1128A (other than subsections (a) and (b)) shall 23 apply to a civil money penalty under this subsection 24 in the same manner as such provisions apply to a 25 penalty or proceeding under section 1128A(a). 177  HR 5376 EAS 1 (f) CLARIFICATION REGARDING AVAILABILITY OF 2 OTHER COVERED PART D DRUGS.Nothing in this section 3 shall prevent an applicable beneficiary from purchasing a 4 covered part D drug that is not an applicable drug (includ5 ing a generic drug or a drug that is not on the formulary 6 of the prescription drug plan or MAPD plan that the ap7 plicable beneficiary is enrolled in). 8 (g) DEFINITIONS.In this section: 9 (1) APPLICABLE BENEFICIARY.The term ap10 plicable beneficiary means an individual who, on the 11 date of dispensing a covered part D drug 12 (A) is enrolled in a prescription drug plan 13 or an MAPD plan; 14 (B) is not enrolled in a qualified retiree 15 prescription drug plan; and 16 (C) has incurred costs, as determined in 17 accordance with section 1860D2(b)(4)(C), for 18 covered part D drugs in the year that exceed the 19
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section describes a program where manufacturers provide discounted prices for applicable drugs to applicable beneficiaries. The Secretary shall not receive or distribute any funds of a manufacturer under the program. A manufacturer that fails to provide discounted prices for applicable drugs of the manufacturer dispensed to applicable beneficiaries in accordance with an agreement in effect under this section shall be subject to a civil money penalty for each such failure. The provisions of section 1128A shall apply to a civil money penalty under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1128A(a). This section does not prevent an applicable beneficiary from purchasing a covered part D drug that is not an applicable drug.

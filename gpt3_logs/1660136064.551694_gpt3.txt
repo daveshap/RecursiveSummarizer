@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+represents a therapeutic advance, prescribing information, comparative effectiveness, and unmet medical needs.  The Secretary of Health and Human Services is required to renegotiate the maximum fair price for certain drugs selected under this section, beginning in 2028. The selection process for these drugs includes all drugs for which a new indication is added, all drugs for which there is a change in status to that of an extended-monopoly drug, and all drugs for which there is a change in status to that of a long-monopoly drug.  This section of the bill establishes a process for the renegotiation of maximum fair prices for certain drugs. The process is to be consistent with the methodology and process established under subsection (b) and in accordance with subsections (c), (d), and (e). A drug for which the Secretary makes a determination described in section 1192(c)(1) before or during the period of renegotiation shall not be subject to the renegotiation process.  The Secretary of Health and Human Services must publish the maximum fair price for a selected drug at least two years prior to the initial price applicability year. The maximum fair price may be increased each year by the annual percentage increase in the consumer price index. If a drug's maximum fair price is renegotiated, the new price will apply for the first year it is in effect.  The maximum fair price for a selected drug is determined by the Secretary and published not later than 30 days after the date such maximum price is so determined. The maximum fair price is applied before any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of maximum fair price eligible individuals. The maximum fair price is also applied across different strengths and dosage forms of a selected drug and not based on the specific formulation or package size or package type of such
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill establishes a process for the renegotiation of maximum fair prices for certain drugs. The process is to be consistent with the methodology and process established under subsection (b) and in accordance with subsections (c), (d), and (e). A drug for which the Secretary makes a determination described in section 1192(c)(1) before or during the period of renegotiation shall not be subject to the renegotiation process.

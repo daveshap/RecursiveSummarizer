@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+as redesignated by subsection (a)(5)(A), is 12 amended by striking not later than the date that is 2 years 13 before the date that construction of such property begins 14 and inserting not later than the date that is 4 years before 15 the date such property is placed in service. 16 (d) EFFECTIVE DATE. 17 (1) IN GENERAL.Except as otherwise provided 18 in this subsection, the amendments made by this sec19 tion shall apply to taxable years beginning after De20 cember 31, 2022. 21 (2) ALTERNATIVE DEDUCTION FOR ENERGY EFFI22 CIENT BUILDING RETROFIT PROPERTY.Subsection 23 (f) of section 179D of the Internal Revenue Code of 24 1986 (as amended by this section), and any other 25 provision of such section solely for purposes of apply- 367  HR 5376 EAS 1 ing such subsection, shall apply to property placed in 2 service after December 31, 2022 (in taxable years end3 ing after such date) if such property is placed in serv4 ice pursuant to qualified retrofit plan (within the 5 meaning of such section) established after such date. 6 SEC. 13304. EXTENSION, INCREASE, AND MODIFICATIONS 7 OF NEW ENERGY EFFICIENT HOME CREDIT. 8 (a) EXTENSION OF CREDIT.Section 45L(g) is 9 amended by striking December 31, 2021 and inserting 10 December 31, 2032. 11 (b) INCREASE IN CREDIT AMOUNTS.Paragraph (2) 12 of section 45L(a) is amended to read as follows: 13 (2) APPLICABLE AMOUNT.For purposes of 14 paragraph (1), the applicable amount is an amount 15 equal to 16 (A) in the case of a dwelling unit which is 17 eligible to participate in the Energy Star Resi18 dential New Construction Program or the En19 ergy Star Manufactured New Homes program 20 (i) which meets the requirements of 21 subsection (c)(1)(A) (and which does not 22 meet the requirements of subsection 23 (c)(1)(B)), $2,500, and 24 (ii) which meets the requirements of 25 subsection (c)(1)(B), $5,000, and 368  HR 5376 EAS 1 (B) in the case of a dwelling unit which 2 is part of a building eligible to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Efficient Homes Credit is extended through 2032 and the credit amount is increased for certain energy efficient dwelling units.

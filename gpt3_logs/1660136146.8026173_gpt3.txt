@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+by the enrollee during the plan year.  This section amends the Social Security Act to require prescription drug plans to offer a maximum monthly cap on cost-sharing payments for enrollees who elect to receive coverage under the plan. The maximum monthly cap may be applied to any combination of covered Part D drugs.  This section of the bill delays the implementation of a rule that would have eliminated the safe harbor protection for prescription drug rebates. It also appropriates $10 million for the Centers for Medicare and Medicaid Services to carry out the provisions of the bill. Finally, it requires Medicare Part D plans to cover adult vaccines recommended by the Advisory Committee on Immunization Practices.  This amendment to the Social Security Act establishes that, for plan years beginning on or after January 1, 2023, adult vaccines recommended by the Advisory Committee on Immunization Practices will be subject to no deductible and no coinsurance or other cost-sharing under Medicare Part B.  The Social Security Act is amended to provide coverage for adult vaccines recommended by the Advisory Committee on Immunization Practices, with no cost-sharing or deductible applying. A temporary retrospective subsidy is also established for plan years beginning on or after January 1, 2023.  This section provides for the payment of subsidies to prescription drug and Medicare Advantage plan sponsors in an amount equal to the aggregate reduction in cost-sharing and deductible by reason of the application of section 1860D2(b)(8) for individuals under the plan during the year. The subsidies shall be provided not later than 18 months following the end of the applicable plan year.  This section amends the Social Security Act to temporarily increase Medicare Part B payments for certain biosimilar biological products during a 5-year period.  The Affordable Care Act expands eligibility for low-income subsidies under Part D of the Medicare program, making it easier for people to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This bill requires prescription drug plans to offer a maximum monthly cap on cost-sharing payments for enrollees who elect to receive coverage under the plan. The maximum monthly cap may be applied to any combination of covered Part D drugs. The bill also appropriates $10 million for the Centers for Medicare and Medicaid Services to carry out the provisions of the bill. Finally, it requires Medicare Part D plans to cover adult vaccines recommended by the Advisory Committee on Immunization Practices.

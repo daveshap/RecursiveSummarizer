@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+discount 9 and inserting the following: the value of 10 (i) for years prior to 2025, any dis11 count; 12 (B) in clause (i), as inserted by subpara13 graph (A) of this paragraph, by striking the pe14 riod at the end and inserting ; and; and 15 (C) by adding at the end the following new 16 clause: 17 (ii) for 2025 and each subsequent 18 year, any discount provided pursuant to 19 section 1860D14C.. 20 (6) Section 1860D41(a)(6) of the Social Secu21 rity Act (42 U.S.C. 1395w151(a)(6)) is amended 22 (A) by inserting for a year before 2025 23 after 1860D2(b)(3); and 24 (B) by inserting for such year before the 25 period. 203  HR 5376 EAS 1 (7) Section 1860D43 of the Social Security Act 2 (42 U.S.C. 1395w153) is amended 3 (A) in subsection (a) 4 (i) by striking paragraph (1) and in5 serting the following: 6 (1) participate in 7 (A) for 2011 through 2024, the Medicare 8 coverage gap discount program under section 9 1860D14A; and 10 (B) for 2025 and each subsequent year, the 11 manufacturer discount program under section 12 1860D14C;; 13 (ii) by striking paragraph (2) and in14 serting the following: 15 (2) have entered into and have in effect 16 (A) for 2011 through 2024, an agreement 17 described in subsection (b) of section 1860D14A 18 with the Secretary; and 19 (B) for 2025 and each subsequent year, an 20 agreement described in subsection (b) of section 21 1860D14C with the Secretary; and; and 22 (iii) in paragraph (3), by striking 23 such section and inserting section 24 1860D14A; and 204  HR 5376 EAS 1 (B) by striking subsection (b) and inserting 2 the following: 3 (b) EFFECTIVE DATE.Paragraphs (1)(A), (2)(A), 4 and (3) of subsection (a) shall apply to covered part D 5 drugs dispensed under this part on or after January 1, 6 2011, and before January 1, 2025, and paragraphs (1)(B) 7 and (2)(B) of such subsection shall apply to covered part 8 D drugs dispensed under this part on or after January 1, 9
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Social Security Act is amended to provide discounts for prescription drugs dispensed under Medicare Part D for years 2011 through 2025. For 2025 and each subsequent year, any discount provided pursuant to section 1860D14C of the Social Security Act will apply.

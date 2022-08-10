@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+SEC. 23001. NATIONAL FOREST SYSTEM RESTORATION AND 12 FUELS REDUCTION PROJECTS. 13 (a) APPROPRIATIONS.In addition to amounts other14 wise available, there are appropriated to the Secretary for 15 fiscal year 2022, out of any money in the Treasury not 16 otherwise appropriated, to remain available until Sep17 tember 30, 2031 18 (1) $1,800,000,000 for hazardous fuels reduction 19 projects on National Forest System land within the 20 wildland-urban interface; 21 (2) $200,000,000 for vegetation management 22 projects on National Forest System land carried out 23 in accordance with a plan developed under section 24 303(d)(1) or 304(a)(3) of the Healthy Forests Res- 560  HR 5376 EAS 1 toration Act of 2003 (16 U.S.C. 6542(d)(1) or 2 6543(a)(3)); 3 (3) $100,000,000 to provide for environmental 4 reviews by the Chief of the Forest Service in satis5 fying the obligations of the Chief of the Forest Service 6 under the National Environmental Policy Act of 1969 7 (42 U.S.C. 4321 through 4370m12); and 8 (4) $50,000,000 for the protection of old-growth 9 forests on National Forest System land and to com10 plete an inventory of old-growth forests and mature 11 forests within the National Forest System. 12 (b) RESTRICTIONS.None of the funds made available 13 by paragraph (1) or (2) of subsection (a) may be used for 14 any activity 15 (1) conducted in a wilderness area or wilderness 16 study area; 17 (2) that includes the construction of a permanent 18 road or motorized trail; 19 (3) that includes the construction of a temporary 20 road, except in the case of a temporary road that is 21 decommissioned by the Secretary not later than 3 22 years after the earlier of 23 (A) the date on which the temporary road 24 is no longer needed; and 561  HR 5376 EAS 1 (B) the date on which the project for which 2 the temporary road was constructed is completed; 3 (4) inconsistent with the applicable land man4 agement plan; 5 (5) inconsistent with the prohibitions of the rule 6 of the Forest
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section of the bill appropriates $1.8 billion for hazardous fuels reduction projects on National Forest System land within the wildland-urban interface, $200 million for vegetation management projects on National Forest System land, $100 million for environmental reviews by the Forest Service, and $50 million for the protection of old-growth forests on National Forest System land.

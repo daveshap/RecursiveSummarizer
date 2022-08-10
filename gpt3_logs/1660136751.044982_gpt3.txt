@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+covered transmission project upon approval by the siting authority or commencement of construction of the project.  This section of the bill provides financial assistance to eligible entities to prepare for activities related to reducing greenhouse gas emissions. To be eligible, entities must submit an application to the Secretary containing information on the expected emissions reductions from the project. Priority consideration will be given to projects with the greatest expected emissions reductions, those that would provide the greatest benefit to the greatest number of people, and those with eligible entities that participate in partnerships with purchasers of the output of the eligible facility.  The Energy Act of 2020 appropriates $500 million to the Department of Energy for programs related to high-assay low-enriched uranium, $100 million of which is specifically for research, development, demonstration, and commercial use. Additionally, the act provides funding for solar energy projects on water conveyance facilities managed by the Bureau of Reclamation.  This section of the bill authorizes funding for clean energy goals and drought mitigation, as well as increasing the royalty rates for offshore oil and gas development. It also amends the Outer Continental Shelf Lands Act to allow for wind lease sales in areas adjacent to Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.  -The Mineral Leasing Act is being amended to require that royalties be assessed on all gas produced from Federal land and on the outer Continental Shelf, including gas that is consumed or lost by venting, flaring, or negligent releases through any equipment during upstream operations. -There are exceptions for gas vented or flared for not longer than 48 hours in an emergency situation that poses a danger to human health, safety, or the environment; gas used or consumed within the area of the lease, unit, or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Act of 2020 appropriates $500 million to the Department of Energy for programs related to high-assay low-enriched uranium, $100 million of which is specifically for research, development, demonstration, and commercial use. Additionally, the act provides funding for solar energy projects on water conveyance facilities managed by the Bureau of Reclamation. This section of the bill authorizes funding for clean energy goals and drought mitigation, as well as increasing the royalty rates for offshore oil and gas development. It also amends the Outer Continental Shelf Lands Act to allow for wind lease sales in areas adjacent to Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.

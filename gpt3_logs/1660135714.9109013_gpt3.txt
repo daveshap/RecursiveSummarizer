@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+section 2001(a)(2) of the Energy Act of 2020 (42 11 U.S.C. 16281(a)(2)); 12 (2) $500,000,000 to carry out the program ele13 ments described in subparagraphs (D) through (H) of 14 that section; and 15 (3) $100,000,000 to carry out activities to sup16 port the availability of high-assay low-enriched ura17 nium for civilian domestic research, development, 18 demonstration, and commercial use under section 19 2001 of the Energy Act of 2020 (42 U.S.C. 16281). 20 (b) COMPETITIVE PROCEDURES.To the maximum 21 extent practicable, the Department of Energy shall, in a 22 manner consistent with section 989 of the Energy Policy 23 Act of 2005 (42 U.S.C. 16353), use a competitive, merit24 based review process in carrying out research, development, 25 demonstration, and deployment activities under section 26 2001 of the Energy Act of 2020 (42 U.S.C. 16281). 632  HR 5376 EAS 1 (c) ADMINISTRATIVE EXPENSES.The Secretary may 2 use not more than 3 percent of the amounts appropriated 3 by subsection (a) for administrative purposes. 4 Subtitle BNatural Resources 5 PART 1GENERAL PROVISIONS 6 SEC. 50211. DEFINITIONS. 7 In this subtitle: 8 (1) SECRETARY.The term Secretary means 9 the Secretary of the Interior. 10 (2) UNITED STATES INSULAR AREAS.The term 11 United States Insular Areas means American 12 Samoa, the Commonwealth of the Northern Mariana 13 Islands, Guam, the Commonwealth of Puerto Rico, 14 and the United States Virgin Islands. 15 PART 2PUBLIC LANDS 16 SEC. 50221. NATIONAL PARKS AND PUBLIC LANDS CON17 SERVATION AND RESILIENCE. 18 In addition to amounts otherwise available, there is 19 appropriated to the Secretary for fiscal year 2022, out of 20 any money in the Treasury not otherwise appropriated, 21 $250,000,000, to remain available through September 30, 22 2031, to carry out projects for the conservation, protection, 23 and resiliency of lands and resources administered by the 24 National Park Service and Bureau of Land Management. 633  HR 5376 EAS 1 None of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Act of 2020 appropriates $500 million to the Department of Energy for programs to support the availability of high-assay low-enriched uranium for civilian domestic research, development, demonstration, and commercial use, and $100 million for activities to support the availability of high-assay low-enriched uranium for civilian domestic research, development, demonstration, and commercial use.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+REBATE DEPOSITS.Amounts paid as 21 rebates under this paragraph shall be deposited 22 into 23 (i) in the case payment is made for 24 such biological product under part B of title 25 XVIII, the Federal Supplementary Medical 119  HR 5376 EAS 1 Insurance Trust Fund established under 2 section 1841; and 3 (ii) in the case such biological prod4 uct is a covered part D drug (as defined in 5 section 1860D2(e)), the Medicare Prescrip6 tion Drug Account under section 1860D16 7 in such Trust Fund. 8 (5) DEFINITIONS OF BIOSIMILAR BIOLOGICAL 9 PRODUCT.In this subsection, the term biosimilar 10 biological product has the meaning given such term 11 in section 1847A(c)(6).; 12 (2) in section 1193(a)(4) 13 (A) in the matter preceding subparagraph 14 (A), by inserting , and for section 1192(f), 15 after section 1194(f)); 16 (B) in subparagraph (A), by striking and 17 at the end; 18 (C) by adding at the end the following new 19 subparagraph: 20 (C) information that the Secretary re21 quires to carry out section 1192(f), including re22 bates under paragraph (4) of such section; and; 23 (3) in section 1196(a)(7), by striking section 24 1192(d)(2)(B) and inserting subsections (d)(2)(B) 25 and (f)(1)(C) of section 1192; 120  HR 5376 EAS 1 (4) in section 1197 2 (A) by redesignating subsections (b), (c), 3 and (d) as subsections (c), (d), and (e), respec4 tively; and 5 (B) by inserting after subsection (a) the fol6 lowing new subsection: 7 (b) VIOLATIONS RELATING TO PROVIDING RE8 BATES.Any manufacturer that fails to comply with the 9 rebate requirements under section 1192(f)(4) shall be subject 10 to a civil monetary penalty equal to 10 times the amount 11 of the rebate the manufacturer failed to pay under such sec12 tion.; and 13 (5) in section 1198(b)(2), by inserting the ap14 plication of section 1192(f), after section 1192(e). 15 (b) CONFORMING AMENDMENTS FOR DISCLOSURE OF 16 CERTAIN INFORMATION.Section 1927(b)(3)(D)(i) of the 17
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to require manufacturers of biosimilar biological products to provide rebates to Medicare and Medicaid. The rebates shall be deposited into the Federal Supplementary Medical Insurance Trust Fund or the Medicare Prescription Drug Account, depending on the product. The section also defines the term "biosimilar biological product" and makes other conforming amendments.

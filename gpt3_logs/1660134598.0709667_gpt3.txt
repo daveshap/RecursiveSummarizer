@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+following 10 new sentence: The preceding sentence shall 11 not apply to a single source drug or inno12 vator multiple source drug of a manufac13 turer for any period described in section 14 5000D(c)(1) of the Internal Revenue Code of 15 1986 with respect to the manufacturer.. 16 (H) DISCLOSURE OF INFORMATION UNDER 17 MEDICARE PART D. 18 (i) CONTRACT REQUIREMENTS.Sec19 tion 1860D12(b)(3)(D)(i) of the Social Se20 curity Act (42 U.S.C. 1395w 21 112(b)(3)(D)(i)) is amended by inserting , 22 or carrying out part E of title XI after 23 appropriate). 24 (ii) SUBSIDIES.Section 1860D 25 15(f)(2)(A)(i) of the Social Security Act (42 97  HR 5376 EAS 1 U.S.C. 1395w115(f)(2)(A)(i)) is amended 2 by inserting or part E of title XI after 3 this section. 4 (2) DRUG PRICE NEGOTIATION PROGRAM PRICES 5 INCLUDED IN BEST PRICE.Section 1927(c)(1)(C) of 6 the Social Security Act (42 U.S.C. 1396r8(c)(1)(C)) 7 is amended 8 (A) in clause (i)(VI), by striking any 9 prices charged and inserting subject to clause 10 (ii)(V), any prices charged; and 11 (B) in clause (ii) 12 (i) in subclause (III), by striking ; 13 and at the end; 14 (ii) in subclause (IV), by striking the 15 period at the end and inserting ; and; 16 and 17 (iii) by adding at the end the following 18 new subclause: 19 (V) in the case of a rebate period 20 and a covered outpatient drug that is 21 a selected drug (as referred to in sec22 tion 1192(c)) during such rebate pe23 riod, shall be inclusive of the max24 imum fair price (as defined in section 98  HR 5376 EAS 1 1191(c)(3)) for such drug with respect 2 to such period.. 3 (3) MAXIMUM FAIR PRICES EXCLUDED FROM AV4 ERAGE MANUFACTURER PRICE.Section 5 1927(k)(1)(B)(i) of the Social Security Act (42 U.S.C. 6 1396r8(k)(1)(B)(i)) is amended 7 (A) in subclause (IV) by striking ; and at 8 the end; 9 (B) in subclause (V) by striking the period 10 at the end and inserting ; and; and 11 (C) by adding at the end the following
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Social Security Act to require that drug prices charged by manufacturers during certain rebate periods be inclusive of the maximum fair price for the drug. It also excludes the maximum fair price from the average manufacturer price calculation.

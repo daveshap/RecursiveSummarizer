@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+for a dos8 age form and strength with respect to a part D 9 rebatable drug for an applicable period, subject to 10 paragraph (5), is 11 (A) the benchmark period manufacturer 12 price determined under paragraph (4) for such 13 dosage form and strength with respect to such 14 drug and period; increased by 15 (B) the percentage by which the applicable 16 period CPIU (as defined in subsection (g)(5)) 17 for the period exceeds the benchmark period 18 CPIU (as defined in subsection (g)(4)). 19 (4) DETERMINATION OF BENCHMARK PERIOD 20 MANUFACTURER PRICE.The benchmark period man21 ufacturer price determined under this paragraph for 22 a dosage form and strength, with respect to a part D 23 rebatable drug and an applicable period, is the sum 24 of the products of 150  HR 5376 EAS 1 (A) the average manufacturer price (as de2 fined in subsection (g)(6)) of such dosage form 3 and strength, as calculated for a unit of such 4 drug, with respect to each of the calendar quar5 ters of the payment amount benchmark period 6 (as defined in subsection (g)(3)); and 7 (B) the ratio of 8 (i) the total number of units reported 9 under section 1927 of such dosage form and 10 strength with respect to each such calendar 11 quarter of such payment amount benchmark 12 period; to 13 (ii) the total number of units reported 14 under section 1927 of such dosage form and 15 strength with respect to such payment 16 amount benchmark period. 17 (5) SPECIAL TREATMENT OF CERTAIN DRUGS 18 AND EXEMPTION. 19 (A) SUBSEQUENTLY APPROVED DRUGS. 20 In the case of a part D rebatable drug first ap21 proved or licensed by the Food and Drug Admin22 istration after October 1, 2021, subparagraphs 23 (A) and (B) of paragraph (4) shall be applied as 24 if the term payment amount benchmark period 25 were defined under subsection (g)(3) as the first 151  HR 5376 EAS 1 calendar year beginning after the day on which 2 the drug was first marketed and subparagraph 3 (B) of paragraph (3) shall be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The benchmark manufacturer price for a rebatable drug is determined by the average manufacturer price for the drug in the payment amount benchmark period, increased by the percentage by which the CPIU for the period exceeds the benchmark period CPIU. For drugs first approved or licensed after October 1, 2021, the payment amount benchmark period is the first calendar year after the drug is first marketed.

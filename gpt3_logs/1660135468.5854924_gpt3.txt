@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+in section 45Z(d)(5)).. 12 (3) Section 38(b), as amended by the preceding 13 provisions of this Act, is amended 14 (A) in paragraph (38), by striking plus 15 at the end, 16 (B) in paragraph (39), by striking the pe17 riod at the end and inserting , plus, and 18 (C) by adding at the end the following new 19 paragraph: 20 (40) the clean fuel production credit determined 21 under section 45Z(a).. 22 (4) The table of sections for subpart D of part 23 IV of subchapter A of chapter 1, as amended by the 24 preceding provisions of this Act, is amended by add25 ing at the end the following new item: Sec. 45Z. Clean fuel production credit.. 505  HR 5376 EAS 1 (5) Section 4101(a)(1), as amended by the pre2 ceding provisions of this Act, is amended by inserting 3 every person producing a fuel eligible for the clean 4 fuel production credit (pursuant to section 45Z), 5 after section 6426(k)(3)),. 6 (c) EFFECTIVE DATE.The amendments made by this 7 section shall apply to transportation fuel produced after De8 cember 31, 2024. 9 PART 8CREDIT MONETIZATION AND 10 APPROPRIATIONS 11 SEC. 13801. ELECTIVE PAYMENT FOR ENERGY PROPERTY 12 AND ELECTRICITY PRODUCED FROM CERTAIN 13 RENEWABLE RESOURCES, ETC. 14 (a) IN GENERAL.Subchapter B of chapter 65 is 15 amended by inserting after section 6416 the following new 16 section: 17 SEC. 6417. ELECTIVE PAYMENT OF APPLICABLE CREDITS. 18 (a) IN GENERAL.In the case of an applicable entity 19 making an election (at such time and in such manner as 20 the Secretary may provide) under this section with respect 21 to any applicable credit determined with respect to such 22 entity, such entity shall be treated as making a payment 23 against the tax imposed by subtitle A (for the taxable year 24 with respect to which such credit was determined) equal to 25 the amount of such credit. 506  HR 5376 EAS 1 (b) APPLICABLE CREDIT.The term applicable cred2 it means each of the following: 3 (1) So much of the credit for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section allows an applicable entity making an election to treat a credit as a payment against the tax imposed by subtitle A. The term applicable credit means the credit for producing electricity from certain renewable resources, the credit for energy property, and the credit for refined coal production property.

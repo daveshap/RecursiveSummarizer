@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+1 COMPANY CONFIDENTIAL INDEPENDENT CONTRACTOR AGREEMENT This Independent Contractor Agreement (the Agreement) is made and entered into as of [ ], 2022 by and between Quantified Communications, Inc., a corporation organized under the laws of Delaware (the Company), and [ ], an individual residing at [_______________________________]_(the Contractor). The Company desires to retain Contractor as an independent contractor to perform certain services for the Company and Contractor is willing to perform such services, on terms set forth more fully below. In consideration of the mutual promises contained herein, the parties agree as follows: 1. SERVICES AND COMPENSATION. Contractor agrees to perform for the Company the services (Services) described in Exhibit A attached hereto, and time is of the essence with respect to any dates or time periods specified therein. The Company agrees to pay Contractor the compensation set forth in Exhibit A for the performance of the Services. 2.
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+1. The Company wishes to retain the Contractor as an independent contractor to perform certain services for the Company. The Company will pay the Contractor the compensation set forth in Exhibit A for the performance of these services. 2. The Contractor agrees to perform the services described in Exhibit A attached to this Agreement. These services are to be performed in a timely and professional manner. 3. This Agreement is effective as of the date of execution by both parties and shall continue until all services have been completed by the Contractor. 4. This Agreement may be terminated by either party upon written notice to the other party. 5. Upon completion of the services, the Contractor will deliver to the Company all work product, documentation, and other materials related to the services performed under this Agreement. 6. The Contractor acknowledges that he or she is an independent contractor and not an employee of the Company. The Contractor will not be entitled to any benefits provided by the Company to its employees, including but not limited to health insurance, vacation pay, or sick pay. 7. The Contractor will be responsible for paying all taxes and other government-mandated fees associated with the performance of the services under this Agreement. 8. The Contractor will indemnify and hold harmless the Company from any and all claims, damages, liability, or expenses arising out of or in connection with the performance of the services under this Agreement. 9. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, whether written or oral, between the parties with respect to such subject matter. 10. This Agreement may not be amended or modified except in writing signed by both parties. 11. This Agreement shall be governed by and construed in accordance with the laws of Delaware without giving effect to any principles of conflicts of law.

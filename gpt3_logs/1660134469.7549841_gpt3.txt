@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+16 the stock of which is traded on an established se17 curities market (within the meaning of section 18 7704(b)(1)), but only with respect to taxable 19 years which include any portion of the applica20 ble period with respect to such corporation under 21 section 7874(d)(1). 22 (C) EXPATRIATED ENTITY.The term ex23 patriated entity has the meaning given such 24 term by section 7874(a)(2)(A). 25 (e) EXCEPTIONS.Subsection (a) shall not apply 35  HR 5376 EAS 1 (1) to the extent that the repurchase is part of 2 a reorganization (within the meaning of section 3 368(a)) and no gain or loss is recognized on such re4 purchase by the shareholder under chapter 1 by rea5 son of such reorganization, 6 (2) in any case in which the stock repurchased 7 is, or an amount of stock equal to the value of the 8 stock repurchased is, contributed to an employer-spon9 sored retirement plan, employee stock ownership plan, 10 or similar plan, 11 (3) in any case in which the total value of the 12 stock repurchased during the taxable year does not ex13 ceed $1,000,000, 14 (4) under regulations prescribed by the Sec15 retary, in cases in which the repurchase is by a dealer 16 in securities in the ordinary course of business, 17 (5) to repurchases by a regulated investment 18 company (as defined in section 851) or a real estate 19 investment trust, or 20 (6) to the extent that the repurchase is treated 21 as a dividend for purposes of this title. 22 (f) REGULATIONS AND GUIDANCE.The Secretary 23 shall prescribe such regulations and other guidance as are 24 necessary or appropriate to carry out, and to prevent the 36  HR 5376 EAS 1 avoidance of, the purposes of this section, including regula2 tions and other guidance 3 (1) to prevent the abuse of the exceptions pro4 vided by subsection (e), 5 (2) to address special classes of stock and pre6 ferred stock, and 7 (3) for the application of the rules under sub8 section (d).. 9 (b) TAX NOT DEDUCTIBLE.Paragraph (6) of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Subsection (a) of this section shall not apply to the extent that the repurchase is part of a reorganization (within the meaning of section 368(a)) and no gain or loss is recognized on such repurchase by the shareholder under chapter 1 by reason of such reorganization.

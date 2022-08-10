@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+with respect to any taxable year, 17 such taxpayer shall be treated as hav18 ing made such election for each of the 19 4 succeeding taxable years ending be20 fore January 1, 2033. 21 (II) EXCEPTION.A taxpayer 22 may elect to revoke the application of 23 the election made under this subpara24 graph to any taxable year described in 25 subclause (I). Any such election, if 512  HR 5376 EAS 1 made, shall apply to the applicable 2 year specified in such election and each 3 subsequent taxable year within the pe4 riod described in subclause (I). Any 5 election under this subclause may not 6 be subsequently revoked. 7 (iii) PROHIBITION ON TRANSFER. 8 For any taxable year described in clause 9 (ii)(I), no election may be made by the tax10 payer under section 6418(a) for such tax11 able year with respect to eligible components 12 for purposes of the credit described in sub13 section (b)(7). 14 (E) OTHER RULES. 15 (i) IN GENERAL.An election made 16 under subparagraph (B), (C), or (D) shall 17 be made at such time and in such manner 18 as the Secretary may provide. 19 (ii) LIMITATION.No election may be 20 made under subparagraph (B), (C), or (D) 21 with respect to any taxable year beginning 22 after December 31, 2032. 23 (2) APPLICATION.In the case of any applica24 ble entity which makes the election described in sub- 513  HR 5376 EAS 1 section (a), any applicable credit shall be deter2 mined 3 (A) without regard to paragraphs (3) and 4 (4)(A)(i) of section 50(b), and 5 (B) by treating any property with respect 6 to which such credit is determined as used in a 7 trade or business of the applicable entity. 8 (3) ELECTIONS. 9 (A) IN GENERAL. 10 (i) DUE DATE.Any election under 11 subsection (a) shall be made not later 12 than 13 (I) in the case of any govern14 ment, or political subdivision, de15 scribed in paragraph (1) and for which 16 no return is required under section 17 6011 or 6033(a), such date as is deter18 mined appropriate by the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 2005 created a tax credit for certain entities that make investments in eligible components for use in a trade or business. The credit is equal to 30% of the cost of the investment. The taxpayer may elect to apply the credit against the tax liability for the taxable year in which the investment is made, or for any of the four succeeding taxable years. The taxpayer may also revoke the election at any time.

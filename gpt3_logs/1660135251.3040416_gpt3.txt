@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+to this 14 paragraph, multiplied by 15 (ii) the phase out percentage under 16 subparagraph (B). 17 (B) PHASE OUT PERCENTAGE.The phase 18 out percentage under this subparagraph is equal 19 to 20 (i) in the case of an eligible compo21 nent sold during calendar year 2030, 75 22 percent, 23 (ii) in the case of an eligible compo24 nent sold during calendar year 2031, 50 25 percent, 427  HR 5376 EAS 1 (iii) in the case of an eligible compo2 nent sold during calendar year 2032, 25 3 percent, 4 (iv) in the case of an eligible compo5 nent sold after December 31, 2032, 0 per6 cent. 7 (C) EXCEPTION.For purposes of deter8 mining the amount under this subsection with 9 respect to any applicable critical mineral, this 10 paragraph shall not apply. 11 (4) LIMITATION ON CAPACITY OF BATTERY 12 CELLS AND BATTERY MODULES. 13 (A) IN GENERAL.For purposes of sub14 paragraph (K)(ii) or (L)(ii) of paragraph (1), 15 the capacity determined under either subpara16 graph with respect to a battery cell or battery 17 module shall not exceed a capacity-to-power 18 ratio of 100:1. 19 (B) CAPACITY-TO-POWER RATIO.For pur20 poses of this paragraph, the term capacity-to21 power ratio means, with respect to a battery cell 22 or battery module, the ratio of the capacity of 23 such cell or module to the maximum discharge 24 amount of such cell or module. 25 (c) DEFINITIONS.For purposes of this section 428  HR 5376 EAS 1 (1) ELIGIBLE COMPONENT. 2 (A) IN GENERAL.The term eligible com3 ponent means 4 (i) any solar energy component, 5 (ii) any wind energy component, 6 (iii) any inverter described in sub7 paragraphs (B) through (G) of paragraph 8 (2), 9 (iv) any qualifying battery compo10 nent, and 11 (v) any applicable critical mineral. 12 (B) APPLICATION WITH OTHER CRED13 ITS.The term eligible component shall not in14 clude any property which is produced at a facil15 ity if the basis of any property which is part of 16 such facility is taken into
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section establishes a tax credit for the production of certain renewable energy components and critical minerals. Eligible components include solar energy components, wind energy components, inverters, qualifying battery components, and applicable critical minerals. The credit is phased out over time, with the phase out percentage equal to 75 percent for components sold in 2030, 50 percent for components sold in 2031, and 25 percent for components sold in 2032. The credit is not available for any property produced at a facility if the basis of any property which is part of such facility is taken into account for any other credit.

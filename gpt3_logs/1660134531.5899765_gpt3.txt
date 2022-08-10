@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(d), access to the max12 imum fair price (including as renegotiated pursuant 13 to paragraph (2)), with respect to such a selected 14 drug, shall be provided by the manufacturer to 15 (A) maximum fair price eligible individ16 uals, who with respect to such drug are described 17 in subparagraph (A) of section 1191(c)(2), at the 18 pharmacy, mail order service, or other dispenser 19 at the point-of-sale of such drug (and shall be 20 provided by the manufacturer to the pharmacy, 21 mail order service, or other dispenser, with re22 spect to such maximum fair price eligible indi23 viduals who are dispensed such drugs), as de24 scribed in paragraph (1)(A) or (2)(A), as appli25 cable; and 65  HR 5376 EAS 1 (B) hospitals, physicians, and other pro2 viders of services and suppliers with respect to 3 maximum fair price eligible individuals who 4 with respect to such drug are described in sub5 paragraph (B) of such section and are furnished 6 or administered such drug, as described in para7 graph (1)(B) or (2)(B), as applicable; 8 (4) the manufacturer submits to the Secretary, 9 in a form and manner specified by the Secretary, for 10 the negotiation period for the price applicability pe11 riod (and, if applicable, before any period of renegoti12 ation pursuant to section 1194(f)) with respect to 13 such drug 14 (A) information on the non-Federal aver15 age manufacturer price (as defined in section 16 8126(h)(5) of title 38, United States Code) for 17 the drug for the applicable year or period; and 18 (B) information that the Secretary re19 quires to carry out the negotiation (or renegoti20 ation process) under this part; and 21 (5) the manufacturer complies with require22 ments determined by the Secretary to be necessary for 23 purposes of administering the program and moni24 toring compliance with the program. 66  HR 5376 EAS 1 (b) AGREEMENT IN EFFECT UNTIL DRUG IS NO 2 LONGER A SELECTED DRUG.An agreement entered into 3 under this section shall be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The manufacturer of a selected drug will provide access to the maximum fair price to eligible individuals and hospitals, physicians, and other providers of services and suppliers. The manufacturer will also submit information to the Secretary on the non-Federal average manufacturer price for the drug and information that the Secretary requires to carry out the negotiation process. The manufacturer will comply with requirements determined by the Secretary to be necessary for administering the program and monitoring compliance with the program.

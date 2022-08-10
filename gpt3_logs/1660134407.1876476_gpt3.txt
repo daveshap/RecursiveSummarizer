@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+statement income test 7 of subparagraph (B) for one or more taxable 8 years which 9 (i) are prior to such taxable year, and 10 (ii) end after December 31, 2021. 11 (B) AVERAGE ANNUAL ADJUSTED FINAN12 CIAL STATEMENT INCOME TEST.For purposes 13 of this subsection 14 (i) a corporation meets the average 15 annual adjusted financial statement income 16 test for a taxable year if the average annual 17 adjusted financial statement income of such 18 corporation (determined without regard to 19 section 56A(d)) for the 3-taxable-year period 20 ending with such taxable year exceeds 21 $1,000,000,000, and 22 (ii) in the case of a corporation de23 scribed in paragraph (2), such corporation 24 meets the average annual adjusted financial 4  HR 5376 EAS 1 statement income test for a taxable year 2 if 3 (I) the corporation meets the re4 quirements of clause (i) for such tax5 able year (determined after the appli6 cation of paragraph (2)), and 7 (II) the average annual adjusted 8 financial statement income of such cor9 poration (determined without regard to 10 the application of paragraph (2) and 11 without regard to section 56A(d)) for 12 the 3-taxable-year-period ending with 13 such taxable year is $100,000,000 or 14 more. 15 (C) EXCEPTION.Notwithstanding sub16 paragraph (A), the term applicable corporation 17 shall not include any corporation which other18 wise meets the requirements of subparagraph (A) 19 if 20 (i) such corporation 21 (I) has a change in ownership, 22 or 23 (II) has a specified number (to 24 be determined by the Secretary and 25 which shall, as appropriate, take into 5  HR 5376 EAS 1 account the facts and circumstances of 2 the taxpayer) of consecutive taxable 3 years, including the most recent tax4 able year, in which the corporation 5 does not meet the average annual ad6 justed financial statement income test 7 of subparagraph (B), and 8 (ii) the Secretary determines that it 9 would not be appropriate to continue to 10 treat
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill amends the tax code to exempt certain corporations from the corporate income tax if they meet the average annual adjusted financial statement income test for a three-year period ending after December 31, 2021. The bill also exempts certain corporations from the corporate income tax if they have a change in ownership or a specified number of consecutive taxable years in which they do not meet the average annual adjusted financial statement income test.

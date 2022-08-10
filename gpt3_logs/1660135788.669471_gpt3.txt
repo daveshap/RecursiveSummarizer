@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+available until Sep4 tember 30, 2031, to provide grants to States to adopt and 5 implement greenhouse gas and zero-emission standards for 6 mobile sources pursuant to section 177 of the Clean Air Act 7 (42 U.S.C. 7507). 8 (h) DEFINITION OF GREENHOUSE GAS.In this sec9 tion, the term greenhouse gas means the air pollutants 10 carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, 11 perfluorocarbons, and sulfur hexafluoride. 12 SEC. 60106. FUNDING TO ADDRESS AIR POLLUTION AT 13 SCHOOLS. 14 (a) IN GENERAL.In addition to amounts otherwise 15 available, there is appropriated to the Administrator of the 16 Environmental Protection Agency for fiscal year 2022, out 17 of any money in the Treasury not otherwise appropriated, 18 $37,500,000, to remain available until September 30, 2031, 19 for grants and other activities to monitor and reduce green20 house gas emissions and other air pollutants at schools in 21 low-income and disadvantaged communities under sub22 sections (a) through (c) of section 103 of the Clean Air Act 23 (42 U.S.C. 7403(a)(c)) and section 105 of that Act (42 24 U.S.C. 7405). 676  HR 5376 EAS 1 (b) TECHNICAL ASSISTANCE.In addition to amounts 2 otherwise available, there is appropriated to the Adminis3 trator of the Environmental Protection Agency for fiscal 4 year 2022, out of any money in the Treasury not otherwise 5 appropriated, $12,500,000, to remain available until Sep6 tember 30, 2031, for providing technical assistance to 7 schools in low-income and disadvantaged communities 8 under subsections (a) through (c) of section 103 of the Clean 9 Air Act (42 U.S.C. 7403(a)(c)) and section 105 of that 10 Act (42 U.S.C. 7405) 11 (1) to address environmental issues; 12 (2) to develop school environmental quality plans 13 that include standards for school building, design, 14 construction, and renovation; and 15 (3) to identify and mitigate ongoing air pollu16 tion hazards. 17 (c) DEFINITION OF GREENHOUSE GAS.In this sec18 tion, the term
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section provides funding to address air pollution at schools in low-income and disadvantaged communities. It appropriated $37,500,000 for grants and other activities to monitor and reduce greenhouse gas emissions and other air pollutants at schools, and $12,500,000 for technical assistance to schools in low-income and disadvantaged communities.

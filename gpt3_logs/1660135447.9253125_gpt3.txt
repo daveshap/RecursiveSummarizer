@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+after clause (vii) the following: 13 (viii) any qualified facility (as de14 fined in section 45Y(b)(1)(A)), any quali15 fied property (as defined in subsection 16 (b)(2) of section 48E) which is a qualified 17 investment (as defined in subsection (b)(1) 18 of such section), or any energy storage tech19 nology (as defined in subsection (c)(2) of 20 such section).. 21 (b) EFFECTIVE DATE.The amendments made by this 22 section shall apply to facilities and property placed in serv23 ice after December 31, 2024. 491  HR 5376 EAS 1 SEC. 13704. CLEAN FUEL PRODUCTION CREDIT. 2 (a) IN GENERAL.Subpart D of part IV of subchapter 3 A of chapter 1, as amended by the preceding provisions of 4 this Act, is amended by adding at the end the following 5 new section: 6 SEC. 45Z. CLEAN FUEL PRODUCTION CREDIT. 7 (a) AMOUNT OF CREDIT. 8 (1) IN GENERAL.For purposes of section 38, 9 the clean fuel production credit for any taxable year 10 is an amount equal to the product of 11 (A) the applicable amount per gallon (or 12 gallon equivalent) with respect to any transpor13 tation fuel which is 14 (i) produced by the taxpayer at a 15 qualified facility, and 16 (ii) sold by the taxpayer in a manner 17 described in paragraph (4) during the tax18 able year, and 19 (B) the emissions factor for such fuel (as 20 determined under subsection (b)). 21 (2) APPLICABLE AMOUNT. 22 (A) BASE AMOUNT.In the case of any 23 transportation fuel produced at a qualified facil24 ity which does not satisfy the requirements de25 scribed in subparagraph (B), the applicable 26 amount shall be 20 cents. 492  HR 5376 EAS 1 (B) ALTERNATIVE AMOUNT.In the case of 2 any transportation fuel produced at a qualified 3 facility which satisfies the requirements under 4 paragraphs (6) and (7) of subsection (f), the ap5 plicable amount shall be $1.00. 6 (3) SPECIAL RATE FOR SUSTAINABLE AVIATION 7 FUEL. 8 (A) IN GENERAL.In the case of a trans9 portation fuel which is sustainable aviation fuel,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Internal Revenue Code to provide a tax credit for the production of clean transportation fuels. The credit is equal to the applicable amount per gallon (or gallon equivalent) of fuel produced, multiplied by the emissions factor for the fuel. The applicable amount is 20 cents per gallon for most fuels, but is $1.00 per gallon for fuels produced at qualified facilities that meet certain requirements. For sustainable aviation fuels, the credit is increased to 50 cents per gallon.

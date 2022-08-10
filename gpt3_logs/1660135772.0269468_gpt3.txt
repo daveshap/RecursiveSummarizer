@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+hydrofluorocarbons, methane, nitrous oxide, 17 perfluorocarbons, and sulfur hexafluoride. 18 (3) QUALIFIED CLIMATE ACTION PLAN.The 19 term qualified climate action plan means a detailed 20 and strategic plan that 21 (A) establishes goals, implementation strat22 egies, and accounting and inventory practices to 23 reduce emissions at one or more ports of 24 (i) greenhouse gases; 666  HR 5376 EAS 1 (ii) an air pollutant that is listed 2 pursuant to section 108(a) (or any pre3 cursor to such an air pollutant); and 4 (iii) hazardous air pollutants; 5 (B) includes a strategy to collaborate with, 6 communicate with, and address potential effects 7 on low-income and disadvantaged near-port 8 communities and other stakeholders that may be 9 affected by implementation of the plan; and 10 (C) describes how an eligible recipient has 11 implemented or will implement measures to in12 crease the resilience of the one or more ports in13 volved. 14 (4) ZERO-EMISSION PORT EQUIPMENT OR 15 TECHNOLOGY.The term zero-emission port equip16 ment or technology means human-operated equip17 ment or human-maintained technology that 18 (A) produces zero emissions of any air pol19 lutant that is listed pursuant to section 108(a) 20 (or any precursor to such an air pollutant) and 21 any greenhouse gas other than water vapor; or 22 (B) captures 100 percent of the emissions 23 described in subparagraph (A) that are produced 24 by an ocean-going vessel at berth.. 667  HR 5376 EAS 1 SEC. 60103. GREENHOUSE GAS REDUCTION FUND. 2 The Clean Air Act is amended by inserting after sec3 tion 133 of such Act, as added by section 60102 of this Act, 4 the following: 5 SEC. 134. GREENHOUSE GAS REDUCTION FUND. 6 (a) APPROPRIATIONS. 7 (1) ZERO-EMISSION TECHNOLOGIES.In addi8 tion to amounts otherwise available, there is appro9 priated to the Administrator for fiscal year 2022, out 10 of any money in the Treasury not otherwise appro11 priated, $7,000,000,000, to remain
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Greenhouse Gas Reduction Fund will appropriate $7,000,000,000 annually to the Administrator for funding zero-emission technologies.

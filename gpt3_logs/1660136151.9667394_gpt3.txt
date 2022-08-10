@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+afford their prescription drugs. The new law also requires drug makers to provide rebates to Medicare and Medicaid, and requires drug companies to pay a fee to help support the cost of the program.  The Social Security Act is amended to require Medicaid coverage of adult vaccines, with no cost sharing for vaccinations.  The Social Security Act is amended to provide increased federal funding for adult vaccines and their administration, as well as to prohibit cost-sharing for such vaccines.  This section of the Social Security Act requires state child health plans or waivers to provide coverage for vaccines and their administration for adults aged 19 and older. Additionally, it requires that such coverage be provided without cost-sharing. This section takes effect one year after the date of enactment.  The bill amends the Patient Protection and Affordable Care Act to treat cost-sharing for covered insulin products as meeting the deductible and out-of-pocket requirements for plan years 2023 and 2024. For plan years 2025 and subsequent plan years, cost-sharing for covered insulin products is only required prior to an individual reaching the out-of-pocket threshold.  This section covers a drug that is approved under the Federal Food, Drug, and Cosmetic Act or licensed under the Public Health Service Act, including any covered insulin product that has been deemed to be licensed under the Public Health Service Act. The copayment amount for such a drug is $35 per month during plan years 2023 through 2025, and the lesser of $35 or 25% of the maximum fair price or negotiated price for the covered insulin product during plan year 2026 and each subsequent plan year. For a months supply of a covered insulin product dispensed during the period beginning on January 1, 2023, and ending on March 31, 2023, a PDP sponsor offering a prescription drug plan or an MA organization offering an MAPD plan shall reimburse an enrollee within 30 days for any cost-sharing paid by such enrollee
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill amends the Patient Protection and Affordable Care Act to treat cost-sharing for covered insulin products as meeting the deductible and out-of-pocket requirements for plan years 2023 and 2024. For plan years 2025 and subsequent plan years, cost-sharing for covered insulin products is only required prior to an individual reaching the out-of-pocket threshold. The copayment amount for such a drug is $35 per month during plan years 2023 through 2025, and the lesser of $35 or 25% of the maximum fair price or negotiated price for the covered insulin product during plan year 2026 and each subsequent plan year.

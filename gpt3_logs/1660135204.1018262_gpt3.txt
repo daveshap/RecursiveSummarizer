@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+REQUIREMENT.No credit shall be 7 determined under subsection (a) with respect to any vehicle 8 unless the taxpayer includes the vehicle identification num9 ber of such vehicle on the return of tax for the taxable year. 10 (f) REGULATIONS AND GUIDANCE.The Secretary 11 shall issue such regulations or other guidance as the Sec12 retary determines necessary to carry out the purposes of this 13 section, including regulations or other guidance relating to 14 determination of the incremental cost of any qualified com15 mercial clean vehicle. 16 (g) TERMINATION.No credit shall be determined 17 under this section with respect to any vehicle acquired after 18 December 31, 2032.. 19 (b) CONFORMING AMENDMENTS. 20 (1) Section 38(b), as amended by the preceding 21 provisions of this Act, is amended 22 (A) in paragraph (35), by striking plus 23 at the end, 24 (B) in paragraph (36), by striking the pe25 riod at the end and inserting , plus, and 404  HR 5376 EAS 1 (C) by adding at the end the following new 2 paragraph: 3 (37) the qualified commercial clean vehicle 4 credit determined under section 45W.. 5 (2) Section 6213(g)(2), as amended by the pre6 ceding provisions of this Act, is amended 7 (A) in subparagraph (T), by striking and 8 at the end, 9 (B) in subparagraph (U), by striking the 10 period at the end and inserting , and, and 11 (C) by inserting after subparagraph (U) the 12 following: 13 (V) an omission of a correct vehicle identi14 fication number required under section 45W(e) 15 (relating to commercial clean vehicle credit) to be 16 included on a return.. 17 (3) The table of sections for subpart D of part 18 IV of subchapter A of chapter 1, as amended by the 19 preceding provisions of this Act, is amended by add20 ing at the end the following new item: Sec. 45W. Qualified commercial clean vehicle credit.. 21 (c) EFFECTIVE DATE.The amendments made by this 22 section shall apply to vehicles acquired after December 31, 23 2022. 405
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The qualified commercial clean vehicle credit is a tax credit available for vehicles acquired after December 31, 2022. To be eligible for the credit, taxpayers must include the vehicle identification number of the vehicle on their tax return. The credit is worth a maximum of $7,500 per vehicle and is set to expire after December 31, 2032.

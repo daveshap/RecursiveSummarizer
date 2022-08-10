@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+heavy4 duty electric or fuel cell vehicles, as 5 well as 6 (aa) technologies, compo7 nents, or materials for such vehi8 cles, and 9 (bb) associated charging or 10 refueling infrastructure, 11 (VIII) hybrid vehicles with a 12 gross vehicle weight rating of not less 13 than 14,000 pounds, as well as tech14 nologies, components, or materials for 15 such vehicles, or, and 16 (J) in subclause (IX), as so redesignated, by 17 striking and at the end, and 18 (3) by striking clause (ii) and inserting the fol19 lowing: 20 (ii) which re-equips an industrial or 21 manufacturing facility with equipment de22 signed to reduce greenhouse gas emissions 23 by at least 20 percent through the installa24 tion of 419  HR 5376 EAS 1 (I) low- or zero-carbon process 2 heat systems, 3 (II) carbon capture, transport, 4 utilization and storage systems, 5 (III) energy efficiency and re6 duction in waste from industrial proc7 esses, or 8 (IV) any other industrial tech9 nology designed to reduce greenhouse 10 gas emissions, as determined by the 11 Secretary, or 12 (iii) which re-equips, expands, or es13 tablishes an industrial facility for the proc14 essing, refining, or recycling of critical ma15 terials (as defined in section 7002(a) of the 16 Energy Act of 2020 (30 U.S.C. 1606(a)).. 17 (c) CONFORMING AMENDMENT.Subparagraph (A) of 18 section 48C(c)(2) is amended to read as follows: 19 (A) which is necessary for 20 (i) the production or recycling of 21 property described in clause (i) of para22 graph (1)(A), 23 (ii) re-equipping an industrial or 24 manufacturing facility described in clause 25 (ii) of such paragraph, or 420  HR 5376 EAS 1 (iii) re-equipping, expanding, or es2 tablishing an industrial facility described 3 in clause (iii) of such paragraph,. 4 (d) DENIAL OF DOUBLE BENEFIT.48C(f), as redesig5 nated by this section, is amended by striking or 48B and 6 inserting 48B, 48E, 45Q, or 45V. 7 (e) EFFECTIVE DATE.The amendments made by this
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section amends the Internal Revenue Code to provide for a tax credit for certain heavy duty electric or fuel cell vehicles, hybrid vehicles, and associated charging or refueling infrastructure. It also amends the Code to provide for a tax credit for re-equipping an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions.

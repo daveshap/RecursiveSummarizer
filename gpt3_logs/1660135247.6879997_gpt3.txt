@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+an 9 amount equal to the product of 10 (i) $35, multiplied by 11 (ii) subject to paragraph (4), the ca12 pacity of such battery cell (expressed on a 13 kilowatt-hour basis), 14 (L) in the case of a battery module, an 15 amount equal to the product of 16 (i) $10 (or, in the case of a battery 17 module which does not use battery cells, 18 $45), multiplied by 19 (ii) subject to paragraph (4), the ca20 pacity of such battery module (expressed on 21 a kilowatt-hour basis), and 22 (M) in the case of any applicable critical 23 mineral, an amount equal to 10 percent of the 24 costs incurred by the taxpayer with respect to 25 production of such mineral. 425  HR 5376 EAS 1 (2) APPLICABLE AMOUNTS. 2 (A) WIND ENERGY COMPONENTS.For 3 purposes of paragraph (1)(F)(ii), the applicable 4 amount with respect to any wind energy compo5 nent shall be 6 (i) in the case of a blade, 2 cents, 7 (ii) in the case of a nacelle, 5 cents, 8 (iii) in the case of a tower, 3 cents, 9 and 10 (iv) in the case of an offshore wind 11 foundation 12 (I) which uses a fixed platform, 13 2 cents, or 14 (II) which uses a floating plat15 form, 4 cents. 16 (B) INVERTERS.For purposes of para17 graph (1)(I), the applicable amount with respect 18 to any inverter shall be 19 (i) in the case of a central inverter, 20 0.25 cents, 21 (ii) in the case of a utility inverter, 22 1.5 cents, 23 (iii) in the case of a commercial in24 verter, 2 cents, 426  HR 5376 EAS 1 (iv) in the case of a residential in2 verter, 6.5 cents, and 3 (v) in the case of a microinverter or 4 a distributed wind inverter, 11 cents. 5 (3) PHASE OUT. 6 (A) IN GENERAL.Subject to subpara7 graph (C), in the case of any eligible component 8 sold after December 31, 2029, the amount deter9 mined under this subsection with respect to such 10 component shall be equal to the product of 11 (i) the amount determined under 12 paragraph (1) with respect to such compo13 nent, as determined without regard
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Improvement and Extension Act of 2008 provides for a tax credit for certain renewable energy components, including wind energy components, inverters, and battery cells and modules. The credit is phased out after December 31, 2029.

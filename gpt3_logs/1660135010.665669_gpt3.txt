@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+(i) subject to subparagraph (B) of 22 paragraph (3), the taxpayer satisfies the re23 quirements under subparagraph (A) of such 24 paragraph with respect to such equipment, 25 and 300  HR 5376 EAS 1 (ii) the taxpayer satisfies the require2 ments under paragraph (4) with respect to 3 the construction of such equipment, or 4 (C) the construction of carbon capture 5 equipment begins prior to the date that is 60 6 days after the Secretary publishes guidance with 7 respect to the requirements of paragraphs (3)(A) 8 and (4), and such equipment is installed at a 9 qualified facility the construction of which begins 10 prior to such date. 11 (3) PREVAILING WAGE REQUIREMENTS. 12 (A) IN GENERAL.The requirements de13 scribed in this subparagraph with respect to any 14 qualified facility and any carbon capture equip15 ment placed in service at such facility are that 16 the taxpayer shall ensure that any laborers and 17 mechanics employed by the taxpayer or any con18 tractor or subcontractor in 19 (i) the construction of such facility or 20 equipment, and 21 (ii) with respect to any taxable year, 22 for any portion of such taxable year which 23 is within the period described in paragraph 24 (3)(A) or (4)(A) of subsection (a), the alter- 301  HR 5376 EAS 1 ation or repair of such facility or such 2 equipment, 3 shall be paid wages at rates not less than the 4 prevailing rates for construction, alteration, or 5 repair of a similar character in the locality in 6 which such facility and equipment are located as 7 most recently determined by the Secretary of 8 Labor, in accordance with subchapter IV of 9 chapter 31 of title 40, United States Code. For 10 purposes of determining an increased credit 11 amount under paragraph (1) for a taxable year, 12 the requirement under clause (ii) of this sub13 paragraph is applied to such taxable year in 14 which the alteration or repair of qualified facil15 ity occurs. 16 (B) CORRECTION AND PENALTY RELATED 17 TO FAILURE TO
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act imposes a penalty on taxpayers who fail to ensure that laborers and mechanics employed in the construction of qualified carbon capture equipment are paid prevailing wages.

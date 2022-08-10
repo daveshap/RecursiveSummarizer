@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+any applicable rules promulgated by the 15 Secretary of Transportation, the vehicle is 16 not assigned such a number, 17 (iii) the battery capacity of the vehi18 cle, 19 (iv) verification that original use of 20 the vehicle commences with the taxpayer, 21 and 22 (v) the maximum credit under this 23 section allowable to the taxpayer with re24 spect to the vehicle., 25 (C) in paragraph (3) 376  HR 5376 EAS 1 (i) in the heading, by striking MANU2 FACTURER and inserting QUALIFIED 3 MANUFACTURER, 4 (ii) by striking The term manufac5 turer has the meaning given such term in 6 and inserting The term qualified manu7 facturer means any manufacturer (within 8 the meaning of the, and 9 (iii) by inserting ) which enters into 10 a written agreement with the Secretary 11 under which such manufacturer agrees to 12 make periodic written reports to the Sec13 retary (at such times and in such manner 14 as the Secretary may provide) providing ve15 hicle identification numbers and such other 16 information related to each vehicle manu17 factured by such manufacturer as the Sec18 retary may require before the period at the 19 end, and 20 (D) by adding at the end the following: 21 (6) NEW QUALIFIED FUEL CELL MOTOR VEHI22 CLE.For purposes of this section, the term new 23 clean vehicle shall include any new qualified fuel cell 24 motor vehicle (as defined in section 30B(b)(3)) which 377  HR 5376 EAS 1 meets the requirements under subparagraphs (G) and 2 (H) of paragraph (1).. 3 (2) CONFORMING AMENDMENTS.Section 30D is 4 amended 5 (A) in subsection (a), by striking new 6 qualified plug-in electric drive motor vehicle 7 and inserting new clean vehicle, and 8 (B) in subsection (b)(1), by striking new 9 qualified plug-in electric drive motor vehicle 10 and inserting new clean vehicle. 11 (d) ELIMINATION OF LIMITATION ON NUMBER OF VE12 HICLES ELIGIBLE FOR CREDIT.Section 30D is amended 13 by striking subsection (e). 14 (e) CRITICAL
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Tax Cuts and Jobs Act amends the Internal Revenue Code to provide a tax credit for new clean vehicles, including electric vehicles and fuel cell vehicles. The credit is available for vehicles purchased after December 31, 2017 and is capped at $7,500. The credit is phased out for each manufacturer after 200,000 qualifying vehicles are sold.

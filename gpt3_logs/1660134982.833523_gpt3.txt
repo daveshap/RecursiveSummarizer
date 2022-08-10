@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+12 (II) is part of a qualified low-in13 come residential building project or a 14 qualified low-income economic benefit 15 project. 16 (B) QUALIFIED LOW-INCOME RESIDENTIAL 17 BUILDING PROJECT.A facility shall be treated 18 as part of a qualified low-income residential 19 building project if 20 (i) such facility is installed on a resi21 dential rental building which participates 22 in a covered housing program (as defined in 23 section 41411(a) of the Violence Against 24 Women Act of 1994 (34 U.S.C. 25 12491(a)(3)), a housing assistance program 287  HR 5376 EAS 1 administered by the Department of Agri2 culture under title V of the Housing Act of 3 1949, a housing program administered by a 4 tribally designated housing entity (as de5 fined in section 4(22) of the Native Amer6 ican Housing Assistance and Self-Deter7 mination Act of 1996 (25 U.S.C. 4103(22))) 8 or such other affordable housing programs 9 as the Secretary may provide, and 10 (ii) the financial benefits of the elec11 tricity produced by such facility are allo12 cated equitably among the occupants of the 13 dwelling units of such building. 14 (C) QUALIFIED LOW-INCOME ECONOMIC 15 BENEFIT PROJECT.A facility shall be treated 16 as part of a qualified low-income economic ben17 efit project if at least 50 percent of the financial 18 benefits of the electricity produced by such facil19 ity are provided to households with income of 20 (i) less than 200 percent of the pov21 erty line (as defined in section 22 36B(d)(3)(A)) applicable to a family of the 23 size involved, or 288  HR 5376 EAS 1 (ii) less than 80 percent of area me2 dian gross income (as determined under sec3 tion 142(d)(2)(B)). 4 (D) FINANCIAL BENEFIT.For purposes of 5 subparagraphs (B) and (C), electricity acquired 6 at a below-market rate shall not fail to be taken 7 into account as a financial benefit. 8 (3) ELIGIBLE PROPERTY.For purposes of this 9 section, the term eligible property means energy 10 property which 11
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Energy Policy Act of 2005 provides a tax credit for certain qualified low-income residential and economic benefit projects. To be eligible, the project must be part of a qualified low-income residential building project or a qualified low-income economic benefit project, and at least 50% of the financial benefits of the electricity produced by the facility must be provided to households with income below 200% of the poverty line or 80% of area median gross income.

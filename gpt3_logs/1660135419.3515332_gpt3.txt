@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+respect to 23 any qualified facility for any taxable year shall not 24 include that portion of the basis of any property 478  HR 5376 EAS 1 which is attributable to qualified rehabilitation ex2 penditures (as defined in section 47(c)(2)). 3 (6) DEFINITIONS.For purposes of this sub4 section, the terms CO2e per KWh and greenhouse 5 gas emissions rate have the same meaning given such 6 terms under section 45Y. 7 (c) QUALIFIED INVESTMENT WITH RESPECT TO EN8 ERGY STORAGE TECHNOLOGY. 9 (1) QUALIFIED INVESTMENT.For purposes of 10 subsection (a), the qualified investment with respect 11 to energy storage technology for any taxable year is 12 the basis of any energy storage technology placed in 13 service by the taxpayer during such taxable year. 14 (2) ENERGY STORAGE TECHNOLOGY.For pur15 poses of this section, the term energy storage tech16 nology has the meaning given such term in section 17 48(c)(6) (except that subparagraph (D) of such sec18 tion shall not apply). 19 (d) SPECIAL RULES. 20 (1) CERTAIN PROGRESS EXPENDITURE RULES 21 MADE APPLICABLE.Rules similar to the rules of sub22 sections (c)(4) and (d) of section 46 (as in effect on 23 the day before the date of the enactment of the Rev24 enue Reconciliation Act of 1990) shall apply for pur25 poses of subsection (a). 479  HR 5376 EAS 1 (2) SPECIAL RULE FOR PROPERTY FINANCED BY 2 SUBSIDIZED ENERGY FINANCING OR PRIVATE ACTIVITY 3 BONDS.Rules similar to the rules of section 45(b)(3) 4 shall apply. 5 (3) PREVAILING WAGE REQUIREMENTS.Rules 6 similar to the rules of section 48(a)(10) shall apply. 7 (4) APPRENTICESHIP REQUIREMENTS.Rules 8 similar to the rules of section 45(b)(8) shall apply. 9 (5) DOMESTIC CONTENT REQUIREMENT FOR 10 ELECTIVE PAYMENT.In the case of a taxpayer mak11 ing an election under section 6417 with respect to a 12 credit under this section, rules similar to the rules of 13 section 45Y(g)(12) shall apply. 14 (e) CREDIT PHASE-OUT. 15 (1) IN GENERAL.The amount of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This section allows for a credit with respect to qualified investments in certain energy property. The credit is equal to the lesser of $50,000 or 30% of the basis of the property. The credit is phased out for property placed in service after December 31, 2016.

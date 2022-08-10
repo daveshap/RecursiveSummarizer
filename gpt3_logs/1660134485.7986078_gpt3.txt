@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+applicability year means a year 11 (beginning with 2026). 12 (2) PRICE APPLICABILITY PERIOD.The term 13 price applicability period means, with respect to a 14 qualifying single source drug, the period beginning 15 with the first initial price applicability year with re16 spect to which such drug is a selected drug and end17 ing with the last year during which the drug is a se18 lected drug. 19 (3) SELECTED DRUG PUBLICATION DATE.The 20 term selected drug publication date means, with re21 spect to each initial price applicability year, Feb22 ruary 1 of the year that begins 2 years prior to such 23 year. 24 (4) NEGOTIATION PERIOD.The term negotia25 tion period means, with respect to an initial price 44  HR 5376 EAS 1 applicability year with respect to a selected drug, the 2 period 3 (A) beginning on the sooner of 4 (i) the date on which the manufac5 turer of the drug and the Secretary enter 6 into an agreement under section 1193 with 7 respect to such drug; or 8 (ii) February 28 following the selected 9 drug publication date with respect to such 10 selected drug; and 11 (B) ending on November 1 of the year that 12 begins 2 years prior to the initial price applica13 bility year. 14 (c) OTHER DEFINITIONS.For purposes of this part: 15 (1) MANUFACTURER.The term manufacturer 16 has the meaning given that term in section 17 1847A(c)(6)(A). 18 (2) MAXIMUM FAIR PRICE ELIGIBLE INDI19 VIDUAL.The term maximum fair price eligible in20 dividual means, with respect to a selected drug 21 (A) in the case such drug is dispensed to 22 the individual at a pharmacy, by a mail order 23 service, or by another dispenser, an individual 24 who is enrolled in a prescription drug plan 25 under part D of title XVIII or an MAPD plan 45  HR 5376 EAS 1 under part C of such title if coverage is provided 2 under such plan for such selected drug; and 3 (B) in the case such drug is furnished or 4 administered to the individual by a hospital, 5 physician, or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The "applicability year" is the year in which a selected drug is first subject to the maximum fair price. The "price applicability period" is the period during which the drug is a selected drug. The "selected drug publication date" is the date on which the drug is first identified as a selected drug. The "negotiation period" is the period during which the manufacturer of the drug and the Secretary of Health and Human Services negotiate the maximum fair price for the drug.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+The Senate has passed a bill that would amend the Internal Revenue Code to provide for corporate tax reform. The bill would impose a new corporate alternative minimum tax, and would exempt certain corporations from the tax. The bill would also allow for a corporate AMT foreign tax credit.  This section of the bill deals with the treatment of foreign corporations for the purposes of the repurchase of stock by a covered corporation. It amends section 10 275(a) of the Internal Revenue Code to insert 37, before 41. It also amends the table of chapters for subtitle D by inserting a new item after the item relating to chapter 36, to create chapter 37, which deals with the repurchase of corporate stock. This section applies to repurchases of stock after December 31, 2022. This section of the bill establishes a new program to negotiate drug prices on behalf of Medicare Part B and D enrollees, and sets the maximum fair price for a selected drug at the price negotiated by the program. The program will be implemented in 2026. This section of the bill establishes exceptions for small biotech drugs from the definition of "negotiation-eligible drug."  This section of the bill requires manufacturers to provide access to maximum fair prices for drugs to certain eligible individuals and entities during the price applicability period. The manufacturer of a selected drug will provide access to the maximum fair price to eligible individuals and hospitals, physicians, and other providers of services and suppliers. The manufacturer will also submit information to the Secretary on the non-Federal average manufacturer price for the drug and information that the Secretary requires to carry out the negotiation process.  This section of the Social Security Act establishes a process for the renegotiation of maximum fair prices for certain drugs. A drug for which the Secretary makes a determination described in section 1192(c)(1) before or during the period of renegotiation shall not be subject
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Senate has passed a bill that would amend the Internal Revenue Code to provide for corporate tax reform. The bill would impose a new corporate alternative minimum tax, and would exempt certain corporations from the tax. The bill would also allow for a corporate AMT foreign tax credit. This section of the bill deals with the treatment of foreign corporations for the purposes of the repurchase of stock by a covered corporation. The bill establishes a new program to negotiate drug prices on behalf of Medicare Part B and D enrollees, and sets the maximum fair price for a selected drug at the price negotiated by the program. This section of the bill establishes exceptions for small biotech drugs from the definition of "negotiation-eligible drug." This section of the bill requires manufacturers to provide access to maximum fair prices for drugs to certain eligible individuals and entities during the price applicability period.

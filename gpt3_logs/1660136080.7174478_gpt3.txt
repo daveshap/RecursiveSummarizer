@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+selected drug publication date of such list with respect to the initial price applicability year that is 2 years after the initial price applicability year for which such biological product would have been included as a selected drug on such list but for this subsection. If, during the time period between the selected drug publication date of the list for which the biological product would have been included as a selected drug but for this subsection and the selected drug publication date with respect to the initial price applicability year that is 2 years after the initial price applicability year for which such biological product would have been included as a selected drug on such list but for this subsection, the Secretary determines that such biosimilar biological product has not been licensed and marketed, the Secretary shall include such biological product as a selected drug on such list with respect to the initial price applicability year that is 2 years after the initial price applicability year for which such biological product would have been included as a selected drug on such list.  The Secretary of Health and Human Services is authorized to delay the inclusion of a biological product on the list of selected drugs published under subsection (a) for no more than two years. In no case may the Secretary delay the inclusion of a biological product on the list published under subsection (a) if more than one year has elapsed since the biosimilar biological product has been licensed under section 351(k) of the Public Health Service Act and marketing has not commenced for such biosimilar biological product.  This section describes a delay in the inclusion of a biosimilar biological product on the list under subsection (a) if the Secretary finds there is a high likelihood that the biosimilar biological product will be marketed within the time period specified under paragraph (1)(A) or (2)(B)(i)(I). The manufacturer of the biosimilar biological product shall be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Secretary of Health and Human Services is authorized to delay the inclusion of a biological product on the list of selected drugs published under subsection (a) for no more than two years. In no case may the Secretary delay the inclusion of a biological product on the list published under subsection (a) if more than one year has elapsed since the biosimilar biological product has been licensed under section 351(k) of the Public Health Service Act and marketing has not commenced for such biosimilar biological product.
